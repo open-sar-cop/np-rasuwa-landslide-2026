@@ -1,24 +1,185 @@
 {
-  "snap": "2026-08-28T08:50:00Z",
-  "kpi": {"cn": {"dead": 3, "missing": 558, "rescued": 2}, "np": {"dead": 469, "missing": 977, "rescued": 1976}},
+  "snap": "2026-08-28T13:50:00Z",
+  "kpi": {
+    "cn": {"dead": 5, "missing": 558, "rescued": 2},
+    "np": {"dead": 469, "missing": 977, "rescued": 1976}
+  },
   "roads": [
-    {"id": "gate", "status": "closed", "lat": 28.2797, "lng": 85.3777, "name": {"zh": "国门方向", "en": "Port gate", "ne": "सीमा द्वार", "hi": "सीमा द्वार"}, "detail": {"zh": "双向封闭", "en": "Closed both ways", "ne": "द्विदिश बन्द", "hi": "दोनों ओर बंद"}},
-    {"id": "g216", "status": "limited", "lat": 28.3, "lng": 85.368, "name": {"zh": "G216 抢通段", "en": "G216 cleared", "ne": "G216", "hi": "G216"}, "detail": {"zh": "约800m", "en": "~800 m", "ne": "~800m", "hi": "~800m"}},
-    {"id": "bridge", "status": "destroyed", "lat": 28.278, "lng": 85.377, "name": {"zh": "热索桥 / 友谊桥", "en": "Friendship Bridge", "ne": "मित्रता पुल", "hi": "मैत्री पुल"}, "detail": {"zh": "损毁", "en": "Destroyed", "ne": "भत्किए", "hi": "नष्ट"}}
+    {
+      "id": "gate",
+      "status": "closed",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "name": {"zh": "口岸 / 国门", "en": "Port gate", "ne": "सीमा द्वार", "hi": "सीमा द्वार"},
+      "detail": {"zh": "双向封闭", "en": "Closed both ways", "ne": "दुवैतर्फ बन्द", "hi": "दोनों ओर बंद"}
+    },
+    {
+      "id": "g216",
+      "status": "limited",
+      "lat": 28.3,
+      "lng": 85.368,
+      "name": {"zh": "G216", "en": "G216", "ne": "G216", "hi": "G216"},
+      "detail": {"zh": "抢通约 800m（截至 27日 18:00）", "en": "~800 m cleared as of 27 Aug 18:00", "ne": "करिब 800 मी खोलिएको", "hi": "~800m"}
+    },
+    {
+      "id": "bridge",
+      "status": "destroyed",
+      "lat": 28.278,
+      "lng": 85.377,
+      "name": {"zh": "热索桥 / 友谊桥", "en": "Friendship Bridge", "ne": "मैत्री पुल", "hi": "मैत्री पुल"},
+      "detail": {"zh": "损毁", "en": "Destroyed", "ne": "नष्ट", "hi": "नष्ट"}
+    }
   ],
   "forces": [
-    {"id": "fire", "status": "staging", "lat": 28.39, "lng": 85.325, "name": {"zh": "消防 681 / 113车", "en": "Fire 681 / 113 vehicles", "ne": "दमकल 681", "hi": "फायर 681"}, "detail": {"zh": "吉隆镇已齐", "en": "Staged in town", "ne": "सहरमा", "hi": "नगर में"}},
-    {"id": "fwd", "status": "limited", "lat": 28.318, "lng": 85.36, "name": {"zh": "前突 17人+无人机", "en": "Forward 17 + drones", "ne": "अग्रिम 17", "hi": "अग्रिम 17"}, "detail": {"zh": "距国门约5km", "en": "~5 km from gate", "ne": "~5km", "hi": "~5km"}}
+    {
+      "id": "fire",
+      "status": "staging",
+      "lat": 28.39,
+      "lng": 85.325,
+      "name": {"zh": "消防 681", "en": "Firefighters 681", "ne": "दमकल 681", "hi": "फायर 681"},
+      "detail": {"zh": "吉隆镇集结（报道位置）", "en": "Staged in township (reported)", "ne": "बजार क्षेत्रमा", "hi": "नगर में"}
+    },
+    {
+      "id": "fwd",
+      "status": "limited",
+      "lat": 28.318,
+      "lng": 85.36,
+      "geo": "place",
+      "name": {"zh": "前突 17", "en": "Forward team 17", "ne": "अग्रिम 17", "hi": "अग्रिम 17"},
+      "detail": {"zh": "距国门约 5km（报道位置，非实时GPS）", "en": "~5 km from gate (reported, not live GPS)", "ne": "द्वारबाट करिब 5 किमि", "hi": "~5km"}
+    }
   ],
   "sites": [
-    {"id": "resuo", "status": "done", "lat": 28.282, "lng": 85.374, "name": {"zh": "热索村 2人", "en": "2 at Resuo", "ne": "रेश्वो 2", "hi": "रेसुओ 2"}, "detail": {"zh": "已救出", "en": "Rescued", "ne": "उद्धार", "hi": "बचाव"}},
-    {"id": "tourists", "status": "done", "lat": 28.39, "lng": 85.325, "name": {"zh": "滞留游客 555", "en": "555 tourists", "ne": "555 पर्यटक", "hi": "555 पर्यटक"}, "detail": {"zh": "已转移", "en": "Moved", "ne": "सारिए", "hi": "स्थानांतरित"}}
+    {
+      "id": "resuo",
+      "kind": "rescue",
+      "status": "done",
+      "lat": 28.282,
+      "lng": 85.374,
+      "name": {"zh": "热索 2", "en": "Resuo 2", "ne": "रेसुओ 2", "hi": "रेसुओ 2"},
+      "detail": {"zh": "已救出", "en": "Rescued", "ne": "उद्धार", "hi": "बचाव"}
+    },
+    {
+      "id": "tourists",
+      "kind": "shelter",
+      "status": "done",
+      "lat": 28.39,
+      "lng": 85.325,
+      "name": {"zh": "555 名游客", "en": "555 tourists", "ne": "555 पर्यटक", "hi": "555 पर्यटक"},
+      "detail": {"zh": "已转移", "en": "Relocated", "ne": "स्थानान्तरण", "hi": "स्थानांतरित"}
+    }
   ],
-  "hydro": {"lat": 28.293, "lng": 85.392, "status": {"zh": "上游约2.5km · 已漫溢", "en": "~2.5 km upstream · overtopping", "ne": "2.5km overflow", "hi": "2.5km overflow"}},
+  "hydro": {
+    "lat": 28.293,
+    "lng": 85.392,
+    "status": {
+      "zh": "上游约 2.5km · 曾漫溢 · 28日有报道称风险减小",
+      "en": "~2.5 km upstream · had been overtopping · risk reported lower on 28 Aug",
+      "ne": "माथि 2.5 किमि · अगाडि ओवरफ्लो · 28 गते जोखिम घटेको भनिएको भनाइयो",
+      "hi": "2.5km overflow; risk lower 28 Aug"
+    }
+  },
   "published": [
-    {"id": "o1", "src": "official", "t": "2026-08-27T08:00:00+08:00", "lat": 28.2797, "lng": 85.3777, "geo": "place",
-      "title": {"zh": "中方 2救 / 3遇难 / 558失联", "en": "CN 2 rescued / 3 dead / 558 missing", "ne": "CN 2/3/558", "hi": "CN 2/3/558"},
-      "body": {"zh": "热索村救出2人。", "en": "2 rescued at Resuo.", "ne": "2 उद्धार।", "hi": "2 बचाव।"}}
+    {
+      "id": "cn-2026-08-28-1500",
+      "src": "official",
+      "t": "2026-08-28T15:00:00+08:00",
+      "link": "http://www.81.cn/ss_208539/16481923.html",
+      "img": null,
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "title": {
+        "zh": "中方截至 28日 15:00：5 遇难 / 558 失联 / 热索 2 人救出",
+        "en": "China as of 28 Aug 15:00: 5 dead / 558 missing / 2 rescued at Resuo",
+        "ne": "चीन: 5 मृत्यु / 558 बेपत्ता / रेसुओमा 2 उद्धार",
+        "hi": "चीन: 5 मृत / 558 लापता / रेसुओ 2 उद्धार"
+      },
+      "body": {
+        "zh": "西藏自治区应急管理厅，新华社转述。失联中外籍 260 人。",
+        "en": "Tibet EMA via Xinhua. 260 of the missing are foreign nationals.",
+        "ne": "तिब्बत उद्धार प्राधिकरण / शिनहुा। बेपत्तामा 260 विदेशी।",
+        "hi": "तिब्बत उद्धार विभाग / सिन्हुआ। लापता में 260 विदेशी।"
+      }
+    },
+    {
+      "id": "np-police-2026-08-28-0700",
+      "src": "official",
+      "t": "2026-08-28T07:00:00+05:45",
+      "link": "",
+      "img": null,
+      "geo": "corridor",
+      "lat": 27.7,
+      "lng": 84.4,
+      "title": {
+        "zh": "尼泊尔警方：已发现 469 具遗体",
+        "en": "Nepal Police: 469 bodies recovered",
+        "ne": "नेपाल प्रहरी: 469 शव",
+        "hi": "नेपाल पुलिस: 469 शव"
+      },
+      "body": {
+        "zh": "多县河岸检索，不尽是口岸核心区。",
+        "en": "Recovered across multiple downstream districts, not only the port core.",
+        "ne": "तल्लो टटीय जिल्लाबाट भेटिएका शव।",
+        "hi": "नीचले जिलों से शव।"
+      }
+    },
+    {
+      "id": "ndrrma-6",
+      "src": "official",
+      "t": "2026-08-27T18:20:00+05:45",
+      "link": "",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 第6报：977 失联 / 直升机救出 1976 / 部署 13295",
+        "en": "NDRRMA report #6: 977 missing / 1976 heli-rescued / 13295 deployed",
+        "ne": "NDRRMA #6: 977 बेपत्ता / 1976 हेलि उद्धार / 13295 जनशक्ति",
+        "hi": "NDRRMA #6: 977 लापता / 1976 हेली उद्धार"
+      },
+      "body": {
+        "zh": "不要和中方 558 失联直接相加，两套口径。",
+        "en": "Do not add to China 558 missing. Separate tallies.",
+        "ne": "चीनको 558 सङै जोड्नु हुँदैन।",
+        "hi": "चीन की 558 से न जोड़ें।"
+      }
+    },
+    {
+      "id": "g216-800m",
+      "src": "official",
+      "t": "2026-08-27T18:00:00+08:00",
+      "link": "",
+      "img": null,
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "corridor",
+      "title": {
+        "zh": "G216 受灾路段抢通约 800m；国门仍封闭",
+        "en": "G216 ~800 m cleared; gate still closed",
+        "ne": "G216 करिब 800 मी; द्वार बन्द",
+        "hi": "G216 ~800m; द्वार बंद"
+      },
+      "body": {
+        "zh": "中方交通部门 / 应急管理系统。",
+        "en": "China transport / EMA briefings.",
+        "ne": "चीन यातायात संक्षिप्त ब्रिफिङ।",
+        "hi": "चीन यातायात ब्रीफिंग।"
+      }
+    }
   ],
-  "xPosts": []
+  "xPosts": [
+    {
+      "id": "2093283999741509772",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-08-28T10:26:11Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2093283999741509772",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：某路段已恢复四轮小车，Rasuwa 重新连上路网。",
+        "en": "NDRRMA: a road section reopened to small 4-wheelers; Rasuwa rejoined the road network.",
+        "ne": "NDRRMA: धुन्चे जोड्ने सडकखण्ड सुचारु; रसुवा सडक सञ्जालसँग जोडिएको।",
+        "hi": "NDRRMA: सड़क का एक हिस्सा खुला; रसुवा जुड़ गया।"
+      }
+    }
+  ]
 }
