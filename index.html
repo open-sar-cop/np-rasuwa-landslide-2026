@@ -1,93 +1,187 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Gyirong / Rasuwa COP</title>
-<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css"/>
-<style>
-:root{--bg:#070b10;--p:#0d141d;--ln:#243044;--tx:#dce6f2;--dim:#8b9bb0;--gold:#d7b15a}
-*{box-sizing:border-box}html,body{margin:0;height:100%;background:var(--bg);color:var(--tx);font-family:"Noto Sans SC",sans-serif;overflow:hidden}
-.app{display:grid;grid-template-rows:52px 1fr 64px;height:100%}
-header{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:0 12px;border-bottom:1px solid var(--ln);background:#0d141d}
-header b{color:var(--gold);font-size:13px}.tag{font-size:11px;color:#ffb4b4;border:1px solid #6a3030;padding:2px 7px}
-.kpi{font-size:12px;color:var(--dim)}.kpi strong{color:#fff}
-.lang button,.tabs button,button,input,textarea{background:#162131;color:var(--tx);border:1px solid #2c3d55;border-radius:4px;padding:5px 8px;font-size:12px;cursor:pointer}
-.lang,.tabs,.phases{display:flex;gap:4px;flex-wrap:wrap}
-.lang button.on,.tabs button.on,.phases button.on{color:var(--gold);border-color:var(--gold);background:#3a2a10}
-.main{display:grid;grid-template-columns:300px 1fr 300px;min-height:0}
-.col{overflow:auto;background:var(--p)}.left{border-right:1px solid var(--ln)}.right{border-left:1px solid var(--ln);padding:8px}
-#map{position:relative;min-width:0}h3{margin:10px 10px 6px;font-size:11px;color:var(--gold)}
-.card,.sec{margin:8px 10px;padding:8px;border:1px solid var(--ln);border-radius:6px;background:#0a1119}.right .sec{margin:0 0 8px}
-.meta{font-size:11px;color:var(--dim)}.t{font-size:13px;margin:4px 0}
-.src.off{background:#1a2a18;color:#8fe0a8;font-size:10px;padding:1px 6px}
-label.row,.pt{display:flex;justify-content:space-between;gap:8px;font-size:12px;padding:3px 0}
-.st{font-size:10px;padding:1px 6px}.st.g{background:#143322;color:#7ee0a6}.st.a{background:#32280e;color:#f0c36a}.st.r{background:#3a1515;color:#ff9a9a}
-.grid2{display:grid;grid-template-columns:1fr 1fr;gap:6px}
-.legend{position:absolute;left:10px;bottom:40px;z-index:4;background:rgba(10,16,24,.9);border:1px solid var(--ln);padding:7px 9px;font-size:11px}
-footer{border-top:1px solid var(--ln);display:flex;align-items:center;justify-content:space-between;padding:8px 12px}
-input,textarea{width:100%}button.pri{background:#3a2a10;border-color:#8a6a2a;color:var(--gold)}.warn{font-size:11px;color:#ffb4b4}
-</style></head><body>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>吉隆泥石流救援 · 前方指挥部态势大盘</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+  <style>
+    :root { --bg:#070b10; --panel:#0d141d; --stroke:#243044; --text:#dce6f2; --dim:#8b9bb0; --gold:#d7b15a; --red:#e25757; --amber:#e0a14a; --green:#3dbe7a; --cyan:#3ec2d6; }
+    * { box-sizing: border-box; }
+    html, body { margin:0; height:100%; background:var(--bg); color:var(--text); font-family:"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif; overflow:hidden; }
+    .app { display:grid; grid-template-rows:56px 1fr 120px; height:100%; }
+    header { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:0 14px; border-bottom:1px solid var(--stroke); background:linear-gradient(#121a24,#0b1118); }
+    .brand { display:flex; align-items:center; gap:8px; font-weight:700; letter-spacing:.08em; }
+    .brand b { color:var(--gold); font-size:13px; }
+    .brand span { font-size:12px; color:var(--dim); font-weight:500; letter-spacing:0; }
+    .badge { font-size:11px; padding:3px 8px; border:1px solid #8a3a3a; color:#ffb4b4; background:#2a1010; border-radius:3px; }
+    .clock { font-variant-numeric:tabular-nums; font-size:12px; color:#cfe0f5; }
+    .topline { display:flex; gap:14px; font-size:12px; color:var(--dim); }
+    .topline strong { color:#fff; }
+    .main { display:grid; grid-template-columns:268px 1fr 340px; min-height:0; }
+    aside, .side { background:var(--panel); overflow:auto; }
+    aside { border-right:1px solid var(--stroke); padding:10px; }
+    .side { border-left:1px solid var(--stroke); padding:10px; }
+    #map { position:relative; min-width:0; }
+    h3 { margin:12px 0 8px; font-size:11px; letter-spacing:.12em; color:var(--gold); }
+    .sec { border:1px solid var(--stroke); border-radius:6px; padding:8px; margin-bottom:8px; background:#0a1119; }
+    label.row, .row { display:flex; align-items:center; justify-content:space-between; gap:8px; font-size:12px; padding:3px 0; color:#c5d2e3; }
+    button, select { background:#162131; color:var(--text); border:1px solid #2c3d55; border-radius:4px; padding:6px 8px; font-size:12px; cursor:pointer; }
+    button.pri { background:#3a2a10; border-color:#8a6a2a; color:var(--gold); }
+    button.danger { background:#2a1212; border-color:#7a3030; color:#ffb0b0; }
+    button.on { color:var(--gold); border-color:var(--gold); background:#3a2a10; }
+    .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:6px; }
+    .bar { height:6px; background:#1a2430; border-radius:9px; overflow:hidden; }
+    .bar i { display:block; height:100%; }
+    .log { font-size:11px; line-height:1.5; color:#9eb0c6; max-height:150px; overflow:auto; font-family:ui-monospace,monospace; }
+    .log div { border-bottom:1px solid #182230; padding:3px 0; }
+    .unit, .pt { display:flex; justify-content:space-between; gap:8px; font-size:12px; padding:5px 0; border-bottom:1px solid #182230; }
+    .st { font-size:10px; padding:1px 6px; border-radius:3px; white-space:nowrap; }
+    .st.g { background:#143322; color:#7ee0a6; } .st.a { background:#32280e; color:#f0c36a; } .st.r { background:#3a1515; color:#ff9a9a; } .st.c { background:#0e3340; color:#8fe3f0; }
+    footer { border-top:1px solid var(--stroke); background:#0b1118; display:grid; grid-template-columns:220px 1fr 250px; gap:10px; padding:8px 12px; align-items:center; }
+    .phases { display:flex; gap:6px; } .phases button { flex:1; }
+    .phases button.on { background:#3a2a10; color:var(--gold); border-color:var(--gold); }
+    .tl { display:flex; overflow:auto; }
+    .tl .n { min-width:88px; text-align:center; font-size:11px; color:var(--dim); }
+    .tl .n::before { content:""; display:block; height:2px; background:#2a3a4e; margin:0 0 6px; }
+    .tl .n.done::before { background:var(--gold); } .tl .n.now { color:var(--gold); font-weight:700; }
+    .toast { position:absolute; left:12px; top:12px; z-index:5; background:#2a1212; border:1px solid #8a3a3a; color:#ffd0d0; padding:8px 10px; font-size:12px; border-radius:4px; display:none; max-width:360px; }
+    .legend { position:absolute; left:12px; bottom:42px; z-index:4; background:rgba(10,16,24,.88); border:1px solid var(--stroke); padding:8px 10px; font-size:11px; border-radius:6px; }
+    .legend i { display:inline-block; width:16px; height:3px; margin-right:6px; vertical-align:middle; }
+    .popup h4 { margin:0 0 4px; font-size:13px; } .popup p { margin:0; font-size:12px; color:#333; line-height:1.5; }
+  </style>
+</head>
+<body>
 <div class="app">
-<header>
-<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap"><b>GYIRONG COP</b><span class="tag" id="unofficial"></span><div class="lang" id="langBar"></div></div>
-<div class="kpi"></div>
-<div class="tabs">
-<button class="on" data-tab="ops" data-i="tabOps"></button>
-<button data-tab="feed" data-i="tabFeed"></button>
-<button data-tab="submit" data-i="tabSubmit"></button>
-<button data-tab="x" data-i="tabX"></button>
-</div></header>
-<div class="main"><div class="col left" id="feedCol"></div><div id="map"><div class="legend" id="legend"></div></div><div class="col right" id="rightCol"></div></div>
-<footer><div class="phases">
-<button data-ph="recon" class="on" data-i="phaseRecon"></button>
-<button data-ph="approach" data-i="phaseApproach"></button>
-<button data-ph="search" data-i="phaseSearch"></button>
-<button data-ph="withdraw" data-i="phaseWithdraw"></button>
-</div><div class="meta" data-i="footerNote"></div></footer></div>
+  <header>
+    <div class="brand">
+      <b>FWD-CP 吉隆</b>
+      <span>前方指挥部 COP</span>
+      <span class="badge">推演 · 非实时定位网</span>
+      <div id="langBar" style="display:flex;gap:4px"></div>
+    </div>
+    <div class="topline">
+      <div>中国 <strong>3死 / 558失联 / 2救</strong></div>
+      <div>尼泊尔 <strong>469死 / 977失联</strong></div>
+      <div>道路 <strong>G216 抢通约800m · 国门双向封闭</strong></div>
+    </div>
+    <div class="clock" id="clock">UTC</div>
+  </header>
+  <div class="main">
+    <aside>
+      <h3>指挥官控制</h3>
+      <div class="sec grid2">
+        <button class="pri" id="btnBrief">作战简报</button>
+        <button id="btnHold">全域保持</button>
+        <button id="btnPush">批准前突</button>
+        <button class="danger" id="btnWithdraw">红区后撤</button>
+      </div>
+      <div class="sec">
+        <div class="row">阶段 <b id="phaseName">侦察测绘</b></div>
+        <div class="row">红区 <b id="redAuth">禁止大规模进入</b></div>
+        <div class="row">国境 <b>口岸封闭 / 边控中</b></div>
+      </div>
+      <h3>图层</h3>
+      <div class="sec">
+        <label class="row">卫星<input type="checkbox" id="lSat" checked></label>
+        <label class="row">等高线<input type="checkbox" id="lC" checked></label>
+        <label class="row">山影 + 三维<input type="checkbox" id="l3d" checked></label>
+        <label class="row">国境线<input type="checkbox" id="lBd" checked></label>
+        <label class="row">道路通行状态<input type="checkbox" id="lRd" checked></label>
+        <label class="row">搜救分区<input type="checkbox" id="lSec" checked></label>
+        <label class="row">兵力推进<input type="checkbox" id="lUnit" checked></label>
+        <label class="row">救出/集结点<input type="checkbox" id="lRes" checked></label>
+        <label class="row">堰塞湖<input type="checkbox" id="lLake" checked></label>
+        <label class="row">灾害路径<input type="checkbox" id="lPath" checked></label>
+        <label class="row">OSM 路网底图<input type="checkbox" id="lOsm"></label>
+      </div>
+      <h3>镜头</h3>
+      <div class="sec grid2">
+        <button data-fly="port">国门</button>
+        <button data-fly="lake">堰塞湖</button>
+        <button data-fly="town">吉隆镇CP</button>
+        <button data-fly="source">源区</button>
+        <button data-fly="timure">Timure</button>
+        <button data-fly="wide">战役全图</button>
+      </div>
+      <h3>堰塞湖（公开研判）</h3>
+      <div class="sec">
+        <div class="row">位置 <b>口岸上游约2.5km</b></div>
+        <div class="row">坝长 / 坝高 <b>约150m / 40–50m</b></div>
+        <div class="row">现库容 <b>150–200万 m³</b></div>
+        <div class="bar"><i style="width:80%;background:#e25757"></i></div>
+        <div class="row">状态 <b style="color:#ffb0b0">已漫溢</b></div>
+        <div class="row">未来3日入湖 <b>+约300万 m³</b></div>
+        <div class="row">处置 <b>监测为主，难抵坝顶</b></div>
+        <div class="row">战术影响 <b>红区曾后撤约1km</b></div>
+      </div>
+    </aside>
+    <div id="map">
+      <div class="toast" id="toast"></div>
+      <div class="legend">
+        <div><i style="background:#3dbe7a"></i>道路可应急通行</div>
+        <div><i style="background:#e0a14a"></i>受限 / 抢通中</div>
+        <div><i style="background:#e25757"></i>中断 / 毁坏 / 封闭</div>
+        <div><i style="background:#c9d4e0"></i>中尼国境线</div>
+        <div><i style="background:#3ec2d6"></i>直升机航线</div>
+        <div><i style="background:#ff7a3d"></i>泥石流路径</div>
+      </div>
+    </div>
+    <div class="side">
+      <h3>道路与国境</h3>
+      <div class="sec">
+        <div class="pt">G216 吉隆镇—口岸 <span class="st r">国门方向封闭</span></div>
+        <div class="pt">G216 受灾段抢通 <span class="st a">约800m</span></div>
+        <div class="pt">距国门3km通信 <span class="st g">已恢复</span></div>
+        <div class="pt">热索桥 / 友谊桥 <span class="st r">损毁</span></div>
+        <div class="pt">口岸通关 <span class="st r">关闭</span></div>
+        <div class="pt">尼 Timure—夏布鲁 <span class="st r">路桥多毁</span></div>
+        <div class="pt">尼 Bidur 以北 <span class="st a">车辆止点</span></div>
+        <div class="pt">边管区通行证 <span class="st r">日喀则暂停签发</span></div>
+      </div>
+      <h3>兵力推进（报道位置）</h3>
+      <div class="sec">
+        <div class="unit">消防 681 / 113车 <span class="st a">吉隆镇已齐</span></div>
+        <div class="unit">前突 17人+无人机 <span class="st a">距国门约5km</span></div>
+        <div class="unit">口岸分局 8–28人 <span class="st a">曾抵国门区</span></div>
+        <div class="unit">首批应急 141 <span class="st a">抵口岸方向</span></div>
+        <div class="unit">军警 500+ / 直升机 <span class="st a">侦察+警戒</span></div>
+        <div class="unit">安能先遣 8 <span class="st c">堰塞体测绘</span></div>
+        <div class="unit">陆航窗口 <span class="st r">雨雾受限</span></div>
+      </div>
+      <h3>救出 / 安置点（非逐人GPS）</h3>
+      <div class="sec">
+        <div class="pt">热索村村民 2人 <span class="st g">已救出</span></div>
+        <div class="pt">吉隆镇安置 <span class="st g">含老江村等</span></div>
+        <div class="pt">萨勒乡安置约446–499 <span class="st g">已转移</span></div>
+        <div class="pt">滞留游客 555 <span class="st g">已转移</span></div>
+        <div class="pt">Timure 空运百余人 <span class="st g">含外籍</span></div>
+        <div class="pt">Nuwakot / Bidur 营地 <span class="st g">接运点</span></div>
+        <div class="pt">加德满都医院 <span class="st a">伤员后送</span></div>
+        <div class="pt">中方5人+2伤员 <span class="st g">已转加德满都</span></div>
+      </div>
+      <h3>指挥日志</h3>
+      <div class="log" id="log"></div>
+    </div>
+  </div>
+  <footer>
+    <div>
+      <div style="font-size:11px;color:#8b9bb0;margin-bottom:4px;">作战阶段</div>
+      <div class="phases">
+        <button data-ph="recon" class="on">侦察</button>
+        <button data-ph="approach">前突</button>
+        <button data-ph="search">搜救</button>
+        <button data-ph="withdraw">避险</button>
+      </div>
+    </div>
+    <div class="tl" id="tl"></div>
+    <div style="font-size:11px;color:#8b9bb0;text-align:right;line-height:1.45;">公开报道标绘 · 无活体定位<br>人员点=集结/报道位置，不是实时GPS</div>
+  </footer>
+</div>
 <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
 <script src="https://unpkg.com/maplibre-contour@0.1.0/dist/index.min.js"></script>
 <script src="data.js"></script>
 <script src="i18n.js"></script>
-<script>
-const KEY='gyirong-fused-v1',LANG_KEY='gyirong-lang';
-let lang=localStorage.getItem(LANG_KEY)||((navigator.language||'zh').slice(0,2));
-if(!window.I18N||!I18N[lang]) lang='zh';
-function t(k){return (window.I18N&&I18N[lang]&&I18N[lang][k])||(I18N&&I18N.zh&&I18N.zh[k])||k}
-function loc(v){if(v==null)return '';if(typeof v==='string')return v;return v[lang]||v.en||v.zh||Object.values(v)[0]||''}
-function applyChrome(){
-  document.documentElement.lang=lang;document.title=t('title');
-  document.getElementById('unofficial').textContent=t('unofficial');
-  document.querySelectorAll('[data-i]').forEach(el=>{el.textContent=t(el.dataset.i)});
-  document.getElementById('legend').innerHTML=`<div>${t('legendOpen')} / ${t('legendLimited')} / ${t('legendClosed')} / ${t('legendBorder')}</div>`;
-  const k=(window.GYIRONG_DATA&&GYIRONG_DATA.kpi)||{cn:{},np:{}};
-  document.querySelector('.kpi').innerHTML=`CN <strong>${k.cn.dead||3}/${k.cn.missing||558}/${k.cn.rescued||2}</strong> · NP <strong>${k.np.dead||469}/${k.np.missing||977}</strong>`;
-  const langs=window.LANGS||[{id:'zh',label:'中文'},{id:'en',label:'EN'},{id:'ne',label:'NE'},{id:'hi',label:'HI'}];
-  document.getElementById('langBar').innerHTML=langs.map(L=>`<button data-lang="${L.id}" class="${L.id===lang?'on':''}">${L.label}</button>`).join('');
-  document.querySelectorAll('[data-lang]').forEach(b=>b.onclick=()=>{lang=b.dataset.lang;localStorage.setItem(LANG_KEY,lang);applyChrome();renderFeed();renderRight(curTab);plotNews()});
-}
-const official=(window.GYIRONG_DATA&&GYIRONG_DATA.published)||[];
-function load(){try{const s=JSON.parse(localStorage.getItem(KEY)||'null');if(!s)return {published:official.slice(),pending:[],comments:{}};return {published:official.concat((s.published||[]).filter(p=>p.src==='user')),pending:s.pending||[],comments:s.comments||{}}}catch{return {published:official.slice(),pending:[],comments:{}}}}
-function save(s){localStorage.setItem(KEY,JSON.stringify(s))}let state=load(),curTab='ops';
-const PT={port:{lng:85.377744,lat:28.279672,z:14.2,pitch:64,bear:22},lake:{lng:85.392,lat:28.293,z:14,pitch:62,bear:-8},town:{lng:85.325,lat:28.390,z:12.7,pitch:52,bear:165},wide:{lng:85.40,lat:28.31,z:11,pitch:50,bear:18}};
-const dem=new mlcontour.DemSource({url:'https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png',encoding:'terrarium',maxzoom:15,worker:true});dem.setupMaplibre(maplibregl);
-const ops={type:'FeatureCollection',features:[
- {type:'Feature',properties:{layer:'path'},geometry:{type:'LineString',coordinates:[[85.505,28.355],[85.40,28.30],[85.3777,28.2797],[85.356,28.248]]}},
- {type:'Feature',properties:{layer:'border'},geometry:{type:'LineString',coordinates:[[85.28,28.22],[85.3777,28.2797],[85.52,28.36]]}},
- {type:'Feature',properties:{layer:'road',status:'limited'},geometry:{type:'LineString',coordinates:[[85.334,28.378],[85.372,28.292]]}},
- {type:'Feature',properties:{layer:'road',status:'closed'},geometry:{type:'LineString',coordinates:[[85.372,28.292],[85.3777,28.2797]]}},
- {type:'Feature',properties:{layer:'lake'},geometry:{type:'Polygon',coordinates:[[[85.386,28.289],[85.399,28.289],[85.401,28.299],[85.387,28.300],[85.386,28.289]]]}}
-]};
-const map=new maplibregl.Map({container:'map',center:[PT.port.lng,PT.port.lat],zoom:13.1,pitch:58,bearing:16,maxPitch:80,style:{version:8,glyphs:'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',sources:{sat:{type:'raster',tiles:['https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'],tileSize:256},dem:{type:'raster-dem',tiles:[dem.sharedDemProtocolUrl],encoding:'terrarium',tileSize:256,maxzoom:15},contours:{type:'vector',tiles:[dem.contourProtocolUrl({multiplier:1,thresholds:{13:[100,500],14:[50,200]},elevationKey:'ele',levelKey:'level',contourLayer:'contours'})],maxzoom:15},ops:{type:'geojson',data:ops}},layers:[{id:'sat',type:'raster',source:'sat'},{id:'hs',type:'hillshade',source:'dem',paint:{'hillshade-exaggeration':0.48}},{id:'lake',type:'fill',source:'ops',filter:['==',['get','layer'],'lake'],paint:{'fill-color':'#1a8aaa','fill-opacity':0.45}},{id:'path',type:'line',source:'ops',filter:['==',['get','layer'],'path'],paint:{'line-color':'#ff7a3d','line-width':3,'line-dasharray':[1.2,1]}},{id:'border',type:'line',source:'ops',filter:['==',['get','layer'],'border'],paint:{'line-color':'#e8eef5','line-width':2.2,'line-dasharray':[3,2]}},{id:'rd-lim',type:'line',source:'ops',filter:['==',['get','status'],'limited'],paint:{'line-color':'#e0a14a','line-width':3.4}},{id:'rd-off',type:'line',source:'ops',filter:['==',['get','status'],'closed'],paint:{'line-color':'#e25757','line-width':3.6}},{id:'c-major',type:'line',source:'contours','source-layer':'contours',filter:['==',['get','level'],1],paint:{'line-color':'rgba(255,214,90,.85)','line-width':1.1}}],terrain:{source:'dem',exaggeration:1.3}}});
-map.addControl(new maplibregl.NavigationControl({visualizePitch:true}),'bottom-left');
-function vis(ids,on){ids.forEach(id=>{if(map.getLayer(id))map.setLayoutProperty(id,'visibility',on?'visible':'none')})}
-function renderFeed(){const items=[...state.published].sort((a,b)=>new Date(b.t)-new Date(a.t));document.getElementById('feedCol').innerHTML='<h3>'+t('feed')+'</h3>'+items.map(p=>`<div class="card"><div class="meta"><span class="src off">${t('official')}</span> ${(p.t||'').slice(0,16)}</div><div class="t">${loc(p.title)}</div><div class="meta">${loc(p.body)}</div></div>`).join('')}
-function stClass(s){return s==='closed'?'r':(s==='done'||s==='open'?'g':'a')}
-function renderRight(tab){curTab=tab;const box=document.getElementById('rightCol');const D=window.GYIRONG_DATA||{};
-if(tab==='ops'){const roads=(D.roads||[]).map(r=>`<div class="pt">${loc(r.name)} <span class="st ${stClass(r.status)}">${r.status}</span></div>`).join('');const sites=(D.sites||[]).map(s=>`<div class="pt">${loc(s.name)} <span class="st ${stClass(s.status)}">${s.status}</span></div>`).join('');box.innerHTML=`<h3>${t('layers')}</h3><div class="sec"><label class="row">${t('layer3d')} <input type="checkbox" id="l3d" checked></label><label class="row">${t('layerC')} <input type="checkbox" id="lC" checked></label><label class="row">${t('layerBd')} <input type="checkbox" id="lBd" checked></label><label class="row">${t('layerRd')} <input type="checkbox" id="lRd" checked></label><label class="row">${t('layerLake')} <input type="checkbox" id="lLake" checked></label></div><div class="sec grid2"><button data-fly="port">${t('flyPort')}</button><button data-fly="lake">${t('flyLake')}</button><button data-fly="town">${t('flyTown')}</button><button data-fly="wide">${t('flyWide')}</button></div><h3>${t('roadsForces')}</h3><div class="sec">${roads}${sites}</div><h3>${t('lakeTitle')}</h3><div class="sec meta">${loc((D.hydro||{}).status)}</div>`;document.getElementById('l3d').onchange=e=>{vis(['hs'],e.target.checked);map.setTerrain(e.target.checked?{source:'dem',exaggeration:1.3}:null)};document.getElementById('lC').onchange=e=>vis(['c-major'],e.target.checked);document.getElementById('lBd').onchange=e=>vis(['border'],e.target.checked);document.getElementById('lRd').onchange=e=>vis(['rd-lim','rd-off'],e.target.checked);document.getElementById('lLake').onchange=e=>vis(['lake'],e.target.checked);document.querySelectorAll('[data-fly]').forEach(b=>b.onclick=()=>{const p=PT[b.dataset.fly];map.flyTo({center:[p.lng,p.lat],zoom:p.z,pitch:p.pitch,bearing:p.bear,duration:1200})});return}
-if(tab==='submit'){box.innerHTML=`<h3>${t('submitH')}</h3><div class="sec"><p class="warn">${t('submitWarn')}</p><input id="sTitle" placeholder="${t('labelTitle')}"><textarea id="sBody" rows="4"></textarea><button class="pri" id="sGo">${t('submitBtn')}</button></div>`;document.getElementById('sGo').onclick=()=>{const title=sTitle.value.trim(),body=sBody.value.trim();if(!title||!body)return alert(t('needTitle'));const item={id:'u'+Date.now(),src:'user',title:{zh:title,en:title,ne:title,hi:title},body:{zh:body,en:body,ne:body,hi:body},lat:28.28,lng:85.38,geo:'place',t:new Date().toISOString()};state.published.unshift(item);save(state);renderFeed();plotNews()};return}
-if(tab==='x'){box.innerHTML='<h3>'+t('xH')+'</h3>'+(((window.GYIRONG_DATA||{}).xPosts)||[]).map(p=>`<div class="sec"><div class="meta">${p.user}</div><div class="t">${loc(p.text)}</div></div>`).join('');return}renderFeed()}
-document.querySelectorAll('[data-tab]').forEach(b=>b.onclick=()=>{document.querySelectorAll('[data-tab]').forEach(x=>x.classList.toggle('on',x===b));renderRight(b.dataset.tab)});
-let newsMarks=[];function plotNews(){newsMarks.forEach(m=>m.remove());newsMarks=[];state.published.forEach(p=>{if(p.lat==null||p.geo==='unknown')return;const el=document.createElement('div');el.style.cssText='width:9px;height:9px;border-radius:50%;background:#d7b15a;border:1px solid #111';newsMarks.push(new maplibregl.Marker({element:el}).setLngLat([p.lng,p.lat]).setPopup(new maplibregl.Popup().setHTML(`<b>${loc(p.title)}</b><p>${loc(p.body)}</p>`)).addTo(map))})}
-map.on('load',plotNews);applyChrome();renderFeed();renderRight('ops');
-</script></body></html>
+<script src="cop.js"></script>
+</body>
+</html>
