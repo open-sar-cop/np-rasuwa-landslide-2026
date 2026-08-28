@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>吉隆·Rasuwa LIVE</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+  <style>
+    :root { --bg:#0a0e14; --p:#101820; --ln:#2a3848; --tx:#e6eef7; --dim:#8ea0b5; --gold:#d7b15a; }
+    * { box-sizing:border-box; }
+    html,body { margin:0; height:100%; background:var(--bg); color:var(--tx); font-family:"Noto Sans SC","PingFang SC",sans-serif; }
+    .app { display:grid; grid-template-rows:52px 1fr; height:100%; }
+    header { display:flex; align-items:center; justify-content:space-between; padding:0 14px; border-bottom:1px solid var(--ln); background:#0d141c; gap:8px; }
+    header b { color:var(--gold); font-size:13px; }
+    header .tag { font-size:11px; color:#ffb4b4; border:1px solid #6a3030; padding:2px 7px; }
+    .tabs { display:flex; flex-wrap:wrap; }
+    .tabs button { background:transparent; border:0; color:var(--dim); padding:8px 10px; cursor:pointer; width:auto; }
+    .tabs button.on { color:var(--gold); }
+    .body { display:grid; grid-template-columns:340px 1fr 320px; min-height:0; }
+    .col { overflow:auto; background:var(--p); }
+    .left { border-right:1px solid var(--ln); }
+    .right { border-left:1px solid var(--ln); }
+    #map { min-width:0; }
+    h3 { margin:10px 12px 6px; font-size:11px; color:var(--gold); }
+    .card { margin:8px 10px; padding:8px 10px; border:1px solid var(--ln); border-radius:8px; background:#0b121a; }
+    .card .meta { font-size:11px; color:var(--dim); }
+    .card .t { font-size:13px; margin:4px 0; }
+    .src { font-size:10px; padding:1px 6px; }
+    .src.off { background:#1a2a18; color:#8fe0a8; }
+    .src.user { background:#2a2410; color:#f0c36a; }
+    .src.ai { background:#102030; color:#8fd4f0; }
+    button, input, select, textarea { background:#162131; color:var(--tx); border:1px solid #2c3d55; border-radius:5px; padding:7px 8px; font-size:12px; width:100%; }
+    button { cursor:pointer; }
+    button.pri { background:#3a2a10; border-color:#8a6a2a; color:var(--gold); }
+    label { display:block; font-size:11px; color:var(--dim); margin:8px 0 3px; }
+    .pad { padding:0 10px 12px; }
+    .cmt { font-size:12px; border-top:1px solid #1a2430; padding:4px 0; }
+    .warn { font-size:11px; color:#ffb4b4; line-height:1.45; }
+    .ai { font-size:11px; color:#9fd7ea; background:#0d1a22; padding:6px; margin-top:6px; }
+    .lang { display:flex; gap:4px; }
+    .lang button { width:auto; padding:4px 7px; font-size:11px; }
+    .lang button.on { border-color:var(--gold); color:var(--gold); }
+    header .leftbox { display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  </style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <div class="leftbox">
+      <b>GYIRONG LIVE</b>
+      <span id="brandSub"></span>
+      <span class="tag" id="unofficial"></span>
+      <div class="lang" id="langBar"></div>
+    </div>
+    <div class="tabs">
+      <button class="on" data-tab="feed" data-i="tabFeed">Feed</button>
+      <button data-tab="x" data-i="tabX">X</button>
+      <button data-tab="submit" data-i="tabSubmit">Report</button>
+      <button data-tab="queue" data-i="tabQueue">AI</button>
+      <button data-tab="src" data-i="tabSrc">Sources</button>
+    </div>
+  </header>
+  <div class="body">
+    <div class="col left" id="feedCol"></div>
+    <div id="map"></div>
+    <div class="col right" id="rightCol"></div>
+  </div>
+</div>
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="data.js"></script>
+<script src="i18n.js"></script>
+<script>
+const KEY = 'gyirong-live-v2';
+const LANG_KEY = 'gyirong-lang';
+let lang = localStorage.getItem(LANG_KEY) || (navigator.language||'zh').slice(0,2);
+if (!window.I18N[lang]) lang = 'zh';
+function t(k) { return (I18N[lang] && I18N[lang][k]) || I18N.zh[k] || k; }
+function tk(map, key) { const m = I18N[lang] && I18N[lang][map]; return (m && m[key]) || key; }
+function applyChrome() {
+  document.documentElement.lang = lang === 'zh' ? 'zh-CN' : lang;
+  document.title = t('title');
+  document.getElementById('brandSub').textContent = t('brandSub');
+  document.getElementById('unofficial').textContent = t('unofficial');
+  document.querySelectorAll('[data-i]').forEach(el => { el.textContent = t(el.dataset.i); });
+  document.getElementById('langBar').innerHTML = LANGS.map(L =>
+    `<button data-lang="${L.id}" class="${L.id===lang?'on':''}">${L.label}</button>`).join('');
+  document.querySelectorAll('[data-lang]').forEach(b => b.onclick = () => {
+    lang = b.dataset.lang; localStorage.setItem(LANG_KEY, lang);
+    applyChrome(); renderFeed();
+    const on = document.querySelector('.tabs button.on');
+    renderRight(on ? on.dataset.tab : 'feed');
+  });
+}
+const official = (window.GYIRONG_DATA && GYIRONG_DATA.published) || [];
+function load() {
+  const raw = localStorage.getItem(KEY);
+  if (!raw) return { published: official.slice(), pending: [], comments: {} };
+  try {
+    const s = JSON.parse(raw);
+    const userItems = (s.published || []).filter(p => p.src === 'user');
+    return { published: official.concat(userItems), pending: s.pending || [], comments: s.comments || {} };
+  } catch { return { published: official.slice(), pending: [], comments: {} }; }
+}
+function save(s) { localStorage.setItem(KEY, JSON.stringify(s)); }
+let state = load();
+async function pullSnapshot() {
+  try {
+    const r = await fetch('snapshot.json?t=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) return;
+    const snap = await r.json();
+    if (Array.isArray(snap.items)) {
+      const ids = new Set(state.published.map(p => p.id));
+      snap.items.forEach(it => { if (it.id && !ids.has(it.id)) state.published.push({ src: it.src || 'official', ...it }); });
+    }
+    if (snap.snap && window.GYIRONG_DATA) window.GYIRONG_DATA.snap = snap.snap;
+    save(state);
+    if (typeof redrawMarkers === 'function') { redrawMarkers(); renderFeed(); }
+  } catch (e) {}
+}
+pullSnapshot();
+function aiProcess(text, lat, lng) {
+  const raw = text || '';
+  const flags = [];
+  let cat = 'other';
+  if (/堰塞|溃|湖|水位/.test(raw)) cat = 'hydro';
+  else if (/路|桥|G216/.test(raw)) cat = 'road';
+  else if (/救出|直升机|搜救/.test(raw)) cat = 'rescue';
+  else if (/遇难|死亡|失联/.test(raw)) cat = 'casualty';
+  const cred = flags.length ? 0.35 : 0.55;
+  return { cat, cred, flags, geo: { lat: lat||28.28, lng: lng||85.38 } };
+}
+const map = new maplibregl.Map({
+  container:'map',
+  style:{ version:8, sources:{ sat:{ type:'raster', tiles:['https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'], tileSize:256 } }, layers:[{ id:'sat', type:'raster', source:'sat' }] },
+  center:[85.38, 28.29], zoom:10.2
+});
+map.addControl(new maplibregl.NavigationControl(), 'bottom-left');
+let markers = [];
+function redrawMarkers() {
+  markers.forEach(m => m.remove()); markers = [];
+  state.published.forEach(p => {
+    if (p.lat == null) return;
+    const el = document.createElement('div');
+    el.style.cssText = `width:10px;height:10px;border-radius:50%;background:${p.src==='official'?'#d7b15a':'#3dbe7a'};border:1px solid #111;`;
+    markers.push(new maplibregl.Marker({ element:el }).setLngLat([p.lng,p.lat])
+      .setPopup(new maplibregl.Popup().setHTML(`<b>${p.title}</b><p style="margin:4px 0;font-size:12px">${p.body||''}</p>`))
+      .addTo(map));
+  });
+}
+map.on('load', redrawMarkers);
+function statsHtml() {
+  const d = window.GYIRONG_DATA;
+  if (!d) return '';
+  return `<div class="card"><div class="meta">${t('officialSnap')} ${d.snap.replace('T',' ').slice(0,16)} UTC</div>` +
+    d.officialStats.map(s => `<div class="t">${tk('sides', s.side)}</div>` + s.items.slice(0,4).map(i =>
+      `<div class="meta">${tk('keys', i.k)} <b style="color:#fff">${i.v}</b> · ${i.asof}</div>`).join('')).join('') +
+    `<div class="meta">${t('snapHint')}</div></div>`;
+}
+function renderFeed() {
+  const items = [...state.published].sort((a,b)=> new Date(b.t)-new Date(a.t));
+  document.getElementById('feedCol').innerHTML = '<h3>'+t('feed')+'</h3>' + statsHtml() + items.map(p => {
+    const cms = state.comments[p.id] || [];
+    return `<div class="card">
+      <div class="meta"><span class="src ${p.src==='official'?'off':'user'}">${p.src==='official'?t('official'):t('userOk')}</span> · ${(p.t||'').slice(0,16).replace('T',' ')}</div>
+      <div class="t">${p.title}</div>
+      <div style="font-size:12px;color:#c5d2e3">${p.body||''}</div>
+      ${p.link?`<div class="meta"><a href="${p.link}" target="_blank" style="color:#8fd4f0">${t('original')}</a></div>`:''}
+      ${cms.map(c=>`<div class="cmt">${c}</div>`).join('')}
+      <input data-cmt="${p.id}" placeholder="${t('commentPh')}" />
+    </div>`;
+  }).join('');
+  document.querySelectorAll('[data-cmt]').forEach(inp => {
+    inp.onkeydown = e => {
+      if (e.key !== 'Enter' || !inp.value.trim()) return;
+      const id = inp.dataset.cmt;
+      state.comments[id] = state.comments[id] || [];
+      state.comments[id].push(inp.value.trim());
+      save(state); renderFeed();
+    };
+  });
+}
+function renderRight(tab) {
+  const box = document.getElementById('rightCol');
+  if (tab === 'submit') {
+    box.innerHTML = `<h3>${t('submitH')}</h3><div class="pad">
+      <p class="warn">${t('submitWarn')}</p>
+      <label>${t('labelTitle')}</label><input id="sTitle">
+      <label>${t('labelBody')}</label><textarea id="sBody" rows="5"></textarea>
+      <label>${t('labelLat')}</label><input id="sLat" placeholder="28.2797">
+      <label>${t('labelLng')}</label><input id="sLng" placeholder="85.3777">
+      <button class="pri" id="sGo">${t('submitBtn')}</button></div>`;
+    document.getElementById('sGo').onclick = () => {
+      const title = document.getElementById('sTitle').value.trim();
+      const body = document.getElementById('sBody').value.trim();
+      if (!title || !body) return alert(t('needTitle'));
+      const lat = parseFloat(document.getElementById('sLat').value);
+      const lng = parseFloat(document.getElementById('sLng').value);
+      const ai = aiProcess(body, lat, lng);
+      state.pending.unshift({ id:'u'+Date.now(), src:'user', title, body, lat: isNaN(lat)?ai.geo.lat:lat, lng: isNaN(lng)?ai.geo.lng:lng, t: new Date().toISOString(), ai });
+      save(state); alert(t('queued')); document.querySelector('[data-tab="queue"]').click();
+    };
+    return;
+  }
+  if (tab === 'queue') {
+    box.innerHTML = '<h3>'+t('queueH')+'</h3>' + (state.pending.length? state.pending.map(p => `<div class="card">
+      <div class="t">${p.title}</div><div style="font-size:12px">${p.body}</div>
+      <div class="ai">${t('type')} ${p.ai.cat} · ${t('cred')} ${(p.ai.cred*100)|0}%</div>
+      <div style="display:flex;gap:6px;margin-top:6px"><button data-ok="${p.id}">${t('approve')}</button><button data-no="${p.id}">${t('reject')}</button></div>
+    </div>`).join('') : '<div class="pad">'+t('queueEmpty')+'</div>');
+    box.querySelectorAll('[data-ok]').forEach(b => b.onclick = () => {
+      const i = state.pending.findIndex(x => x.id===b.dataset.ok);
+      if (i<0) return;
+      const it = state.pending.splice(i,1)[0];
+      it.src = 'user'; state.published.unshift(it); save(state); redrawMarkers(); renderFeed(); renderRight('queue');
+    });
+    box.querySelectorAll('[data-no]').forEach(b => b.onclick = () => {
+      state.pending = state.pending.filter(x => x.id!==b.dataset.no); save(state); renderRight('queue');
+    });
+    return;
+  }
+  if (tab === 'x') {
+    const d = window.GYIRONG_DATA || { xPosts:[], tags:[] };
+    box.innerHTML = `<h3>${t('xH')}</h3><div class="pad warn">${t('xWarn')}</div>` +
+      (d.xPosts||[]).map(p => `<div class="card"><div class="meta"><span class="src ai">X</span> ${p.user}</div><div class="t">${p.text}</div>
+      <div class="meta"><a style="color:#8fd4f0" href="${p.link}" target="_blank">${t('openPost')}</a></div></div>`).join('');
+    return;
+  }
+  if (tab === 'src') {
+    const d = window.GYIRONG_DATA;
+    const st = d ? d.officialStats.map(s => `<div class="card"><div class="t">${tk('sides', s.side)}</div>${s.items.map(i=>`<div class="meta">${tk('keys', i.k)}：<b style="color:#fff">${i.v}</b><br>${i.asof} · ${i.src}</div>`).join('')}</div>`).join('') : '';
+    const hy = (d && d.hydro) ? `<h3>${t('hydroH')}</h3>` + d.hydro.map(i=>`<div class="card"><div class="t">${tk('keys', i.k)}</div><div class="meta">${i.v}<br>${i.src}</div></div>`).join('') : '';
+    const cat = (d && d.catalog) ? d.catalog.map(g => `<h3>${tk('groups', g.group)}</h3>` + g.items.map(i=>`<div class="card"><div class="t">${i.name}</div><div class="meta">${i.note}<br><a style="color:#8fd4f0" href="${i.url}" target="_blank">${t('openSrc')}</a></div></div>`).join('')).join('') : '';
+    box.innerHTML = `<h3>${t('officialNums')}</h3>${st}${hy}${cat}<p class="pad warn">${t('protoNote')}</p>`;
+    return;
+  }
+  box.innerHTML = `<h3>${t('usageH')}</h3><div class="pad" style="font-size:12px;line-height:1.65">${t('usage')}</div>`;
+}
+document.querySelectorAll('[data-tab]').forEach(b => b.onclick = () => {
+  document.querySelectorAll('[data-tab]').forEach(x => x.classList.toggle('on', x===b));
+  renderRight(b.dataset.tab);
+});
+applyChrome(); renderFeed(); renderRight('feed');
+</script>
+</body>
+</html>
