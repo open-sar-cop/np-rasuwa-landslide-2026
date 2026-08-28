@@ -1,1 +1,148 @@
-PLACEHOLDER
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gyirong / Rasuwa FWD-CP</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+  <style>
+    :root { --bg:#070b10; --panel:#0d141d; --stroke:#243044; --text:#dce6f2; --dim:#8b9bb0; --gold:#d7b15a; --red:#e25757; --amber:#e0a14a; --green:#3dbe7a; --cyan:#3ec2d6; }
+    * { box-sizing: border-box; }
+    html, body { margin:0; height:100%; background:var(--bg); color:var(--text); font-family:"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif; overflow:hidden; }
+    .app { display:grid; grid-template-rows:56px 1fr 120px; height:100%; }
+    header { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:0 14px; border-bottom:1px solid var(--stroke); background:linear-gradient(#121a24,#0b1118); }
+    .brand { display:flex; align-items:center; gap:8px; font-weight:700; letter-spacing:.08em; }
+    .brand b { color:var(--gold); font-size:13px; }
+    .brand span { font-size:12px; color:var(--dim); font-weight:500; letter-spacing:0; }
+    .badge { font-size:11px; padding:3px 8px; border:1px solid #8a3a3a; color:#ffb4b4; background:#2a1010; border-radius:3px; }
+    .clock { font-variant-numeric:tabular-nums; font-size:12px; color:#cfe0f5; }
+    .topline { display:flex; gap:14px; font-size:12px; color:var(--dim); }
+    .topline strong { color:#fff; }
+    .main { display:grid; grid-template-columns:268px 1fr 340px; min-height:0; }
+    aside, .side { background:var(--panel); overflow:auto; }
+    aside { border-right:1px solid var(--stroke); padding:10px; }
+    .side { border-left:1px solid var(--stroke); padding:10px; }
+    #map { position:relative; min-width:0; }
+    h3 { margin:12px 0 8px; font-size:11px; letter-spacing:.12em; color:var(--gold); }
+    .sec { border:1px solid var(--stroke); border-radius:6px; padding:8px; margin-bottom:8px; background:#0a1119; }
+    label.row, .row { display:flex; align-items:center; justify-content:space-between; gap:8px; font-size:12px; padding:3px 0; color:#c5d2e3; }
+    button, select { background:#162131; color:var(--text); border:1px solid #2c3d55; border-radius:4px; padding:6px 8px; font-size:12px; cursor:pointer; }
+    button.pri { background:#3a2a10; border-color:#8a6a2a; color:var(--gold); }
+    button.danger { background:#2a1212; border-color:#7a3030; color:#ffb0b0; }
+    button.on { color:var(--gold); border-color:var(--gold); background:#3a2a10; }
+    .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:6px; }
+    .bar { height:6px; background:#1a2430; border-radius:9px; overflow:hidden; }
+    .bar i { display:block; height:100%; }
+    .log { font-size:11px; line-height:1.5; color:#9eb0c6; max-height:150px; overflow:auto; font-family:ui-monospace,monospace; }
+    .log div { border-bottom:1px solid #182230; padding:3px 0; }
+    .unit, .pt { display:flex; justify-content:space-between; gap:8px; font-size:12px; padding:5px 0; border-bottom:1px solid #182230; }
+    .st { font-size:10px; padding:1px 6px; border-radius:3px; white-space:nowrap; }
+    .st.g { background:#143322; color:#7ee0a6; } .st.a { background:#32280e; color:#f0c36a; } .st.r { background:#3a1515; color:#ff9a9a; } .st.c { background:#0e3340; color:#8fe3f0; }
+    footer { border-top:1px solid var(--stroke); background:#0b1118; display:grid; grid-template-columns:220px 1fr 250px; gap:10px; padding:8px 12px; align-items:center; }
+    .phases { display:flex; gap:6px; } .phases button { flex:1; }
+    .phases button.on { background:#3a2a10; color:var(--gold); border-color:var(--gold); }
+    .tl { display:flex; overflow:auto; }
+    .tl .n { min-width:88px; text-align:center; font-size:11px; color:var(--dim); }
+    .tl .n::before { content:""; display:block; height:2px; background:#2a3a4e; margin:0 0 6px; }
+    .tl .n.done::before { background:var(--gold); } .tl .n.now { color:var(--gold); font-weight:700; }
+    .toast { position:absolute; left:12px; top:12px; z-index:5; background:#2a1212; border:1px solid #8a3a3a; color:#ffd0d0; padding:8px 10px; font-size:12px; border-radius:4px; display:none; max-width:360px; }
+    .legend { position:absolute; left:12px; bottom:42px; z-index:4; background:rgba(10,16,24,.88); border:1px solid var(--stroke); padding:8px 10px; font-size:11px; border-radius:6px; }
+    .legend i { display:inline-block; width:16px; height:3px; margin-right:6px; vertical-align:middle; }
+    .popup h4 { margin:0 0 4px; font-size:13px; } .popup p { margin:0; font-size:12px; color:#333; line-height:1.5; }
+  </style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <div class="brand">
+      <b>FWD-CP 吉隆</b>
+      <span data-i="cop">前方指挥部 COP</span>
+      <span class="badge" data-i="mode">推演 · 非实时定位网</span>
+      <div id="langBar" style="display:flex;gap:4px"></div>
+    </div>
+    <div class="topline"></div>
+    <div class="clock" id="clock">UTC</div>
+  </header>
+  <div class="main">
+    <aside>
+      <h3 data-i="cmd">指挥官控制</h3>
+      <div class="sec grid2">
+        <button class="pri" id="btnBrief" data-i="brief">作战简报</button>
+        <button id="btnHold" data-i="hold">全域保持</button>
+        <button id="btnPush" data-i="push">批准前突</button>
+        <button class="danger" id="btnWithdraw" data-i="withdraw">红区后撤</button>
+      </div>
+      <div class="sec">
+        <div class="row"><span data-i="phase">阶段</span> <b id="phaseName" data-i="reconMap">侦察测绘</b></div>
+        <div class="row"><span data-i="redzone">红区</span> <b id="redAuth" data-i="noMass">禁止大规模进入</b></div>
+        <div class="row"><span data-i="border">国境</span> <b data-i="portClosed">口岸封闭 / 边控中</b></div>
+      </div>
+      <h3 data-i="layers">图层</h3>
+      <div class="sec">
+        <label class="row"><span data-i="lySat">卫星</span><input type="checkbox" id="lSat" checked></label>
+        <label class="row"><span data-i="lyC">等高线</span><input type="checkbox" id="lC" checked></label>
+        <label class="row"><span data-i="ly3d">山影 + 三维</span><input type="checkbox" id="l3d" checked></label>
+        <label class="row"><span data-i="lyBd">国境线</span><input type="checkbox" id="lBd" checked></label>
+        <label class="row"><span data-i="lyRd">道路通行状态</span><input type="checkbox" id="lRd" checked></label>
+        <label class="row"><span data-i="lySec">搜救分区</span><input type="checkbox" id="lSec" checked></label>
+        <label class="row"><span data-i="lyUnit">兵力推进</span><input type="checkbox" id="lUnit" checked></label>
+        <label class="row"><span data-i="lyRes">救出/集结点</span><input type="checkbox" id="lRes" checked></label>
+        <label class="row"><span data-i="lyLake">堰塞湖</span><input type="checkbox" id="lLake" checked></label>
+        <label class="row"><span data-i="lyPath">灾害路径</span><input type="checkbox" id="lPath" checked></label>
+        <label class="row"><span data-i="lyOsm">OSM 路网底图</span><input type="checkbox" id="lOsm"></label>
+      </div>
+      <h3 data-i="cams">镜头</h3>
+      <div class="sec grid2">
+        <button data-fly="port" data-i="flyPort">国门</button>
+        <button data-fly="lake" data-i="flyLake">堰塞湖</button>
+        <button data-fly="town" data-i="flyTown">吉隆镇CP</button>
+        <button data-fly="source" data-i="flySrc">源区（尼泊尔）</button>
+        <button data-fly="timure">Timure</button>
+        <button data-fly="wide" data-i="flyWide">战役全图</button>
+      </div>
+    </aside>
+    <div id="map">
+      <div class="toast" id="toast"></div>
+      <div class="legend">
+        <div><i style="background:#3dbe7a"></i><span data-i="legendOpen">道路可应急通行</span></div>
+        <div><i style="background:#e0a14a"></i><span data-i="legendLimited">受限 / 抢通中</span></div>
+        <div><i style="background:#e25757"></i><span data-i="legendClosed">中断 / 毁坏 / 封闭</span></div>
+        <div><i style="background:#c9d4e0"></i><span data-i="legendBorder">中尼国境线</span></div>
+        <div><i style="background:#3ec2d6"></i><span data-i="legendHelo">直升机航线</span></div>
+        <div><i style="background:#ff7a3d"></i><span data-i="legendPath">泥石流路径</span></div>
+      </div>
+    </div>
+    <div class="side">
+      <h3 data-i="roads">道路与国境</h3>
+      <div class="sec" id="roadsBox"></div>
+      <h3 data-i="forces">兵力推进（报道位置）</h3>
+      <div class="sec" id="forcesBox"></div>
+      <h3 data-i="rescue">救出 / 安置点（非逐人GPS）</h3>
+      <div class="sec" id="sitesBox"></div>
+      <h3 data-i="feed">Feed</h3>
+      <div class="sec" id="feedBox"></div>
+      <h3 data-i="log">指挥日志</h3>
+      <div class="log" id="log"></div>
+    </div>
+  </div>
+  <footer>
+    <div>
+      <div style="font-size:11px;color:#8b9bb0;margin-bottom:4px;" data-i="opPhase">作战阶段</div>
+      <div class="phases">
+        <button data-ph="recon" class="on" data-i="phaseRecon">侦察</button>
+        <button data-ph="approach" data-i="phaseApproach">前突</button>
+        <button data-ph="search" data-i="phaseSearch">搜救</button>
+        <button data-ph="withdraw" data-i="phaseWithdraw">避险</button>
+      </div>
+    </div>
+    <div class="tl" id="tl"></div>
+    <div style="font-size:11px;color:#8b9bb0;text-align:right;line-height:1.45;"><span data-i="footerNote">公开报道标绘</span><br><span data-i="footerPts">人员点=报道位置</span></div>
+  </footer>
+</div>
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="https://unpkg.com/maplibre-contour@0.1.0/dist/index.min.js"></script>
+<script src="data.js"></script>
+<script src="i18n.js"></script>
+<script src="cop.js"></script>
+</body>
+</html>
