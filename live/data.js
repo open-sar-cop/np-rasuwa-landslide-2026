@@ -1,48 +1,36 @@
-/* snap 2026-08-28T08:50:00Z */
 window.GYIRONG_DATA = {
   snap: '2026-08-28T08:50:00Z',
-  officialStats: [
-    { side:'中国 吉隆口岸', items:[
-      { k:'遇难', v:'3', asof:'2026-08-27 08:00 BJT', src:'新华社' },
-      { k:'失联', v:'558（外籍260）', asof:'2026-08-27 08:00 BJT', src:'新华社' },
-      { k:'现场救出', v:'热索村村民 2', asof:'2026-08-27 08:00 BJT', src:'新华社' },
-      { k:'群众安置', v:'499', asof:'2026-08-27', src:'央广网' },
-      { k:'游客转移', v:'555', asof:'2026-08-27', src:'央广网' },
-      { k:'消防到位', v:'681人 / 113车 / 47无人机 / 13犬', asof:'2026-08-27 16:00', src:'国家消防救援局' },
-      { k:'首批抵口岸', v:'141人；米-171已抵灾区', asof:'2026-08-27 08:00', src:'应急管理部' },
-      { k:'G216抢通', v:'约800米', asof:'2026-08-27 18:00', src:'交通' },
-      { k:'边管通行证', v:'28日0时起暂停签发日喀则电子边管证', asof:'2026-08-28 00:00', src:'国家移民管理局' }
-    ]},
-    { side:'尼泊尔', items:[
-      { k:'遇难', v:'469（警方8月28日07:00）', asof:'2026-08-28 07:00 NPT', src:'Nepal Police' },
-      { k:'失联', v:'977（NDRRMA第6号）', asof:'2026-08-27', src:'NDRRMA' },
-      { k:'直升机救出', v:'约1976', asof:'2026-08-27/28', src:'NDRRMA' },
-      { k:'兵力', v:'13295', asof:'2026-08-27', src:'NDRRMA' },
-      { k:'直升机', v:'15', asof:'2026-08-27', src:'NDRRMA' },
-      { k:'外籍失联', v:'约517', asof:'2026-08-27', src:'Nepal Tourism Board' }
-    ]}
-  ],
+  langs: ['zh','en','ne','hi'],
+  kpi: { cn:{dead:3,missing:558,rescued:2}, np:{dead:469,missing:977,rescued:1976} },
   published: [
-    { id:'o1', src:'official', title:'【新华社】中方发布会：2救 / 3遇难 / 558失联', body:'截至8月27日08:00，救出热索村村民2人，遇难3人，失联558人（外籍260）。', lat:28.2797, lng:85.3777, t:'2026-08-27T08:00:00+08:00', link:'https://www.news.cn/local/20260827/c80eca2cd35a443489c76d00193e11e3/c.html' },
-    { id:'o6', src:'official', title:'【水利/央视】堰塞湖漫溢，溃泄风险高', body:'口岸上游堰塞湖约150–200万m³，已漫溢。', lat:28.293, lng:85.392, t:'2026-08-27T12:00:00+08:00', link:'https://www.cctvplus.com/news/20260827/8496344.shtml' },
-    { id:'o8', src:'official', title:'【Nepal Police】遇难469（28日07:00）', body:'奇旺178等分区数字。', lat:27.67, lng:84.43, t:'2026-08-28T07:00:00+05:45', link:'https://english.khabarhub.com/2026/28/565283/' },
-    { id:'o9', src:'official', title:'【NDRRMA #6】失联977 / 空运救出约1976', body:'投入13295人、15架直升机。', lat:27.70, lng:85.32, t:'2026-08-27T18:20:00+05:45', link:'https://ndrrma.gov.np/en' },
-    { id:'o10', src:'official', title:'【UNOSAT】Rasuwa 卫星过水约20km²', body:'分析区约230km²，暴露约2000人。', lat:28.26, lng:85.36, t:'2026-08-27T00:00:00Z', link:'https://reliefweb.int/map/nepal/nepal-satellite-detected-mudflow-rockflow-extent-26-27-august-2026-rasuwa-district-bagmati-province-imagery-analysis-2627082026-published-27082026-v1' },
-    { id:'o13', src:'official', title:'【新华社】救援已抵吉隆核心区', body:'绳索+冲锋舟+无人机。', lat:28.285, lng:85.375, t:'2026-08-28T07:39:00Z', link:'https://x.com/XHNews/status/2093241938233434515' }
+    { id:'o1', src:'official', t:'2026-08-27T08:00:00+08:00', link:'https://www.news.cn/local/20260827/c80eca2cd35a443489c76d00193e11e3/c.html',
+      lat:28.2797, lng:85.3777, geo:'place',
+      title:{ zh:'[新华社] 2救 / 3遇难 / 558失联', en:'[Xinhua] 2 rescued / 3 dead / 558 missing', ne:'[सिन्ह्वा] 2/3/558', hi:'[शिन्हुआ] 2/3/558' },
+      body:{ zh:'27日08:00 热索村救出2人，遇难3，失联558（外籍260）。', en:'As of 27 Aug 08:00 BJT: 2 rescued at Resuo, 3 dead, 558 missing (260 foreign).', ne:'2 उद्धार, 3 मृत्यु, 558 बेपत्ता।', hi:'2 बचाव, 3 मृत्यु, 558 लापता।' } },
+    { id:'o4', src:'official', t:'2026-08-27T18:00:00+08:00', lat:28.300, lng:85.368, geo:'corridor',
+      title:{ zh:'G216 抢通约800米，国门封闭', en:'G216 cleared ~800 m; gate closed', ne:'G216 ~800m; द्वार बन्द', hi:'G216 ~800m; द्वार बंद' },
+      body:{ zh:'国门不具备安全通行。', en:'Gate is not safe to open.', ne:'द्वार सुरक्षित छैन।', hi:'द्वार सुरक्षित नहीं।' } },
+    { id:'o6', src:'official', t:'2026-08-27T12:00:00+08:00', lat:28.293, lng:85.392, geo:'place',
+      title:{ zh:'堰塞湖漫溢', en:'Barrier lake overtopping', ne:'ताल overflow', hi:'झील ओवरफ्लो' },
+      body:{ zh:'上游约2.5km，150–200万m³。', en:'~2.5 km upstream, 1.5–2.0 million m3.', ne:'~2.5km माथि।', hi:'~2.5km ऊपर।' } },
+    { id:'o8', src:'official', t:'2026-08-28T07:00:00+05:45', lat:27.67, lng:84.43, geo:'place',
+      title:{ zh:'尼警方 469 具遗体', en:'Nepal Police 469 bodies', ne:'नेपाल प्रहरी 469', hi:'नेपाल पुलिस 469' },
+      body:{ zh:'28日07:00 NPT。', en:'As of 28 Aug 07:00 NPT.', ne:'28 अगस्ट 07:00।', hi:'28 अगस्त 07:00।' } },
+    { id:'o9', src:'official', t:'2026-08-27T18:20:00+05:45', lat:27.70, lng:85.32, geo:'place',
+      title:{ zh:'NDRRMA 失联 977 / 空运 1976', en:'NDRRMA 977 missing / 1976 heli', ne:'NDRRMA 977 / 1976', hi:'NDRRMA 977 / 1976' },
+      body:{ zh:'13295 人，15 架直升机。', en:'13,295 personnel, 15 helicopters.', ne:'13295, 15 हेलि।', hi:'13295, 15 हेली।' } }
   ],
+  roads: [
+    { id:'gate', status:'closed', lat:28.2797, lng:85.3777, name:{ zh:'国门', en:'Port gate', ne:'द्वार', hi:'द्वार' }, detail:{ zh:'双向管制', en:'Closed both ways', ne:'बन्द', hi:'बंद' } },
+    { id:'g216', status:'limited', lat:28.300, lng:85.368, name:{ zh:'G216 抢通', en:'G216 cleared', ne:'G216', hi:'G216' }, detail:{ zh:'约800米', en:'~800 m', ne:'~800m', hi:'~800m' } }
+  ],
+  sites: [
+    { id:'resuo', kind:'rescue', status:'done', lat:28.282, lng:85.374, name:{ zh:'热索村 2人', en:'2 at Resuo', ne:'रेश्वो 2', hi:'रेसुओ 2' } },
+    { id:'town', kind:'force', status:'staging', lat:28.390, lng:85.325, name:{ zh:'吉隆镇 CP', en:'Gyirong town CP', ne:'ग्यिरोङ CP', hi:'ग्यिरोंग CP' } }
+  ],
+  hydro: { lat:28.293, lng:85.392, status:{ zh:'上游 2.5km · 已漫溢', en:'2.5km upstream · overtopping', ne:'2.5km overflow', hi:'2.5km overflow' } },
   xPosts: [
-    { id:'x1', user:'@CCTV_Plus', t:'2026-08-28 08:37 UTC', text:'水利部：堰塞湖持续进水，溃泄风险高。', link:'https://x.com/CCTV_Plus/status/2093256551012397256' },
-    { id:'x2', user:'@XHNews', t:'2026-08-28 08:30 UTC', text:'李强要求全力救援吉隆口岸泥石流。', link:'https://x.com/XHNews/status/2093254818341236928' }
-  ],
-  tags: ['#吉隆口岸','#GyirongPort','#Rasuwa','#NepalFloods'],
-  hydro: [
-    { k:'堰塞湖', v:'口岸上游约2.5km；块长约150m、高40–50m', src:'水利' },
-    { k:'库容', v:'150–200万m³，已漫溢', src:'水利部' },
-    { k:'UNOSAT', v:'分析230km²，过水约20km²', src:'UNOSAT' }
-  ],
-  catalog: [
-    { group:'尼泊尔官方', items:[{ name:'NDRRMA', url:'https://ndrrma.gov.np/en', note:'Status Report。NEOC 1234' }] },
-    { group:'卫星与国际', items:[{ name:'UNOSAT Rasuwa PDF', url:'https://reliefweb.int/attachments/f48ad6fd-0d4a-42b6-8bc2-14dc1d56dbce/Layout_Map1.pdf', note:'8.51MB' }] },
-    { group:'中国 / 领事 / 媒体', items:[{ name:'新华社', url:'https://www.news.cn/local/20260827/c80eca2cd35a443489c76d00193e11e3/c.html', note:'发布会' }] }
+    { id:'x1', user:'@CCTV_Plus', t:'2026-08-28T08:37:00Z', lat:28.293, lng:85.392, geo:'place',
+      text:{ zh:'堰塞湖继续进水。', en:'Lake still filling.', ne:'ताल भरिँदै।', hi:'झील भर रही है।' } }
   ]
 };
