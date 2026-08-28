@@ -1,54 +1,54 @@
 {
-  "snap": "2026-08-29T12:00:00Z",
+  "snap": "2026-08-29T01:00:00Z",
   "kpi": {
-    "cn": {"dead": 7, "missing": 554, "rescued": 2},
-    "np": {"dead": 579, "missing": 1924, "rescued": 1545}
+    "cn": {"dead": 5, "missing": 558, "rescued": 2},
+    "np": {"dead": 579, "missing": 1924, "rescued": 4451}
   },
   "published": [
     {
-      "id": "cn-2026-08-29-0100",
+      "id": "cn-xinhua-28-1500",
       "src": "official",
-      "t": "2026-08-29T01:00:00+08:00",
-      "link": "https://english.news.cn/20260829/aadfbcaae2c3464e81ccd9e8860a65a1/c.html",
+      "t": "2026-08-28T15:00:00+08:00",
+      "link": "https://english.news.cn/20260829/87cc416274894831838af714fc195ef9/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "title": {
-        "zh": "中方截至29日1时：7遇难/554失联/2人救出",
-        "en": "China as of 29 Aug 01:00: 7 dead / 554 missing / 2 rescued",
-        "ne": "चीन २९ अगस्ट ०१:००: ७ मृत्यु / ५५४ बेपत्ता / २ उद्धार",
-        "hi": "चीन 29 अगस्त 01:00: 7 मृत / 554 लापता / 2 उद्धार"
+        "zh": "新华：截至28日15时5遇难558失联",
+        "en": "Xinhua: as of 15:00 28 Aug 5 dead 558 missing",
+        "ne": "शिनहुआ: २८ अगस्ट १५:०० ५ मृत्यु ५५८ बेपत्ता",
+        "hi": "सिन्हुआ: 28 अगस्त 15:00 5 मृत 558 लापता"
       },
       "body": {
-        "zh": "新华社。2141救援人员部署；1.02公里道路抢通；堰塞湖设5人监测岗。",
-        "en": "Xinhua. 2141 rescuers deployed; 1.02 km road cleared; 5-person barrier-lake monitor post.",
-        "ne": "शिनहुआ। २१४१ उद्धारकर्ता; १.०२ किमी सडक; ५ जना ताल निगरानी।",
-        "hi": "सिन्हुआ। 2141 बचावकर्मी; 1.02 किमी सड़क; 5-व्यक्ति झील निगरानी।"
+        "zh": "西藏应急管理；首批专业队16:30抵核心区；681消防113车。",
+        "en": "Xizang emergency mgmt; first pro teams 16:30 core; 681 fire 113 vehicles.",
+        "ne": "तिब्बत आपतकालीन; पहिलो दल १६:३० कोर; ६८१ फायर ११३ गाडी।",
+        "hi": "तिब्बत आपात; पहली टीमें 16:30 कोर; 681 फायर 113 वाहन।"
       }
     },
     {
-      "id": "np-ndrrma-7",
+      "id": "np-ndrrma-579",
       "src": "official",
       "t": "2026-08-28T19:00:00+05:45",
-      "link": "https://ndrrma.gov.np/np/situation-report/385",
+      "link": "",
       "img": null,
       "geo": "corridor",
       "title": {
-        "zh": "NDRRMA第7报：579遗体 / 1924失联",
-        "en": "NDRRMA #7: 579 bodies / 1924 missing",
-        "ne": "NDRRMA #७: ५७९ शव / १९२४ बेपत्ता",
-        "hi": "NDRRMA #7: 579 शव / 1924 लापता"
+        "zh": "NDRRMA：579遗体/1924失联/4451获救",
+        "en": "NDRRMA: 579 bodies / 1924 missing / 4451 rescued",
+        "ne": "NDRRMA: ५७९ शव / १९२४ बेपत्ता / ४४५१ उद्धार",
+        "hi": "NDRRMA: 579 शव / 1924 लापता / 4451 उद्धार"
       },
       "body": {
-        "zh": "截至28日晚7时；多县检索；517外籍失联。",
-        "en": "As of 28 Aug 19:00; multi-district recovery; 517 foreign missing.",
-        "ne": "२८ अगस्ट १९:०० सम्म; बहु-जिल्ला; ५१७ विदेशी।",
-        "hi": "28 अगस्त 19:00 तक; बहु-जिला; 517 विदेशी।"
+        "zh": "截至28日19时；517外籍失联；多县搜救。",
+        "en": "As of 28 Aug 19:00; 517 foreign missing; multi-district SAR.",
+        "ne": "२८ अगस्ट १९:००; ५१७ विदेशी; बहु-जिल्ला।",
+        "hi": "28 अगस्त 19:00; 517 विदेशी; बहु-जिला।"
       }
     },
     {
-      "id": "cn-rescue-core",
+      "id": "cn-teams-core",
       "src": "official",
       "t": "2026-08-28T16:30:00+08:00",
       "link": "https://english.news.cn/20260829/87cc416274894831838af714fc195ef9/c.html",
@@ -58,19 +58,19 @@
       "geo": "place",
       "title": {
         "zh": "首批专业救援队抵达吉隆口岸核心区",
-        "en": "First professional teams reach Gyirong Port core area",
+        "en": "First professional teams reach Gyirong Port core",
         "ne": "पहिलो व्यावसायिक दल ग्यिरोङ कोर पुगे",
         "hi": "पहली पेशेवर टीमें ग्यिरोङ कोर पहुंचीं"
       },
       "body": {
-        "zh": "西藏消防6人+四川消防15人及搜救犬于28日16:30抵达。",
-        "en": "Xizang Fire 6 + Sichuan Fire 15 with dog arrived 16:30 28 Aug.",
-        "ne": "तिब्बत फायर ६ + सिचुआन १५ कुकुरसहित १६:३०।",
-        "hi": "तिब्बत फायर 6 + सिचुआन 15 कुत्ते के साथ 16:30।"
+        "zh": "西藏消防6人+四川消防15人1犬于28日16:30抵达。",
+        "en": "Xizang Fire 6 + Sichuan Fire 15+dog arrived 16:30 28 Aug.",
+        "ne": "तिब्बत ६ + सिचुआन १५+कुकुर १६:३०।",
+        "hi": "तिब्बत 6 + सिचुआन 15+कुत्ता 16:30।"
       }
     },
     {
-      "id": "barrier-lake-29",
+      "id": "barrier-lake",
       "src": "official",
       "t": "2026-08-28T12:00:00+08:00",
       "link": "",
@@ -79,58 +79,56 @@
       "lng": 85.392,
       "geo": "place",
       "title": {
-        "zh": "堰塞湖风险可控 救援恢复 持续监测",
-        "en": "Barrier lake risk manageable; rescue resumed; continuous monitoring",
-        "ne": "बाँधताल जोखिम व्यवस्थापनयोग्य; उद्धार पुनः; निरन्तर निगरानी",
-        "hi": "बाँध झील जोखिम प्रबंधनीय; बचाव पुनः; निरंतर निगरानी"
+        "zh": "堰塞湖溢流风险 曾暂停后恢复救援",
+        "en": "Barrier lake overflow risk; paused then resumed rescue",
+        "ne": "बाँधताल ओभरफ्लो जोखिम; रोकिएर पुनः उद्धार",
+        "hi": "बाँध झील ओवरफ्लो जोखिम; रोका फिर बचाव"
       },
       "body": {
-        "zh": "蓄水约2–2.5百万m³；曾暂停后恢复；5人监测岗。",
-        "en": "~2–2.5M m³; paused then resumed; 5-person post.",
-        "ne": "~२–२.५ लाख घनमी; रोकिएर पुनः; ५ जना।",
-        "hi": "~2–2.5M m³; रोका फिर पुनः; 5 व्यक्ति।"
+        "zh": "蓄水约2-2.5百万m³；持续监测。",
+        "en": "~2-2.5M m³ storage; continuous monitoring.",
+        "ne": "~२-२.५ लाख घनमी; निरन्तर निगरानी।",
+        "hi": "~2-2.5M m³; निरंतर निगरानी।"
       }
     },
     {
-      "id": "road-clear-29",
-      "src": "official",
-      "t": "2026-08-29T01:00:00+08:00",
-      "link": "",
-      "img": null,
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "place",
-      "title": {
-        "zh": "道路已抢通1.02公里 口岸仍封闭",
-        "en": "1.02 km road cleared; port remains closed",
-        "ne": "१.०२ किमी सडक खुला; द्वार बन्द",
-        "hi": "1.02 किमी सड़क खुली; द्वार बंद"
-      },
-      "body": {
-        "zh": "新华：继续推进抢通与次生灾害防范。",
-        "en": "Xinhua: continue clearance and secondary-hazard prevention.",
-        "ne": "शिनहुआ: निरन्तर खुला र द्वितीय जोखिम।",
-        "hi": "सिन्हुआ: निरंतर खुला और द्वितीय जोखिम।"
-      }
-    },
-    {
-      "id": "us-embassy-28",
+      "id": "us-embassy",
       "src": "official",
       "t": "2026-08-28T00:00:00+05:45",
       "link": "https://np.usembassy.gov/natural-disaster-alert-continuing-flood-risk-and-travel-disruptions/",
       "img": null,
       "geo": "corridor",
       "title": {
-        "zh": "美使馆：Rasuwa走廊道路中断 口岸不可达",
-        "en": "US Embassy: Rasuwa corridor roads disrupted; border inaccessible",
+        "zh": "美使馆：Rasuwa道路中断 口岸不可达",
+        "en": "US Embassy: Rasuwa roads disrupted; border inaccessible",
         "ne": "अमेरिकी दूतावास: रसुवा सडक अवरुद्ध; सीमा पहुँचहीन",
         "hi": "अमेरिकी दूतावास: रसुवा सड़क बाधित; सीमा पहुंचहीन"
       },
       "body": {
-        "zh": "持续洪水风险；远离河岸。",
-        "en": "Continuing flood risk; stay away from riverbanks.",
-        "ne": "बाढी जोखिम जारी; नदीबाट टाढा।",
-        "hi": "बाढ़ जोखिम जारी; नदी से दूर।"
+        "zh": "持续洪水风险；避免前往。",
+        "en": "Continuing flood risk; avoid travel.",
+        "ne": "बाढी जोखिम जारी; यात्रा नगर्नु।",
+        "hi": "बाढ़ जोखिम जारी; यात्रा न करें।"
+      }
+    },
+    {
+      "id": "unosat-map",
+      "src": "official",
+      "t": "2026-08-27T00:00:00Z",
+      "link": "https://reliefweb.int/map/nepal/nepal-satellite-detected-mudflow-rockflow-extent-26-27-august-2026-rasuwa-district-bagmati-province-imagery-analysis-2627082026-published-27082026-v1",
+      "img": null,
+      "geo": "corridor",
+      "title": {
+        "zh": "UNOSAT：Rasuwa泥石流范围约20km²",
+        "en": "UNOSAT: Rasuwa mudflow extent ~20 km²",
+        "ne": "UNOSAT: रसुवा माटो बहाव ~२० किमी²",
+        "hi": "UNOSAT: रसुवा मिट्टी प्रवाह ~20 किमी²"
+      },
+      "body": {
+        "zh": "Sentinel-2/PlanetScope分析；约2000人潜在暴露。",
+        "en": "Sentinel-2/PlanetScope analysis; ~2000 potentially exposed.",
+        "ne": "Sentinel-2/PlanetScope; ~२००० जोखिम।",
+        "hi": "Sentinel-2/PlanetScope; ~2000 जोखिम।"
       }
     }
   ],
@@ -147,10 +145,10 @@
         "hi": "ग्यिरोङ द्वार"
       },
       "detail": {
-        "zh": "双向封闭；道路/通信仍中断",
-        "en": "Closed both ways; road/comms still cut",
-        "ne": "दुवैतर्फ बन्द; सडक/सञ्चार अवरुद्ध",
-        "hi": "दोनों ओर बंद; सड़क/संचार कट"
+        "zh": "双向封闭；核心区道路淤泥厚1.5-2m",
+        "en": "Closed both ways; core road mud 1.5-2m thick",
+        "ne": "दुवैतर्फ बन्द; कोर सडक माटो १.५-२मि",
+        "hi": "दोनों ओर बंद; कोर सड़क मिट्टी 1.5-2मी"
       }
     },
     {
@@ -165,10 +163,10 @@
         "hi": "G216 राजमार्ग"
       },
       "detail": {
-        "zh": "已抢通1.02公里；继续推进",
-        "en": "1.02 km cleared; advancing",
-        "ne": "१.०२ किमी खुला; अगाडि",
-        "hi": "1.02 किमी खुला; आगे"
+        "zh": "最后数公里受损严重；抢通推进中",
+        "en": "Last few km severely damaged; clearance ongoing",
+        "ne": "अन्तिम केही किमी क्षति; खुला जारी",
+        "hi": "अंतिम कुछ किमी क्षति; खुला जारी"
       }
     }
   ],
@@ -179,16 +177,16 @@
       "lat": 28.39,
       "lng": 85.325,
       "name": {
-        "zh": "综合救援力量 2141人",
-        "en": "Combined rescue force 2141",
-        "ne": "संयुक्त उद्धार २१४१",
-        "hi": "संयुक्त बचाव 2141"
+        "zh": "国家综合消防救援 681人",
+        "en": "National fire rescue 681",
+        "ne": "राष्ट्रिय फायर उद्धार ६८१",
+        "hi": "राष्ट्रीय फायर बचाव 681"
       },
       "detail": {
-        "zh": "已部署灾区；含消防/军队/武警",
-        "en": "Deployed to area; fire/PLA/PAP",
-        "ne": "क्षेत्रमा तैनात; फायर/सेना/सशस्त्र",
-        "hi": "क्षेत्र में तैनात; फायर/सेना/सशस्त्र"
+        "zh": "113车6612装备；已抵吉隆镇",
+        "en": "113 vehicles 6612 equip; arrived Gyirong town",
+        "ne": "११३ गाडी ६६१२ सामान; ग्यिरोङ पुगे",
+        "hi": "113 वाहन 6612 सामान; ग्यिरोङ पहुंचे"
       }
     },
     {
@@ -199,14 +197,14 @@
       "name": {
         "zh": "前突专业搜救队",
         "en": "Forward professional SAR",
-        "ne": "अग्रिम व्यावसायिक उद्धार",
+        "ne": "अग्रिम व्यावसायिक SAR",
         "hi": "अग्रिम पेशेवर SAR"
       },
       "detail": {
-        "zh": "已抵达核心区（非实时GPS）",
-        "en": "Reached core area (reported, not live GNSS)",
-        "ne": "कोर क्षेत्र पुगे",
-        "hi": "कोर क्षेत्र पहुंचे"
+        "zh": "已抵达核心区（报告位置）",
+        "en": "Reached core (reported position)",
+        "ne": "कोर पुगे (रिपोर्ट)",
+        "hi": "कोर पहुंचे (रिपोर्ट)"
       }
     }
   ],
@@ -218,16 +216,16 @@
       "lat": 28.282,
       "lng": 85.374,
       "name": {
-        "zh": "热索村 2人",
-        "en": "Resuo Village 2",
-        "ne": "रेसुओ गाउँ २",
-        "hi": "रेसुओ गांव 2"
+        "zh": "热索村",
+        "en": "Resuo Village",
+        "ne": "रेसुओ गाउँ",
+        "hi": "रेसुओ गांव"
       },
       "detail": {
-        "zh": "已救出",
-        "en": "Rescued",
-        "ne": "उद्धार सम्पन्न",
-        "hi": "उद्धार हो चुका"
+        "zh": "2人救出",
+        "en": "2 rescued",
+        "ne": "२ उद्धार",
+        "hi": "2 उद्धार"
       }
     },
     {
@@ -237,16 +235,16 @@
       "lat": 28.39,
       "lng": 85.325,
       "name": {
-        "zh": "555名游客",
-        "en": "555 tourists",
-        "ne": "५५५ पर्यटक",
-        "hi": "555 पर्यटक"
+        "zh": "游客安置",
+        "en": "Tourist shelter",
+        "ne": "पर्यटक आश्रय",
+        "hi": "पर्यटक आश्रय"
       },
       "detail": {
-        "zh": "已全部转移安置",
-        "en": "All relocated",
-        "ne": "सबै स्थानान्तरण",
-        "hi": "सभी स्थानांतरित"
+        "zh": "555名游客已转移",
+        "en": "555 tourists relocated",
+        "ne": "५५५ पर्यटक स्थानान्तरण",
+        "hi": "555 पर्यटक स्थानांतरित"
       }
     }
   ],
@@ -254,28 +252,13 @@
     "lat": 28.293,
     "lng": 85.392,
     "status": {
-      "zh": "堰塞湖约2–2.5百万m³·风险可控·救援恢复·5人监测岗",
-      "en": "Barrier lake ~2–2.5M m³ · risk manageable · rescue resumed · 5-person monitor",
-      "ne": "बाँधताल ~२–२.५ लाख घनमी · जोखिम व्यवस्थापनयोग्य · उद्धार पुनः · ५ जना",
-      "hi": "बाँध झील ~2–2.5M m³ · जोखिम प्रबंधनीय · बचाव पुनः · 5 व्यक्ति"
+      "zh": "堰塞湖约2-2.5百万m³·溢流中·风险可控·救援已恢复",
+      "en": "Barrier lake ~2-2.5M m³ · overflowing · risk manageable · rescue resumed",
+      "ne": "बाँधताल ~२-२.५ लाख घनमी · ओभरफ्लो · जोखिम व्यवस्थापनयोग्य · उद्धार पुनः",
+      "hi": "बाँध झील ~2-2.5M m³ · ओवरफ्लो · जोखिम प्रबंधनीय · बचाव पुनः"
     }
   },
   "xPosts": [
-    {
-      "id": "2093362405258739957",
-      "user": "@CGTNOfficial",
-      "t": "2026-08-28T15:37:44Z",
-      "link": "https://x.com/CGTNOfficial/status/2093362405258739957",
-      "lat": 28.28,
-      "lng": 85.38,
-      "geo": "place",
-      "text": {
-        "zh": "首批专业救援队于8月28日16:30左右抵达吉隆口岸核心区。",
-        "en": "First professional rescue teams reach core area near Gyirong Port around 16:30 on 28 Aug.",
-        "ne": "पहिलो व्यावसायिक दल २८ अगस्ट १६:३० ग्यिरोङ कोर पुगे।",
-        "hi": "पहली पेशेवर टीमें 28 अगस्त 16:30 ग्यिरोङ कोर पहुंचीं।"
-      }
-    },
     {
       "id": "2093358230802223351",
       "user": "@XHNews",
@@ -286,22 +269,37 @@
       "geo": "place",
       "text": {
         "zh": "截至周五下午：5遇难558失联；数百消防与物资已抵达。",
-        "en": "As of Friday afternoon: 5 dead 558 missing; hundreds of fire/rescue and supplies arrived.",
-        "ne": "शुक्रबार अपरान्ह: ५ मृत्यु ५५८ बेपत्ता; सयौं दमकल/सामान।",
+        "en": "As of Friday afternoon: 5 dead 558 missing; hundreds fire/rescue supplies arrived.",
+        "ne": "शुक्रबार अपरान्ह: ५ मृत्यु ५५८ बेपत्ता; सयौं फायर/सामान।",
         "hi": "शुक्रवार दोपहर: 5 मृत 558 लापता; सैकड़ों फायर/सामान।"
       }
     },
     {
-      "id": "2093386823385104667",
+      "id": "2093329442777301292",
+      "user": "@XHNews",
+      "t": "2026-08-28T13:26:45Z",
+      "link": "https://x.com/XHNews/status/2093329442777301292",
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "place",
+      "text": {
+        "zh": "航拍：救援人员在吉隆泥石流灾区争分夺秒。",
+        "en": "Aerial: Rescuers racing against time in Gyirong mudslide area.",
+        "ne": "एरियल: ग्यिरोङ माटोस्लाइडमा उद्धारकर्ता समयसँग दौड।",
+        "hi": "एरियल: ग्यिरोङ मिट्टीस्लाइड में बचावकर्मी समय से दौड़।"
+      }
+    },
+    {
+      "id": "2093363478744776793",
       "user": "@NDRRMA_Nepal",
-      "t": "2026-08-28T17:14:46Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2093386823385104667",
+      "t": "2026-08-28T15:42:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2093363478744776793",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA发布第7号搜索救援与救济状态报告。",
-        "en": "NDRRMA released Search-Rescue-Relief Status Report #7.",
-        "ne": "NDRRMA ले खोज-उद्धार-राहत स्थिति प्रतिवेदन #७ जारी।",
-        "hi": "NDRRMA ने खोज-उद्धार-राहत स्थिति रिपोर्ट #7 जारी।"
+        "zh": "请查看获救外籍公民名单（8月28日）。",
+        "en": "Please see list of rescued foreign citizens, Aug 28.",
+        "ne": "कृपया उद्धार विदेशी नागरिक सूची हेर्नुहोस्, अगस्ट २८।",
+        "hi": "कृपया उद्धार विदेशी नागरिक सूची देखें, अगस्त 28।"
       }
     }
   ]
