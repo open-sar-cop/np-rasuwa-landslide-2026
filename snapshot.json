@@ -5,69 +5,17 @@
     "np": {"dead": 469, "missing": 977, "rescued": 1976}
   },
   "roads": [
-    {
-      "id": "gate",
-      "status": "closed",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "name": {"zh": "口岸 / 国门", "en": "Port gate", "ne": "सीमा द्वार", "hi": "सीमा द्वार"},
-      "detail": {"zh": "双向封闭", "en": "Closed both ways", "ne": "दुवैतर्फ बन्द", "hi": "दोनों ओर बंद"}
-    },
-    {
-      "id": "g216",
-      "status": "limited",
-      "lat": 28.3,
-      "lng": 85.368,
-      "name": {"zh": "G216", "en": "G216", "ne": "G216", "hi": "G216"},
-      "detail": {"zh": "抢通约 800m（截至 27日 18:00）", "en": "~800 m cleared as of 27 Aug 18:00", "ne": "करिब 800 मी खोलिएको", "hi": "~800m"}
-    },
-    {
-      "id": "bridge",
-      "status": "destroyed",
-      "lat": 28.278,
-      "lng": 85.377,
-      "name": {"zh": "热索桥 / 友谊桥", "en": "Friendship Bridge", "ne": "मैत्री पुल", "hi": "मैत्री पुल"},
-      "detail": {"zh": "损毁", "en": "Destroyed", "ne": "नष्ट", "hi": "नष्ट"}
-    }
+    {"id": "gate", "status": "closed", "lat": 28.2797, "lng": 85.3777, "name": {"zh": "口岸 / 国门", "en": "Port gate", "ne": "सीमा द्वार", "hi": "सीमा द्वार"}, "detail": {"zh": "双向封闭", "en": "Closed both ways", "ne": "दुवैतर्फ बन्द", "hi": "दोनों ओर बंद"}},
+    {"id": "g216", "status": "limited", "lat": 28.3, "lng": 85.368, "name": {"zh": "G216", "en": "G216", "ne": "G216", "hi": "G216"}, "detail": {"zh": "抢通约 800m（截至 27日 18:00）", "en": "~800 m cleared as of 27 Aug 18:00", "ne": "करिब 800 मी खोलिएको", "hi": "~800m"}},
+    {"id": "bridge", "status": "destroyed", "lat": 28.278, "lng": 85.377, "name": {"zh": "热索桥 / 友谊桥", "en": "Friendship Bridge", "ne": "मैत्री पुल", "hi": "मैत्री पुल"}, "detail": {"zh": "损毁", "en": "Destroyed", "ne": "नष्ट", "hi": "नष्ट"}}
   ],
   "forces": [
-    {
-      "id": "fire",
-      "status": "staging",
-      "lat": 28.39,
-      "lng": 85.325,
-      "name": {"zh": "消防 681", "en": "Firefighters 681", "ne": "दमकल 681", "hi": "फायर 681"},
-      "detail": {"zh": "吉隆镇集结（报道位置）", "en": "Staged in township (reported)", "ne": "बजार क्षेत्रमा", "hi": "नगर में"}
-    },
-    {
-      "id": "fwd",
-      "status": "limited",
-      "lat": 28.318,
-      "lng": 85.36,
-      "geo": "place",
-      "name": {"zh": "前突 17", "en": "Forward team 17", "ne": "अग्रिम 17", "hi": "अग्रिम 17"},
-      "detail": {"zh": "距国门约 5km（报道位置，非实时GPS）", "en": "~5 km from gate (reported, not live GPS)", "ne": "द्वारबाट करिब 5 किमि", "hi": "~5km"}
-    }
+    {"id": "fire", "status": "staging", "lat": 28.39, "lng": 85.325, "name": {"zh": "消防 681", "en": "Firefighters 681", "ne": "दमकल 681", "hi": "फायर 681"}, "detail": {"zh": "吉隆镇集结（报道位置）", "en": "Staged in township (reported)", "ne": "बजार क्षेत्रमा", "hi": "नगर में"}},
+    {"id": "fwd", "status": "limited", "lat": 28.318, "lng": 85.36, "geo": "place", "name": {"zh": "前突 17", "en": "Forward team 17", "ne": "अग्रिम 17", "hi": "अग्रिम 17"}, "detail": {"zh": "距国门约 5km（报道位置，非实时GPS）", "en": "~5 km from gate (reported, not live GPS)", "ne": "द्वारबाट करिब 5 किमि", "hi": "~5km"}}
   ],
   "sites": [
-    {
-      "id": "resuo",
-      "kind": "rescue",
-      "status": "done",
-      "lat": 28.282,
-      "lng": 85.374,
-      "name": {"zh": "热索 2", "en": "Resuo 2", "ne": "रेसुओ 2", "hi": "रेसुओ 2"},
-      "detail": {"zh": "已救出", "en": "Rescued", "ne": "उद्धार", "hi": "बचाव"}
-    },
-    {
-      "id": "tourists",
-      "kind": "shelter",
-      "status": "done",
-      "lat": 28.39,
-      "lng": 85.325,
-      "name": {"zh": "555 名游客", "en": "555 tourists", "ne": "555 पर्यटक", "hi": "555 पर्यटक"},
-      "detail": {"zh": "已转移", "en": "Relocated", "ne": "स्थानान्तरण", "hi": "स्थानांतरित"}
-    }
+    {"id": "resuo", "kind": "rescue", "status": "done", "lat": 28.282, "lng": 85.374, "name": {"zh": "热索 2", "en": "Resuo 2", "ne": "रेसुओ 2", "hi": "रेसुओ 2"}, "detail": {"zh": "已救出", "en": "Rescued", "ne": "उद्धार", "hi": "बचाव"}},
+    {"id": "tourists", "kind": "shelter", "status": "done", "lat": 28.39, "lng": 85.325, "name": {"zh": "555 名游客", "en": "555 tourists", "ne": "555 पर्यटक", "hi": "555 पर्यटक"}, "detail": {"zh": "已转移", "en": "Relocated", "ne": "स्थानान्तरण", "hi": "स्थानांतरित"}}
   ],
   "hydro": {
     "lat": 28.293,
@@ -75,7 +23,7 @@
     "status": {
       "zh": "上游约 2.5km · 曾漫溢 · 28日有报道称风险减小",
       "en": "~2.5 km upstream · had been overtopping · risk reported lower on 28 Aug",
-      "ne": "माथि 2.5 किमि · अगाडि ओवरफ्लो · 28 गते जोखिम घटेको भनिएको भनाइयो",
+      "ne": "माथि 2.5 किमि · अगाडि ओवरफ्लो · 28 गते जोखिम घटेको भनिएको",
       "hi": "2.5km overflow; risk lower 28 Aug"
     }
   },
@@ -92,7 +40,7 @@
       "title": {
         "zh": "中方截至 28日 15:00：5 遇难 / 558 失联 / 热索 2 人救出",
         "en": "China as of 28 Aug 15:00: 5 dead / 558 missing / 2 rescued at Resuo",
-        "ne": "चीन: 5 मृत्यु / 558 बेपत्ता / रेसुओमा 2 उद्धार",
+        "ne": "चीन: 5 मृत्यु / 558 बेपत्ता / रेसुओमा 2 उद्धार",
         "hi": "चीन: 5 मृत / 558 लापता / रेसुओ 2 उद्धार"
       },
       "body": {
@@ -120,7 +68,7 @@
       "body": {
         "zh": "多县河岸检索，不尽是口岸核心区。",
         "en": "Recovered across multiple downstream districts, not only the port core.",
-        "ne": "तल्लो टटीय जिल्लाबाट भेटिएका शव।",
+        "ne": "तल्लो तटीय जिल्लाबाट भेटिएका शव।",
         "hi": "नीचले जिलों से शव।"
       }
     },
@@ -162,7 +110,7 @@
       "body": {
         "zh": "中方交通部门 / 应急管理系统。",
         "en": "China transport / EMA briefings.",
-        "ne": "चीन यातायात संक्षिप्त ब्रिफिङ।",
+        "ne": "चीन यातायात ब्रिफिङ।",
         "hi": "चीन यातायात ब्रीफिंग।"
       }
     }
