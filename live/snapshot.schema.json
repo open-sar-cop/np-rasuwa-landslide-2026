@@ -1,0 +1,26 @@
+{
+  "$comment": "Grok 定时任务应只输出这种 JSON。Dashboard fetch snapshot.json。",
+  "snap": "2026-08-28T00:00:00Z",
+  "china": {
+    "dead": 3,
+    "missing": 558,
+    "rescued_on_site": 2,
+    "asof": "2026-08-27T08:00:00+08:00",
+    "source": "吉隆救援指挥部发布会 / 新华社"
+  },
+  "nepal": {
+    "dead": 469,
+    "missing": 977,
+    "rescued": 1976,
+    "asof": "2026-08-28T07:00:00+05:45",
+    "source": "Nepal Police / NDRRMA"
+  },
+  "hydro": {
+    "lake_status": "漫溢，溃泄风险高",
+    "volume_m3": "150-200万",
+    "note": "预报或再入约 300万m³"
+  },
+  "items": [],
+  "xPosts": [],
+  "unverified": []
+}
