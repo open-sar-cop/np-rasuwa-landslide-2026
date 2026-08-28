@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>吉隆 / Rasuwa · 三视图融合</title>
+  <style>
+    :root { --bg:#070b10; --ln:#243044; --gold:#d7b15a; --dim:#8b9bb0; --tx:#dce6f2; }
+    * { box-sizing:border-box; }
+    html,body { margin:0; height:100%; background:var(--bg); color:var(--tx); font-family:"Noto Sans SC","PingFang SC",sans-serif; overflow:hidden; }
+    .bar { height:48px; display:flex; align-items:center; justify-content:space-between; padding:0 12px; border-bottom:1px solid var(--ln); background:#0d141d; gap:10px; }
+    .bar b { color:var(--gold); letter-spacing:.08em; font-size:13px; }
+    .tabs { display:flex; gap:4px; flex-wrap:wrap; }
+    .tabs button { background:#162131; color:var(--dim); border:1px solid #2c3d55; border-radius:4px; padding:6px 10px; cursor:pointer; font-size:12px; }
+    .tabs button.on { color:var(--gold); border-color:var(--gold); background:#3a2a10; }
+    .note { font-size:11px; color:#ffb4b4; }
+    iframe { width:100%; height:calc(100% - 48px); border:0; background:#000; }
+  </style>
+</head>
+<body>
+  <div class="bar">
+    <div><b>GYIRONG HUB</b> <span style="color:var(--dim);font-size:12px">吉隆 / Rasuwa 三视图</span></div>
+    <div class="tabs">
+      <button data-v="cop.html" class="on">指挥盘 3D</button>
+      <button data-v="index.html">灾情动态</button>
+      <button data-v="terrain.html">真实地形</button>
+      <button data-v="scene3d.html">示意三维</button>
+    </div>
+    <div class="note">同一事件 · 四套视图 · 非官方</div>
+  </div>
+  <iframe id="frame" src="cop.html" title="view"></iframe>
+  <script>
+    const frame = document.getElementById('frame');
+    const btns = [...document.querySelectorAll('[data-v]')];
+    function go(src) {
+      frame.src = src;
+      btns.forEach(b => b.classList.toggle('on', b.dataset.v === src));
+      history.replaceState(null, '', '?' + src.replace('.html',''));
+    }
+    btns.forEach(b => b.onclick = () => go(b.dataset.v));
+    const q = location.search.replace('?','').replace('v=','');
+    const map = { cop:'cop.html', live:'index.html', index:'index.html', terrain:'terrain.html', '3d':'scene3d.html', scene3d:'scene3d.html' };
+    if (map[q]) go(map[q]);
+  </script>
+</body>
+</html>
