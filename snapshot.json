@@ -1,0 +1,24 @@
+{
+  "snap": "2026-08-28T08:50:00Z",
+  "kpi": {"cn": {"dead": 3, "missing": 558, "rescued": 2}, "np": {"dead": 469, "missing": 977, "rescued": 1976}},
+  "roads": [
+    {"id": "gate", "status": "closed", "lat": 28.2797, "lng": 85.3777, "name": {"zh": "国门方向", "en": "Port gate", "ne": "सीमा द्वार", "hi": "सीमा द्वार"}, "detail": {"zh": "双向封闭", "en": "Closed both ways", "ne": "द्विदिश बन्द", "hi": "दोनों ओर बंद"}},
+    {"id": "g216", "status": "limited", "lat": 28.3, "lng": 85.368, "name": {"zh": "G216 抢通段", "en": "G216 cleared", "ne": "G216", "hi": "G216"}, "detail": {"zh": "约800m", "en": "~800 m", "ne": "~800m", "hi": "~800m"}},
+    {"id": "bridge", "status": "destroyed", "lat": 28.278, "lng": 85.377, "name": {"zh": "热索桥 / 友谊桥", "en": "Friendship Bridge", "ne": "मित्रता पुल", "hi": "मैत्री पुल"}, "detail": {"zh": "损毁", "en": "Destroyed", "ne": "भत्किए", "hi": "नष्ट"}}
+  ],
+  "forces": [
+    {"id": "fire", "status": "staging", "lat": 28.39, "lng": 85.325, "name": {"zh": "消防 681 / 113车", "en": "Fire 681 / 113 vehicles", "ne": "दमकल 681", "hi": "फायर 681"}, "detail": {"zh": "吉隆镇已齐", "en": "Staged in town", "ne": "सहरमा", "hi": "नगर में"}},
+    {"id": "fwd", "status": "limited", "lat": 28.318, "lng": 85.36, "name": {"zh": "前突 17人+无人机", "en": "Forward 17 + drones", "ne": "अग्रिम 17", "hi": "अग्रिम 17"}, "detail": {"zh": "距国门约5km", "en": "~5 km from gate", "ne": "~5km", "hi": "~5km"}}
+  ],
+  "sites": [
+    {"id": "resuo", "status": "done", "lat": 28.282, "lng": 85.374, "name": {"zh": "热索村 2人", "en": "2 at Resuo", "ne": "रेश्वो 2", "hi": "रेसुओ 2"}, "detail": {"zh": "已救出", "en": "Rescued", "ne": "उद्धार", "hi": "बचाव"}},
+    {"id": "tourists", "status": "done", "lat": 28.39, "lng": 85.325, "name": {"zh": "滞留游客 555", "en": "555 tourists", "ne": "555 पर्यटक", "hi": "555 पर्यटक"}, "detail": {"zh": "已转移", "en": "Moved", "ne": "सारिए", "hi": "स्थानांतरित"}}
+  ],
+  "hydro": {"lat": 28.293, "lng": 85.392, "status": {"zh": "上游约2.5km · 已漫溢", "en": "~2.5 km upstream · overtopping", "ne": "2.5km overflow", "hi": "2.5km overflow"}},
+  "published": [
+    {"id": "o1", "src": "official", "t": "2026-08-27T08:00:00+08:00", "lat": 28.2797, "lng": 85.3777, "geo": "place",
+      "title": {"zh": "中方 2救 / 3遇难 / 558失联", "en": "CN 2 rescued / 3 dead / 558 missing", "ne": "CN 2/3/558", "hi": "CN 2/3/558"},
+      "body": {"zh": "热索村救出2人。", "en": "2 rescued at Resuo.", "ne": "2 उद्धार।", "hi": "2 बचाव।"}}
+  ],
+  "xPosts": []
+}
