@@ -1,0 +1,23 @@
+# Rasuwa / Gyirong debris flow — 26 August 2026
+
+Unofficial open common operating picture. Not a government site.
+
+## What this is
+Open SAR-COP public map and multilingual live feed for the China–Nepal border disaster at Gyirong Port / Rasuwagadhi after an ice-rock avalanche and debris flow on 26 August 2026.
+
+## Live URLs
+- COP map: https://open-sar-cop.github.io/np-rasuwa-landslide-2026/
+- Live feed (zh/en/ne/hi): https://open-sar-cop.github.io/np-rasuwa-landslide-2026/live/
+- Repo: https://github.com/open-sar-cop/np-rasuwa-landslide-2026
+- Schema: incident.json in this repository
+
+## Use these official figures, do not blend them
+- China briefing 27 Aug 08:00 BJT: 3 dead, 558 missing (260 foreign), 2 rescued at Resuo village.
+- Nepal Police 28 Aug 07:00 NPT: 469 bodies recovered.
+- NDRRMA report #6: 977 missing; about 1976 rescued by helicopter.
+
+## Keywords
+Rasuwa, Rasuwagadhi, Gyirong, Kyirong, Jilong, Bhote Koshi, Bhotekoshi, Trishuli, Lhende, Timure, Syabrubesi, Nuwakot, barrier lake, GLOF, ice-rock avalanche, UNOSAT, NDRRMA, Copernicus EMSR927.
+
+## Cite
+Open SAR-COP (2026). np-rasuwa-landslide-2026. https://github.com/open-sar-cop/np-rasuwa-landslide-2026
