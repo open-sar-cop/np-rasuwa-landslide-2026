@@ -1,23 +1,35 @@
-# 数据来源与时效说明 — 尼泊尔热索瓦特大泥石流（2026-08-26）
+# Sources — Rasuwa / Gyirong debris flow 2026-08-26
 
-## 时效
+Compiled 2026-08-28. Figures change. Prefer the latest briefing over this file.
 
-- 本目录数据整理时间：2026-08-28
-- 伤亡与损毁数字**截至 2026-08-27 晚**（尼泊尔警方/国家减少灾害风险管理局口径），灾害仍在发展中，数字持续变化
-- 生成的 COP 仅为公开信息态势整理，不作为救援决策的唯一依据
+## Official numbers (do not mix them)
 
-## 来源
+| Side | Figure | As-of | Source |
+|---|---|---|---|
+| China, Gyirong Port | 3 dead / 558 missing (260 foreign) / 2 rescued on site | 27 Aug 08:00 BJT | Xinhua press briefing |
+| Nepal Police | 469 bodies recovered | 28 Aug 07:00 NPT | Nepal Police / Khabarhub |
+| NDRRMA Status Report #6 | 977 missing; ~1976 heli-rescued; 13,295 personnel | 27 Aug evening | NDRRMA |
+| Earlier China media digest | 289 dead / 910 missing | 27 Aug evening | CCTV — superseded by later police count |
 
-| 来源 | 日期 | 要点 |
-|---|---|---|
-| 央视新闻（新闻联播） | 2026-08-27 | 289 人遇难、910 人失联；35 座可通车桥梁、45 座吊桥、40 公里铺装道路受损 |
-| 新华社（外交部记者会） | 2026-08-27 | 受灾地区失联外国公民 260 人；尼方一侧失联中国公民近百人 |
-| 中新社（加德满都） | 2026-08-26 | 384 名游客失联（291 外籍 + 93 尼泊尔籍）；努瓦果德—拉苏瓦堡口岸约 42 公里道路多处被毁 |
-| 央广网 | 2026-08-27 | 受灾县范围（热索瓦、努瓦果德、塔丁、廓尔喀、奇特旺）；应急响应与灾害危机地区划定（3 个月） |
+## Maps and science
 
-## 数据口径
+- UNOSAT Rasuwa V1: analysed ~230 km², mudflow/flood ~20 km², ~2000 people exposed. PDF: https://reliefweb.int/attachments/f48ad6fd-0d4a-42b6-8bc2-14dc1d56dbce/Layout_Map1.pdf
+- Copernicus EMS activated (OSM notes EMSR927): https://mapping.emergency.copernicus.eu/
+- ISRO NRSC Resourcesat-2A / Landsat-9 glacier-collapse zone (26 Aug)
+- USGS: seismic signal reclassified as collapse/debris flow, not a tectonic quake
+- NDRRMA / Planet+Landsat: upstream lake ~0.11 km², ~18 km above Rasuwagadhi (27 Aug)
+- HOT OSM: https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Nepal_Floods_2026
 
-- **点位坐标**：全部为**近似定位**（approximate geocoding），依据新闻报道中的地名估测，误差可能达数公里，仅供态势示意，已在每个点位描述中注明
-- **沿河廊道**：为示意性折线，非精确河道走向
-- **伤亡序列**：仅收录有明确时间戳与口径的公开数字，缺失时间点以 null 表示
-- **不包含任何个人身份信息（PII）**
+## Portals
+
+- NDRRMA https://ndrrma.gov.np/en — NEOC 1234
+- BIPAD https://bipadportal.gov.np
+- China gov.cn briefing https://www.gov.cn/lianbo/202608/content_7079342.htm
+- Xinhua https://www.news.cn/local/20260827/c80eca2cd35a443489c76d00193e11e3/c.html
+- US Embassy road list (27 Aug 10:00) https://np.usembassy.gov/rasuwa-flooding-and-major-road-closures/
+- ReliefWeb event page https://reliefweb.int/report/nepal/npl-flood-08-2026-rasuwa-flood-2026-08-26
+- China consular 12308
+
+## Caveats
+
+Coordinates in this repo are approximate. No PII. Not a command net.
