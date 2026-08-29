@@ -1,5 +1,5 @@
 {
-  "snap": "2026-08-29T17:05:00Z",
+  "snap": "2026-08-29T04:10:00Z",
   "kpi": {
     "cn": {"dead": 7, "missing": 554, "rescued": 2},
     "np": {"dead": 579, "missing": 1924, "rescued": 3742}
@@ -31,20 +31,20 @@
       "id": "np-ndrrma-579",
       "src": "official",
       "t": "2026-08-28T19:00:00+05:45",
-      "link": "",
+      "link": "https://ndrrma.gov.np/np/situation-report/385",
       "img": null,
       "geo": "corridor",
       "title": {
-        "zh": "NDRRMA/警察：579遗体/1924失联",
-        "en": "NDRRMA/Police: 579 bodies / 1924 missing",
-        "ne": "NDRRMA/प्रहरी: ५७९ शव / १९२४ बेपत्ता",
-        "hi": "NDRRMA/पुलिस: 579 शव / 1924 लापता"
+        "zh": "NDRRMA：579遗体/1924失联",
+        "en": "NDRRMA: 579 bodies / 1924 missing",
+        "ne": "NDRRMA: ५७९ शव / १९२४ बेपत्ता",
+        "hi": "NDRRMA: 579 शव / 1924 लापता"
       },
       "body": {
-        "zh": "截至28日晚；517外籍失联；搜救持续；直升机救多人。",
-        "en": "As of 28 Aug evening; 517 foreign missing; SAR ongoing; heli rescues.",
-        "ne": "२८ अगस्ट साँझ; ५१७ विदेशी; उद्धार जारी; हेलिकप्टर।",
-        "hi": "28 अगस्त शाम; 517 विदेशी; बचाव जारी; हेलीकॉप्टर।"
+        "zh": "截至28日晚7时；517外籍失联；搜救持续。",
+        "en": "As of 28 Aug 19:00; 517 foreign missing; SAR ongoing.",
+        "ne": "२८ अगस्ट १९:००; ५१७ विदेशी; उद्धार जारी।",
+        "hi": "28 अगस्त 19:00; 517 विदेशी; बचाव जारी।"
       }
     },
     {
@@ -275,6 +275,21 @@
       }
     },
     {
+      "id": "2093540411297989028",
+      "user": "@XHNews",
+      "t": "2026-08-29T03:25:04Z",
+      "link": "https://x.com/XHNews/status/2093540411297989028",
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "place",
+      "text": {
+        "zh": "截至周六1时：7遇难554失联；热索2人救出。",
+        "en": "As of 01:00 Sat: 7 dead 554 missing; 2 Resuo rescued.",
+        "ne": "शनिबार ०१:००: ७ मृत्यु ५५४ बेपत्ता; रेसुओ २।",
+        "hi": "शनिवार 01:00: 7 मृत 554 लापता; रेसुओ 2।"
+      }
+    },
+    {
       "id": "2093358230802223351",
       "user": "@XHNews",
       "t": "2026-08-28T15:21:09Z",
@@ -287,21 +302,6 @@
         "en": "As of Friday afternoon: 5 dead 558 missing; hundreds fire/supplies arrived.",
         "ne": "शुक्रबार अपरान्ह: ५ मृत्यु ५५८ बेपत्ता; सयौं फायर/सामान।",
         "hi": "शुक्रवार दोपहर: 5 मृत 558 लापता; सैकड़ों फायर/सामान।"
-      }
-    },
-    {
-      "id": "2093329442777301292",
-      "user": "@XHNews",
-      "t": "2026-08-28T13:26:45Z",
-      "link": "https://x.com/XHNews/status/2093329442777301292",
-      "lat": 28.28,
-      "lng": 85.38,
-      "geo": "place",
-      "text": {
-        "zh": "航拍：救援人员在吉隆泥石流灾区争分夺秒。",
-        "en": "Aerial: Rescuers racing against time in Gyirong mudslide area.",
-        "ne": "एरियल: ग्यिरोङ माटोस्लाइडमा उद्धारकर्ता समयसँग दौड।",
-        "hi": "एरियल: ग्यिरोङ मिट्टीस्लाइड में बचावकर्मी समय से दौड़।"
       }
     }
   ]
