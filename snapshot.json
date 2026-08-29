@@ -1,5 +1,5 @@
 {
-  "snap": "2026-08-29T04:10:00Z",
+  "snap": "2026-08-29T05:10:00Z",
   "kpi": {
     "cn": {"dead": 7, "missing": 554, "rescued": 2},
     "np": {"dead": 579, "missing": 1924, "rescued": 3742}
@@ -9,7 +9,7 @@
       "id": "cn-xinhua-29-0100",
       "src": "official",
       "t": "2026-08-29T01:00:00+08:00",
-      "link": "https://x.com/XHNews/status/2093514522497790231",
+      "link": "https://english.news.cn/20260829/aadfbcaae2c3464e81ccd9e8860a65a1/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -28,10 +28,32 @@
       }
     },
     {
+      "id": "cn-road-25km",
+      "src": "official",
+      "t": "2026-08-29T12:30:00+08:00",
+      "link": "https://news.cgtn.com/news/2026-08-29/2-5-km-of-road-cleared-1-8-km-remains-to-Gyirong-Port-1Q02pr7Hooo/p.html",
+      "img": null,
+      "lat": 28.28,
+      "lng": 85.37,
+      "geo": "place",
+      "title": {
+        "zh": "G216已抢通2.5公里 距口岸剩1.8公里",
+        "en": "G216: 2.5 km cleared, 1.8 km remains to Port",
+        "ne": "G216: २.५ किमी खुला, द्वारसम्म १.८ किमी बाँकी",
+        "hi": "G216: 2.5 किमी खुला, द्वार तक 1.8 किमी शेष"
+      },
+      "body": {
+        "zh": "多方工程力量持续抢通；大型机械进入推进。",
+        "en": "Multi-team engineering clearance ongoing; heavy machinery advancing.",
+        "ne": "बहु दल इन्जिनियरिङ जारी; ठूलो मेसिन अगाडि।",
+        "hi": "बहु टीम इंजीनियरिंग जारी; भारी मशीन आगे।"
+      }
+    },
+    {
       "id": "np-ndrrma-579",
       "src": "official",
       "t": "2026-08-28T19:00:00+05:45",
-      "link": "https://ndrrma.gov.np/np/situation-report/385",
+      "link": "",
       "img": null,
       "geo": "corridor",
       "title": {
@@ -85,10 +107,10 @@
         "hi": "बाँध झील ओवरफ्लो बाद जोखिम प्रबंधनीय; बचाव पुनः"
       },
       "body": {
-        "zh": "蓄水>2.5百万m³；24小时监测；救援已恢复。",
-        "en": ">2.5M m³ storage; 24h monitoring; rescue resumed.",
-        "ne": ">२.५ लाख घनमी; २४ घण्टा निगरानी; उद्धार पुनः।",
-        "hi": ">2.5M m³; 24 घंटे निगरानी; बचाव पुनः।"
+        "zh": "蓄水>2.5百万m³；5人观测哨24h监测；救援已恢复。",
+        "en": ">2.5M m³ storage; 5-person post 24h monitoring; rescue resumed.",
+        "ne": ">२.५ लाख घनमी; ५ जना पोस्ट २४घ निगरानी; उद्धार पुनः।",
+        "hi": ">2.5M m³; 5-व्यक्ति पोस्ट 24घ निगरानी; बचाव पुनः।"
       }
     },
     {
@@ -130,6 +152,28 @@
         "ne": "Sentinel-2/PlanetScope; ~२००० जोखिम।",
         "hi": "Sentinel-2/PlanetScope; ~2000 जोखिम।"
       }
+    },
+    {
+      "id": "xh-drone",
+      "src": "official",
+      "t": "2026-08-29T04:18:00Z",
+      "link": "https://x.com/XHNews/status/2093553754280968249",
+      "img": null,
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "place",
+      "title": {
+        "zh": "无人机向核心区投放物资",
+        "en": "Drones deliver supplies to core area",
+        "ne": "ड्रोनले कोरमा सामग्री",
+        "hi": "ड्रोन कोर में सामग्री"
+      },
+      "body": {
+        "zh": "周五夜无人机向吉隆口岸重灾区救援人员投送物资。",
+        "en": "Friday night drones delivered supplies to rescuers in hardest-hit Gyirong Port.",
+        "ne": "शुक्रबार राति ड्रोनले ग्यिरोङ कोरमा सामग्री।",
+        "hi": "शुक्रवार रात ड्रोन ने ग्यिरोङ कोर में सामग्री।"
+      }
     }
   ],
   "roads": [
@@ -145,10 +189,10 @@
         "hi": "ग्यिरोङ द्वार"
       },
       "detail": {
-        "zh": "双向封闭；核心区淤泥厚；已抢通1.02km",
-        "en": "Closed both ways; core heavy mud; 1.02km cleared",
-        "ne": "दुवैतर्फ बन्द; कोर माटो मोटो; १.०२किमी खुला",
-        "hi": "दोनों ओर बंद; कोर मिट्टी मोटी; 1.02किमी खुला"
+        "zh": "双向封闭；核心区淤泥厚；已抢通2.5km 剩1.8km",
+        "en": "Closed both ways; core heavy mud; 2.5km cleared 1.8km remains",
+        "ne": "दुवैतर्फ बन्द; कोर माटो मोटो; २.५किमी खुला १.८किमी बाँकी",
+        "hi": "दोनों ओर बंद; कोर मिट्टी मोटी; 2.5किमी खुला 1.8किमी शेष"
       }
     },
     {
@@ -163,10 +207,10 @@
         "hi": "G216 राजमार्ग"
       },
       "detail": {
-        "zh": "最后数公里受损；抢通推进中",
-        "en": "Last few km damaged; clearance ongoing",
-        "ne": "अन्तिम केही किमी क्षति; खुला जारी",
-        "hi": "अंतिम कुछ किमी क्षति; खुला जारी"
+        "zh": "已抢通2.5km；距口岸剩1.8km；工程持续",
+        "en": "2.5km cleared; 1.8km remains to Port; engineering ongoing",
+        "ne": "२.५किमी खुला; द्वारसम्म १.८किमी; इन्जिनियरिङ जारी",
+        "hi": "2.5किमी खुला; द्वार तक 1.8किमी; इंजीनियरिंग जारी"
       }
     }
   ],
@@ -183,10 +227,10 @@
         "hi": "राष्ट्रीय फायर बचाव"
       },
       "detail": {
-        "zh": "681人113车已抵；505人次深入核心",
-        "en": "681 pax 113 veh arrived; 505 deep trips",
-        "ne": "६८१ जना ११३ गाडी; ५०५ कोर यात्रा",
-        "hi": "681 कर्मी 113 वाहन; 505 कोर यात्रा"
+        "zh": "681人113车已抵；505人次深入核心；2141总力量",
+        "en": "681 pax 113 veh arrived; 505 deep trips; 2141 total",
+        "ne": "६८१ जना ११३ गाडी; ५०५ कोर यात्रा; २१४१ कुल",
+        "hi": "681 कर्मी 113 वाहन; 505 कोर यात्रा; 2141 कुल"
       }
     },
     {
@@ -201,10 +245,10 @@
         "hi": "अग्रिम पेशेवर SAR"
       },
       "detail": {
-        "zh": "已抵达核心区并开展搜救",
-        "en": "Reached core and searching",
-        "ne": "कोर पुगे र खोजी",
-        "hi": "कोर पहुंचे और खोज"
+        "zh": "已抵达核心区并开展搜救；无人机补给",
+        "en": "Reached core and searching; drone resupply",
+        "ne": "कोर पुगे र खोजी; ड्रोन आपूर्ति",
+        "hi": "कोर पहुंचे और खोज; ड्रोन आपूर्ति"
       }
     }
   ],
@@ -252,56 +296,71 @@
     "lat": 28.293,
     "lng": 85.392,
     "status": {
-      "zh": "堰塞湖>2.5百万m³·溢流后风险可控·24h监测·救援恢复",
-      "en": "Barrier lake >2.5M m³ · overflow then manageable · 24h monitoring · rescue resumed",
-      "ne": "बाँधताल >२.५ लाख घनमी · ओभरफ्लोपछि व्यवस्थापन · २४घ निगरानी · उद्धार पुनः",
-      "hi": "बाँध झील >2.5M m³ · ओवरफ्लो बाद प्रबंधनीय · 24घ निगरानी · बचाव पुनः"
+      "zh": "堰塞湖>2.5百万m³·溢流后风险可控·5人哨24h监测·救援恢复",
+      "en": "Barrier lake >2.5M m³ · overflow then manageable · 5-person 24h post · rescue resumed",
+      "ne": "बाँधताल >२.५ लाख घनमी · ओभरफ्लोपछि व्यवस्थापन · ५ जना २४घ पोस्ट · उद्धार पुनः",
+      "hi": "बाँध झील >2.5M m³ · ओवरफ्लो बाद प्रबंधनीय · 5-व्यक्ति 24घ पोस्ट · बचाव पुनः"
     }
   },
   "xPosts": [
     {
-      "id": "2093514522497790231",
+      "id": "2093553754280968249",
       "user": "@XHNews",
-      "t": "2026-08-29T01:42:12Z",
-      "link": "https://x.com/XHNews/status/2093514522497790231",
+      "t": "2026-08-29T04:18:06Z",
+      "link": "https://x.com/XHNews/status/2093553754280968249",
       "lat": 28.28,
       "lng": 85.38,
       "geo": "place",
       "text": {
-        "zh": "最新：7遇难554失联2救出；道路抢通1.02km；堰塞湖全时监测。",
-        "en": "Latest: 7 dead 554 missing 2 rescued; 1.02km road; lake 24h monitored.",
-        "ne": "नवीनतम: ७ मृत्यु ५५४ बेपत्ता २ उद्धार; १.०२किमी; ताल निगरानी।",
-        "hi": "नवीनतम: 7 मृत 554 लापता 2 उद्धार; 1.02किमी; झील निगरानी।"
+        "zh": "周五夜无人机向吉隆口岸重灾区救援人员投送物资，搜救昼夜不停。",
+        "en": "Friday night drones delivered supplies to rescuers in hardest-hit Gyirong Port; SAR around the clock.",
+        "ne": "शुक्रबार राति ड्रोनले ग्यिरोङ कोरमा सामग्री; खोजी रातदिन।",
+        "hi": "शुक्रवार रात ड्रोन ने ग्यिरोङ कोर में सामग्री; खोज चौबीस घंटे।"
       }
     },
     {
-      "id": "2093540411297989028",
+      "id": "2093542086859694403",
       "user": "@XHNews",
-      "t": "2026-08-29T03:25:04Z",
-      "link": "https://x.com/XHNews/status/2093540411297989028",
+      "t": "2026-08-29T03:31:44Z",
+      "link": "https://x.com/XHNews/status/2093542086859694403",
       "lat": 28.28,
       "lng": 85.38,
       "geo": "place",
       "text": {
-        "zh": "截至周六1时：7遇难554失联；热索2人救出。",
-        "en": "As of 01:00 Sat: 7 dead 554 missing; 2 Resuo rescued.",
-        "ne": "शनिबार ०१:००: ७ मृत्यु ५५४ बेपत्ता; रेसुओ २।",
-        "hi": "शनिवार 01:00: 7 मृत 554 लापता; रेसुओ 2।"
+        "zh": "周六继续搜救：7遇难554失联。",
+        "en": "Saturday SAR continues: 7 dead 554 missing.",
+        "ne": "शनिबार खोजी जारी: ७ मृत्यु ५५४ बेपत्ता।",
+        "hi": "शनिवार खोज जारी: 7 मृत 554 लापता।"
       }
     },
     {
-      "id": "2093358230802223351",
-      "user": "@XHNews",
-      "t": "2026-08-28T15:21:09Z",
-      "link": "https://x.com/XHNews/status/2093358230802223351",
+      "id": "2093330336033997297",
+      "user": "@CCTV_Plus",
+      "t": "2026-08-28T13:30:18Z",
+      "link": "https://x.com/CCTV_Plus/status/2093330336033997297",
       "lat": 28.28,
       "lng": 85.38,
       "geo": "place",
       "text": {
-        "zh": "截至周五下午：5遇难558失联；数百消防与物资已抵达。",
-        "en": "As of Friday afternoon: 5 dead 558 missing; hundreds fire/supplies arrived.",
-        "ne": "शुक्रबार अपरान्ह: ५ मृत्यु ५५८ बेपत्ता; सयौं फायर/सामान।",
-        "hi": "शुक्रवार दोपहर: 5 मृत 558 लापता; सैकड़ों फायर/सामान।"
+        "zh": "习近平向尼泊尔总统致慰问电；李强致电尼总理。",
+        "en": "Xi condolence message to Nepal President; Li to PM.",
+        "ne": "सीले नेपाल राष्ट्रपतिलाई समवेदना; ली प्रधानमन्त्रीलाई।",
+        "hi": "शी नेपाल राष्ट्रपति को संवेदना; ली पीएम को।"
+      }
+    },
+    {
+      "id": "2093329442777301292",
+      "user": "@XHNews",
+      "t": "2026-08-28T13:26:45Z",
+      "link": "https://x.com/XHNews/status/2093329442777301292",
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "place",
+      "text": {
+        "zh": "航拍：吉隆受灾区救援人员争分夺秒。",
+        "en": "Aerial: rescuers racing against time in Gyirong disaster area.",
+        "ne": "हवाई: ग्यिरोङ विपद क्षेत्रमा उद्धारकर्मी समयसँग दौड।",
+        "hi": "हवाई: ग्यिरोङ आपदा क्षेत्र में बचावकर्मी समय से दौड़।"
       }
     }
   ]
