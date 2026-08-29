@@ -1,8 +1,8 @@
 {
-  "snap": "2026-08-29T02:05:00Z",
+  "snap": "2026-08-29T17:05:00Z",
   "kpi": {
     "cn": {"dead": 7, "missing": 554, "rescued": 2},
-    "np": {"dead": 579, "missing": 1924, "rescued": 4451}
+    "np": {"dead": 579, "missing": 1924, "rescued": 3742}
   },
   "published": [
     {
@@ -35,16 +35,16 @@
       "img": null,
       "geo": "corridor",
       "title": {
-        "zh": "NDRRMA：579遗体/1924失联",
-        "en": "NDRRMA: 579 bodies / 1924 missing",
-        "ne": "NDRRMA: ५७९ शव / १९२४ बेपत्ता",
-        "hi": "NDRRMA: 579 शव / 1924 लापता"
+        "zh": "NDRRMA/警察：579遗体/1924失联",
+        "en": "NDRRMA/Police: 579 bodies / 1924 missing",
+        "ne": "NDRRMA/प्रहरी: ५७९ शव / १९२४ बेपत्ता",
+        "hi": "NDRRMA/पुलिस: 579 शव / 1924 लापता"
       },
       "body": {
-        "zh": "截至28日19时；517外籍失联；搜救持续。",
-        "en": "As of 28 Aug 19:00; 517 foreign missing; SAR ongoing.",
-        "ne": "२८ अगस्ट १९:००; ५१७ विदेशी; उद्धार जारी।",
-        "hi": "28 अगस्त 19:00; 517 विदेशी; बचाव जारी।"
+        "zh": "截至28日晚；517外籍失联；搜救持续；直升机救多人。",
+        "en": "As of 28 Aug evening; 517 foreign missing; SAR ongoing; heli rescues.",
+        "ne": "२८ अगस्ट साँझ; ५१७ विदेशी; उद्धार जारी; हेलिकप्टर।",
+        "hi": "28 अगस्त शाम; 517 विदेशी; बचाव जारी; हेलीकॉप्टर।"
       }
     },
     {
