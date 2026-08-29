@@ -1,5 +1,5 @@
 {
-  "snap": "2026-08-29T14:00:00Z",
+  "snap": "2026-08-29T01:04:00Z",
   "kpi": {
     "cn": {"dead": 7, "missing": 554, "rescued": 2},
     "np": {"dead": 579, "missing": 1924, "rescued": 4451}
@@ -9,7 +9,7 @@
       "id": "cn-xinhua-29-0100",
       "src": "official",
       "t": "2026-08-29T01:00:00+08:00",
-      "link": "",
+      "link": "https://english.news.cn/20260829/aadfbcaae2c3464e81ccd9e8860a65a1/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
