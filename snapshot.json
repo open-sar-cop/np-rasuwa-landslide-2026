@@ -1,28 +1,50 @@
 {
-  "snap": "2026-09-07T17:12:00Z",
+  "snap": "2026-09-07T18:14:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1342, "missing": 4996, "rescued": 13391}
   },
   "published": [
     {
-      "id": "refresh-0907-1712",
+      "id": "refresh-0907-1814",
       "src": "official",
-      "t": "2026-09-07T17:12:00Z",
+      "t": "2026-09-07T18:14:00Z",
       "link": "https://english.news.cn/20260906/7a3dfb6c4f0e468e9c01b1bdd775de08/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "7日17:12刷新：中尼官方伤亡口径仍未更新",
-        "en": "7 Sep 17:12 UTC refresh: official CN/NP casualty lines unchanged",
-        "ne": "७ सेप्ट १७:१२ UTC: आधिकारिक क्षति अपरिवर्तित",
-        "hi": "7 सित 17:12 UTC: आधिकारिक क्षति अपरिवर्तित"
+        "zh": "7日18:14刷新：中尼官方伤亡口径仍未更新",
+        "en": "7 Sep 18:14 UTC refresh: official CN/NP casualty lines unchanged",
+        "ne": "७ सेप्ट १८:१४ UTC: आधिकारिक क्षति अपरिवर्तित",
+        "hi": "7 सित 18:14 UTC: आधिकारिक क्षति अपरिवर्तित"
       },
       "body": {
-        "zh": "检索新华社/吉隆指挥部与NDRRMA：中方仍截至5日18时43遇难519失联救出2人；尼方仍1342死约4996失联13391获救。未见7日新官方伤亡通报。",
-        "en": "Xinhua/Gyirong HQ and NDRRMA: CN still as of 18:00 5 Sep 43 dead, 519 missing, 2 rescued. NP still 1342 dead, ~4996 missing, 13391 rescued. No new 7 Sep official casualty bulletin.",
-        "ne": "सिन्ह्वा/ग्यिरोङ HQ र NDRRMA: चीन अझै ५ सेप्ट १८:०० ४३ मृत्यु, ५१९ बेपत्ता, २ उद्धार। नेपाल १३४२ मृत्यु, ~४९९६ बेपत्ता, १३३९१ उद्धार। ७ सेप्ट नयाँ आधिकारिक क्षति बुलेटिन छैन।",
-        "hi": "सिन्हुआ/ग्यिरोङ HQ और NDRRMA: चीन अभी 5 सित 18:00 43 मृत, 519 लापता, 2 बचाए। नेपाल 1342 मृत, ~4996 लापता, 13391 बचाए। 7 सित नया आधिकारिक क्षति बुलेटिन नहीं।"
+        "zh": "检索新华社/吉隆指挥部与NDRRMA：中方仍截至5日18时43遇难519失联救出2人；尼方仍SitRep#6 1342死约4996失联13391获救。未见7日新官方伤亡通报。",
+        "en": "Xinhua/Gyirong HQ and NDRRMA: CN still as of 18:00 5 Sep 43 dead, 519 missing, 2 rescued. NP SitRep#6 still 1342 dead, ~4996 missing, 13391 rescued. No new 7 Sep official casualty bulletin.",
+        "ne": "सिन्ह्वा/ग्यिरोङ HQ र NDRRMA: चीन अझै ५ सेप्ट १८:०० ४३ मृत्यु, ५१९ बेपत्ता, २ उद्धार। नेपाल SitRep#6 १३४२ मृत्यु, ~४९९६ बेपत्ता, १३३९१ उद्धार। ७ सेप्ट नयाँ आधिकारिक क्षति बुलेटिन छैन।",
+        "hi": "सिन्हुआ/ग्यिरोङ HQ और NDRRMA: चीन अभी 5 सित 18:00 43 मृत, 519 लापता, 2 बचाए। नेपाल SitRep#6 1342 मृत, ~4996 लापता, 13391 बचाए। 7 सित नया आधिकारिक क्षति बुलेटिन नहीं।"
+      }
+    },
+    {
+      "id": "cn-xh-0907-0450",
+      "src": "official",
+      "t": "2026-09-07T04:50:14Z",
+      "link": "https://x.com/XHNews/status/2096823335774720106",
+      "img": null,
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "title": {
+        "zh": "新华社7日综述：吉隆口岸灾情与救援进展",
+        "en": "Xinhua 7 Sep recap: Gyirong Port disaster and rescue progress",
+        "ne": "सिन्ह्वा ७ सेप्ट: ग्यिरोङ पोर्ट विपद् र उद्धार प्रगति",
+        "hi": "सिन्हुआ 7 सित: ग्यिरोङ पोर्ट आपदा और बचाव प्रगति"
+      },
+      "body": {
+        "zh": "新华社综述8月26日高位冰川崩塌触发链式泥石流冲击吉隆口岸，并介绍中方搜救最新进展。伤亡数字仍引用5日18时口径。",
+        "en": "Xinhua recap: 26 Aug high-altitude glacier collapse triggered a chain mudslide at Gyirong Port; latest CN SAR progress. Casualty line still Saturday 18:00 figures.",
+        "ne": "सिन्ह्वा: २६ अगस्ट उच्च हिमनदी भत्किएर ग्यिरोङमा श्रृंखला पहिरो; नवीनतम चिनियाँ SAR। क्षति अझै शनि १८:००।",
+        "hi": "सिन्हुआ: 26 अगस्त उच्च हिमनद ढहने से ग्यिरोङ में श्रृंखला मलबा प्रवाह; नवीनतम चीनी SAR। क्षति अभी शनि 18:00।"
       }
     },
     {
@@ -113,22 +135,22 @@
       "id": "cn-mwr-0906-lake2",
       "src": "official",
       "t": "2026-09-06T08:54:00Z",
-      "link": "https://www.ctdsb.net/c1476_202609/2850201.html",
+      "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
       "geo": "place",
       "title": {
-        "zh": "水利部：原堰塞湖已泄空河道过流",
-        "en": "MWR: former barrier lake drained, channel flowing",
-        "ne": "जलस्रोत: पुरानो बाँधताल खाली, नदी बग्दो",
-        "hi": "जल संसाधन: पुरानी बाँध झील खाली, नहर बह रही"
+        "zh": "新华社：原堰塞湖已泄空河道过流",
+        "en": "Xinhua: former barrier lake drained, channel flowing",
+        "ne": "सिन्ह्वा: पुरानो बाँधताल खाली, नदी बग्दो",
+        "hi": "सिन्हुआ: पुरानी बाँध झील खाली, नहर बह रही"
       },
       "body": {
-        "zh": "原堰塞湖已泄空、河道过流正常；次生再成湖风险仍监测。6–8日口岸流量约180–250立方米每秒。",
-        "en": "Former barrier lake drained; channel flowing normally. Residual slope-lake risk monitored. 6–8 Sep port flow ~180–250 m3/s.",
-        "ne": "पुरानो बाँधताल खाली; नदी सामान्य। बाँकी भिर ताल जोखिम निगरानी। ६–८ सेप्ट प्रवाह ~१८०–२५० घनमि/से।",
-        "hi": "पुरानी बाँध झील खाली; नहर सामान्य। शेष ढलान झील जोखिम निगरानी। 6–8 सित प्रवाह ~180–250 घनमी/से।"
+        "zh": "原堰塞湖已泄空、河道过流正常；次生再成湖风险仍监测。",
+        "en": "Former barrier lake drained; channel flowing normally. Residual slope-lake risk monitored.",
+        "ne": "पुरानो बाँधताल खाली; नदी सामान्य। बाँकी भिर ताल जोखिम निगरानी।",
+        "hi": "पुरानी बाँध झील खाली; नहर सामान्य। शेष ढलान झील जोखिम निगरानी।"
       }
     },
     {
@@ -191,28 +213,6 @@
         "en": "MapAction Rasuwa reference sheet 01 on 4 Sep. UNOSAT mud/rockflow ~20 km². Copernicus EMSR927 active.",
         "ne": "MapAction ४ सेप्ट रसुवा सन्दर्भ पाना ०१। UNOSAT ~२० वर्गकिमि। Copernicus EMSR927 सक्रिय।",
         "hi": "MapAction 4 सित रसुवा संदर्भ शीट 01। UNOSAT ~20 वर्गकिमी। Copernicus EMSR927 सक्रिय।"
-      }
-    },
-    {
-      "id": "cn-briefing-0906",
-      "src": "official",
-      "t": "2026-09-06T10:52:00Z",
-      "link": "https://english.news.cn/20260906/7a3dfb6c4f0e468e9c01b1bdd775de08/c.html",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "title": {
-        "zh": "吉隆指挥部：救出2人 遗物993件",
-        "en": "Gyirong HQ: 2 rescued, 993 belongings found",
-        "ne": "ग्यिरोङ HQ: २ उद्धार, ९९३ वस्तु",
-        "hi": "ग्यिरोङ HQ: 2 बचाए, 993 वस्तुएं"
-      },
-      "body": {
-        "zh": "截至5日18时成功救出2人、发现遗物993件；外籍失联261人。",
-        "en": "As of 18:00 5 Sep, 2 rescued and 993 belongings found; 261 missing foreigners.",
-        "ne": "५ सेप्ट १८:०० सम्म २ उद्धार, ९९३ वस्तु; २६१ विदेशी बेपत्ता।",
-        "hi": "5 सित 18:00 तक 2 बचाए, 993 वस्तुएं; 261 विदेशी लापता।"
       }
     }
   ],
@@ -325,10 +325,29 @@
         "hi": "ग्यिरोङ कस्बा आश्रय"
       },
       "detail": {
-        "zh": "早期通报转移安置499人，国内游客555人已转移",
-        "en": "Early official: 499 residents resettled; 555 domestic tourists evacuated",
-        "ne": "प्रारम्भिक: ४९९ बासिन्दा स्थानान्तरण; ५५५ स्वदेशी पर्यटक निकालियो",
-        "hi": "प्रारंभिक: 499 निवासी स्थानांतरित; 555 घरेलू पर्यटक निकाले"
+        "zh": "早期通报转移安置吉隆镇、萨勒乡风险区群众499人",
+        "en": "Early briefing: 499 people relocated from Gyirong town and Sale township risk zones",
+        "ne": "प्रारम्भिक ब्रिफिङ: ग्यिरोङ बजार र साले जोखिम क्षेत्रबाट ४९९ स्थानान्तरण",
+        "hi": "प्रारंभिक ब्रिफिंग: ग्यिरोङ कस्बा और साले जोखिम क्षेत्र से 499 स्थानांतरित"
+      }
+    },
+    {
+      "id": "timure",
+      "kind": "damage",
+      "status": "active",
+      "lat": 28.248,
+      "lng": 85.356,
+      "name": {
+        "zh": "蒂姆雷",
+        "en": "Timure",
+        "ne": "तिमुरे",
+        "hi": "तिमुरे"
+      },
+      "detail": {
+        "zh": "边境走廊重创，可靠公路未恢复",
+        "en": "Border corridor heavily damaged; reliable road access not restored",
+        "ne": "सीमा करिडोर भारी क्षति; भरपर्दो सडक छैन",
+        "hi": "सीमा गलियारा भारी क्षति; विश्वसनीय सड़क नहीं"
       }
     }
   ],
@@ -336,15 +355,30 @@
     "lat": 28.293,
     "lng": 85.392,
     "status": {
-      "zh": "原堰塞湖已泄空、河道过流；两侧残坡仍有再成湖风险，持续监测",
-      "en": "Former barrier lake drained, channel flowing; residual slope-lake risk remains, monitoring ongoing",
-      "ne": "पुरानो बाँधताल खाली, नदी बग्दो; बाँकी भिर ताल जोखिम, निगरानी जारी",
-      "hi": "पुरानी बाँध झील खाली, नहर बह रही; शेष ढलान झील जोखिम, निगरानी जारी"
+      "zh": "原堰塞湖已泄空、河道过流；次生再成湖与边坡风险仍监测",
+      "en": "Former barrier lake drained, channel flowing; residual re-damming and slope risk still monitored",
+      "ne": "पुरानो बाँधताल खाली, नदी बग्दो; पुनः बाँध र भिर जोखिम निगरानी",
+      "hi": "पुरानी बाँध झील खाली, नहर बह रही; पुनः बाँध और ढलान जोखिम निगरानी"
     }
   },
   "xPosts": [
     {
       "id": "x1",
+      "user": "@XHNews",
+      "t": "2026-09-07T04:50:14Z",
+      "link": "https://x.com/XHNews/status/2096823335774720106",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华社综述：尼泊尔高位冰川崩塌触发链式泥石流冲击吉隆口岸，介绍中方救援进展。",
+        "en": "Xinhua recap: Nepal glacier collapse triggered chain mudslide at Gyirong Port; CN rescue progress.",
+        "ne": "सिन्ह्वा: नेपाल हिमनदी भत्किएर ग्यिरोङमा श्रृंखला पहिरो; चिनियाँ उद्धार प्रगति।",
+        "hi": "सिन्हुआ: नेपाल हिमनद ढहने से ग्यिरोङ में श्रृंखला मलबा प्रवाह; चीनी बचाव प्रगति।"
+      }
+    },
+    {
+      "id": "x2",
       "user": "@XHNews",
       "t": "2026-09-06T14:41:30Z",
       "link": "https://x.com/XHNews/status/2096609742487691562",
@@ -352,14 +386,40 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社：截至周六18时吉隆43遇难、519失联；外籍失联261人。",
-        "en": "Xinhua: as of 18:00 Saturday, Gyirong 43 dead, 519 missing; 261 foreigners missing.",
-        "ne": "सिन्ह्वा: शनि १८:०० ग्यिरोङ ४३ मृत्यु, ५१९ बेपत्ता; २६१ विदेशी बेपत्ता।",
-        "hi": "सिन्हुआ: शनि 18:00 ग्यिरोङ 43 मृत, 519 लापता; 261 विदेशी लापता।"
+        "zh": "截至周六18时吉隆43遇难519失联，外籍失联261人涉23国。",
+        "en": "As of Sat 18:00 Gyirong 43 dead, 519 missing; 261 foreigners from 23 countries.",
+        "ne": "शनि १८:०० ग्यिरोङ ४३ मृत्यु, ५१९ बेपत्ता; २३ देशका २६१ विदेशी।",
+        "hi": "शनि 18:00 ग्यिरोङ 43 मृत, 519 लापता; 23 देशों के 261 विदेशी।"
       }
     },
     {
-      "id": "x2",
+      "id": "x3",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-06T16:23:11Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2096635334130077894",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA SitRep#6：6日19:00拉苏瓦—波特科西搜救与救援情况报告。",
+        "en": "NDRRMA SitRep#6: 6 Sep 19:00 Rasuwa–Bhotekoshi search, rescue and relief.",
+        "ne": "NDRRMA SitRep#6: ६ सेप्ट १९:०० रसुवा–भोटेकोशी खोज, उद्धार र राहत।",
+        "hi": "NDRRMA SitRep#6: 6 सित 19:00 रसुवा–भोटेकोशी खोज, बचाव और राहत।"
+      }
+    },
+    {
+      "id": "x4",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-06T13:29:59Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2096591744192446821",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA 6日18:00拉苏瓦搜救与救援更新。",
+        "en": "NDRRMA 6 Sep 18:00 Rasuwa search, rescue and relief update.",
+        "ne": "NDRRMA ६ सेप्ट १८:०० रसुवा खोज, उद्धार र राहत अपडेट।",
+        "hi": "NDRRMA 6 सित 18:00 रसुवा खोज, बचाव और राहत अपडेट।"
+      }
+    },
+    {
+      "id": "x5",
       "user": "@XHNews",
       "t": "2026-09-06T13:11:53Z",
       "link": "https://x.com/XHNews/status/2096587189023076796",
@@ -367,14 +427,14 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社：吉隆已部署2500余名救援人员。",
-        "en": "Xinhua: more than 2,500 rescue personnel deployed at Gyirong.",
-        "ne": "सिन्ह्वा: ग्यिरोङमा २,५०० भन्दा बढी उद्धारकर्ता।",
-        "hi": "सिन्हुआ: ग्यिरोङ में 2,500 से अधिक बचावकर्मी।"
+        "zh": "吉隆已部署2500余名救援人员。",
+        "en": "China deployed 2500+ rescue personnel at Gyirong.",
+        "ne": "ग्यिरोङमा २५००+ उद्धारकर्ता तैनाथ।",
+        "hi": "ग्यिरोङ में 2500+ बचावकर्मी तैनात।"
       }
     },
     {
-      "id": "x3",
+      "id": "x6",
       "user": "@XHNews",
       "t": "2026-09-06T11:50:45Z",
       "link": "https://x.com/XHNews/status/2096566773579718897",
@@ -382,83 +442,38 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社：2500余人、500余辆车；无人机超1000架次空投5.43吨。",
-        "en": "Xinhua: 2500+ people, 500+ vehicles; 1000+ drone sorties dropped 5.43 t.",
-        "ne": "सिन्ह्वा: २५००+ व्यक्ति, ५००+ सवारी; १०००+ ड्रोन ५.४३ टन।",
-        "hi": "सिन्हुआ: 2500+ लोग, 500+ वाहन; 1000+ ड्रोन 5.43 टन।"
-      }
-    },
-    {
-      "id": "x4",
-      "user": "@XHNews",
-      "t": "2026-09-06T11:49:47Z",
-      "link": "https://x.com/XHNews/status/2096566530385592824",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华社：已向1720名尼方边民提供援助。",
-        "en": "Xinhua: assistance provided to 1,720 Nepalese border residents.",
-        "ne": "सिन्ह्वा: १,७२० नेपाली सीमावासीलाई सहायता।",
-        "hi": "सिन्हुआ: 1,720 नेपाली सीमा निवासियों को सहायता।"
-      }
-    },
-    {
-      "id": "x5",
-      "user": "@XHNews",
-      "t": "2026-09-06T10:55:53Z",
-      "link": "https://x.com/XHNews/status/2096552965477941484",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华社视频：周六18时43遇难519失联。",
-        "en": "Xinhua video: as of 18:00 Saturday 43 dead, 519 missing.",
-        "ne": "सिन्ह्वा भिडियो: शनि १८:०० ४३ मृत्यु, ५१९ बेपत्ता।",
-        "hi": "सिन्हुआ वीडियो: शनि 18:00 43 मृत, 519 लापता।"
-      }
-    },
-    {
-      "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-09-06T09:48:23Z",
-      "link": "https://x.com/XHNews/status/2096535975770108141",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华社：指挥部确认43遇难519失联。",
-        "en": "Xinhua: HQ confirms 43 dead, 519 missing.",
-        "ne": "सिन्ह्वा: HQ ४३ मृत्यु, ५१९ बेपत्ता पुष्टि।",
-        "hi": "सिन्हुआ: HQ 43 मृत, 519 लापता पुष्टि।"
+        "zh": "2500余人、500余辆车；无人机超1000架次空投5.43吨。",
+        "en": "2500+ people, 500+ vehicles; 1000+ drone flights dropped 5.43 t.",
+        "ne": "२५००+ व्यक्ति, ५००+ सवारी; १०००+ ड्रोन उडान ५.४३ टन।",
+        "hi": "2500+ लोग, 500+ वाहन; 1000+ ड्रोन उड़ान 5.43 टन।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-06T05:44:57Z",
-      "link": "https://x.com/XHNews/status/2096474717742088300",
+      "t": "2026-09-06T11:49:47Z",
+      "link": "https://x.com/XHNews/status/2096566530385592824",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社：周五18时曾报31遇难531失联；周六核心区增援。",
-        "en": "Xinhua: Friday 18:00 line was 31 dead, 531 missing; more forces entered core Saturday.",
-        "ne": "सिन्ह्वा: शुक्र १८:०० मा ३१ मृत्यु, ५३१ बेपत्ता; शनि कोरमा थप बल।",
-        "hi": "सिन्हुआ: शुक्र 18:00 पर 31 मृत, 531 लापता; शनि कोर में अतिरिक्त बल।"
+        "zh": "中方已为1720名尼泊尔边民提供协助。",
+        "en": "China provided assistance to 1,720 Nepalese border residents.",
+        "ne": "चीनले १,७२० नेपाली सीमावासीलाई सहयोग दियो।",
+        "hi": "चीन ने 1,720 नेपाली सीमा निवासियों को सहायता दी।"
       }
     },
     {
       "id": "x8",
-      "user": "@XHNews",
-      "t": "2026-09-06T00:57:40Z",
-      "link": "https://x.com/XHNews/status/2096402417546072281",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "place",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-06T06:15:43Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2096482459441594727",
+      "geo": "unknown",
       "text": {
-        "zh": "新华社：更多力量进入核心区；中铁提供钢石笼加固道路。",
-        "en": "Xinhua: more forces entered the core zone; CRG supplied steel gabions for road reinforcement.",
-        "ne": "सिन्ह्वा: थप बल कोर क्षेत्रमा; CRG ले सडक सुदृढीकरणका लागि स्टिल ग्याबियन दियो।",
-        "hi": "सिन्हुआ: अतिरिक्त बल कोर क्षेत्र में; CRG ने सड़क सुदृढ़ीकरण के लिए स्टील गैबियन दिए।"
+        "zh": "NDRRMA 6日11:00拉苏瓦搜救与救援更新。",
+        "en": "NDRRMA 6 Sep 11:00 Rasuwa search, rescue and relief update.",
+        "ne": "NDRRMA ६ सेप्ट ११:०० रसुवा खोज, उद्धार र राहत अपडेट।",
+        "hi": "NDRRMA 6 सित 11:00 रसुवा खोज, बचाव और राहत अपडेट।"
       }
     }
   ]
