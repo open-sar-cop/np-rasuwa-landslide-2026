@@ -1,5 +1,5 @@
 {
-  "snap": "2026-09-08T03:15:00Z",
+  "snap": "2026-09-08T04:22:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1356, "missing": 4994, "rescued": 13396 }
@@ -9,7 +9,7 @@
       "id": "np1356pm",
       "src": "official",
       "t": "2026-09-07T12:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2096942480013082733",
+      "link": "https://english.nepalnews.com/s/nation/as-of-6pm-bhote-koshi-flood-death-toll-reaches-1356-nearly-5000-remain-out-of-contact/",
       "img": null,
       "geo": "unknown",
       "title": {
@@ -39,7 +39,7 @@
         "hi": "NDRRMA 7 सित 11:00: 1355 शव"
       },
       "body": {
-        "zh": "早报约4996失联；13396获救。夜间口径调至1356/4994。",
+        "zh": "早报约4996失联；13396获救。晚间口径调至1356/4994。",
         "en": "Morning ~4996 missing; 13396 rescued. Evening revised 1356/4994.",
         "ne": "बिहान ~४९९६ बेपत्ता। साँझ १३५६/४९९४।",
         "hi": "सुबह ~4996 लापता। शाम 1356/4994।"
@@ -137,7 +137,7 @@
       "id": "lake",
       "src": "official",
       "t": "2026-09-05T13:49:30Z",
-      "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
+      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -347,19 +347,6 @@
   "xPosts": [
     {
       "id": "x1",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-07T12:43:41Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2096942480013082733",
-      "geo": "unknown",
-      "text": {
-        "zh": "7日18:00更新：1356/4994/13396。",
-        "en": "7 Sep 18:00 update: 1356/4994/13396.",
-        "ne": "७ सेप्ट १८:००: १३५६/४९९४/१३३९६।",
-        "hi": "7 सित 18:00: 1356/4994/13396।"
-      }
-    },
-    {
-      "id": "x2",
       "user": "@XHNews",
       "t": "2026-09-07T10:10:46Z",
       "link": "https://x.com/XHNews/status/2096904000058843554",
@@ -374,7 +361,7 @@
       }
     },
     {
-      "id": "x3",
+      "id": "x2",
       "user": "@XHNews",
       "t": "2026-09-07T06:08:33Z",
       "link": "https://x.com/XHNews/status/2096843042137489625",
@@ -389,20 +376,7 @@
       }
     },
     {
-      "id": "x4",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-07T06:17:41Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2096845340473479551",
-      "geo": "unknown",
-      "text": {
-        "zh": "7日11:00搜救救济更新：1355/4996/13396。",
-        "en": "7 Sep 11:00 update: 1355/4996/13396.",
-        "ne": "७ सेप्ट ११:००: १३५५/४९९६/१३३९६।",
-        "hi": "7 सित 11:00: 1355/4996/13396।"
-      }
-    },
-    {
-      "id": "x5",
+      "id": "x3",
       "user": "@XHNews",
       "t": "2026-09-07T04:50:14Z",
       "link": "https://x.com/XHNews/status/2096823335774720106",
@@ -417,7 +391,7 @@
       }
     },
     {
-      "id": "x6",
+      "id": "x4",
       "user": "@XHNews",
       "t": "2026-09-06T14:41:30Z",
       "link": "https://x.com/XHNews/status/2096609742487691562",
@@ -432,7 +406,7 @@
       }
     },
     {
-      "id": "x7",
+      "id": "x5",
       "user": "@XHNews",
       "t": "2026-09-06T13:11:53Z",
       "link": "https://x.com/XHNews/status/2096587189023076796",
@@ -447,7 +421,7 @@
       }
     },
     {
-      "id": "x8",
+      "id": "x6",
       "user": "@XHNews",
       "t": "2026-09-06T11:50:45Z",
       "link": "https://x.com/XHNews/status/2096566773579718897",
@@ -459,6 +433,36 @@
         "en": "1000+ drone flights dropped 5.43 t.",
         "ne": "१०००+ ड्रोन ५.४३ टन।",
         "hi": "1000+ ड्रोन 5.43 टन।"
+      }
+    },
+    {
+      "id": "x7",
+      "user": "@XHNews",
+      "t": "2026-09-06T11:49:47Z",
+      "link": "https://x.com/XHNews/status/2096566530385592824",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "已援助1720名尼泊尔边民。",
+        "en": "Assistance to 1,720 Nepalese border residents.",
+        "ne": "१,७२० नेपाली सीमान्त बासिन्दा।",
+        "hi": "1,720 नेपाली सीमांत निवासी।"
+      }
+    },
+    {
+      "id": "x8",
+      "user": "@XHNews",
+      "t": "2026-09-06T10:55:53Z",
+      "link": "https://x.com/XHNews/status/2096552965477941484",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "周六18时口径：43遇难519失联。",
+        "en": "Sat 18:00 line: 43 dead, 519 missing.",
+        "ne": "शनि १८:००: ४३/५१९।",
+        "hi": "शनि 18:00: 43/519।"
       }
     }
   ]
