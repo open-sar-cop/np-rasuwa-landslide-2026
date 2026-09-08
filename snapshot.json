@@ -1,15 +1,37 @@
 {
-  "snap": "2026-09-08T23:15:00Z",
+  "snap": "2026-09-09T00:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1357, "missing": 5326, "rescued": 13583 }
   },
   "published": [
     {
+      "id": "cnorg08",
+      "src": "official",
+      "t": "2026-09-08T04:00:00Z",
+      "link": "http://www.china.org.cn/2026-09/08/content_118685012.shtml",
+      "img": null,
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "title": {
+        "zh": "新华社8日：外媒探访吉隆搜救现场",
+        "en": "Xinhua 8 Sep: foreign media at Gyirong SAR",
+        "ne": "सिन्ह्वा ८ सेप्ट: विदेशी मिडिया ग्यिरोङ",
+        "hi": "शिन्हुआ 8 सित: विदेशी मीडिया ग्यिरोङ"
+      },
+      "body": {
+        "zh": "口径仍截至5日18时43遇难519失联2获救；2500余人、空投超5吨。勿与尼方相加。",
+        "en": "KPI still 5 Sep 18:00: 43 dead, 519 missing, 2 rescued; 2500+ crews. Do not add CN+NP.",
+        "ne": "KPI अझै ५ सेप्ट १८:००: ४३/५१९/२। नजोड़्नु।",
+        "hi": "KPI अभी 5 सित 18:00: 43/519/2। न जोड़ें।"
+      }
+    },
+    {
       "id": "np1357",
       "src": "official",
       "t": "2026-09-08T07:15:00Z",
-      "link": "https://english.ratopati.com/story/78320/rasuwa-flood-death-toll-reaches-1357-5326-still-unaccounted-for",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-1357-bodies.html",
       "img": null,
       "geo": "unknown",
       "title": {
@@ -19,10 +41,10 @@
         "hi": "NDRRMA 8 सित 13:00: 1357 शव"
       },
       "body": {
-        "zh": "Ratopati转述NDRRMA Bhadra 23 13时：1357遗体、5326失联、13583获救、102具已移交。勿与中方相加。",
-        "en": "Ratopati cites NDRRMA Bhadra 23 13:00: 1357 bodies, 5326 missing, 13583 rescued, 102 handed over. Do not add CN+NP.",
-        "ne": "Ratopati/NDRRMA भाद्र २३ १३:००: १३५७ शव, ५३२६ बेपत्ता, १३५८३ उद्धार। नजोड़्नु।",
-        "hi": "Ratopati/NDRRMA भाद्र 23 13:00: 1357 शव, 5326 लापता, 13583 बचाए। न जोड़ें।"
+        "zh": "OnlineKhabar/THT转述：1357遗体、5326失联、13583获救。勿与中方相加。",
+        "en": "OnlineKhabar/THT cite NDRRMA: 1357 bodies, 5326 missing, 13583 rescued. Do not add CN+NP.",
+        "ne": "NDRRMA: १३५७ शव, ५३२६ बेपत्ता, १३५८३ उद्धार। नजोड़्नु।",
+        "hi": "NDRRMA: 1357 शव, 5326 लापता, 13583 बचाए। न जोड़ें।"
       }
     },
     {
@@ -41,30 +63,10 @@
         "hi": "शिन्हुआ 8 सित ग्यिरोङ सार"
       },
       "body": {
-        "zh": "8月26日泥石流造成重大伤亡失联；中方全力搜救。伤亡口径仍截至5日18时43/519/2。",
-        "en": "26 Aug mudslide caused heavy casualties; China SAR ongoing. KPI still 5 Sep 18:00 43/519/2.",
+        "zh": "8月26日泥石流；中方全力搜救。伤亡口径仍截至5日18时43/519/2。",
+        "en": "26 Aug mudslide; China SAR ongoing. KPI still 5 Sep 18:00 43/519/2.",
         "ne": "२६ अगस्ट पहिरो; SAR जारी। KPI ५ सेप्ट ४३/५१९/२।",
         "hi": "26 अगस्त मलबा; SAR जारी। KPI 5 सित 43/519/2।"
-      }
-    },
-    {
-      "id": "sitrep7",
-      "src": "official",
-      "t": "2026-09-07T13:15:00Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/410",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 形势报告#7",
-        "en": "NDRRMA Situation Report #7",
-        "ne": "NDRRMA स्थिति प्रतिवेदन #७",
-        "hi": "NDRRMA स्थिति रिपोर्ट #7"
-      },
-      "body": {
-        "zh": "7日口径已被8日13时快报覆盖。勿与中方相加。",
-        "en": "7 Sep sitrep superseded by 8 Sep 13:00 NPT update. Do not add CN+NP.",
-        "ne": "७ सेप्ट प्रतिवेदन ८ सेप्ट अपडेटले प्रतिस्थापित। नजोड़्नु।",
-        "hi": "7 सित रिपोर्ट 8 सित अपडेट से बदल गई। न जोड़ें।"
       }
     },
     {
@@ -83,17 +85,17 @@
         "hi": "शिन्हुआ: 5 सित 18:00 पर 43/519"
       },
       "body": {
-        "zh": "救出2人；外籍失联261人涉23国。2500余人、500余车。",
-        "en": "2 rescued; 261 foreigners from 23 countries. 2500+ people, 500+ vehicles.",
-        "ne": "२ उद्धार; २६१ विदेशी २३ देश। २५००+ जन, ५००+ सवारी।",
-        "hi": "2 बचाए; 261 विदेशी 23 देश। 2500+ लोग, 500+ वाहन।"
+        "zh": "救出2人；外籍失联261人涉23国。2500余人。",
+        "en": "2 rescued; 261 foreigners from 23 countries. 2500+ people.",
+        "ne": "२ उद्धार; २६१ विदेशी २३ देश। २५००+ जन।",
+        "hi": "2 बचाए; 261 विदेशी 23 देश। 2500+ लोग।"
       }
     },
     {
       "id": "cn43",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "http://society.people.com.cn/GB/369130/462587",
+      "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9df0f4e4b06d4aa055c9df.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -105,10 +107,10 @@
         "hi": "5 सित 18:00: 43/519"
       },
       "body": {
-        "zh": "救出2人；遗物993件。勿与尼方相加。",
-        "en": "2 rescued; 993 belongings. Do not add CN+NP.",
-        "ne": "२ उद्धार; ९९३ वस्तु। नजोड़्नु।",
-        "hi": "2 बचाए; 993 वस्तुएँ। न जोड़ें।"
+        "zh": "救出2人；遗物约993件。勿与尼方相加。",
+        "en": "2 rescued; about 993 belongings. Do not add CN+NP.",
+        "ne": "२ उद्धार; करिब ९९३ वस्तु। नजोड़्नु।",
+        "hi": "2 बचाए; लगभग 993 वस्तुएँ। न जोड़ें।"
       }
     },
     {
@@ -341,106 +343,104 @@
     {
       "id": "x1",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "边检民警肖富贵无人机拍到口岸泥石流过后画面。",
-        "en": "Immigration officer Xiao Fugui drone footage near Gyirong Port.",
-        "ne": "ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज।",
-        "hi": "ग्यिरोङ पोर्ट के पास ड्रोन फुटेज।"
+        "zh": "外媒记者周六至周日探访吉隆口岸灾区。",
+        "en": "International journalists visited Gyirong Port Sat–Sun.",
+        "ne": "अन्तर्राष्ट्रिय पत्रकार शनि–आइत ग्यिरोङ।",
+        "hi": "अंतरराष्ट्रीय पत्रकार शनि–रवि ग्यिरोङ।"
       }
     },
     {
       "id": "x2",
       "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.3,
-      "lng": 85.368,
+      "t": "2026-09-07T10:10:46Z",
+      "link": "https://x.com/XHNews/status/2096904000058843554",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "G216抢通艰难：两小时推进不足5米。",
-        "en": "G216 reopen: less than 5 meters in two hours.",
-        "ne": "G216 खोल्न दुई घण्टामा ५ मिटरभन्दा कम।",
-        "hi": "G216 खोलने में दो घंटे में 5 मीटर से कम।"
+        "zh": "外国记者实地了解吉隆口岸灾情与多线救援。",
+        "en": "Foreign journalists saw aftermath and multi-front SAR.",
+        "ne": "विदेशी पत्रकारले SAR र क्षति हेरे।",
+        "hi": "विदेशी पत्रकारों ने SAR और क्षति देखी।"
       }
     },
     {
       "id": "x3",
       "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
+      "t": "2026-09-07T06:08:33Z",
+      "link": "https://x.com/XHNews/status/2096843042137489625",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "2日10时通往吉隆口岸核心区道路基本抢通。",
-        "en": "Road to Gyirong Port core basically restored 10:00 Wed.",
-        "ne": "बुध १०:०० मा कोर सडक लगभग खुल्यो।",
-        "hi": "बुध 10:00 पर कोर सड़क लगभग खुली।"
+        "zh": "指挥部：部分遇难者身份已确认。",
+        "en": "Command: identities of some victims confirmed.",
+        "ne": "केही मृतकको पहिचान पुष्टि।",
+        "hi": "कुछ मृतकों की पहचान पुष्ट।"
       }
     },
     {
       "id": "x4",
-      "user": "@XHNews",
-      "t": "2026-08-30T14:25:09Z",
-      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-07T02:35:18Z",
+      "link": "https://x.com/CCTV_Plus/status/2096789374872801595",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "激光AI监测边坡落石，保障抢通路安全。",
-        "en": "Laser AI monitors landslide/rockfall on reopen route.",
-        "ne": "लेजर AI पहिरो/ढुङ्गा निगरानी।",
-        "hi": "लेजर AI भूस्खलन/पत्थर निगरानी।"
+        "zh": "截至5日18时：43遇难、519失联。",
+        "en": "As of 5 Sep 18:00: 43 dead, 519 missing.",
+        "ne": "५ सेप्ट १८:००: ४३ मृत्यु, ५१९ बेपत्ता।",
+        "hi": "5 सित 18:00: 43 मृत, 519 लापता।"
       }
     },
     {
       "id": "x5",
-      "user": "@XHNews",
-      "t": "2026-08-30T06:49:32Z",
-      "link": "https://x.com/XHNews/status/2093954255568953603",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-07T02:27:42Z",
+      "link": "https://x.com/CCTV_Plus/status/2096787463251636596",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "直升机向吉隆口岸搜救点投送物资。",
-        "en": "Helicopters delivered supplies to Gyirong Port SAR.",
-        "ne": "हेलिकप्टरले ग्यिरोङ SAR मा सामान।",
-        "hi": "हेलीकॉप्टर ने ग्यिरोङ SAR को सामान दिया।"
+        "zh": "中方为1720名尼泊尔边民提供生活保障。",
+        "en": "China assisted 1,720 Nepalese border residents.",
+        "ne": "चीनले १७२० नेपाली सीमावासी सहयोग।",
+        "hi": "चीन ने 1720 नेपाली सीमा निवासियों की सहायता।"
       }
     },
     {
       "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-07T12:07:48Z",
+      "link": "https://x.com/CCTV_Plus/status/2096933451001958637",
+      "geo": "unknown",
       "text": {
-        "zh": "外籍失联261人，涉及23个国家。",
-        "en": "261 foreign nationals from 23 countries unaccounted for.",
-        "ne": "२३ देशका २६१ विदेशी बेपत्ता।",
-        "hi": "23 देशों के 261 विदेशी लापता।"
+        "zh": "专家：境外上游隐患增加吉隆泥石流监测难度。",
+        "en": "Expert: upstream hazards beyond border complicate monitoring.",
+        "ne": "सीमापार माथिल्लो जोखिम निगरानी कठिन।",
+        "hi": "सीमापार ऊपरी जोखिम निगरानी कठिन।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
+      "t": "2026-09-07T04:50:14Z",
+      "link": "https://x.com/XHNews/status/2096823335774720106",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "截至29日18时：16遇难、546失联（已被后续口径更新）。",
-        "en": "As of 29 Aug 18:00: 16 dead, 546 missing (later superseded).",
-        "ne": "२९ अगस्ट १८:००: १६/५४६ (पछि अद्यावधिक)।",
-        "hi": "29 अगस्त 18:00: 16/546 (बाद में अद्यतन)।"
+        "zh": "新华社再发吉隆口岸泥石流进展图解。",
+        "en": "Xinhua graphic update on Gyirong Port mudslide.",
+        "ne": "सिन्ह्वा ग्यिरोङ प्रगति ग्राफिक।",
+        "hi": "शिन्हुआ ग्यिरोङ प्रगति ग्राफिक।"
       }
     }
   ]
