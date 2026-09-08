@@ -1,10 +1,30 @@
 {
-  "snap": "2026-09-08T19:20:00Z",
+  "snap": "2026-09-08T20:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1356, "missing": 4994, "rescued": 13396 }
   },
   "published": [
+    {
+      "id": "refresh0815",
+      "src": "official",
+      "t": "2026-09-08T20:15:00Z",
+      "link": "https://english.nepalnews.com/s/nation/as-of-6pm-bhote-koshi-flood-death-toll-reaches-1356-nearly-5000-remain-out-of-contact/",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "8日复核：无更新官方伤亡口径",
+        "en": "8 Sep check: no newer official KPI",
+        "ne": "८ सेप्ट: नयाँ आधिकारिक KPI छैन",
+        "hi": "8 सित: नया आधिकारिक KPI नहीं"
+      },
+      "body": {
+        "zh": "中方仍截至5日18时43/519/2；尼方仍7日18时1356/4994/13396。勿相加。",
+        "en": "CN still 5 Sep 18:00 43/519/2; NP still 7 Sep 18:00 1356/4994/13396. Do not add.",
+        "ne": "CN ५ सेप्ट ४३/५१९/२; NP ७ सेप्ट १३५६/४९९४/१३३९६। नजोड़्नु।",
+        "hi": "CN 5 सित 43/519/2; NP 7 सित 1356/4994/13396। न जोड़ें।"
+      }
+    },
     {
       "id": "xh08recap",
       "src": "official",
@@ -457,10 +477,10 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "G216抢通困难：无路、急流、危坡、巨石。",
-        "en": "G216 reopen hard: no road, torrent, unstable slopes, boulders.",
-        "ne": "G216 कठिन: बाटो छैन, भेल, ढुङ्गा।",
-        "hi": "G216 कठिन: सड़क नहीं, धार, चट्टान।"
+        "zh": "G216抢通艰难：两小时推进不足5米。",
+        "en": "G216 reopen hard: less than 5 m in two hours.",
+        "ne": "G216 खोल्न कठिन: दुई घण्टामा ५ मिटरभन्दा कम।",
+        "hi": "G216 खोलना कठिन: दो घंटे में 5 मीटर से कम।"
       }
     }
   ]
