@@ -1,10 +1,30 @@
 {
-  "snap": "2026-09-09T03:22:00Z",
+  "snap": "2026-09-09T04:30:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1357, "missing": 5326, "rescued": 13583 }
+    "np": { "dead": 1358, "missing": 5326, "rescued": 13583 }
   },
   "published": [
+    {
+      "id": "np1358",
+      "src": "official",
+      "t": "2026-09-08T12:15:00Z",
+      "link": "https://english.nepalnews.com/s/nation/bhote-koshi-flood-death-toll-rises-to-1358-as-5326-remain-missing-as-of-6pm/",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 8日18时：1358具遗体",
+        "en": "NDRRMA 8 Sep 18:00 NPT: 1358 bodies",
+        "ne": "NDRRMA ८ सेप्ट १८:००: १३५८ शव",
+        "hi": "NDRRMA 8 सित 18:00: 1358 शव"
+      },
+      "body": {
+        "zh": "NDRRMA：1358遗体、5326失联、13583获救。勿与中方相加。",
+        "en": "NDRRMA: 1358 bodies, 5326 missing, 13583 rescued. Do not add CN+NP.",
+        "ne": "NDRRMA: १३५८ शव, ५३२६ बेपत्ता, १३५८३ उद्धार। नजोड़्नु।",
+        "hi": "NDRRMA: 1358 शव, 5326 लापता, 13583 बचाए। न जोड़ें।"
+      }
+    },
     {
       "id": "np1357",
       "src": "official",
@@ -19,10 +39,10 @@
         "hi": "NDRRMA 8 सित 13:00: 1357 शव"
       },
       "body": {
-        "zh": "NDRRMA/内政部：1357遗体、5326失联、13583获救。勿与中方相加。",
-        "en": "NDRRMA/MoHA: 1357 bodies, 5326 missing, 13583 rescued. Do not add CN+NP.",
-        "ne": "NDRRMA: १३५७ शव, ५३२६ बेपत्ता, १३५८३ उद्धार। नजोड़्नु।",
-        "hi": "NDRRMA: 1357 शव, 5326 लापता, 13583 बचाए। न जोड़ें।"
+        "zh": "13时口径1357/5326/13583。已由18时1358覆盖。",
+        "en": "13:00 NPT tally 1357/5326/13583. Superseded by 18:00 1358.",
+        "ne": "१३:०० को १३५७; १८:०० मा १३५८।",
+        "hi": "13:00 पर 1357; 18:00 पर 1358।"
       }
     },
     {
@@ -63,32 +83,10 @@
         "hi": "8 सित: G216 ढलान सुरक्षित"
       },
       "body": {
-        "zh": "排查地质隐患58处并监测；国门仍毁不通关。伤亡口径仍截至5日18时43/519/2。",
-        "en": "58 hazard spots monitored. Gate still destroyed. KPI still 5 Sep 18:00 43/519/2.",
-        "ne": "५८ जोखिम बिन्दु निगरानी। द्वार नष्ट। KPI ४३/५१९/२।",
-        "hi": "58 जोखिम बिंदु निगरानी। द्वार नष्ट। KPI 43/519/2।"
-      }
-    },
-    {
-      "id": "xh08recap",
-      "src": "official",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "title": {
-        "zh": "新华社8日综述吉隆口岸搜救",
-        "en": "Xinhua 8 Sep recap of Gyirong Port SAR",
-        "ne": "सिन्ह्वा ८ सेप्ट ग्यिरोङ सार",
-        "hi": "शिन्हुआ 8 सित ग्यिरोङ सार"
-      },
-      "body": {
-        "zh": "8月26日泥石流；中方全力搜救。伤亡口径仍截至5日18时43/519/2。",
-        "en": "26 Aug mudslide; China SAR ongoing. KPI still 5 Sep 18:00 43/519/2.",
-        "ne": "२६ अगस्ट पहिरो; SAR जारी। KPI ५ सेप्ट ४३/५१९/२।",
-        "hi": "26 अगस्त मलबा; SAR जारी। KPI 5 सित 43/519/2।"
+        "zh": "排查地质隐患58处并监测；国门仍毁不通关。",
+        "en": "58 hazard spots monitored. Gate still destroyed.",
+        "ne": "५८ जोखिम बिन्दु निगरानी। द्वार नष्ट।",
+        "hi": "58 जोखिम बिंदु निगरानी। द्वार नष्ट।"
       }
     },
     {
@@ -439,32 +437,32 @@
     },
     {
       "id": "x6",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-07T12:07:48Z",
-      "link": "https://x.com/CCTV_Plus/status/2096933451001958637",
+      "user": "@XHNews",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "专家：境外源头增加吉隆泥石流监测难度。",
-        "en": "Researcher: upstream sources beyond border complicate Gyirong monitoring.",
-        "ne": "विदेशी स्रोतले ग्यिरोङ निगरानी कठिन।",
-        "hi": "सीमापार स्रोत ग्यिरोङ निगरानी कठिन।"
+        "zh": "边检民警肖富贵无人机记录口岸泥石流过后现场。",
+        "en": "Immigration officer drone footage near Gyirong Port after mudslide.",
+        "ne": "ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज।",
+        "hi": "ग्यिरोङ पोर्ट के पास ड्रोन फुटेज।"
       }
     },
     {
       "id": "x7",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-07T11:39:14Z",
-      "link": "https://x.com/CCTV_Plus/status/2096926261885186158",
-      "lat": 28.2797,
-      "lng": 85.3777,
+      "user": "@XHNews",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.3,
+      "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "国际媒体5–6日进入吉隆口岸核心灾区采访。",
-        "en": "International media visited Gyirong Port core on 5–6 Sep.",
-        "ne": "अन्तर्राष्ट्रिय मिडिया ५–६ सेप्ट कोर क्षेत्र।",
-        "hi": "अंतरराष्ट्रीय मीडिया 5–6 सित कोर क्षेत्र।"
+        "zh": "G216通往吉隆口岸核心区道路2日10时基本抢通。",
+        "en": "Road to Gyirong Port core basically restored 2 Sep 10:00.",
+        "ne": "G216 कोर २ सेप्ट १०:०० खुला।",
+        "hi": "G216 कोर 2 सित 10:00 खुला।"
       }
     }
   ]
