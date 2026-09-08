@@ -1,5 +1,5 @@
 {
-  "snap": "2026-09-09T04:30:00Z",
+  "snap": "2026-09-09T05:37:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1358, "missing": 5326, "rescued": 13583 }
@@ -453,16 +453,16 @@
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
+      "t": "2026-09-07T04:50:14Z",
+      "link": "https://x.com/XHNews/status/2096823335774720106",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "G216通往吉隆口岸核心区道路2日10时基本抢通。",
-        "en": "Road to Gyirong Port core basically restored 2 Sep 10:00.",
-        "ne": "G216 कोर २ सेप्ट १०:०० खुला।",
-        "hi": "G216 कोर 2 सित 10:00 खुला।"
+        "zh": "新华社：吉隆泥石流进展一览。",
+        "en": "Xinhua: Gyirong mudslide progress briefing.",
+        "ne": "सिन्ह्वा: ग्यिरोङ प्रगति सार।",
+        "hi": "शिन्हुआ: ग्यिरोङ प्रगति सार।"
       }
     }
   ]
