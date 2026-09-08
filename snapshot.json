@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-08T22:20:00Z",
+  "snap": "2026-09-08T23:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1356, "missing": 4994, "rescued": 13396 }
+    "np": { "dead": 1357, "missing": 5326, "rescued": 13583 }
   },
   "published": [
     {
-      "id": "refresh2220",
+      "id": "np1357",
       "src": "official",
-      "t": "2026-09-08T22:20:00Z",
-      "link": "https://english.nepalnews.com/s/nation/as-of-6pm-bhote-koshi-flood-death-toll-reaches-1356-nearly-5000-remain-out-of-contact/",
+      "t": "2026-09-08T07:15:00Z",
+      "link": "https://english.ratopati.com/story/78320/rasuwa-flood-death-toll-reaches-1357-5326-still-unaccounted-for",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "8日22时复核：无更新官方伤亡口径",
-        "en": "8 Sep 22:20Z check: no newer official KPI",
-        "ne": "८ सेप्ट २२:२०Z: नयाँ आधिकारिक KPI छैन",
-        "hi": "8 सित 22:20Z: नया आधिकारिक KPI नहीं"
+        "zh": "NDRRMA 8日13时：1357具遗体",
+        "en": "NDRRMA 8 Sep 13:00 NPT: 1357 bodies",
+        "ne": "NDRRMA ८ सेप्ट १३:००: १३५७ शव",
+        "hi": "NDRRMA 8 सित 13:00: 1357 शव"
       },
       "body": {
-        "zh": "中方仍截至5日18时43遇难/519失联/2救出；尼方仍NDRRMA 7日18时1356遗体/约4994失联/13396获救。两国勿相加。",
-        "en": "CN still 5 Sep 18:00 43/519/2; NP still NDRRMA 7 Sep 18:00 1356/4994/13396. Do not add CN+NP.",
-        "ne": "CN ५ सेप्ट १८:०० ४३/५१९/२; NP ७ सेप्ट १८:०० १३५६/४९९४/१३३९६। नजोड़्नु।",
-        "hi": "CN 5 सित 18:00 43/519/2; NP 7 सित 18:00 1356/4994/13396। न जोड़ें।"
+        "zh": "Ratopati转述NDRRMA Bhadra 23 13时：1357遗体、5326失联、13583获救、102具已移交。勿与中方相加。",
+        "en": "Ratopati cites NDRRMA Bhadra 23 13:00: 1357 bodies, 5326 missing, 13583 rescued, 102 handed over. Do not add CN+NP.",
+        "ne": "Ratopati/NDRRMA भाद्र २३ १३:००: १३५७ शव, ५३२६ बेपत्ता, १३५८३ उद्धार। नजोड़्नु।",
+        "hi": "Ratopati/NDRRMA भाद्र 23 13:00: 1357 शव, 5326 लापता, 13583 बचाए। न जोड़ें।"
       }
     },
     {
@@ -48,26 +48,6 @@
       }
     },
     {
-      "id": "khub8",
-      "src": "official",
-      "t": "2026-09-08T06:00:00Z",
-      "link": "https://english.khabarhub.com/2026/07/566860/",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "Khabarhub转述NDRRMA：1355具遗体",
-        "en": "Khabarhub cites NDRRMA: 1355 bodies",
-        "ne": "Khabarhub: १३५५ शव",
-        "hi": "Khabarhub: 1355 शव"
-      },
-      "body": {
-        "zh": "约4996失联；13396获救；98具已辨认。KPI仍用7日官方1356/4994。勿与中方相加。",
-        "en": "~4996 missing; 13396 rescued; 98 identified. KPI keeps 7 Sep official 1356/4994. Do not add CN+NP.",
-        "ne": "~४९९६ बेपत्ता; १३३९६ उद्धार; ९८ पहिचान। KPI ७ सेप्ट १३५६/४९९४। नजोड़्नु।",
-        "hi": "~4996 लापता; 13396 बचाए; 98 पहचान। KPI 7 सित 1356/4994। न जोड़ें।"
-      }
-    },
-    {
       "id": "sitrep7",
       "src": "official",
       "t": "2026-09-07T13:15:00Z",
@@ -81,30 +61,10 @@
         "hi": "NDRRMA स्थिति रिपोर्ट #7"
       },
       "body": {
-        "zh": "7日19时发布；与18时快报1356/4994/13396同口径。勿与中方相加。",
-        "en": "Issued 7 Sep 19:00 NPT; same 1356/4994/13396 as 18:00 update. Do not add CN+NP.",
-        "ne": "७ सेप्ट १९:००; १३५६/४९९४/१३३९६। नजोड़्नु।",
-        "hi": "7 सित 19:00; 1356/4994/13396। न जोड़ें।"
-      }
-    },
-    {
-      "id": "np1356pm",
-      "src": "official",
-      "t": "2026-09-07T12:15:00Z",
-      "link": "https://english.nepalnews.com/s/nation/as-of-6pm-bhote-koshi-flood-death-toll-reaches-1356-nearly-5000-remain-out-of-contact/",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 7日18时：1356具遗体",
-        "en": "NDRRMA 7 Sep 18:00: 1356 bodies",
-        "ne": "NDRRMA ७ सेप्ट १८:००: १३५६ शव",
-        "hi": "NDRRMA 7 सित 18:00: 1356 शव"
-      },
-      "body": {
-        "zh": "约4994失联；13396获救；6676伤。勿与中方相加。",
-        "en": "~4994 missing; 13396 rescued; 6676 injured. Do not add CN+NP.",
-        "ne": "~४९९४ बेपत्ता; १३३९६ उद्धार; ६६७६ घाइते। नजोड़्नु।",
-        "hi": "~4994 लापता; 13396 बचाए; 6676 घायल। न जोड़ें।"
+        "zh": "7日口径已被8日13时快报覆盖。勿与中方相加。",
+        "en": "7 Sep sitrep superseded by 8 Sep 13:00 NPT update. Do not add CN+NP.",
+        "ne": "७ सेप्ट प्रतिवेदन ८ सेप्ट अपडेटले प्रतिस्थापित। नजोड़्नु।",
+        "hi": "7 सित रिपोर्ट 8 सित अपडेट से बदल गई। न जोड़ें।"
       }
     },
     {
@@ -381,80 +341,20 @@
     {
       "id": "x1",
       "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "CNN/路透/NBC等外媒记者到访吉隆口岸灾区。",
-        "en": "CNN, Reuters, NBC journalists visited Gyirong Port.",
-        "ne": "CNN, रोयटर्स, NBC पत्रकार ग्यिरोङ पुगे।",
-        "hi": "CNN, रॉयटर्स, NBC पत्रकार ग्यिरोङ पहुँचे।"
-      }
-    },
-    {
-      "id": "x2",
-      "user": "@XHNews",
-      "t": "2026-09-07T10:10:46Z",
-      "link": "https://x.com/XHNews/status/2096904000058843554",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "外媒记者现场了解救援与善后。",
-        "en": "Foreign journalists briefed on rescue and relief.",
-        "ne": "विदेशी पत्रकारलाई उद्धार जानकारी।",
-        "hi": "विदेशी पत्रकारों को बचाव जानकारी।"
-      }
-    },
-    {
-      "id": "x3",
-      "user": "@XHNews",
-      "t": "2026-09-07T06:08:33Z",
-      "link": "https://x.com/XHNews/status/2096843042137489625",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "部分遇难人员身份已确认。",
-        "en": "Some victim identities confirmed.",
-        "ne": "केही पीडित पहिचान पुष्टि।",
-        "hi": "कुछ पीड़ित पहचान पुष्ट।"
-      }
-    },
-    {
-      "id": "x4",
-      "user": "@XHNews",
-      "t": "2026-09-07T04:50:14Z",
-      "link": "https://x.com/XHNews/status/2096823335774720106",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华社汇总吉隆口岸灾情与救援进展。",
-        "en": "Xinhua recap of Gyirong Port disaster and rescue.",
-        "ne": "सिन्ह्वा ग्यिरोङ सार।",
-        "hi": "शिन्हुआ ग्यिरोङ सार।"
-      }
-    },
-    {
-      "id": "x5",
-      "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
       "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "边检民警肖富贵泥石流后航拍吉隆口岸核心区。",
-        "en": "Immigration officer Xiao Fugui filmed drone footage near Gyirong Port.",
-        "ne": "अधिकृत स्याओ फुगुईले ग्यिरोङ ड्रोन खिचे।",
-        "hi": "अधिकारी शाओ फुगुई ने ग्यिरोङ ड्रोन फिल्माया।"
+        "zh": "边检民警肖富贵无人机拍到口岸泥石流过后画面。",
+        "en": "Immigration officer Xiao Fugui drone footage near Gyirong Port.",
+        "ne": "ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज।",
+        "hi": "ग्यिरोङ पोर्ट के पास ड्रोन फुटेज।"
       }
     },
     {
-      "id": "x6",
+      "id": "x2",
       "user": "@XHNews",
       "t": "2026-09-04T09:00:43Z",
       "link": "https://x.com/XHNews/status/2095799206615347459",
@@ -462,14 +362,14 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "两小时推进不足5米：G216抢通难点。",
-        "en": "Less than 5 meters in two hours: G216 reopen obstacles.",
-        "ne": "दुई घण्टामा ५ मिटरभन्दा कम: G216।",
-        "hi": "दो घंटे में 5 मीटर से कम: G216।"
+        "zh": "G216抢通艰难：两小时推进不足5米。",
+        "en": "G216 reopen: less than 5 meters in two hours.",
+        "ne": "G216 खोल्न दुई घण्टामा ५ मिटरभन्दा कम।",
+        "hi": "G216 खोलने में दो घंटे में 5 मीटर से कम।"
       }
     },
     {
-      "id": "x7",
+      "id": "x3",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -477,10 +377,70 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "2日10时G216通往吉隆口岸核心区基本抢通。",
-        "en": "G216 access to Gyirong Port core basically restored 10:00 Wed.",
-        "ne": "बुध १०:०० मा G216 कोर लगभग खुला।",
-        "hi": "बुध 10:00 पर G216 कोर लगभग खुला।"
+        "zh": "2日10时通往吉隆口岸核心区道路基本抢通。",
+        "en": "Road to Gyirong Port core basically restored 10:00 Wed.",
+        "ne": "बुध १०:०० मा कोर सडक लगभग खुल्यो।",
+        "hi": "बुध 10:00 पर कोर सड़क लगभग खुली।"
+      }
+    },
+    {
+      "id": "x4",
+      "user": "@XHNews",
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "激光AI监测边坡落石，保障抢通路安全。",
+        "en": "Laser AI monitors landslide/rockfall on reopen route.",
+        "ne": "लेजर AI पहिरो/ढुङ्गा निगरानी।",
+        "hi": "लेजर AI भूस्खलन/पत्थर निगरानी।"
+      }
+    },
+    {
+      "id": "x5",
+      "user": "@XHNews",
+      "t": "2026-08-30T06:49:32Z",
+      "link": "https://x.com/XHNews/status/2093954255568953603",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "直升机向吉隆口岸搜救点投送物资。",
+        "en": "Helicopters delivered supplies to Gyirong Port SAR.",
+        "ne": "हेलिकप्टरले ग्यिरोङ SAR मा सामान।",
+        "hi": "हेलीकॉप्टर ने ग्यिरोङ SAR को सामान दिया।"
+      }
+    },
+    {
+      "id": "x6",
+      "user": "@XHNews",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "外籍失联261人，涉及23个国家。",
+        "en": "261 foreign nationals from 23 countries unaccounted for.",
+        "ne": "२३ देशका २६१ विदेशी बेपत्ता।",
+        "hi": "23 देशों के 261 विदेशी लापता।"
+      }
+    },
+    {
+      "id": "x7",
+      "user": "@XHNews",
+      "t": "2026-08-30T04:23:39Z",
+      "link": "https://x.com/XHNews/status/2093917539642519759",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "截至29日18时：16遇难、546失联（已被后续口径更新）。",
+        "en": "As of 29 Aug 18:00: 16 dead, 546 missing (later superseded).",
+        "ne": "२९ अगस्ट १८:००: १६/५४६ (पछि अद्यावधिक)।",
+        "hi": "29 अगस्त 18:00: 16/546 (बाद में अद्यतन)।"
       }
     }
   ]
