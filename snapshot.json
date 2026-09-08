@@ -1,32 +1,10 @@
 {
-  "snap": "2026-09-09T02:11:00Z",
+  "snap": "2026-09-09T03:22:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1357, "missing": 5326, "rescued": 13583 }
   },
   "published": [
-    {
-      "id": "g216-08",
-      "src": "official",
-      "t": "2026-09-08T05:51:00Z",
-      "link": "https://www.bastillepost.com/global/article/6138688-rescuers-take-measures-to-secure-safe-road-access-to-mudslide-hit-gyirong-port",
-      "img": null,
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "place",
-      "title": {
-        "zh": "8日：G216边坡排查加固",
-        "en": "8 Sep: G216 slopes screened and reinforced",
-        "ne": "८ सेप्ट: G216 भिर सुरक्षित",
-        "hi": "8 सित: G216 ढलान सुरक्षित"
-      },
-      "body": {
-        "zh": "排查地质隐患58处并监测；国门仍毁不通关。伤亡口径仍截至5日18时43/519/2。",
-        "en": "58 hazard spots monitored. Gate still destroyed. KPI still 5 Sep 18:00 43/519/2.",
-        "ne": "५८ जोखिम बिन्दु निगरानी। द्वार नष्ट। KPI ४३/५१९/२।",
-        "hi": "58 जोखिम बिंदु निगरानी। द्वार नष्ट। KPI 43/519/2।"
-      }
-    },
     {
       "id": "np1357",
       "src": "official",
@@ -67,6 +45,28 @@
         "en": "KPI still 5 Sep 18:00: 43 dead, 519 missing, 2 rescued; 2500+ crews. Do not add CN+NP.",
         "ne": "KPI अझै ५ सेप्ट १८:००: ४३/५१९/२। नजोड़्नु।",
         "hi": "KPI अभी 5 सित 18:00: 43/519/2। न जोड़ें।"
+      }
+    },
+    {
+      "id": "g216-08",
+      "src": "official",
+      "t": "2026-09-08T05:51:00Z",
+      "link": "https://www.bastillepost.com/global/article/6138688-rescuers-take-measures-to-secure-safe-road-access-to-mudslide-hit-gyirong-port",
+      "img": null,
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "place",
+      "title": {
+        "zh": "8日：G216边坡排查加固",
+        "en": "8 Sep: G216 slopes screened and reinforced",
+        "ne": "८ सेप्ट: G216 भिर सुरक्षित",
+        "hi": "8 सित: G216 ढलान सुरक्षित"
+      },
+      "body": {
+        "zh": "排查地质隐患58处并监测；国门仍毁不通关。伤亡口径仍截至5日18时43/519/2。",
+        "en": "58 hazard spots monitored. Gate still destroyed. KPI still 5 Sep 18:00 43/519/2.",
+        "ne": "५८ जोखिम बिन्दु निगरानी। द्वार नष्ट। KPI ४३/५१९/२।",
+        "hi": "58 जोखिम बिंदु निगरानी। द्वार नष्ट। KPI 43/519/2।"
       }
     },
     {
@@ -439,32 +439,32 @@
     },
     {
       "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-09-06T14:41:30Z",
-      "link": "https://x.com/XHNews/status/2096609742487691562",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-07T12:07:48Z",
+      "link": "https://x.com/CCTV_Plus/status/2096933451001958637",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "截至5日18时：43遇难、519失联，外籍失联261人。",
-        "en": "As of 5 Sep 18:00: 43 dead, 519 missing; 261 foreigners missing.",
-        "ne": "५ सेप्ट १८:००: ४३/५१९; २६१ विदेशी बेपत्ता।",
-        "hi": "5 सित 18:00: 43/519; 261 विदेशी लापता।"
+        "zh": "专家：境外源头增加吉隆泥石流监测难度。",
+        "en": "Researcher: upstream sources beyond border complicate Gyirong monitoring.",
+        "ne": "विदेशी स्रोतले ग्यिरोङ निगरानी कठिन।",
+        "hi": "सीमापार स्रोत ग्यिरोङ निगरानी कठिन।"
       }
     },
     {
       "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-09-07T04:50:14Z",
-      "link": "https://x.com/XHNews/status/2096823335774720106",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-07T11:39:14Z",
+      "link": "https://x.com/CCTV_Plus/status/2096926261885186158",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社再发吉隆口岸泥石流进展图解。",
-        "en": "Xinhua graphic update on Gyirong Port mudslide.",
-        "ne": "सिन्ह्वा ग्यिरोङ प्रगति ग्राफिक।",
-        "hi": "शिन्हुआ ग्यिरोङ प्रगति ग्राफिक।"
+        "zh": "国际媒体5–6日进入吉隆口岸核心灾区采访。",
+        "en": "International media visited Gyirong Port core on 5–6 Sep.",
+        "ne": "अन्तर्राष्ट्रिय मिडिया ५–६ सेप्ट कोर क्षेत्र।",
+        "hi": "अंतरराष्ट्रीय मीडिया 5–6 सित कोर क्षेत्र।"
       }
     }
   ]
