@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-09T12:01:00Z",
+  "snap": "2026-09-09T13:04:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1358, "missing": 5326, "rescued": 13583 }
   },
   "published": [
     {
-      "id": "osint-0909",
+      "id": "osint-0909b",
       "src": "official",
-      "t": "2026-09-09T12:01:00Z",
+      "t": "2026-09-09T13:04:00Z",
       "link": "https://english.nepalnews.com/s/nation/bhote-koshi-flood-death-toll-rises-to-1358-as-5326-remain-missing-as-of-6pm/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "9日复核：中尼官方伤亡口径未更新",
-        "en": "9 Sep audit: no new official CN/NP KPI",
-        "ne": "९ सेप्ट: नयाँ आधिकारिक KPI छैन",
-        "hi": "9 सित: नया आधिकारिक KPI नहीं"
+        "zh": "9日13:04Z复核：中尼官方伤亡未更新",
+        "en": "09 Sep 13:04Z audit: no new official CN/NP KPI",
+        "ne": "९ सेप्ट १३:०४Z: नयाँ आधिकारिक KPI छैन",
+        "hi": "9 सित 13:04Z: नया आधिकारिक KPI नहीं"
       },
       "body": {
-        "zh": "检索新华社/指挥部与NDRRMA至09日12:01Z，仍用中方5日18时、尼方8日18时NPT。勿相加。",
-        "en": "Xinhua/HQ and NDRRMA through 09 Sep 12:01Z still use CN 5 Sep 18:00 and NP 8 Sep 18:00 NPT. Do not add.",
-        "ne": "१२:०१Z सम्म CN ५ सेप्ट १८:००; NP ८ सेप्ट १८:०० NPT। नजोड़्नु।",
-        "hi": "12:01Z तक CN 5 सित 18:00; NP 8 सित 18:00 NPT। न जोड़ें।"
+        "zh": "新华社/指挥部与NDRRMA至13:04Z仍用中方5日18时、尼方8日18时NPT。勿相加。",
+        "en": "Xinhua/HQ and NDRRMA through 13:04Z still use CN 5 Sep 18:00 and NP 8 Sep 18:00 NPT. Do not add.",
+        "ne": "१३:०४Z सम्म CN ५ सेप्ट १८:००; NP ८ सेप्ट १८:०० NPT। नजोड़्नु।",
+        "hi": "13:04Z तक CN 5 सित 18:00; NP 8 सित 18:00 NPT। न जोड़ें।"
       }
     },
     {
@@ -90,6 +90,28 @@
       }
     },
     {
+      "id": "ret444",
+      "src": "official",
+      "t": "2026-09-08T15:48:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "img": null,
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "place",
+      "title": {
+        "zh": "新华社8日：444名撤离村民返乡",
+        "en": "Xinhua 8 Sep: 444 evacuees returned home",
+        "ne": "सिन्ह्वा ८ सेप्ट: ४४४ फर्किए",
+        "hi": "शिन्हुआ 8 सित: 444 लौटे"
+      },
+      "body": {
+        "zh": "堰塞威胁基本解除后，吉隆镇/萨勒乡444人返乡；另55人待返。伤亡口径仍5日18时。",
+        "en": "After lake risk eased, 444 returned in Gyirong/Sale; 55 pending. KPI still 5 Sep 18:00.",
+        "ne": "ताल जोखिम घट्दा ४४४ फर्किए; ५५ बाँकी। KPI अझै ५ सेप्ट १८:००।",
+        "hi": "झील जोखिम घटने पर 444 लौटे; 55 शेष। KPI अभी 5 सित 18:00।"
+      }
+    },
+    {
       "id": "g216",
       "src": "official",
       "t": "2026-09-02T02:00:00Z",
@@ -137,17 +159,17 @@
       "id": "usemb",
       "src": "official",
       "t": "2026-09-06T11:40:00Z",
-      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-monsoon-risk-and-road-closures/",
+      "link": "https://np.usembassy.gov/travel-advisory-nepal-august-2026/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "美使馆6日：Rasuwagadhi请勿前往",
-        "en": "US Embassy 6 Sep: do not travel Rasuwagadhi",
-        "ne": "अमेरिकी दूतावास ६ सेप्ट: रसुवागढी नजानु",
-        "hi": "अमेरिकी दूतावास 6 सित: रसुवागढ़ी न जाएँ"
+        "zh": "美使馆：Rasuwagadhi请勿前往",
+        "en": "US Embassy: do not travel Rasuwagadhi",
+        "ne": "अमेरिकी दूतावास: रसुवागढी नजानु",
+        "hi": "अमेरिकी दूतावास: रसुवागढ़ी न जाएँ"
       },
       "body": {
-        "zh": "Rasuwagadhi–Timure–Syafrubesi含中尼口岸勿前往。9日未见新告示。",
+        "zh": "Rasuwagadhi–Timure–Syafrubesi含口岸勿前往。9日未见更新告示。",
         "en": "Do not travel Rasuwagadhi–Timure–Syafrubesi incl. border. No newer notice 9 Sep.",
         "ne": "रसुवागढी–तिमुरे–स्याफ्रुबेसी नजानु। ९ सेप्ट नयाँ सूचना छैन।",
         "hi": "रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी न जाएँ। 9 सित नई सूचना नहीं।"
@@ -167,10 +189,10 @@
         "hi": "ReliefWeb/MapAction रसुवा नक्शा"
       },
       "body": {
-        "zh": "4日受灾参考图；UNOSAT早期泥流约20km²。未见更新图。",
-        "en": "4 Sep reference map; UNOSAT early mudflow ~20 km2. No newer map.",
-        "ne": "४ सेप्ट नक्सा; UNOSAT ~२० किमी²। नयाँ नक्सा छैन।",
-        "hi": "4 सित नक्शा; UNOSAT ~20 किमी²। नया नक्शा नहीं।"
+        "zh": "4日受灾参考图；UNOSAT早期泥流约20km²。9日未见更新图。",
+        "en": "4 Sep reference map; UNOSAT early mudflow ~20 km2. No newer map 9 Sep.",
+        "ne": "४ सेप्ट नक्सा; UNOSAT ~२० किमी²। ९ सेप्ट नयाँ नक्सा छैन।",
+        "hi": "4 सित नक्शा; UNOSAT ~20 किमी²। 9 सित नया नक्शा नहीं।"
       }
     },
     {
@@ -193,28 +215,6 @@
         "en": "2 rescued; 261 foreigners from 23 countries. 2500+ people.",
         "ne": "२ उद्धार; २६१ विदेशी २३ देश। २५००+ जन।",
         "hi": "2 बचाए; 261 विदेशी 23 देश। 2500+ लोग।"
-      }
-    },
-    {
-      "id": "cnorg08",
-      "src": "official",
-      "t": "2026-09-08T04:00:00Z",
-      "link": "http://www.china.org.cn/2026-09/08/content_118685012.shtml",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "title": {
-        "zh": "新华社8日：外媒探访吉隆搜救现场",
-        "en": "Xinhua 8 Sep: foreign media at Gyirong SAR",
-        "ne": "सिन्ह्वा ८ सेप्ट: विदेशी मिडिया ग्यिरोङ",
-        "hi": "शिन्हुआ 8 सित: विदेशी मीडिया ग्यिरोङ"
-      },
-      "body": {
-        "zh": "口径仍截至5日18时43遇难519失联2获救；2500余人。",
-        "en": "KPI still 5 Sep 18:00: 43 dead, 519 missing, 2 rescued; 2500+ crews.",
-        "ne": "KPI अझै ५ सेप्ट १८:००: ४३/५१९/२।",
-        "hi": "KPI अभी 5 सित 18:00: 43/519/2।"
       }
     }
   ],
@@ -267,10 +267,10 @@
         "hi": "रसुवागढ़ी–तिमुरे"
       },
       "detail": {
-        "zh": "美使馆6日仍请勿前往；9日无新告示",
-        "en": "US Embassy 6 Sep: still do not travel; no 9 Sep update",
-        "ne": "६ सेप्ट यात्रा निषेध; ९ सेप्ट अपडेट छैन",
-        "hi": "6 सित यात्रा निषेध; 9 सित अपडेट नहीं"
+        "zh": "美使馆仍请勿前往；9日无新告示",
+        "en": "US Embassy: still do not travel; no 9 Sep update",
+        "ne": "यात्रा निषेध; ९ सेप्ट अपडेट छैन",
+        "hi": "यात्रा निषेध; 9 सित अपडेट नहीं"
       }
     }
   ],
@@ -338,10 +338,10 @@
     "lat": 28.293,
     "lng": 85.392,
     "status": {
-      "zh": "堰塞湖已泄空，河道过流，仍有新堰塞风险，持续监测",
-      "en": "Lake drained; channel flowing; new dam risk; monitoring",
-      "ne": "ताल खाली; नदी बग्दो; नयाँ बाँधजोखिम; निगरानी",
-      "hi": "झील खाली; नहर बह रही; नई बाँध जोखिम; निगरानी"
+      "zh": "堰塞湖已泄空，河道过流，险情基本排除，仍监测新堰塞",
+      "en": "Lake drained; channel flowing; hazard largely gone; watch new dams",
+      "ne": "ताल खाली; नदी बग्दो; जोखिम घट्यो; नयाँ बाँध निगरानी",
+      "hi": "झील खाली; नहर बह रही; जोखिम घट गया; नई बाँध निगरानी"
     }
   },
   "xPosts": [
@@ -444,10 +444,10 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "跨境泥石流引发应急互助与气候讨论。",
-        "en": "Cross-border mudslide spurred aid and climate discussion.",
-        "ne": "सीमापार पहिरोले सहयोग र जलवायु छलफल।",
-        "hi": "सीमापार मलबे से सहायता और जलवायु चर्चा।"
+        "zh": "跨境泥石流引发应急协作与气候讨论。",
+        "en": "Cross-border mudslide spurred emergency cooperation and climate talk.",
+        "ne": "सीमापार पहिरोले सहयोग र जलवायु चर्चा।",
+        "hi": "सीमापार मलबे से सहयोग और जलवायु चर्चा।"
       }
     },
     {
@@ -459,10 +459,10 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "无人机千余架次空投物资5.43吨。",
-        "en": "1,000+ drone flights airdropped 5.43 tonnes of supplies.",
-        "ne": "१०००+ ड्रोन उडान; ५.४३ टन सामग्री।",
-        "hi": "1000+ ड्रोन उड़ान; 5.43 टन सामग्री।"
+        "zh": "2500余人、500余车；无人机空投5.43吨。",
+        "en": "2500+ people, 500+ vehicles; drones dropped 5.43 t.",
+        "ne": "२५००+ जन, ५००+ गाडी; ड्रोन ५.४३ टन।",
+        "hi": "2500+ लोग, 500+ वाहन; ड्रोन 5.43 टन।"
       }
     }
   ]
