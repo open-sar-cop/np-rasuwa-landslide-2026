@@ -1,10 +1,30 @@
 {
-  "snap": "2026-09-09T00:05:00Z",
+  "snap": "2026-09-09T01:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1357, "missing": 5326, "rescued": 13583 }
   },
   "published": [
+    {
+      "id": "np1357",
+      "src": "official",
+      "t": "2026-09-08T07:15:00Z",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-1357-bodies.html",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 8日13时：1357具遗体",
+        "en": "NDRRMA 8 Sep 13:00 NPT: 1357 bodies",
+        "ne": "NDRRMA ८ सेप्ट १३:००: १३५७ शव",
+        "hi": "NDRRMA 8 सित 13:00: 1357 शव"
+      },
+      "body": {
+        "zh": "NDRRMA/内政部：1357遗体、5326失联、13583获救。勿与中方相加。",
+        "en": "NDRRMA/MoHA: 1357 bodies, 5326 missing, 13583 rescued. Do not add CN+NP.",
+        "ne": "NDRRMA: १३५७ शव, ५३२६ बेपत्ता, १३५८३ उद्धार। नजोड़्नु।",
+        "hi": "NDRRMA: 1357 शव, 5326 लापता, 13583 बचाए। न जोड़ें।"
+      }
+    },
     {
       "id": "cnorg08",
       "src": "official",
@@ -21,30 +41,10 @@
         "hi": "शिन्हुआ 8 सित: विदेशी मीडिया ग्यिरोङ"
       },
       "body": {
-        "zh": "口径仍截至5日18时43遇难519失联2获救；2500余人、空投超5吨。勿与尼方相加。",
+        "zh": "口径仍截至5日18时43遇难519失联2获救；2500余人。勿与尼方相加。",
         "en": "KPI still 5 Sep 18:00: 43 dead, 519 missing, 2 rescued; 2500+ crews. Do not add CN+NP.",
         "ne": "KPI अझै ५ सेप्ट १८:००: ४३/५१९/२। नजोड़्नु।",
         "hi": "KPI अभी 5 सित 18:00: 43/519/2। न जोड़ें।"
-      }
-    },
-    {
-      "id": "np1357",
-      "src": "official",
-      "t": "2026-09-08T07:15:00Z",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-1357-bodies.html",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 8日13时：1357具遗体",
-        "en": "NDRRMA 8 Sep 13:00 NPT: 1357 bodies",
-        "ne": "NDRRMA ८ सेप्ट १३:००: १३५७ शव",
-        "hi": "NDRRMA 8 सित 13:00: 1357 शव"
-      },
-      "body": {
-        "zh": "OnlineKhabar/THT转述：1357遗体、5326失联、13583获救。勿与中方相加。",
-        "en": "OnlineKhabar/THT cite NDRRMA: 1357 bodies, 5326 missing, 13583 rescued. Do not add CN+NP.",
-        "ne": "NDRRMA: १३५७ शव, ५३२६ बेपत्ता, १३५८३ उद्धार। नजोड़्नु।",
-        "hi": "NDRRMA: 1357 शव, 5326 लापता, 13583 बचाए। न जोड़ें।"
       }
     },
     {
