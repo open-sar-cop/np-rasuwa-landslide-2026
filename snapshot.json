@@ -1,5 +1,5 @@
 {
-  "snap": "2026-09-08T15:20:00Z",
+  "snap": "2026-09-08T17:09:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1356, "missing": 4994, "rescued": 13396 }
@@ -442,43 +442,47 @@
     },
     {
       "id": "x6",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-07T13:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2097005071569670280",
-      "geo": "unknown",
+      "user": "@XHNews",
+      "t": "2026-09-06T13:11:53Z",
+      "link": "https://x.com/XHNews/status/2096587189023076796",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
       "text": {
-        "zh": "NDRRMA形势报告#7（7日19时）。",
-        "en": "NDRRMA Situation Report #7 (7 Sep 19:00).",
-        "ne": "NDRRMA स्थिति प्रतिवेदन #७ (७ सेप्ट १९:००)।",
-        "hi": "NDRRMA स्थिति रिपोर्ट #7 (7 सित 19:00)।"
+        "zh": "已投2500余名救援人员。",
+        "en": "More than 2,500 rescue personnel deployed.",
+        "ne": "२५०० भन्दा उद्धारकर्ता खटाइयो।",
+        "hi": "2500 से अधिक बचावकर्मी तैनात।"
       }
     },
     {
       "id": "x7",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-07T12:43:41Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2096942480013082733",
-      "geo": "unknown",
+      "user": "@XHNews",
+      "t": "2026-09-06T11:50:45Z",
+      "link": "https://x.com/XHNews/status/2096566773579718897",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
       "text": {
-        "zh": "拉苏瓦快报7日18时：1356遗体、约4994失联。",
-        "en": "Rasuwa update 7 Sep 18:00: 1356 bodies, ~4994 missing.",
-        "ne": "रसुवा ७ सेप्ट १८:००: १३५६ शव, ~४९९४ बेपत्ता।",
-        "hi": "रसुवा 7 सित 18:00: 1356 शव, ~4994 लापता।"
+        "zh": "2500余人、500余车；无人机超1000架次空投5.43吨。",
+        "en": "2500+ people, 500+ vehicles; 1000+ drone drops 5.43 t.",
+        "ne": "२५००+ जन, ५००+ सवारी; १०००+ ड्रोन ५.४३ टन।",
+        "hi": "2500+ लोग, 500+ वाहन; 1000+ ड्रोन 5.43 टन।"
       }
     },
     {
       "id": "x8",
       "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
+      "t": "2026-09-06T11:49:47Z",
+      "link": "https://x.com/XHNews/status/2096566530385592824",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "G216核心段2日10时基本抢通。",
-        "en": "G216 core access basically restored 2 Sep 10:00.",
-        "ne": "G216 कोर २ सेप्ट १०:०० खुला।",
-        "hi": "G216 कोर 2 सित 10:00 खुला।"
+        "zh": "已安置1720名尼泊尔籍边民。",
+        "en": "Assistance provided to 1,720 Nepalese border residents.",
+        "ne": "१७२० नेपाली सीमान्त बासिन्दालाई सहायता।",
+        "hi": "1720 नेपाली सीमांत निवासियों को सहायता।"
       }
     }
   ]
