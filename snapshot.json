@@ -1,10 +1,30 @@
 {
-  "snap": "2026-09-08T17:09:00Z",
+  "snap": "2026-09-08T17:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1356, "missing": 4994, "rescued": 13396 }
   },
   "published": [
+    {
+      "id": "khub8",
+      "src": "official",
+      "t": "2026-09-08T06:00:00Z",
+      "link": "https://english.khabarhub.com/2026/07/566860/",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "Khabarhub 8日转述NDRRMA：1355具遗体",
+        "en": "Khabarhub 8 Sep cites NDRRMA: 1355 bodies",
+        "ne": "Khabarhub ८ सेप्ट: १३५५ शव",
+        "hi": "Khabarhub 8 सित: 1355 शव"
+      },
+      "body": {
+        "zh": "约4996失联；13396获救；98具已辨认移交。KPI仍用7日官方1356/4994。勿与中方相加。",
+        "en": "~4996 missing; 13396 rescued; 98 identified. KPI keeps 7 Sep official 1356/4994. Do not add CN+NP.",
+        "ne": "~४९९६ बेपत्ता; १३३९६ उद्धार; ९८ पहिचान। KPI ७ सेप्ट १३५६/४९९४। नजोड़्नु।",
+        "hi": "~4996 लापता; 13396 बचाए; 98 पहचान। KPI 7 सित 1356/4994। न जोड़ें।"
+      }
+    },
     {
       "id": "sitrep7",
       "src": "official",
@@ -112,28 +132,6 @@
       }
     },
     {
-      "id": "force",
-      "src": "official",
-      "t": "2026-09-05T10:00:00Z",
-      "link": "https://english.news.cn/20260907/0eb766c51bd24a58b237f0f489d03dca/c.html",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "title": {
-        "zh": "已投2500余名救援人员",
-        "en": "2500+ rescuers deployed",
-        "ne": "२५००+ उद्धारकर्ता",
-        "hi": "2500+ बचावकर्मी"
-      },
-      "body": {
-        "zh": "500余辆车；无人机超1000架次空投5.43吨。",
-        "en": "500+ vehicles; 1000+ drone sorties 5.43 t.",
-        "ne": "५००+ सवारी; १०००+ ड्रोन ५.४३ टन।",
-        "hi": "500+ वाहन; 1000+ ड्रोन 5.43 टन।"
-      }
-    },
-    {
       "id": "lake",
       "src": "official",
       "t": "2026-09-06T08:54:00Z",
@@ -180,21 +178,21 @@
     {
       "id": "usemb",
       "src": "official",
-      "t": "2026-09-03T11:45:00Z",
-      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-flood-and-landslide-risk-and-road-disruptions/",
+      "t": "2026-09-06T11:40:00Z",
+      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-monsoon-risk-and-road-closures/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "美使馆：Rasuwagadhi请勿前往",
-        "en": "US Embassy: do not travel Rasuwagadhi",
-        "ne": "अमेरिकी दूतावास: रसुवागढी नजानु",
-        "hi": "अमेरिकी दूतावास: रसुवागढ़ी न जाएँ"
+        "zh": "美使馆6日：Rasuwagadhi请勿前往",
+        "en": "US Embassy 6 Sep: do not travel Rasuwagadhi",
+        "ne": "अमेरिकी दूतावास ६ सेप्ट: रसुवागढी नजानु",
+        "hi": "अमेरिकी दूतावास 6 सित: रसुवागढ़ी न जाएँ"
       },
       "body": {
-        "zh": "Rasuwagadhi–Timure–Syafrubesi；Khalte关闭。",
-        "en": "Rasuwagadhi–Timure–Syafrubesi; Khalte closed.",
-        "ne": "रसुवागढी–तिमुरे–स्याफ्रुबेसी; खाल्टे बन्द।",
-        "hi": "रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी; खाल्टे बंद।"
+        "zh": "Rasuwagadhi–Timure–Syafrubesi含中尼口岸勿前往。",
+        "en": "Do not travel Rasuwagadhi–Timure–Syafrubesi incl. border.",
+        "ne": "रसुवागढी–तिमुरे–स्याफ्रुबेसी नजानु।",
+        "hi": "रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी न जाएँ।"
       }
     },
     {
@@ -231,10 +229,10 @@
         "hi": "Copernicus EMSR927 / IFRC GO"
       },
       "body": {
-        "zh": "Sentinel制图已激活；IFRC GO持续更新。",
-        "en": "Sentinel mapping activated; IFRC GO updating.",
-        "ne": "Sentinel नक्सा सक्रिय; IFRC GO।",
-        "hi": "Sentinel मानचित्र सक्रिय; IFRC GO।"
+        "zh": "Sentinel制图已激活；IFRC GO 7日仍更新。",
+        "en": "Sentinel mapping activated; IFRC GO still updating 7 Sep.",
+        "ne": "Sentinel नक्सा सक्रिय; IFRC GO ७ सेप्ट।",
+        "hi": "Sentinel मानचित्र सक्रिय; IFRC GO 7 सित।"
       }
     }
   ],
@@ -287,10 +285,10 @@
         "hi": "रसुवागढ़ी–तिमुरे"
       },
       "detail": {
-        "zh": "美使馆请勿前往；Khalte关闭",
-        "en": "US Embassy: do not travel; Khalte closed",
-        "ne": "यात्रा निषेध; खाल्टे बन्द",
-        "hi": "यात्रा निषेध; खाल्टे बंद"
+        "zh": "美使馆6日仍请勿前往",
+        "en": "US Embassy 6 Sep: still do not travel",
+        "ne": "६ सेप्ट यात्रा निषेध",
+        "hi": "6 सित यात्रा निषेध"
       }
     }
   ],
@@ -457,6 +455,21 @@
     },
     {
       "id": "x7",
+      "user": "@BeijingReview",
+      "t": "2026-09-08T02:09:43Z",
+      "link": "https://x.com/BeijingReview/status/2097145326377509022",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "北京周报：外媒5–6日访口岸；仍引5日18时43/519。",
+        "en": "Beijing Review: media visit 5–6 Sep; still cites 43/519 as of 5 Sep 18:00.",
+        "ne": "Beijing Review: ५–६ सेप्ट भ्रमण; ४३/५१९।",
+        "hi": "Beijing Review: 5–6 सित दौरा; 43/519।"
+      }
+    },
+    {
+      "id": "x8",
       "user": "@XHNews",
       "t": "2026-09-06T11:50:45Z",
       "link": "https://x.com/XHNews/status/2096566773579718897",
@@ -464,25 +477,10 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "2500余人、500余车；无人机超1000架次空投5.43吨。",
-        "en": "2500+ people, 500+ vehicles; 1000+ drone drops 5.43 t.",
-        "ne": "२५००+ जन, ५००+ सवारी; १०००+ ड्रोन ५.४३ टन।",
-        "hi": "2500+ लोग, 500+ वाहन; 1000+ ड्रोन 5.43 टन।"
-      }
-    },
-    {
-      "id": "x8",
-      "user": "@XHNews",
-      "t": "2026-09-06T11:49:47Z",
-      "link": "https://x.com/XHNews/status/2096566530385592824",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "已安置1720名尼泊尔籍边民。",
-        "en": "Assistance provided to 1,720 Nepalese border residents.",
-        "ne": "१७२० नेपाली सीमान्त बासिन्दालाई सहायता।",
-        "hi": "1720 नेपाली सीमांत निवासियों को सहायता।"
+        "zh": "2500余人、500余车投入吉隆口岸救援。",
+        "en": "2500+ people and 500+ vehicles in Gyirong Port rescue.",
+        "ne": "२५००+ जन र ५००+ सवारी ग्यिरोङमा।",
+        "hi": "2500+ लोग और 500+ वाहन ग्यिरोङ में।"
       }
     }
   ]
