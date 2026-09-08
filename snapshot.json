@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-08T21:16:00Z",
+  "snap": "2026-09-08T22:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1356, "missing": 4994, "rescued": 13396 }
   },
   "published": [
     {
-      "id": "refresh2116",
+      "id": "refresh2220",
       "src": "official",
-      "t": "2026-09-08T21:16:00Z",
+      "t": "2026-09-08T22:20:00Z",
       "link": "https://english.nepalnews.com/s/nation/as-of-6pm-bhote-koshi-flood-death-toll-reaches-1356-nearly-5000-remain-out-of-contact/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "8日21时复核：无更新官方伤亡口径",
-        "en": "8 Sep 21:16Z check: no newer official KPI",
-        "ne": "८ सेप्ट २१:१६Z: नयाँ आधिकारिक KPI छैन",
-        "hi": "8 सित 21:16Z: नया आधिकारिक KPI नहीं"
+        "zh": "8日22时复核：无更新官方伤亡口径",
+        "en": "8 Sep 22:20Z check: no newer official KPI",
+        "ne": "८ सेप्ट २२:२०Z: नयाँ आधिकारिक KPI छैन",
+        "hi": "8 सित 22:20Z: नया आधिकारिक KPI नहीं"
       },
       "body": {
         "zh": "中方仍截至5日18时43遇难/519失联/2救出；尼方仍NDRRMA 7日18时1356遗体/约4994失联/13396获救。两国勿相加。",
@@ -447,10 +447,10 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "边检民警肖富贵灾后无人机航拍吉隆口岸。",
+        "zh": "边检民警肖富贵泥石流后航拍吉隆口岸核心区。",
         "en": "Immigration officer Xiao Fugui filmed drone footage near Gyirong Port.",
-        "ne": "ग्यिरोङ पोर्ट ड्रोन फुटेज।",
-        "hi": "ग्यिरोङ पोर्ट ड्रोन फुटेज।"
+        "ne": "अधिकृत स्याओ फुगुईले ग्यिरोङ ड्रोन खिचे।",
+        "hi": "अधिकारी शाओ फुगुई ने ग्यिरोङ ड्रोन फिल्माया।"
       }
     },
     {
@@ -462,10 +462,10 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华社：通往吉隆口岸核心区道路为何难抢通。",
-        "en": "Xinhua: why the Gyirong Port access road was so hard to reopen.",
-        "ne": "ग्यिरोङ सडक किन गाह्रो खुल्यो।",
-        "hi": "ग्यिरोङ सड़क क्यों कठिन खुली।"
+        "zh": "两小时推进不足5米：G216抢通难点。",
+        "en": "Less than 5 meters in two hours: G216 reopen obstacles.",
+        "ne": "दुई घण्टामा ५ मिटरभन्दा कम: G216।",
+        "hi": "दो घंटे में 5 मीटर से कम: G216।"
       }
     },
     {
@@ -478,9 +478,9 @@
       "geo": "place",
       "text": {
         "zh": "2日10时G216通往吉隆口岸核心区基本抢通。",
-        "en": "G216 access to Gyirong Port core basically restored 2 Sep 10:00.",
-        "ne": "२ सेप्ट १०:०० G216 कोर खुला।",
-        "hi": "2 सित 10:00 G216 कोर बहाल।"
+        "en": "G216 access to Gyirong Port core basically restored 10:00 Wed.",
+        "ne": "बुध १०:०० मा G216 कोर लगभग खुला।",
+        "hi": "बुध 10:00 पर G216 कोर लगभग खुला।"
       }
     }
   ]
