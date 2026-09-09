@@ -1,48 +1,48 @@
 {
-  "snap": "2026-09-10T03:10:00Z",
+  "snap": "2026-09-10T04:00:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1367, "missing": 5132, "rescued": 13646 }
+    "np": { "dead": 1369, "missing": 5132, "rescued": 13646 }
   },
   "published": [
     {
-      "id": "osint-0910d",
+      "id": "osint-0910e",
       "src": "official",
-      "t": "2026-09-10T03:10:00Z",
-      "link": "https://english.news.cn/20260909/ed88ca02ab5441e58e28e7d011afe708/c.html",
+      "t": "2026-09-10T04:00:00Z",
+      "link": "https://english.ratopati.com/story/78538/rasuwa-flood-update-death-toll-reaches-1369-13000-rescued",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10日03:10Z复核：中方仍43/519/2；尼方1367/5132",
-        "en": "10 Sep 03:10Z recheck: CN still 43/519/2; NP 1367/5132",
-        "ne": "१० सेप्ट ०३:१०Z: CN ४३/५१९/२; NP १३६७/५१३२",
-        "hi": "10 सित 03:10Z: CN 43/519/2; NP 1367/5132"
+        "zh": "10日04:00Z：尼方晚报1369；中方仍43/519/2",
+        "en": "10 Sep 04:00Z: NP evening 1369; CN still 43/519/2",
+        "ne": "१० सेप्ट ०४:००Z: NP १३६९; CN ४३/५१९/२",
+        "hi": "10 सित 04:00Z: NP 1369; CN 43/519/2"
       },
       "body": {
-        "zh": "新华9日仍引指挥部5日18时：43遇难519失联2获救，444人返乡，堰塞湖已泄。NDRRMA/Ratopati 9日11:00 NPT：1367遗体、失联约5132、获救13646。勿相加。",
-        "en": "Xinhua 9 Sep still cites HQ 5 Sep 18:00: 43/519/2; 444 returned; lake drained. NDRRMA 9 Sep 11:00 NPT: 1367 bodies, missing ~5132, rescued 13646. Do not add.",
-        "ne": "सिन्ह्वा अझै ५ सेप्ट १८:००: ४३/५१९/२। NDRRMA १३६७/~५१३२/१३६४६। नजोड़्नु।",
-        "hi": "शिन्हुआ अभी 5 सित 18:00: 43/519/2। NDRRMA 1367/~5132/13646। न जोड़ें।"
+        "zh": "Ratopati引NDRRMA 9日18:00 NPT：1369遗体、失联5132、获救13646。新华9日仍引指挥部5日18时：43遇难519失联2获救。勿相加。",
+        "en": "Ratopati cites NDRRMA 9 Sep 18:00 NPT: 1369 bodies, missing 5132, rescued 13646. Xinhua 9 Sep still cites HQ 5 Sep 18:00: 43/519/2. Do not add.",
+        "ne": "NDRRMA ९ सेप्ट १८:००: १३६९/५१३२/१३६४६। सिन्ह्वा अझै ५ सेप्ट १८:००: ४३/५१९/२। नजोड़्नु।",
+        "hi": "NDRRMA 9 सित 18:00: 1369/5132/13646। शिन्हुआ अभी 5 सित 18:00: 43/519/2। न जोड़ें।"
       }
     },
     {
-      "id": "np1367",
+      "id": "np1369",
       "src": "official",
-      "t": "2026-09-09T05:15:00Z",
-      "link": "https://english.ratopati.com/story/78427/rasuwa-flood-death-toll-reaches-1367",
+      "t": "2026-09-09T12:15:00Z",
+      "link": "https://english.ratopati.com/story/78538/rasuwa-flood-update-death-toll-reaches-1369-13000-rescued",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "NDRRMA 9日11:00 NPT：1367遗体",
-        "en": "NDRRMA 9 Sep 11:00 NPT: 1367 bodies",
-        "ne": "NDRRMA ९ सेप्ट ११:००: १३६७ शव",
-        "hi": "NDRRMA 9 सित 11:00: 1367 शव"
+        "zh": "NDRRMA 9日18:00 NPT：1369遗体",
+        "en": "NDRRMA 9 Sep 18:00 NPT: 1369 bodies",
+        "ne": "NDRRMA ९ सेप्ट १८:००: १३६९ शव",
+        "hi": "NDRRMA 9 सित 18:00: 1369 शव"
       },
       "body": {
-        "zh": "Chitwan 363、Nawalpur东226、西222、Nuwakot 197、Rasuwa 174。失联约5132。获救13646。",
-        "en": "Chitwan 363, Nawalparasi E 226 / W 222, Nuwakot 197, Rasuwa 174. Missing ~5132. Rescued 13646.",
-        "ne": "चितवन ३६३, नवलपुर पू २२६ / प २२२, नुवाकोट १९७, रसुवा १७४। बेपत्ता ~५१३२। उद्धार १३६४६।",
-        "hi": "चितवन 363, नवलपरासी पू 226 / प 222, नुवाकोट 197, रसुवा 174। लापता ~5132। बचाए 13646।"
+        "zh": "Chitwan 363、Nawalpur东227、西222、Nuwakot 198、Rasuwa 174；加德满都治疗中2人死亡。失联5132（外籍587）。获救13646。",
+        "en": "Chitwan 363, Nawalparasi E 227 / W 222, Nuwakot 198, Rasuwa 174; 2 died in Kathmandu care. Missing 5132 (587 foreign). Rescued 13646.",
+        "ne": "चितवन ३६३, नवलपुर पू २२७ / प २२२, नुवाकोट १९८, रसुवा १७४। बेपत्ता ५१३२। उद्धार १३६४६।",
+        "hi": "चितवन 363, नवलपरासी पू 227 / प 222, नुवाकोट 198, रसुवा 174। लापता 5132। बचाए 13646।"
       }
     },
     {
@@ -61,17 +61,17 @@
         "hi": "5 सित 18:00: 43/519"
       },
       "body": {
-        "zh": "救出2人；遗物约993件。9日新华仍引用。勿与尼方相加。",
-        "en": "2 rescued; about 993 belongings. 9 Sep Xinhua still cites this. Do not add CN+NP.",
-        "ne": "२ उद्धार; करिब ९९३ वस्तु। नजोड़्नु।",
-        "hi": "2 बचाए; लगभग 993 वस्तुएँ। न जोड़ें।"
+        "zh": "救出2人。9日新华仍引用。勿与尼方相加。",
+        "en": "2 rescued. 9 Sep Xinhua still cites this. Do not add CN+NP.",
+        "ne": "२ उद्धार। नजोड़्नु।",
+        "hi": "2 बचाए। न जोड़ें।"
       }
     },
     {
       "id": "ret444",
       "src": "official",
       "t": "2026-09-09T00:00:00Z",
-      "link": "http://www.china.org.cn/2026-09/09/content_118686645.shtml",
+      "link": "https://english.news.cn/20260909/ed88ca02ab5441e58e28e7d011afe708/c.html",
       "img": null,
       "lat": 28.39,
       "lng": 85.325,
@@ -93,7 +93,7 @@
       "id": "lake",
       "src": "official",
       "t": "2026-09-09T00:00:00Z",
-      "link": "http://www.china.org.cn/2026-09/09/content_118686645.shtml",
+      "link": "https://english.news.cn/20260909/ed88ca02ab5441e58e28e7d011afe708/c.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -115,7 +115,7 @@
       "id": "g216",
       "src": "official",
       "t": "2026-09-02T02:00:00Z",
-      "link": "https://en.people.cn/n3/2026/0903/c90000-20495449.html",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
       "img": null,
       "lat": 28.3,
       "lng": 85.368,
@@ -136,8 +136,8 @@
     {
       "id": "usemb",
       "src": "official",
-      "t": "2026-09-06T11:40:00Z",
-      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-monsoon-risk-and-road-closures/",
+      "t": "2026-09-03T11:45:00Z",
+      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-flood-and-landslide-risk-and-road-disruptions/",
       "img": null,
       "geo": "unknown",
       "title": {
@@ -147,10 +147,10 @@
         "hi": "अमेरिकी दूतावास: रसुवागढ़ी न जाएँ"
       },
       "body": {
-        "zh": "Rasuwagadhi–Timure–Syafrubesi含口岸勿前往。10日未见更新告示。",
-        "en": "Do not travel Rasuwagadhi–Timure–Syafrubesi incl. border. No newer notice 10 Sep.",
-        "ne": "रसुवागढी–तिमुरे–स्याफ्रुबेसी नजानु। १० सेप्ट नयाँ सूचना छैन।",
-        "hi": "रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी न जाएँ। 10 सित नई सूचना नहीं।"
+        "zh": "Rasuwagadhi–Timure–Syafrubesi勿前往；Khalte段仍断。未见更新告示。",
+        "en": "Do not travel Rasuwagadhi–Timure–Syafrubesi; Khalte still closed. No newer notice.",
+        "ne": "रसुवागढी–तिमुरे–स्याफ्रुबेसी नजानु। नयाँ सूचना छैन।",
+        "hi": "रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी न जाएँ। नई सूचना नहीं।"
       }
     },
     {
@@ -167,32 +167,10 @@
         "hi": "UNOSAT रसुवा नक्शा"
       },
       "body": {
-        "zh": "26–27日影像约20km²泥流；Copernicus EMSR927。10日未见新图。",
-        "en": "26–27 Aug imagery ~20 km2 mudflow; Copernicus EMSR927. No newer map 10 Sep.",
-        "ne": "२६–२७ अग ~२० किमी²। EMSR927। १० सेप्ट नयाँ नक्सा छैन।",
-        "hi": "26–27 अग ~20 किमी²। EMSR927। 10 सित नया नक्शा नहीं।"
-      }
-    },
-    {
-      "id": "cctv43",
-      "src": "official",
-      "t": "2026-09-07T02:35:18Z",
-      "link": "https://x.com/CCTV_Plus/status/2096789374872801595",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "title": {
-        "zh": "CCTV+：43遇难519失联",
-        "en": "CCTV+: 43 dead 519 missing",
-        "ne": "CCTV+: ४३/५१९",
-        "hi": "CCTV+: 43/519"
-      },
-      "body": {
-        "zh": "地方应急指挥部6日重申5日18时口径。",
-        "en": "Local HQ on 6 Sep restated 5 Sep 18:00 figures.",
-        "ne": "६ सेप्ट मा ५ सेप्ट १८:०० दोहोर्याइयो।",
-        "hi": "6 सित को 5 सित 18:00 दोहराया।"
+        "zh": "26–27日影像泥流范围；Copernicus EMSR927。未见更新图。",
+        "en": "26–27 Aug mudflow extent; Copernicus EMSR927. No newer map.",
+        "ne": "२६–२७ अग नक्सा। EMSR927। नयाँ नक्सा छैन।",
+        "hi": "26–27 अग नक्शा। EMSR927। नया नक्शा नहीं।"
       }
     },
     {
@@ -209,10 +187,32 @@
         "hi": "NDRRMA ने 9 सित 11:00 अपडेट"
       },
       "body": {
-        "zh": "官方账号发布热索瓦洪水搜救救济更新（11:00）。数字以Ratopati转述为准。",
-        "en": "Official account posted Rasuwa flood SAR/relief update (11:00). Figures via Ratopati.",
-        "ne": "आधिकारिक खाताले रसुवा बाढी अपडेट (११:००)।",
-        "hi": "आधिकारिक खाते ने रसुवा बाढ़ अपडेट (11:00)।"
+        "zh": "官方账号发布热索瓦洪水搜救救济更新。晚报数字以Ratopati 18:00为准。",
+        "en": "Official account posted Rasuwa SAR/relief update. Evening figures via Ratopati 18:00.",
+        "ne": "आधिकारिक खाताले रसुवा अपडेट। साँझको अंक Ratopati १८:००।",
+        "hi": "आधिकारिक खाते ने रसुवा अपडेट। शाम के आँकड़े Ratopati 18:00।"
+      }
+    },
+    {
+      "id": "cctv-meals",
+      "src": "official",
+      "t": "2026-09-09T03:43:07Z",
+      "link": "https://x.com/CCTV_Plus/status/2097531220129353832",
+      "img": null,
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "place",
+      "title": {
+        "zh": "CCTV+：吉隆县发放免费餐食",
+        "en": "CCTV+: free meals in Gyirong County",
+        "ne": "CCTV+: ग्यिरोङमा निःशुल्क खाना",
+        "hi": "CCTV+: ग्यिरोङ में निःशुल्क भोजन"
+      },
+      "body": {
+        "zh": "志愿者向受灾居民及滞留尼籍人员发放免费餐食。",
+        "en": "Volunteers give free meals to residents and stranded Nepalis.",
+        "ne": "स्वयंसेवकले निःशुल्क खाना बाँडे।",
+        "hi": "स्वयंसेवकों ने निःशुल्क भोजन बाँटा।"
       }
     }
   ],
@@ -265,10 +265,10 @@
         "hi": "रसुवागढ़ी–तिमुरे"
       },
       "detail": {
-        "zh": "美使馆仍请勿前往；10日无新告示",
-        "en": "US Embassy: still do not travel; no 10 Sep update",
-        "ne": "यात्रा निषेध; १० सेप्ट अपडेट छैन",
-        "hi": "यात्रा निषेध; 10 सित अपडेट नहीं"
+        "zh": "美使馆仍请勿前往；Khalte段仍断",
+        "en": "US Embassy: still do not travel; Khalte still closed",
+        "ne": "यात्रा निषेध; खाल्टे बन्द",
+        "hi": "यात्रा निषेध; खाल्टे बंद"
       }
     }
   ],
@@ -285,10 +285,10 @@
         "hi": "अग्रिम SAR"
       },
       "detail": {
-        "zh": "2500余人已进核心。无实时GNSS。",
-        "en": "2500+ in core. No live GNSS.",
-        "ne": "२५००+ कोर। GNSS छैन।",
-        "hi": "2500+ कोर। GNSS नहीं।"
+        "zh": "核心区搜救持续。无实时GNSS。",
+        "en": "Core search ongoing. No live GNSS.",
+        "ne": "कोर खोजी जारी। GNSS छैन।",
+        "hi": "कोर खोज जारी। GNSS नहीं।"
       }
     }
   ],
@@ -325,10 +325,10 @@
         "hi": "पोर्ट कोर"
       },
       "detail": {
-        "zh": "深层分区搜救持续；发现遗物993件",
-        "en": "Deep zonal search ongoing; 993 items found",
-        "ne": "गहिरो खोजी जारी; ९९३ वस्तु",
-        "hi": "गहन खोज जारी; 993 वस्तु"
+        "zh": "深层分区搜救持续",
+        "en": "Deep zonal search ongoing",
+        "ne": "गहिरो खोजी जारी",
+        "hi": "गहन खोज जारी"
       }
     }
   ],
@@ -438,25 +438,23 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华：两小时推进不足5米，说明通往吉隆口岸核心道路为何难抢通。",
-        "en": "Xinhua: less than 5 m in two hours — why the route to Gyirong Port core was so hard to reopen.",
-        "ne": "सिन्ह्वा: दुई घण्टामा ५ मिटरभन्दा कम — बाटो किन कठिन।",
-        "hi": "शिन्हुआ: दो घंटे में 5 मीटर से कम — मार्ग क्यों कठिन।"
+        "zh": "新华：两小时推进不足5米，G216抢通困难。",
+        "en": "Xinhua: less than 5 m in two hours reopening G216.",
+        "ne": "सिन्ह्वा: दुई घण्टामा ५ मिटरभन्दा कम।",
+        "hi": "शिन्हुआ: दो घंटे में 5 मीटर से कम।"
       }
     },
     {
       "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-08-30T14:25:09Z",
-      "link": "https://x.com/XHNews/status/2094068911415443557",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
+      "user": "@airnewsalerts",
+      "t": "2026-09-09T14:26:39Z",
+      "link": "https://x.com/airnewsalerts/status/2097693170146713933",
+      "geo": "unknown",
       "text": {
-        "zh": "新华：激光AI监测设备协助吉隆抢通道路时实时识别滑坡落石风险。",
-        "en": "Xinhua: laser AI monitor helps detect landslide/rockfall risk while reopening Gyirong route.",
-        "ne": "सिन्ह्वा: लेजर AI ले पहिरो जोखिम पत्ता लगाउँछ।",
-        "hi": "शिन्हुआ: लेजर AI भूस्खलन जोखिम पकड़ता है।"
+        "zh": "全印广播：第8架印空军机载35吨救援物资飞往加德满都。",
+        "en": "AIR: 8th IAF aircraft with 35 t relief departed for Kathmandu.",
+        "ne": "AIR: आठौं IAF विमान ३५ टन काठमाडौं।",
+        "hi": "AIR: 8वाँ IAF विमान 35 टन काठमांडू।"
       }
     }
   ]
