@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-10T01:20:00Z",
+  "snap": "2026-09-10T02:26:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1367, "missing": 5132, "rescued": 13646 }
   },
   "published": [
     {
-      "id": "osint-0910b",
+      "id": "osint-0910c",
       "src": "official",
-      "t": "2026-09-10T01:20:00Z",
-      "link": "https://english.ratopati.com/story/78427/rasuwa-flood-death-toll-reaches-1367",
+      "t": "2026-09-10T02:26:00Z",
+      "link": "https://english.news.cn/20260909/ed88ca02ab5441e58e28e7d011afe708/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10日01:20Z复核：中方仍43/519/2；尼方1367/约5132",
-        "en": "10 Sep 01:20Z recheck: CN still 43/519/2; NP 1367/~5132",
-        "ne": "१० सेप्ट ०१:२०Z: CN ४३/५१९/२; NP १३६७/~५१३२",
-        "hi": "10 सित 01:20Z: CN 43/519/2; NP 1367/~5132"
+        "zh": "10日02:26Z复核：中方仍43/519/2；尼方1367/5132",
+        "en": "10 Sep 02:26Z recheck: CN still 43/519/2; NP 1367/5132",
+        "ne": "१० सेप्ट ०२:२६Z: CN ४३/५१९/२; NP १३६७/५१३२",
+        "hi": "10 सित 02:26Z: CN 43/519/2; NP 1367/5132"
       },
       "body": {
-        "zh": "中方伤亡仍截至5日18时指挥部：43遇难519失联2获救。新华9日仍引该口径并称444人返乡。NDRRMA 9日11:00 NPT：1367遗体、失联约5132。获救沿用当日Nepal News 13646。勿相加。",
-        "en": "CN KPI still HQ 5 Sep 18:00: 43/519/2. Xinhua 9 Sep still cites this; 444 returned. NDRRMA 9 Sep 11:00 NPT: 1367 bodies, missing ~5132. Rescued 13646 per same-day Nepal News. Do not add.",
-        "ne": "CN अझै ५ सेप्ट १८:००: ४३/५१९/२। NDRRMA १३६७/~५१३२। उद्धार १३६४६। नजोड़्नु।",
-        "hi": "CN अभी 5 सित 18:00: 43/519/2। NDRRMA 1367/~5132। बचाए 13646। न जोड़ें।"
+        "zh": "新华9日仍引指挥部5日18时：43遇难519失联2获救，444人返乡。NDRRMA 9日11:00 NPT：1367遗体、失联约5132、获救13646。勿相加。",
+        "en": "Xinhua 9 Sep still cites HQ 5 Sep 18:00: 43/519/2; 444 returned. NDRRMA 9 Sep 11:00 NPT: 1367 bodies, missing ~5132, rescued 13646. Do not add.",
+        "ne": "सिन्ह्वा अझै ५ सेप्ट १८:००: ४३/५१९/२। NDRRMA १३६७/~५१३२/१३६४६। नजोड़्नु।",
+        "hi": "शिन्हुआ अभी 5 सित 18:00: 43/519/2। NDRRMA 1367/~5132/13646। न जोड़ें।"
       }
     },
     {
@@ -39,8 +39,8 @@
         "hi": "NDRRMA 9 सित 11:00: 1367 शव"
       },
       "body": {
-        "zh": "Chitwan 363、Nawalpur东226、西222、Nuwakot 197、Rasuwa 174。失联约5132。获救口径沿用当日Nepal News 13646。",
-        "en": "Chitwan 363, Nawalparasi E 226 / W 222, Nuwakot 197, Rasuwa 174. Missing ~5132. Rescued 13646 per same-day Nepal News.",
+        "zh": "Chitwan 363、Nawalpur东226、西222、Nuwakot 197、Rasuwa 174。失联约5132。获救13646。",
+        "en": "Chitwan 363, Nawalparasi E 226 / W 222, Nuwakot 197, Rasuwa 174. Missing ~5132. Rescued 13646.",
         "ne": "चितवन ३६३, नवलपुर पू २२६ / प २२२, नुवाकोट १९७, रसुवा १७४। बेपत्ता ~५१३२। उद्धार १३६४६।",
         "hi": "चितवन 363, नवलपरासी पू 226 / प 222, नुवाकोट 197, रसुवा 174। लापता ~5132। बचाए 13646।"
       }
@@ -49,7 +49,7 @@
       "id": "cn43",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "link": "https://english.news.cn/20260909/ed88ca02ab5441e58e28e7d011afe708/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -61,10 +61,10 @@
         "hi": "5 सित 18:00: 43/519"
       },
       "body": {
-        "zh": "救出2人；遗物约993件。9日新华仍引用该口径。勿与尼方相加。",
+        "zh": "救出2人；遗物约993件。9日新华仍引用。勿与尼方相加。",
         "en": "2 rescued; about 993 belongings. 9 Sep Xinhua still cites this. Do not add CN+NP.",
-        "ne": "२ उद्धार; करिब ९९३ वस्तु। ९ सेप्ट पनि यही। नजोड़्नु।",
-        "hi": "2 बचाए; लगभग 993 वस्तुएँ। 9 सित भी यही। न जोड़ें।"
+        "ne": "२ उद्धार; करिब ९९३ वस्तु। नजोड़्नु।",
+        "hi": "2 बचाए; लगभग 993 वस्तुएँ। न जोड़ें।"
       }
     },
     {
@@ -423,8 +423,8 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：G216通往口岸核心区道路2日10时基本抢通。",
-        "en": "Xinhua: G216 access to port core basically restored 2 Sep 10:00.",
+        "zh": "新华：G216通往吉隆口岸核心区2日10时基本抢通。",
+        "en": "Xinhua: G216 access to Gyirong Port core basically restored 2 Sep 10:00.",
         "ne": "सिन्ह्वा: G216 कोर २ सेप्ट १०:०० खुला।",
         "hi": "शिन्हुआ: G216 कोर 2 सित 10:00 खुला।"
       }
@@ -438,10 +438,10 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华：两小时推进不足5米，G216抢通难点实录。",
-        "en": "Xinhua: less than 5 m in two hours; G216 repair obstacles.",
-        "ne": "सिन्ह्वा: दुई घण्टामा ५ मिटरभन्दा कम।",
-        "hi": "शिन्हुआ: दो घंटे में 5 मीटर से कम।"
+        "zh": "新华：抢通吉隆口岸道路两小时推进不足5米。",
+        "en": "Xinhua: reopening Gyirong road advanced less than 5 m in two hours.",
+        "ne": "सिन्ह्वा: सडक दुई घण्टामा ५ मिटरभन्दा कम।",
+        "hi": "शिन्हुआ: सड़क दो घंटे में 5 मीटर से कम।"
       }
     },
     {
@@ -449,13 +449,13 @@
       "user": "@XHNews",
       "t": "2026-08-30T14:25:09Z",
       "link": "https://x.com/XHNews/status/2094068911415443557",
-      "lat": 28.3,
-      "lng": 85.368,
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：激光AI监测滑坡落石风险，辅助吉隆道路抢通。",
-        "en": "Xinhua: laser AI monitors landslide/rockfall during Gyirong road repair.",
-        "ne": "सिन्ह्वा: लेजर AI ले पहिरो जोखिम निगरानी।",
+        "zh": "新华：激光AI监测滑坡落石风险。",
+        "en": "Xinhua: laser AI monitors landslide and rockfall risk.",
+        "ne": "सिन्ह्वा: लेजर AI पहिरो जोखिम निगरानी।",
         "hi": "शिन्हुआ: लेजर AI भूस्खलन जोखिम निगरानी।"
       }
     }
