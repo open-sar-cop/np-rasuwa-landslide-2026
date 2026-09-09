@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-09T15:07:00Z",
+  "snap": "2026-09-09T16:06:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1358, "missing": 5326, "rescued": 13583 }
   },
   "published": [
     {
-      "id": "osint-0909d",
+      "id": "osint-0909e",
       "src": "official",
-      "t": "2026-09-09T15:07:00Z",
+      "t": "2026-09-09T16:06:00Z",
       "link": "https://english.nepalnews.com/s/nation/bhote-koshi-flood-death-toll-rises-to-1358-as-5326-remain-missing-as-of-6pm/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "9日15:07Z复核：中尼官方伤亡未更新",
-        "en": "09 Sep 15:07Z audit: no new official CN/NP KPI",
-        "ne": "९ सेप्ट १५:०७Z: नयाँ आधिकारिक KPI छैन",
-        "hi": "9 सित 15:07Z: नया आधिकारिक KPI नहीं"
+        "zh": "9日16:06Z复核：中尼官方伤亡未更新",
+        "en": "09 Sep 16:06Z audit: no new official CN/NP KPI",
+        "ne": "९ सेप्ट १६:०६Z: नयाँ आधिकारिक KPI छैन",
+        "hi": "9 सित 16:06Z: नया आधिकारिक KPI नहीं"
       },
       "body": {
         "zh": "新华社至5日18时43遇难519失联救出2人；NDRRMA至8日18时NPT 1358遗体5326失联13583获救。勿相加。",
@@ -71,22 +71,22 @@
       "id": "lake",
       "src": "official",
       "t": "2026-09-06T08:54:00Z",
-      "link": "https://en.people.cn/n3/2026/0903/c90000-20495449.html",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
       "geo": "place",
       "title": {
-        "zh": "应急厅：原堰塞湖已泄空",
-        "en": "EMD: former barrier lake drained",
+        "zh": "新华社：原堰塞湖已泄空",
+        "en": "Xinhua: former barrier lake drained",
         "ne": "पूरानो बाँधताल खाली",
         "hi": "पूरानी बाँध झील खाली"
       },
       "body": {
-        "zh": "河道过流正常；险情基本排除；仍监测新堰塞。",
-        "en": "Channel flowing; hazard largely gone; watch new dams.",
-        "ne": "नदी बग्दो; जोखिम घट्यो; नयाँ बाँध निगरानी।",
-        "hi": "नहर बह रही; जोखिम घट गया; नई बाँध निगरानी।"
+        "zh": "河道过流正常；险情基本排除；仍监测新堰塞。444人已返乡。",
+        "en": "Channel flowing; hazard largely gone; watch new dams. 444 returned.",
+        "ne": "नदी बग्दो; जोखिम घट्यो; नयाँ बाँध निगरानी। ४४४ फर्किए।",
+        "hi": "नहर बह रही; जोखिम घट गया; नई बाँध निगरानी। 444 लौटे।"
       }
     },
     {
@@ -422,47 +422,47 @@
     },
     {
       "id": "x5",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-07T12:07:48Z",
-      "link": "https://x.com/CCTV_Plus/status/2096933451001958637",
+      "user": "@XHNews",
+      "t": "2026-09-07T04:50:14Z",
+      "link": "https://x.com/XHNews/status/2096823335774720106",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "专家：境外高位隐患增加吉隆泥石流监测难度。",
-        "en": "Expert: upstream hazards beyond border complicate Gyirong monitoring.",
-        "ne": "सीमा बाहिरको जोखिमले अनुगमन गाह्रो।",
-        "hi": "सीमा पार खतरे से निगरानी कठिन।"
+        "zh": "新华社再发吉隆口岸泥石流进展综述。",
+        "en": "Xinhua again recaps Gyirong Port mudslide progress.",
+        "ne": "सिन्ह्वाले ग्यिरोङ प्रगति फेरि सार्यो।",
+        "hi": "शिन्हुआ ने ग्यिरोङ प्रगति फिर सार।"
       }
     },
     {
       "id": "x6",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
+      "t": "2026-09-08T15:48:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "lat": 28.39,
+      "lng": 85.325,
       "geo": "place",
       "text": {
-        "zh": "新华社：移民警察肖富贵无人机拍下吉隆口岸泥石流过后画面。",
-        "en": "Xinhua: officer Xiao Fugui drone footage near Gyirong Port after the slide.",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज।",
-        "hi": "शिन्हुआ: ग्यिरोङ पोर्ट के पास ड्रोन फुटेज।"
+        "zh": "444名撤离村民返乡；堰塞威胁基本解除。",
+        "en": "444 evacuees returned; barrier-lake threat largely gone.",
+        "ne": "४४४ फर्किए; ताल जोखिम घट्यो।",
+        "hi": "444 लौटे; झील जोखिम घट गया।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
+      "t": "2026-09-05T10:00:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社：2日10时通往吉隆口岸核心区道路基本抢通。",
-        "en": "Xinhua: road to Gyirong Port core basically restored 10:00 2 Sep.",
-        "ne": "सिन्ह्वा: २ सेप्ट १०:०० कोर सडक खुला।",
-        "hi": "शिन्हुआ: 2 सित 10:00 कोर सड़क बहाल।"
+        "zh": "截至5日18时：43遇难519失联，救出2人。",
+        "en": "As of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued.",
+        "ne": "५ सेप्ट १८:००: ४३/५१९/२।",
+        "hi": "5 सित 18:00: 43/519/2।"
       }
     }
   ]
