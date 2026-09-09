@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-09T17:10:00Z",
+  "snap": "2026-09-09T18:04:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1358, "missing": 5326, "rescued": 13583 }
   },
   "published": [
     {
-      "id": "osint-0909g",
+      "id": "osint-0909h",
       "src": "official",
-      "t": "2026-09-09T17:10:00Z",
+      "t": "2026-09-09T18:04:00Z",
       "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "9日17:10Z复核：中尼官方伤亡未更新",
-        "en": "09 Sep 17:10Z audit: no new official CN/NP KPI",
-        "ne": "९ सेप्ट १७:१०Z: नयाँ आधिकारिक KPI छैन",
-        "hi": "9 सित 17:10Z: नया आधिकारिक KPI नहीं"
+        "zh": "9日18:04Z复核：中尼官方伤亡未更新",
+        "en": "09 Sep 18:04Z audit: no new official CN/NP KPI",
+        "ne": "९ सेप्ट १८:०४Z: नयाँ आधिकारिक KPI छैन",
+        "hi": "9 सित 18:04Z: नया आधिकारिक KPI नहीं"
       },
       "body": {
         "zh": "新华社至5日18时43遇难519失联救出2人；NDRRMA至8日18时NPT 1358遗体5326失联13583获救。勿相加。",
@@ -157,20 +157,20 @@
       "id": "mapact",
       "src": "official",
       "t": "2026-09-04T00:00:00Z",
-      "link": "https://reliefweb.int/map/nepal/nepal-rasuwa-floods-26th-august-2026-reference-map-series-affected-area-sheet-01-04092026",
+      "link": "https://reliefweb.int/map/nepal/nepal-satellite-detected-mudflow-rockflow-extent-26-27-august-2026-rasuwa-district-bagmati-province-imagery-analysis-2627082026-published-27082026-v1",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "ReliefWeb/MapAction Rasuwa参考图",
-        "en": "ReliefWeb/MapAction Rasuwa reference map",
-        "ne": "ReliefWeb/MapAction रसुवा नक्सा",
-        "hi": "ReliefWeb/MapAction रसुवा नक्शा"
+        "zh": "UNOSAT Rasuwa泥流范围图",
+        "en": "UNOSAT Rasuwa mudflow extent map",
+        "ne": "UNOSAT रसुवा नक्सा",
+        "hi": "UNOSAT रसुवा नक्शा"
       },
       "body": {
-        "zh": "4日受灾参考图；UNOSAT早期泥流约20km²。9日未见更新图。",
-        "en": "4 Sep reference map; UNOSAT early mudflow ~20 km2. No newer map 9 Sep.",
-        "ne": "४ सेप्ट नक्सा; UNOSAT ~२० किमी²। ९ सेप्ट नयाँ नक्सा छैन।",
-        "hi": "4 सित नक्शा; UNOSAT ~20 किमी²। 9 सित नया नक्शा नहीं।"
+        "zh": "26–27日影像约20km²泥流；9日未见新图。",
+        "en": "26–27 Aug imagery ~20 km2 mudflow; no newer map 9 Sep.",
+        "ne": "२६–२७ अग ~२० किमी²। ९ सेप्ट नयाँ नक्सा छैन।",
+        "hi": "26–27 अग ~20 किमी²। 9 सित नया नक्शा नहीं।"
       }
     },
     {
@@ -423,46 +423,46 @@
     {
       "id": "x5",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-07T04:50:14Z",
+      "link": "https://x.com/XHNews/status/2096823335774720106",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "边检民警肖富贵灾后不久无人机航拍吉隆口岸。",
-        "en": "Immigration officer Xiao Fugui filmed Gyirong Port by drone soon after.",
-        "ne": "सीमा प्रहरी स्याओले ड्रोनबाट ग्यिरोङ खिचे।",
-        "hi": "इमिग्रेशन अधिकारी शाओ ने ड्रोन से ग्यिरोङ फिल्माया।"
+        "zh": "新华社再发吉隆口岸泥石流进展综述。",
+        "en": "Xinhua again recaps Gyirong Port mudslide progress.",
+        "ne": "सिन्ह्वाले ग्यिरोङ प्रगति दोहोर्यायो।",
+        "hi": "शिन्हुआ ने ग्यिरोङ प्रगति दोहराई।"
       }
     },
     {
       "id": "x6",
       "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.3,
-      "lng": 85.368,
+      "t": "2026-09-08T15:48:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "lat": 28.39,
+      "lng": 85.325,
       "geo": "place",
       "text": {
-        "zh": "新华社：通往吉隆口岸核心区道路如何抢通。",
-        "en": "Xinhua: how the core access road to Gyirong Port was reopened.",
-        "ne": "सिन्ह्वा: ग्यिरोङ कोर सडक कसरी खुल्यो।",
-        "hi": "शिन्हुआ: ग्यिरोङ कोर सड़क कैसे खुली।"
+        "zh": "444名撤离村民返乡；堰塞威胁基本解除。",
+        "en": "444 evacuees returned; barrier-lake threat largely gone.",
+        "ne": "४४४ फर्किए; ताल जोखिम घट्यो।",
+        "hi": "444 लौटे; झील जोखिम घट गया।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
+      "t": "2026-09-05T10:00:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "G216受损路段2日10时基本抢通至核心区。",
-        "en": "Damaged G216 basically restored to core at 10:00 on 2 Sep.",
-        "ne": "क्षतिग्रस्त G216 २ सेप्ट १०:०० कोरमा खुला।",
-        "hi": "क्षतिग्रस्त G216 2 सित 10:00 कोर तक बहाल।"
+        "zh": "截至5日18时仍为43遇难519失联2人获救。",
+        "en": "Still 43 dead, 519 missing, 2 rescued as of 5 Sep 18:00.",
+        "ne": "५ सेप्ट १८:००: ४३/५१९/२।",
+        "hi": "5 सित 18:00: 43/519/2।"
       }
     }
   ]
