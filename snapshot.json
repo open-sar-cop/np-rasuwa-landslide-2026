@@ -1,35 +1,35 @@
 {
-  "snap": "2026-09-10T04:00:00Z",
+  "snap": "2026-09-10T12:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1369, "missing": 5132, "rescued": 13646 }
   },
   "published": [
     {
-      "id": "osint-0910e",
+      "id": "osint-0910n",
       "src": "official",
-      "t": "2026-09-10T04:00:00Z",
-      "link": "https://english.ratopati.com/story/78538/rasuwa-flood-update-death-toll-reaches-1369-13000-rescued",
+      "t": "2026-09-10T12:10:00Z",
+      "link": "https://english.news.cn/20260909/ed88ca02ab5441e58e28e7d011afe708/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10日04:00Z：尼方晚报1369；中方仍43/519/2",
-        "en": "10 Sep 04:00Z: NP evening 1369; CN still 43/519/2",
-        "ne": "१० सेप्ट ०४:००Z: NP १३६९; CN ४३/५१९/२",
-        "hi": "10 सित 04:00Z: NP 1369; CN 43/519/2"
+        "zh": "10日12:10Z复核：中方仍43/519/2；尼方晚报1369/5132/13646",
+        "en": "10 Sep 12:10Z check: CN still 43/519/2; NP evening 1369/5132/13646",
+        "ne": "१० सेप्ट १२:१०Z: CN ४३/५१९/२; NP १३६९/५१३२/१३६४६",
+        "hi": "10 सित 12:10Z: CN 43/519/2; NP 1369/5132/13646"
       },
       "body": {
-        "zh": "Ratopati引NDRRMA 9日18:00 NPT：1369遗体、失联5132、获救13646。新华9日仍引指挥部5日18时：43遇难519失联2获救。勿相加。",
-        "en": "Ratopati cites NDRRMA 9 Sep 18:00 NPT: 1369 bodies, missing 5132, rescued 13646. Xinhua 9 Sep still cites HQ 5 Sep 18:00: 43/519/2. Do not add.",
-        "ne": "NDRRMA ९ सेप्ट १८:००: १३६९/५१३२/१३६४६। सिन्ह्वा अझै ५ सेप्ट १८:००: ४३/५१९/२। नजोड़्नु।",
-        "hi": "NDRRMA 9 सित 18:00: 1369/5132/13646। शिन्हुआ अभी 5 सित 18:00: 43/519/2। न जोड़ें।"
+        "zh": "新华9日仍引指挥部5日18时：43遇难519失联2获救。NDRRMA 9日18:00 NPT：1369遗体、失联5132、获救13646。10日未见更新指挥部数字。勿相加。",
+        "en": "Xinhua 9 Sep still cites HQ 5 Sep 18:00: 43/519/2. NDRRMA 9 Sep 18:00 NPT: 1369 bodies, missing 5132, rescued 13646. No newer HQ tally on 10 Sep. Do not add.",
+        "ne": "सिन्ह्वा अझै ५ सेप्ट १८:००: ४३/५१९/२। NDRRMA ९ सेप्ट १८:००: १३६९/५१३२/१३६४६। नजोड़्नु।",
+        "hi": "शिन्हुआ अभी 5 सित 18:00: 43/519/2। NDRRMA 9 सित 18:00: 1369/5132/13646। न जोड़ें।"
       }
     },
     {
       "id": "np1369",
       "src": "official",
       "t": "2026-09-09T12:15:00Z",
-      "link": "https://english.ratopati.com/story/78538/rasuwa-flood-update-death-toll-reaches-1369-13000-rescued",
+      "link": "https://newsable.asianetnews.com/world/nepal-floods-death-toll-climbs-to-1-369-as-india-sends-more-aid-articleshow-hycxs1w",
       "img": null,
       "geo": "unknown",
       "title": {
@@ -147,8 +147,8 @@
         "hi": "अमेरिकी दूतावास: रसुवागढ़ी न जाएँ"
       },
       "body": {
-        "zh": "Rasuwagadhi–Timure–Syafrubesi勿前往；Khalte段仍断。未见更新告示。",
-        "en": "Do not travel Rasuwagadhi–Timure–Syafrubesi; Khalte still closed. No newer notice.",
+        "zh": "Rasuwagadhi–Timure–Syafrubesi勿前往；Khalte段仍断。10日未见更新告示。",
+        "en": "Do not travel Rasuwagadhi–Timure–Syafrubesi; Khalte still closed. No newer notice on 10 Sep.",
         "ne": "रसुवागढी–तिमुरे–स्याफ्रुबेसी नजानु। नयाँ सूचना छैन।",
         "hi": "रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी न जाएँ। नई सूचना नहीं।"
       }
@@ -187,10 +187,10 @@
         "hi": "NDRRMA ने 9 सित 11:00 अपडेट"
       },
       "body": {
-        "zh": "官方账号发布热索瓦洪水搜救救济更新。晚报数字以Ratopati 18:00为准。",
-        "en": "Official account posted Rasuwa SAR/relief update. Evening figures via Ratopati 18:00.",
-        "ne": "आधिकारिक खाताले रसुवा अपडेट। साँझको अंक Ratopati १८:००।",
-        "hi": "आधिकारिक खाते ने रसुवा अपडेट। शाम के आँकड़े Ratopati 18:00।"
+        "zh": "官方账号发布热索瓦洪水搜救救济更新。晚报数字以9日18:00为准。",
+        "en": "Official account posted Rasuwa SAR/relief update. Evening figures as of 9 Sep 18:00.",
+        "ne": "आधिकारिक खाताले रसुवा अपडेट। साँझको अंक ९ सेप्ट १८:००।",
+        "hi": "आधिकारिक खाते ने रसुवा अपडेट। शाम के आँकड़े 9 सित 18:00।"
       }
     },
     {
@@ -373,19 +373,6 @@
     },
     {
       "id": "x2",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-08T17:56:08Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2097383498617328009",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA发布SitRep#8（8日19:00）。",
-        "en": "NDRRMA posted SitRep #8 (8 Sep 19:00).",
-        "ne": "NDRRMA SitRep #८ (८ सेप्ट १९:००)।",
-        "hi": "NDRRMA SitRep #8 (8 सित 19:00)।"
-      }
-    },
-    {
-      "id": "x3",
       "user": "@XHNews",
       "t": "2026-09-08T04:59:52Z",
       "link": "https://x.com/XHNews/status/2097188145544798711",
@@ -400,7 +387,7 @@
       }
     },
     {
-      "id": "x4",
+      "id": "x3",
       "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
       "link": "https://x.com/XHNews/status/2096160167708778634",
@@ -415,6 +402,21 @@
       }
     },
     {
+      "id": "x4",
+      "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "place",
+      "text": {
+        "zh": "新华：两小时推进不足5米，G216抢通难点。",
+        "en": "Xinhua: less than 5 m in two hours — G216 reopen obstacles.",
+        "ne": "सिन्ह्वा: दुई घण्टामा ५ मिटरभन्दा कम।",
+        "hi": "शिन्हुआ: दो घंटे में 5 मीटर से कम।"
+      }
+    },
+    {
       "id": "x5",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
@@ -424,7 +426,7 @@
       "geo": "place",
       "text": {
         "zh": "新华：G216通往吉隆口岸核心区2日10时基本抢通。",
-        "en": "Xinhua: G216 access to Gyirong Port core basically restored 2 Sep 10:00.",
+        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
         "ne": "सिन्ह्वा: G216 कोर २ सेप्ट १०:०० खुला।",
         "hi": "शिन्हुआ: G216 कोर 2 सित 10:00 खुला।"
       }
@@ -432,29 +434,31 @@
     {
       "id": "x6",
       "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
       "lat": 28.3,
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华：两小时推进不足5米，G216抢通困难。",
-        "en": "Xinhua: less than 5 m in two hours reopening G216.",
-        "ne": "सिन्ह्वा: दुई घण्टामा ५ मिटरभन्दा कम।",
-        "hi": "शिन्हुआ: दो घंटे में 5 मीटर से कम।"
+        "zh": "新华：激光AI监测滑坡落石，服务G216抢通。",
+        "en": "Xinhua: laser AI device monitors landslide/rockfall during G216 reopen.",
+        "ne": "सिन्ह्वा: लेजर AI ले पहिरो निगरानी।",
+        "hi": "शिन्हुआ: लेजर AI भूस्खलन निगरानी।"
       }
     },
     {
       "id": "x7",
-      "user": "@airnewsalerts",
-      "t": "2026-09-09T14:26:39Z",
-      "link": "https://x.com/airnewsalerts/status/2097693170146713933",
-      "geo": "unknown",
+      "user": "@XHNews",
+      "t": "2026-08-30T04:23:39Z",
+      "link": "https://x.com/XHNews/status/2093917539642519759",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
       "text": {
-        "zh": "全印广播：第8架印空军机载35吨救援物资飞往加德满都。",
-        "en": "AIR: 8th IAF aircraft with 35 t relief departed for Kathmandu.",
-        "ne": "AIR: आठौं IAF विमान ३५ टन काठमाडौं।",
-        "hi": "AIR: 8वाँ IAF विमान 35 टन काठमांडू।"
+        "zh": "新华30日：截至29日18时16遇难546失联（后续已更新为43/519）。",
+        "en": "Xinhua 30 Aug: as of 29 Aug 18:00 16 dead 546 missing (later updated to 43/519).",
+        "ne": "सिन्ह्वा ३० अग: १६/५४६ (पछि ४३/५१९)।",
+        "hi": "शिन्हुआ 30 अग: 16/546 (बाद में 43/519)।"
       }
     }
   ]
