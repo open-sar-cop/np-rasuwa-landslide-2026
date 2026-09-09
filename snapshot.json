@@ -1,30 +1,28 @@
 {
-  "snap": "2026-09-09T23:15:00Z",
+  "snap": "2026-09-10T00:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1367, "missing": 5132, "rescued": 13646 }
   },
   "published": [
     {
-      "id": "osint-0909w",
+      "id": "osint-0910a",
       "src": "official",
-      "t": "2026-09-09T23:15:00Z",
-      "link": "http://www.china.org.cn/2026-09/09/content_118686645.shtml",
+      "t": "2026-09-10T00:10:00Z",
+      "link": "https://english.ratopati.com/story/78427/rasuwa-flood-death-toll-reaches-1367",
       "img": null,
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "place",
+      "geo": "unknown",
       "title": {
-        "zh": "9日23:15Z：中方仍43/519/2；尼方1367/约5132",
-        "en": "09 Sep 23:15Z: CN still 43/519/2; NP 1367/~5132",
-        "ne": "९ सेप्ट २३:१५Z: CN ४३/५१९/२; NP १३६७/~५१३२",
-        "hi": "9 सित 23:15Z: CN 43/519/2; NP 1367/~5132"
+        "zh": "10日00:10Z复核：中方仍43/519/2；尼方1367/约5132",
+        "en": "10 Sep 00:10Z recheck: CN still 43/519/2; NP 1367/~5132",
+        "ne": "१० सेप्ट ००:१०Z: CN ४३/५१९/२; NP १३६७/~५१३२",
+        "hi": "10 सित 00:10Z: CN 43/519/2; NP 1367/~5132"
       },
       "body": {
-        "zh": "新华社9日：堰塞威胁基本解除后444人返乡、另55人待返。中方伤亡仍截至5日18时43遇难519失联2获救。NDRRMA 9日11:00 NPT：1367/约5132；获救沿用当日Nepal News 13646。勿相加。",
-        "en": "Xinhua 9 Sep: 444 returned after lake risk eased; 55 pending. CN KPI still 5 Sep 18:00 43/519/2. NDRRMA 9 Sep 11:00 NPT: 1367/~5132. Rescued 13646 per same-day Nepal News. Do not add.",
-        "ne": "सिन्ह्वा: ४४४ फर्किए; ५५ बाँकी। CN ५ सेप्ट १८:०० ४३/५१९/२। NDRRMA १३६७/~५१३२। उद्धार १३६४६। नजोड़्नु।",
-        "hi": "शिन्हुआ: 444 लौटे; 55 शेष। CN 5 सित 18:00 43/519/2। NDRRMA 1367/~5132। बचाए 13646। न जोड़ें।"
+        "zh": "中方伤亡仍截至5日18时指挥部：43遇难519失联2获救。新华9日仍引该口径并称444人返乡。NDRRMA 9日11:00 NPT：1367遗体、失联约5132。获救沿用当日Nepal News 13646。勿相加。",
+        "en": "CN KPI still HQ 5 Sep 18:00: 43/519/2. Xinhua 9 Sep still cites this; 444 returned. NDRRMA 9 Sep 11:00 NPT: 1367 bodies, missing ~5132. Rescued 13646 per same-day Nepal News. Do not add.",
+        "ne": "CN अझै ५ सेप्ट १८:००: ४३/५१९/२। NDRRMA १३६७/~५१३२। उद्धार १३६४६। नजोड़्नु।",
+        "hi": "CN अभी 5 सित 18:00: 43/519/2। NDRRMA 1367/~5132। बचाए 13646। न जोड़ें।"
       }
     },
     {
@@ -149,10 +147,10 @@
         "hi": "अमेरिकी दूतावास: रसुवागढ़ी न जाएँ"
       },
       "body": {
-        "zh": "Rasuwagadhi–Timure–Syafrubesi含口岸勿前往。9日未见更新告示。",
-        "en": "Do not travel Rasuwagadhi–Timure–Syafrubesi incl. border. No newer notice 9 Sep.",
-        "ne": "रसुवागढी–तिमुरे–स्याफ्रुबेसी नजानु। ९ सेप्ट नयाँ सूचना छैन।",
-        "hi": "रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी न जाएँ। 9 सित नई सूचना नहीं।"
+        "zh": "Rasuwagadhi–Timure–Syafrubesi含口岸勿前往。10日未见更新告示。",
+        "en": "Do not travel Rasuwagadhi–Timure–Syafrubesi incl. border. No newer notice 10 Sep.",
+        "ne": "रसुवागढी–तिमुरे–स्याफ्रुबेसी नजानु। १० सेप्ट नयाँ सूचना छैन।",
+        "hi": "रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी न जाएँ। 10 सित नई सूचना नहीं।"
       }
     },
     {
@@ -169,10 +167,10 @@
         "hi": "UNOSAT रसुवा नक्शा"
       },
       "body": {
-        "zh": "26–27日影像约20km²泥流；Copernicus EMSR927。9日未见新图。",
-        "en": "26–27 Aug imagery ~20 km2 mudflow; Copernicus EMSR927. No newer map 9 Sep.",
-        "ne": "२६–२७ अग ~२० किमी²। EMSR927। ९ सेप्ट नयाँ नक्सा छैन।",
-        "hi": "26–27 अग ~20 किमी²। EMSR927। 9 सित नया नक्शा नहीं।"
+        "zh": "26–27日影像约20km²泥流；Copernicus EMSR927。10日未见新图。",
+        "en": "26–27 Aug imagery ~20 km2 mudflow; Copernicus EMSR927. No newer map 10 Sep.",
+        "ne": "२६–२७ अग ~२० किमी²। EMSR927। १० सेप्ट नयाँ नक्सा छैन।",
+        "hi": "26–27 अग ~20 किमी²। EMSR927। 10 सित नया नक्शा नहीं।"
       }
     },
     {
@@ -267,10 +265,10 @@
         "hi": "रसुवागढ़ी–तिमुरे"
       },
       "detail": {
-        "zh": "美使馆仍请勿前往；9日无新告示",
-        "en": "US Embassy: still do not travel; no 9 Sep update",
-        "ne": "यात्रा निषेध; ९ सेप्ट अपडेट छैन",
-        "hi": "यात्रा निषेध; 9 सित अपडेट नहीं"
+        "zh": "美使馆仍请勿前往；10日无新告示",
+        "en": "US Embassy: still do not travel; no 10 Sep update",
+        "ne": "यात्रा निषेध; १० सेप्ट अपडेट छैन",
+        "hi": "यात्रा निषेध; 10 सित अपडेट नहीं"
       }
     }
   ],
@@ -421,12 +419,12 @@
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社：G216通往吉隆口岸核心区道路2日10时基本抢通。",
-        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
+        "zh": "新华社：G216通向口岸核心区2日10时基本抢通。",
+        "en": "Xinhua: G216 access to port core basically restored 2 Sep 10:00.",
         "ne": "सिन्ह्वा: G216 कोर २ सेप्ट १०:०० खुला।",
         "hi": "शिन्हुआ: G216 कोर 2 सित 10:00 खुला।"
       }
@@ -440,10 +438,10 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华社：抢通吉隆口岸道路面临无路、急流、危岩。",
-        "en": "Xinhua: reopening Gyirong road faced no path, fast water, unstable slopes.",
-        "ne": "सिन्ह्वा: सडक खोल्न कठिन।",
-        "hi": "शिन्हुआ: सड़क खोलना कठिन।"
+        "zh": "新华社：抢通口岸核心路段面临急流、边坡与巨石。",
+        "en": "Xinhua: reopening core road faced fast water, slopes, boulders.",
+        "ne": "सिन्ह्वा: बाटो खोल्न पानी, भिर, ढुङ्गा।",
+        "hi": "शिन्हुआ: सड़क खोलने में जल, ढलान, चट्टान।"
       }
     },
     {
@@ -455,10 +453,10 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社30日：截至29日18时16遇难546失联（旧口径）。",
-        "en": "Xinhua 30 Aug: as of 29 Aug 18:00, 16 dead 546 missing (superseded).",
-        "ne": "सिन्ह्वा ३० अग: १६/५४६ (पुरानो)।",
-        "hi": "शिन्हुआ 30 अग: 16/546 (पुराना)।"
+        "zh": "新华社早期口径（29日18时）：16遇难546失联，后已被5日数据取代。",
+        "en": "Xinhua early figures (29 Aug 18:00): 16/546; superseded by 5 Sep data.",
+        "ne": "पुरानो १६/५४६; ५ सेप्ट ले प्रतिस्थापन।",
+        "hi": "पुराना 16/546; 5 सित ने बदला।"
       }
     }
   ]
