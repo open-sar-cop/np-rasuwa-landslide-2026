@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-09T17:04:00Z",
+  "snap": "2026-09-09T17:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1358, "missing": 5326, "rescued": 13583 }
   },
   "published": [
     {
-      "id": "osint-0909f",
+      "id": "osint-0909g",
       "src": "official",
-      "t": "2026-09-09T17:04:00Z",
-      "link": "https://english.nepalnews.com/s/nation/bhote-koshi-flood-death-toll-rises-to-1358-as-5326-remain-missing-as-of-6pm/",
+      "t": "2026-09-09T17:10:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "9日17:04Z复核：中尼官方伤亡未更新",
-        "en": "09 Sep 17:04Z audit: no new official CN/NP KPI",
-        "ne": "९ सेप्ट १७:०४Z: नयाँ आधिकारिक KPI छैन",
-        "hi": "9 सित 17:04Z: नया आधिकारिक KPI नहीं"
+        "zh": "9日17:10Z复核：中尼官方伤亡未更新",
+        "en": "09 Sep 17:10Z audit: no new official CN/NP KPI",
+        "ne": "९ सेप्ट १७:१०Z: नयाँ आधिकारिक KPI छैन",
+        "hi": "9 सित 17:10Z: नया आधिकारिक KPI नहीं"
       },
       "body": {
         "zh": "新华社至5日18时43遇难519失联救出2人；NDRRMA至8日18时NPT 1358遗体5326失联13583获救。勿相加。",
@@ -438,31 +438,31 @@
     {
       "id": "x6",
       "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "place",
+      "text": {
+        "zh": "新华社：通往吉隆口岸核心区道路如何抢通。",
+        "en": "Xinhua: how the core access road to Gyirong Port was reopened.",
+        "ne": "सिन्ह्वा: ग्यिरोङ कोर सडक कसरी खुल्यो।",
+        "hi": "शिन्हुआ: ग्यिरोङ कोर सड़क कैसे खुली।"
+      }
+    },
+    {
+      "id": "x7",
+      "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
       "lat": 28.3,
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "周三10时G216通往口岸核心陆路基本恢复。",
-        "en": "G216 land access to port core basically restored 10:00 Wednesday.",
-        "ne": "बुध १०:०० मा G216 कोर लगभग खुला।",
-        "hi": "बुध 10:00 पर G216 कोर लगभग बहाल।"
-      }
-    },
-    {
-      "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-08-30T14:25:09Z",
-      "link": "https://x.com/XHNews/status/2094068911415443557",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "place",
-      "text": {
-        "zh": "激光AI监测助力抢通途中滑坡落石预警。",
-        "en": "Laser AI monitoring flags landslide/rockfall while reopening route.",
-        "ne": "लेजर AI ले पहिरो/ढुङ्गा खस्ने जोखिम देखाउँछ।",
-        "hi": "लेजर AI भूस्खलन/चट्टान गिरने का संकेत देता है।"
+        "zh": "G216受损路段2日10时基本抢通至核心区。",
+        "en": "Damaged G216 basically restored to core at 10:00 on 2 Sep.",
+        "ne": "क्षतिग्रस्त G216 २ सेप्ट १०:०० कोरमा खुला।",
+        "hi": "क्षतिग्रस्त G216 2 सित 10:00 कोर तक बहाल।"
       }
     }
   ]
