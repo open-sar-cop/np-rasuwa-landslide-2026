@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-09T16:06:00Z",
+  "snap": "2026-09-09T17:04:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1358, "missing": 5326, "rescued": 13583 }
   },
   "published": [
     {
-      "id": "osint-0909e",
+      "id": "osint-0909f",
       "src": "official",
-      "t": "2026-09-09T16:06:00Z",
+      "t": "2026-09-09T17:04:00Z",
       "link": "https://english.nepalnews.com/s/nation/bhote-koshi-flood-death-toll-rises-to-1358-as-5326-remain-missing-as-of-6pm/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "9日16:06Z复核：中尼官方伤亡未更新",
-        "en": "09 Sep 16:06Z audit: no new official CN/NP KPI",
-        "ne": "९ सेप्ट १६:०६Z: नयाँ आधिकारिक KPI छैन",
-        "hi": "9 सित 16:06Z: नया आधिकारिक KPI नहीं"
+        "zh": "9日17:04Z复核：中尼官方伤亡未更新",
+        "en": "09 Sep 17:04Z audit: no new official CN/NP KPI",
+        "ne": "९ सेप्ट १७:०४Z: नयाँ आधिकारिक KPI छैन",
+        "hi": "9 सित 17:04Z: नया आधिकारिक KPI नहीं"
       },
       "body": {
         "zh": "新华社至5日18时43遇难519失联救出2人；NDRRMA至8日18时NPT 1358遗体5326失联13583获救。勿相加。",
@@ -423,46 +423,46 @@
     {
       "id": "x5",
       "user": "@XHNews",
-      "t": "2026-09-07T04:50:14Z",
-      "link": "https://x.com/XHNews/status/2096823335774720106",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社再发吉隆口岸泥石流进展综述。",
-        "en": "Xinhua again recaps Gyirong Port mudslide progress.",
-        "ne": "सिन्ह्वाले ग्यिरोङ प्रगति फेरि सार्यो।",
-        "hi": "शिन्हुआ ने ग्यिरोङ प्रगति फिर सार।"
+        "zh": "边检民警肖富贵灾后不久无人机航拍吉隆口岸。",
+        "en": "Immigration officer Xiao Fugui filmed Gyirong Port by drone soon after.",
+        "ne": "सीमा प्रहरी स्याओले ड्रोनबाट ग्यिरोङ खिचे।",
+        "hi": "इमिग्रेशन अधिकारी शाओ ने ड्रोन से ग्यिरोङ फिल्माया।"
       }
     },
     {
       "id": "x6",
       "user": "@XHNews",
-      "t": "2026-09-08T15:48:00Z",
-      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
-      "lat": 28.39,
-      "lng": 85.325,
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.3,
+      "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "444名撤离村民返乡；堰塞威胁基本解除。",
-        "en": "444 evacuees returned; barrier-lake threat largely gone.",
-        "ne": "४४४ फर्किए; ताल जोखिम घट्यो।",
-        "hi": "444 लौटे; झील जोखिम घट गया।"
+        "zh": "周三10时G216通往口岸核心陆路基本恢复。",
+        "en": "G216 land access to port core basically restored 10:00 Wednesday.",
+        "ne": "बुध १०:०० मा G216 कोर लगभग खुला।",
+        "hi": "बुध 10:00 पर G216 कोर लगभग बहाल।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-05T10:00:00Z",
-      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
-      "lat": 28.2797,
-      "lng": 85.3777,
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "lat": 28.3,
+      "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "截至5日18时：43遇难519失联，救出2人。",
-        "en": "As of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued.",
-        "ne": "५ सेप्ट १८:००: ४३/५१९/२।",
-        "hi": "5 सित 18:00: 43/519/2।"
+        "zh": "激光AI监测助力抢通途中滑坡落石预警。",
+        "en": "Laser AI monitoring flags landslide/rockfall while reopening route.",
+        "ne": "लेजर AI ले पहिरो/ढुङ्गा खस्ने जोखिम देखाउँछ।",
+        "hi": "लेजर AI भूस्खलन/चट्टान गिरने का संकेत देता है।"
       }
     }
   ]
