@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-10T00:10:00Z",
+  "snap": "2026-09-10T01:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1367, "missing": 5132, "rescued": 13646 }
   },
   "published": [
     {
-      "id": "osint-0910a",
+      "id": "osint-0910b",
       "src": "official",
-      "t": "2026-09-10T00:10:00Z",
+      "t": "2026-09-10T01:20:00Z",
       "link": "https://english.ratopati.com/story/78427/rasuwa-flood-death-toll-reaches-1367",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10日00:10Z复核：中方仍43/519/2；尼方1367/约5132",
-        "en": "10 Sep 00:10Z recheck: CN still 43/519/2; NP 1367/~5132",
-        "ne": "१० सेप्ट ००:१०Z: CN ४३/५१९/२; NP १३६७/~५१३२",
-        "hi": "10 सित 00:10Z: CN 43/519/2; NP 1367/~5132"
+        "zh": "10日01:20Z复核：中方仍43/519/2；尼方1367/约5132",
+        "en": "10 Sep 01:20Z recheck: CN still 43/519/2; NP 1367/~5132",
+        "ne": "१० सेप्ट ०१:२०Z: CN ४३/५१९/२; NP १३६७/~५१३२",
+        "hi": "10 सित 01:20Z: CN 43/519/2; NP 1367/~5132"
       },
       "body": {
         "zh": "中方伤亡仍截至5日18时指挥部：43遇难519失联2获救。新华9日仍引该口径并称444人返乡。NDRRMA 9日11:00 NPT：1367遗体、失联约5132。获救沿用当日Nepal News 13646。勿相加。",
@@ -423,7 +423,7 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社：G216通向口岸核心区2日10时基本抢通。",
+        "zh": "新华：G216通往口岸核心区道路2日10时基本抢通。",
         "en": "Xinhua: G216 access to port core basically restored 2 Sep 10:00.",
         "ne": "सिन्ह्वा: G216 कोर २ सेप्ट १०:०० खुला।",
         "hi": "शिन्हुआ: G216 कोर 2 सित 10:00 खुला।"
@@ -438,25 +438,25 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华社：抢通口岸核心路段面临急流、边坡与巨石。",
-        "en": "Xinhua: reopening core road faced fast water, slopes, boulders.",
-        "ne": "सिन्ह्वा: बाटो खोल्न पानी, भिर, ढुङ्गा।",
-        "hi": "शिन्हुआ: सड़क खोलने में जल, ढलान, चट्टान।"
+        "zh": "新华：两小时推进不足5米，G216抢通难点实录。",
+        "en": "Xinhua: less than 5 m in two hours; G216 repair obstacles.",
+        "ne": "सिन्ह्वा: दुई घण्टामा ५ मिटरभन्दा कम।",
+        "hi": "शिन्हुआ: दो घंटे में 5 मीटर से कम।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
-      "lat": 28.2797,
-      "lng": 85.3777,
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "lat": 28.3,
+      "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华社早期口径（29日18时）：16遇难546失联，后已被5日数据取代。",
-        "en": "Xinhua early figures (29 Aug 18:00): 16/546; superseded by 5 Sep data.",
-        "ne": "पुरानो १६/५४६; ५ सेप्ट ले प्रतिस्थापन।",
-        "hi": "पुराना 16/546; 5 सित ने बदला।"
+        "zh": "新华：激光AI监测滑坡落石风险，辅助吉隆道路抢通。",
+        "en": "Xinhua: laser AI monitors landslide/rockfall during Gyirong road repair.",
+        "ne": "सिन्ह्वा: लेजर AI ले पहिरो जोखिम निगरानी।",
+        "hi": "शिन्हुआ: लेजर AI भूस्खलन जोखिम निगरानी।"
       }
     }
   ]
