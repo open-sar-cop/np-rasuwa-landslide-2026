@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-10T02:26:00Z",
+  "snap": "2026-09-10T03:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1367, "missing": 5132, "rescued": 13646 }
   },
   "published": [
     {
-      "id": "osint-0910c",
+      "id": "osint-0910d",
       "src": "official",
-      "t": "2026-09-10T02:26:00Z",
+      "t": "2026-09-10T03:10:00Z",
       "link": "https://english.news.cn/20260909/ed88ca02ab5441e58e28e7d011afe708/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10日02:26Z复核：中方仍43/519/2；尼方1367/5132",
-        "en": "10 Sep 02:26Z recheck: CN still 43/519/2; NP 1367/5132",
-        "ne": "१० सेप्ट ०२:२६Z: CN ४३/५१९/२; NP १३६७/५१३२",
-        "hi": "10 सित 02:26Z: CN 43/519/2; NP 1367/5132"
+        "zh": "10日03:10Z复核：中方仍43/519/2；尼方1367/5132",
+        "en": "10 Sep 03:10Z recheck: CN still 43/519/2; NP 1367/5132",
+        "ne": "१० सेप्ट ०३:१०Z: CN ४३/५१९/२; NP १३६७/५१३२",
+        "hi": "10 सित 03:10Z: CN 43/519/2; NP 1367/5132"
       },
       "body": {
-        "zh": "新华9日仍引指挥部5日18时：43遇难519失联2获救，444人返乡。NDRRMA 9日11:00 NPT：1367遗体、失联约5132、获救13646。勿相加。",
-        "en": "Xinhua 9 Sep still cites HQ 5 Sep 18:00: 43/519/2; 444 returned. NDRRMA 9 Sep 11:00 NPT: 1367 bodies, missing ~5132, rescued 13646. Do not add.",
+        "zh": "新华9日仍引指挥部5日18时：43遇难519失联2获救，444人返乡，堰塞湖已泄。NDRRMA/Ratopati 9日11:00 NPT：1367遗体、失联约5132、获救13646。勿相加。",
+        "en": "Xinhua 9 Sep still cites HQ 5 Sep 18:00: 43/519/2; 444 returned; lake drained. NDRRMA 9 Sep 11:00 NPT: 1367 bodies, missing ~5132, rescued 13646. Do not add.",
         "ne": "सिन्ह्वा अझै ५ सेप्ट १८:००: ४३/५१९/२। NDRRMA १३६७/~५१३२/१३६४६। नजोड़्नु।",
         "hi": "शिन्हुआ अभी 5 सित 18:00: 43/519/2। NDRRMA 1367/~5132/13646। न जोड़ें।"
       }
@@ -438,10 +438,10 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华：抢通吉隆口岸道路两小时推进不足5米。",
-        "en": "Xinhua: reopening Gyirong road advanced less than 5 m in two hours.",
-        "ne": "सिन्ह्वा: सडक दुई घण्टामा ५ मिटरभन्दा कम।",
-        "hi": "शिन्हुआ: सड़क दो घंटे में 5 मीटर से कम।"
+        "zh": "新华：两小时推进不足5米，说明通往吉隆口岸核心道路为何难抢通。",
+        "en": "Xinhua: less than 5 m in two hours — why the route to Gyirong Port core was so hard to reopen.",
+        "ne": "सिन्ह्वा: दुई घण्टामा ५ मिटरभन्दा कम — बाटो किन कठिन।",
+        "hi": "शिन्हुआ: दो घंटे में 5 मीटर से कम — मार्ग क्यों कठिन।"
       }
     },
     {
@@ -453,10 +453,10 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：激光AI监测滑坡落石风险。",
-        "en": "Xinhua: laser AI monitors landslide and rockfall risk.",
-        "ne": "सिन्ह्वा: लेजर AI पहिरो जोखिम निगरानी।",
-        "hi": "शिन्हुआ: लेजर AI भूस्खलन जोखिम निगरानी।"
+        "zh": "新华：激光AI监测设备协助吉隆抢通道路时实时识别滑坡落石风险。",
+        "en": "Xinhua: laser AI monitor helps detect landslide/rockfall risk while reopening Gyirong route.",
+        "ne": "सिन्ह्वा: लेजर AI ले पहिरो जोखिम पत्ता लगाउँछ।",
+        "hi": "शिन्हुआ: लेजर AI भूस्खलन जोखिम पकड़ता है।"
       }
     }
   ]
