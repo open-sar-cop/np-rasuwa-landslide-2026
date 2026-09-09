@@ -1,28 +1,48 @@
 {
-  "snap": "2026-09-09T18:04:00Z",
+  "snap": "2026-09-09T19:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1358, "missing": 5326, "rescued": 13583 }
+    "np": { "dead": 1365, "missing": 4077, "rescued": 13583 }
   },
   "published": [
     {
-      "id": "osint-0909h",
+      "id": "osint-0909i",
       "src": "official",
-      "t": "2026-09-09T18:04:00Z",
-      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "t": "2026-09-09T19:10:00Z",
+      "link": "https://english.nepalnews.com/s/nation/bhote-koshi-flood-death-toll-reaches-1365-over-4000-still-missing/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "9日18:04Z复核：中尼官方伤亡未更新",
-        "en": "09 Sep 18:04Z audit: no new official CN/NP KPI",
-        "ne": "९ सेप्ट १८:०४Z: नयाँ आधिकारिक KPI छैन",
-        "hi": "9 सित 18:04Z: नया आधिकारिक KPI नहीं"
+        "zh": "9日19:10Z：尼方遗体升至1365",
+        "en": "09 Sep 19:10Z: NP bodies 1365",
+        "ne": "९ सेप्ट १९:१०Z: NP १३६५ शव",
+        "hi": "9 सित 19:10Z: NP 1365 शव"
       },
       "body": {
-        "zh": "新华社至5日18时43遇难519失联救出2人；NDRRMA至8日18时NPT 1358遗体5326失联13583获救。勿相加。",
-        "en": "Xinhua still 5 Sep 18:00: 43/519/2. NDRRMA still 8 Sep 18:00 NPT: 1358/5326/13583. Do not add.",
-        "ne": "CN ५ सेप्ट १८:००: ४३/५१९/२। NP ८ सेप्ट १८:०० NPT: १३५८/५३२६/१३५८३। नजोड़्नु।",
-        "hi": "CN 5 सित 18:00: 43/519/2। NP 8 सित 18:00 NPT: 1358/5326/13583। न जोड़ें।"
+        "zh": "Nepal News引官方至9日08:00 NPT：1365遗体、4077失联。获救仍用NDRRMA 8日18时13583。中方仍5日18时43/519/2。勿相加。",
+        "en": "Nepal News citing officials as of 9 Sep 08:00 NPT: 1365 bodies, 4077 missing. Rescued still NDRRMA 8 Sep 18:00 NPT 13583. CN still 5 Sep 18:00 43/519/2. Do not add.",
+        "ne": "९ सेप्ट ०८:०० NPT: १३६५ शव, ४०७७ बेपत्ता। उद्धार अझै १३५८३। CN ४३/५१९/२। नजोड़्नु।",
+        "hi": "9 सित 08:00 NPT: 1365 शव, 4077 लापता। बचाए अभी 13583। CN 43/519/2। न जोड़ें।"
+      }
+    },
+    {
+      "id": "np1365",
+      "src": "official",
+      "t": "2026-09-09T02:15:00Z",
+      "link": "https://english.nepalnews.com/s/nation/bhote-koshi-flood-death-toll-reaches-1365-over-4000-still-missing/",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "9日08:00 NPT：1365具遗体",
+        "en": "9 Sep 08:00 NPT: 1365 bodies",
+        "ne": "९ सेप्ट ०८:०० NPT: १३६५ शव",
+        "hi": "9 सित 08:00 NPT: 1365 शव"
+      },
+      "body": {
+        "zh": "Chitwan 363、Nawalpur东226、西222、Nuwakot 197、Rasuwa 174等。失联4077。未报新获救数。",
+        "en": "Chitwan 363, Nawalparasi E 226 / W 222, Nuwakot 197, Rasuwa 174. Missing 4077. No new rescue total.",
+        "ne": "चितवन ३६३, नवलपुर पू २२६ / प २२२, नुवाकोट १९७, रसुवा १७४। बेपत्ता ४०७७।",
+        "hi": "चितवन 363, नवलपरासी पू 226 / प 222, नुवाकोट 197, रसुवा 174। लापता 4077।"
       }
     },
     {
@@ -33,16 +53,16 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "NDRRMA 8日18时：1358具遗体",
-        "en": "NDRRMA 8 Sep 18:00 NPT: 1358 bodies",
-        "ne": "NDRRMA ८ सेप्ट १८:००: १३५८ शव",
-        "hi": "NDRRMA 8 सित 18:00: 1358 शव"
+        "zh": "NDRRMA 8日18时：1358遗体13583获救",
+        "en": "NDRRMA 8 Sep 18:00 NPT: 1358 bodies 13583 rescued",
+        "ne": "NDRRMA ८ सेप्ट १८:००: १३५८ शव १३५८३ उद्धार",
+        "hi": "NDRRMA 8 सित 18:00: 1358 शव 13583 बचाए"
       },
       "body": {
-        "zh": "NDRRMA：1358遗体、5326失联、13583获救。勿与中方相加。",
-        "en": "NDRRMA: 1358 bodies, 5326 missing, 13583 rescued. Do not add CN+NP.",
-        "ne": "NDRRMA: १३५८ शव, ५३२६ बेपत्ता, १३५८३ उद्धार। नजोड़्नु।",
-        "hi": "NDRRMA: 1358 शव, 5326 लापता, 13583 बचाए। न जोड़ें।"
+        "zh": "当时5326失联。获救口径仍用此条，因9日早报未给新获救数。",
+        "en": "Then 5326 missing. Rescue KPI still this line; 9 Sep AM report gave no new rescue total.",
+        "ne": "त्यतिबेला ५३२६ बेपत्ता। उद्धार अझै यही।",
+        "hi": "तब 5326 लापता। बचाए अभी यही।"
       }
     },
     {
@@ -61,10 +81,32 @@
         "hi": "5 सित 18:00: 43/519"
       },
       "body": {
-        "zh": "救出2人；遗物约993件。勿与尼方相加。",
-        "en": "2 rescued; about 993 belongings. Do not add CN+NP.",
-        "ne": "२ उद्धार; करिब ९९३ वस्तु। नजोड़्नु।",
-        "hi": "2 बचाए; लगभग 993 वस्तुएँ। न जोड़ें।"
+        "zh": "救出2人；遗物约993件。9日无新伤亡口径。勿与尼方相加。",
+        "en": "2 rescued; about 993 belongings. No newer CN KPI on 9 Sep. Do not add CN+NP.",
+        "ne": "२ उद्धार; करिब ९९३ वस्तु। ९ सेप्ट नयाँ CN KPI छैन। नजोड़्नु।",
+        "hi": "2 बचाए; लगभग 993 वस्तुएँ। 9 सित नया CN KPI नहीं। न जोड़ें।"
+      }
+    },
+    {
+      "id": "ret444",
+      "src": "official",
+      "t": "2026-09-09T00:00:00Z",
+      "link": "http://www.china.org.cn/2026-09/09/content_118686645.shtml",
+      "img": null,
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "place",
+      "title": {
+        "zh": "新华社9日再发：444人已返乡",
+        "en": "Xinhua 9 Sep: 444 evacuees returned",
+        "ne": "सिन्ह्वा ९ सेप्ट: ४४४ फर्किए",
+        "hi": "शिन्हुआ 9 सित: 444 लौटे"
+      },
+      "body": {
+        "zh": "堰塞威胁基本解除后吉隆镇/萨勒乡444人返乡；另55人待返。",
+        "en": "After lake risk eased, 444 returned in Gyirong/Sale; 55 pending.",
+        "ne": "ताल जोखिम घट्दा ४४४ फर्किए; ५५ बाँकी।",
+        "hi": "झील जोखिम घटने पर 444 लौटे; 55 शेष।"
       }
     },
     {
@@ -79,36 +121,14 @@
       "title": {
         "zh": "新华社：原堰塞湖已泄空",
         "en": "Xinhua: former barrier lake drained",
-        "ne": "पूरानो बाँधताल खाली",
-        "hi": "पूरानी बाँध झील खाली"
+        "ne": "पुरानो बाँधताल खाली",
+        "hi": "पुरानी बाँध झील खाली"
       },
       "body": {
-        "zh": "河道过流正常；险情基本排除；仍监测新堰塞。444人已返乡。",
-        "en": "Channel flowing; hazard largely gone; watch new dams. 444 returned.",
-        "ne": "नदी बग्दो; जोखिम घट्यो; नयाँ बाँध निगरानी। ४४४ फर्किए।",
-        "hi": "नहर बह रही; जोखिम घट गया; नई बाँध निगरानी। 444 लौटे।"
-      }
-    },
-    {
-      "id": "ret444",
-      "src": "official",
-      "t": "2026-09-08T15:48:00Z",
-      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
-      "img": null,
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "place",
-      "title": {
-        "zh": "新华社8日：444名撤离村民返乡",
-        "en": "Xinhua 8 Sep: 444 evacuees returned home",
-        "ne": "सिन्ह्वा ८ सेप्ट: ४४४ फर्किए",
-        "hi": "शिन्हुआ 8 सित: 444 लौटे"
-      },
-      "body": {
-        "zh": "堰塞威胁基本解除后，吉隆镇/萨勒乡444人返乡；另55人待返。伤亡口径仍5日18时。",
-        "en": "After lake risk eased, 444 returned in Gyirong/Sale; 55 pending. KPI still 5 Sep 18:00.",
-        "ne": "ताल जोखिम घट्दा ४४४ फर्किए; ५५ बाँकी। KPI अझै ५ सेप्ट १८:००।",
-        "hi": "झील जोखिम घटने पर 444 लौटे; 55 शेष। KPI अभी 5 सित 18:00।"
+        "zh": "河道过流正常；险情基本排除；仍监测新堰塞。",
+        "en": "Channel flowing; hazard largely gone; watch new dams.",
+        "ne": "नदी बग्दो; जोखिम घट्यो; नयाँ बाँध निगरानी।",
+        "hi": "नहर बह रही; जोखिम घट गया; नई बाँध निगरानी।"
       }
     },
     {
@@ -171,28 +191,6 @@
         "en": "26–27 Aug imagery ~20 km2 mudflow; no newer map 9 Sep.",
         "ne": "२६–२७ अग ~२० किमी²। ९ सेप्ट नयाँ नक्सा छैन।",
         "hi": "26–27 अग ~20 किमी²। 9 सित नया नक्शा नहीं।"
-      }
-    },
-    {
-      "id": "npxinhua43",
-      "src": "official",
-      "t": "2026-09-07T08:17:00Z",
-      "link": "https://english.news.cn/20260907/0eb766c51bd24a58b237f0f489d03dca/c.html",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "title": {
-        "zh": "新华社：截至5日18时43遇难519失联",
-        "en": "Xinhua: as of 5 Sep 18:00, 43 dead 519 missing",
-        "ne": "सिन्ह्वा: ५ सेप्ट १८:०० मा ४३/५१९",
-        "hi": "शिन्हुआ: 5 सित 18:00 पर 43/519"
-      },
-      "body": {
-        "zh": "救出2人；外籍失联261人涉23国。2500余人。",
-        "en": "2 rescued; 261 foreigners from 23 countries. 2500+ people.",
-        "ne": "२ उद्धार; २६१ विदेशी २३ देश। २५००+ जन।",
-        "hi": "2 बचाए; 261 विदेशी 23 देश। 2500+ लोग।"
       }
     },
     {
@@ -347,6 +345,47 @@
   "xPosts": [
     {
       "id": "x0",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-09T03:43:07Z",
+      "link": "https://x.com/CCTV_Plus/status/2097531220129353832",
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "place",
+      "text": {
+        "zh": "CCTV+：志愿者在吉隆县向受灾居民及滞留尼籍人员发放免费餐食。",
+        "en": "CCTV+: volunteers in Gyirong County give free meals to residents and stranded Nepalis.",
+        "ne": "CCTV+: ग्यिरोङमा स्वयंसेवकले निःशुल्क खाना।",
+        "hi": "CCTV+: ग्यिरोङ में स्वयंसेवक निःशुल्क भोजन।"
+      }
+    },
+    {
+      "id": "x1",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-08T17:56:08Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2097383498617328009",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA发布SitRep#8（8日19:00）。",
+        "en": "NDRRMA posted SitRep #8 (8 Sep 19:00).",
+        "ne": "NDRRMA SitRep #८ (८ सेप्ट १९:००)।",
+        "hi": "NDRRMA SitRep #8 (8 सित 19:00)।"
+      }
+    },
+    {
+      "id": "x2",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-08T13:08:21Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2097311077810004410",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：8日18:00 NPT搜救救济更新。",
+        "en": "NDRRMA: 8 Sep 18:00 NPT SAR/relief update.",
+        "ne": "NDRRMA: ८ सेप्ट १८:०० NPT अपडेट।",
+        "hi": "NDRRMA: 8 सित 18:00 NPT अपडेट।"
+      }
+    },
+    {
+      "id": "x3",
       "user": "@XHNews",
       "t": "2026-09-08T04:59:52Z",
       "link": "https://x.com/XHNews/status/2097188145544798711",
@@ -361,52 +400,37 @@
       }
     },
     {
-      "id": "x1",
-      "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "外媒记者周六至周日探访吉隆口岸灾区。",
-        "en": "International journalists visited Gyirong Port Sat–Sun.",
-        "ne": "अन्तर्राष्ट्रिय पत्रकार शनि–आइत ग्यिरोङ।",
-        "hi": "अंतरराष्ट्रीय पत्रकार शनि–रवि ग्यिरोङ।"
-      }
-    },
-    {
-      "id": "x2",
-      "user": "@XHNews",
-      "t": "2026-09-07T10:10:46Z",
-      "link": "https://x.com/XHNews/status/2096904000058843554",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "外国记者实地了解吉隆口岸灾情与多线救援。",
-        "en": "Foreign journalists saw aftermath and multi-front SAR.",
-        "ne": "विदेशी पत्रकारले SAR र क्षति हेरे।",
-        "hi": "विदेशी पत्रकारों ने SAR और क्षति देखी।"
-      }
-    },
-    {
-      "id": "x3",
-      "user": "@XHNews",
-      "t": "2026-09-07T06:08:33Z",
-      "link": "https://x.com/XHNews/status/2096843042137489625",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "指挥部：部分遇难者身份已确认。",
-        "en": "Command: identities of some victims confirmed.",
-        "ne": "केही मृतकको पहिचान पुष्टि।",
-        "hi": "कुछ मृतकों की पहचान पुष्ट।"
-      }
-    },
-    {
       "id": "x4",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-07T12:07:48Z",
+      "link": "https://x.com/CCTV_Plus/status/2096933451001958637",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "CCTV+：境外上游隐患增加吉隆泥石流监测难度。",
+        "en": "CCTV+: upstream hazards beyond the border complicate Gyirong monitoring.",
+        "ne": "CCTV+: सीमापार स्रोतले निगरानी गाह्रो।",
+        "hi": "CCTV+: सीमापार स्रोत से निगरानी कठिन।"
+      }
+    },
+    {
+      "id": "x5",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-07T11:39:14Z",
+      "link": "https://x.com/CCTV_Plus/status/2096926261885186158",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "国际媒体5–6日探访吉隆口岸核心灾区。",
+        "en": "International media visited Gyirong Port core on 5–6 Sep.",
+        "ne": "अन्तर्राष्ट्रिय मिडिया ५–६ सेप्ट ग्यिरोङ कोर।",
+        "hi": "अंतरराष्ट्रीय मीडिया 5–6 सित ग्यिरोङ कोर।"
+      }
+    },
+    {
+      "id": "x6",
       "user": "@CCTV_Plus",
       "t": "2026-09-07T02:35:18Z",
       "link": "https://x.com/CCTV_Plus/status/2096789374872801595",
@@ -421,48 +445,18 @@
       }
     },
     {
-      "id": "x5",
-      "user": "@XHNews",
-      "t": "2026-09-07T04:50:14Z",
-      "link": "https://x.com/XHNews/status/2096823335774720106",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华社再发吉隆口岸泥石流进展综述。",
-        "en": "Xinhua again recaps Gyirong Port mudslide progress.",
-        "ne": "सिन्ह्वाले ग्यिरोङ प्रगति दोहोर्यायो।",
-        "hi": "शिन्हुआ ने ग्यिरोङ प्रगति दोहराई।"
-      }
-    },
-    {
-      "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-09-08T15:48:00Z",
-      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "place",
-      "text": {
-        "zh": "444名撤离村民返乡；堰塞威胁基本解除。",
-        "en": "444 evacuees returned; barrier-lake threat largely gone.",
-        "ne": "४४४ फर्किए; ताल जोखिम घट्यो।",
-        "hi": "444 लौटे; झील जोखिम घट गया।"
-      }
-    },
-    {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-05T10:00:00Z",
-      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "t": "2026-09-07T06:08:33Z",
+      "link": "https://x.com/XHNews/status/2096843042137489625",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "截至5日18时仍为43遇难519失联2人获救。",
-        "en": "Still 43 dead, 519 missing, 2 rescued as of 5 Sep 18:00.",
-        "ne": "५ सेप्ट १८:००: ४३/५१९/२।",
-        "hi": "5 सित 18:00: 43/519/2।"
+        "zh": "指挥部：部分遇难者身份已确认。",
+        "en": "Command: identities of some victims confirmed.",
+        "ne": "केही मृतकको पहिचान पुष्टि।",
+        "hi": "कुछ मृतकों की पहचान पुष्ट।"
       }
     }
   ]
