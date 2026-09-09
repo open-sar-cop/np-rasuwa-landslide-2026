@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-09T14:13:00Z",
+  "snap": "2026-09-09T15:07:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1358, "missing": 5326, "rescued": 13583 }
   },
   "published": [
     {
-      "id": "osint-0909c",
+      "id": "osint-0909d",
       "src": "official",
-      "t": "2026-09-09T14:13:00Z",
+      "t": "2026-09-09T15:07:00Z",
       "link": "https://english.nepalnews.com/s/nation/bhote-koshi-flood-death-toll-rises-to-1358-as-5326-remain-missing-as-of-6pm/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "9日14:13Z复核：中尼官方伤亡未更新",
-        "en": "09 Sep 14:13Z audit: no new official CN/NP KPI",
-        "ne": "९ सेप्ट १४:१३Z: नयाँ आधिकारिक KPI छैन",
-        "hi": "9 सित 14:13Z: नया आधिकारिक KPI नहीं"
+        "zh": "9日15:07Z复核：中尼官方伤亡未更新",
+        "en": "09 Sep 15:07Z audit: no new official CN/NP KPI",
+        "ne": "९ सेप्ट १५:०७Z: नयाँ आधिकारिक KPI छैन",
+        "hi": "9 सित 15:07Z: नया आधिकारिक KPI नहीं"
       },
       "body": {
         "zh": "新华社至5日18时43遇难519失联救出2人；NDRRMA至8日18时NPT 1358遗体5326失联13583获救。勿相加。",
@@ -437,32 +437,32 @@
     },
     {
       "id": "x6",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-07T11:39:14Z",
-      "link": "https://x.com/CCTV_Plus/status/2096926261885186158",
+      "user": "@XHNews",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "国际媒体5–6日进入吉隆口岸核心灾区采访。",
-        "en": "International media entered Gyirong Port core on 5–6 Sep.",
-        "ne": "५–६ सेप्ट अन्तर्राष्ट्रिय मिडिया कोरमा।",
-        "hi": "5–6 सित अंतरराष्ट्रीय मीडिया कोर में।"
+        "zh": "新华社：移民警察肖富贵无人机拍下吉隆口岸泥石流过后画面。",
+        "en": "Xinhua: officer Xiao Fugui drone footage near Gyirong Port after the slide.",
+        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज।",
+        "hi": "शिन्हुआ: ग्यिरोङ पोर्ट के पास ड्रोन फुटेज।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-07T04:50:14Z",
-      "link": "https://x.com/XHNews/status/2096823335774720106",
-      "lat": 28.2797,
-      "lng": 85.3777,
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.3,
+      "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华社再述吉隆口岸泥石流经过与搜救进展。",
-        "en": "Xinhua restates Gyirong mudslide timeline and SAR progress.",
-        "ne": "सिन्ह्वाले ग्यिरोङ समयरेखा दोहोर्यायो।",
-        "hi": "शिन्हुआ ने ग्यिरोङ समयरेखा दोहराई।"
+        "zh": "新华社：2日10时通往吉隆口岸核心区道路基本抢通。",
+        "en": "Xinhua: road to Gyirong Port core basically restored 10:00 2 Sep.",
+        "ne": "सिन्ह्वा: २ सेप्ट १०:०० कोर सडक खुला।",
+        "hi": "शिन्हुआ: 2 सित 10:00 कोर सड़क बहाल।"
       }
     }
   ]
