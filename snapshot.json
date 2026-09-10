@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-10T17:06:00Z",
+  "snap": "2026-09-10T18:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1369, "missing": 5132, "rescued": 13646 }
   },
   "published": [
     {
-      "id": "osint-0910t",
+      "id": "osint-0910u",
       "src": "official",
-      "t": "2026-09-10T17:06:00Z",
-      "link": "https://english.news.cn/20260909/ed88ca02ab5441e58e28e7d011afe708/c.html",
+      "t": "2026-09-10T18:10:00Z",
+      "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10日17:06Z复核：中方仍43/519/2；尼方NDRRMA 9日18:00仍1369/5132/13646",
-        "en": "10 Sep 17:06Z: CN still 43/519/2; NP NDRRMA 9 Sep 18:00 still 1369/5132/13646",
-        "ne": "१० सेप्ट १७:०६Z: CN ४३/५१९/२; NP १३६९/५१३२/१३६४६",
-        "hi": "10 सित 17:06Z: CN 43/519/2; NP 1369/5132/13646"
+        "zh": "10日18:10Z复核：中方仍43/519/2；尼方NDRRMA/IFRC仍1369/5132/13646",
+        "en": "10 Sep 18:10Z: CN still 43/519/2; NP NDRRMA/IFRC still 1369/5132/13646",
+        "ne": "१० सेप्ट १८:१०Z: CN ४३/५१९/२; NP १३६९/५१३२/१३६४६",
+        "hi": "10 सित 18:10Z: CN 43/519/2; NP 1369/5132/13646"
       },
       "body": {
-        "zh": "新华9日综述仍引指挥部5日18时：43遇难519失联2获救。NDRRMA/IFRC 9日：1369遗体、失联5132、获救13646。10日未见新指挥部数字。勿相加。",
-        "en": "Xinhua 9 Sep wrap still cites HQ 5 Sep 18:00: 43/519/2. NDRRMA/IFRC 9 Sep: 1369 bodies, missing 5132, rescued 13646. No newer HQ tally 10 Sep. Do not add.",
+        "zh": "新华仍引指挥部5日18时：43遇难519失联2获救。NDRRMA/IFRC 9日：1369遗体、失联5132、获救13646。10日未见新指挥部数字。勿相加。",
+        "en": "Xinhua still cites HQ 5 Sep 18:00: 43/519/2. NDRRMA/IFRC 9 Sep: 1369 bodies, missing 5132, rescued 13646. No newer HQ tally 10 Sep. Do not add.",
         "ne": "सिन्ह्वा अझै ५ सेप्ट १८:००: ४३/५१९/२। NDRRMA ९ सेप्ट: १३६९/५१३२/१३६४६। नजोड़्नु।",
         "hi": "शिन्हुआ अभी 5 सित 18:00: 43/519/2। NDRRMA 9 सित: 1369/5132/13646। न जोड़ें।"
       }
@@ -400,20 +400,35 @@
     {
       "id": "x4",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华社：边检民警肖富贵灾后无人机航拍吉隆口岸。",
-        "en": "Xinhua: immigration officer Xiao Fugui drone footage near Gyirong Port.",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज।",
-        "hi": "शिन्हुआ: ग्यिरोङ पोर्ट ड्रोन फुटेज।"
+        "zh": "新华：外媒记者团探访吉隆口岸灾区。",
+        "en": "Xinhua: foreign press visited Gyirong Port disaster site.",
+        "ne": "सिन्ह्वा: विदेशी पत्रकार ग्यिरोङमा।",
+        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोङ में।"
       }
     },
     {
       "id": "x5",
+      "user": "@XHNews",
+      "t": "2026-09-07T10:10:46Z",
+      "link": "https://x.com/XHNews/status/2096904000058843554",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华视频：外媒实地了解吉隆救援。",
+        "en": "Xinhua video: foreign media briefed on Gyirong rescue.",
+        "ne": "सिन्ह्वा भिडियो: ग्यिरोङ उद्धार।",
+        "hi": "शिन्हुआ वीडियो: ग्यिरोङ बचाव।"
+      }
+    },
+    {
+      "id": "x6",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -428,33 +443,18 @@
       }
     },
     {
-      "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：国际媒体记者团探访吉隆口岸灾区。",
-        "en": "Xinhua: international media visited Gyirong Port disaster site.",
-        "ne": "सिन्ह्वा: अन्तर्राष्ट्रिय पत्रकार ग्यिरोङ।",
-        "hi": "शिन्हुआ: अंतरराष्ट्रीय पत्रकार ग्यिरोङ।"
-      }
-    },
-    {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-07T10:10:46Z",
-      "link": "https://x.com/XHNews/status/2096904000058843554",
+      "t": "2026-09-07T06:08:33Z",
+      "link": "https://x.com/XHNews/status/2096843042137489625",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华视频：外国记者实地了解吉隆口岸救援。",
-        "en": "Xinhua video: foreign journalists briefed on Gyirong rescue.",
-        "ne": "सिन्ह्वा भिडियो: ग्यिरोङ उद्धार।",
-        "hi": "शिन्हुआ वीडियो: ग्यिरोङ बचाव।"
+        "zh": "新华：部分遇难者身份已确认。",
+        "en": "Xinhua: some victim identities confirmed.",
+        "ne": "सिन्ह्वा: केही पहिचान पुष्टि।",
+        "hi": "शिन्हुआ: कुछ पहचान पुष्ट।"
       }
     }
   ]
