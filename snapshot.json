@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-10T17:10:00Z",
+  "snap": "2026-09-10T17:06:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1369, "missing": 5132, "rescued": 13646 }
   },
   "published": [
     {
-      "id": "osint-0910s",
+      "id": "osint-0910t",
       "src": "official",
-      "t": "2026-09-10T17:10:00Z",
+      "t": "2026-09-10T17:06:00Z",
       "link": "https://english.news.cn/20260909/ed88ca02ab5441e58e28e7d011afe708/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10日17:10Z复核：中方仍43/519/2；尼方NDRRMA 9日18:00仍1369/5132/13646",
-        "en": "10 Sep 17:10Z: CN still 43/519/2; NP NDRRMA 9 Sep 18:00 still 1369/5132/13646",
-        "ne": "१० सेप्ट १७:१०Z: CN ४३/५१९/२; NP १३६९/५१३२/१३६४६",
-        "hi": "10 सित 17:10Z: CN 43/519/2; NP 1369/5132/13646"
+        "zh": "10日17:06Z复核：中方仍43/519/2；尼方NDRRMA 9日18:00仍1369/5132/13646",
+        "en": "10 Sep 17:06Z: CN still 43/519/2; NP NDRRMA 9 Sep 18:00 still 1369/5132/13646",
+        "ne": "१० सेप्ट १७:०६Z: CN ४३/५१९/२; NP १३६९/५१३२/१३६४६",
+        "hi": "10 सित 17:06Z: CN 43/519/2; NP 1369/5132/13646"
       },
       "body": {
-        "zh": "新华9日综述仍引指挥部5日18时：43遇难519失联2获救。NDRRMA 9日18:00 NPT：1369遗体、失联5132、获救13646。10日午未见新指挥部数字。勿相加。",
-        "en": "Xinhua 9 Sep wrap still cites HQ 5 Sep 18:00: 43/519/2. NDRRMA 9 Sep 18:00 NPT: 1369 bodies, missing 5132, rescued 13646. No newer HQ tally midday 10 Sep. Do not add.",
-        "ne": "सिन्ह्वा अझै ५ सेप्ट १८:००: ४३/५१९/२। NDRRMA ९ सेप्ट १८:००: १३६९/५१३२/१३६४६। नजोड़्नु।",
-        "hi": "शिन्हुआ अभी 5 सित 18:00: 43/519/2। NDRRMA 9 सित 18:00: 1369/5132/13646। न जोड़ें।"
+        "zh": "新华9日综述仍引指挥部5日18时：43遇难519失联2获救。NDRRMA/IFRC 9日：1369遗体、失联5132、获救13646。10日未见新指挥部数字。勿相加。",
+        "en": "Xinhua 9 Sep wrap still cites HQ 5 Sep 18:00: 43/519/2. NDRRMA/IFRC 9 Sep: 1369 bodies, missing 5132, rescued 13646. No newer HQ tally 10 Sep. Do not add.",
+        "ne": "सिन्ह्वा अझै ५ सेप्ट १८:००: ४३/५१९/२। NDRRMA ९ सेप्ट: १३६९/५१३२/१३६४६। नजोड़्नु।",
+        "hi": "शिन्हुआ अभी 5 सित 18:00: 43/519/2। NDRRMA 9 सित: 1369/5132/13646। न जोड़ें।"
       }
     },
     {
@@ -430,31 +430,31 @@
     {
       "id": "x6",
       "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华较早通报：截至29日18时16遇难546失联（已被后续43/519取代）。",
-        "en": "Earlier Xinhua: 16 dead 546 missing as of 29 Aug 18:00 (superseded by 43/519).",
-        "ne": "पुरानो सिन्ह्वा: १६/५४६ (पछि ४३/५१९)।",
-        "hi": "पुराना शिन्हुआ: 16/546 (बाद में 43/519)।"
+        "zh": "新华：国际媒体记者团探访吉隆口岸灾区。",
+        "en": "Xinhua: international media visited Gyirong Port disaster site.",
+        "ne": "सिन्ह्वा: अन्तर्राष्ट्रिय पत्रकार ग्यिरोङ।",
+        "hi": "शिन्हुआ: अंतरराष्ट्रीय पत्रकार ग्यिरोङ।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-08-30T14:25:09Z",
-      "link": "https://x.com/XHNews/status/2094068911415443557",
-      "lat": 28.3,
-      "lng": 85.368,
+      "t": "2026-09-07T10:10:46Z",
+      "link": "https://x.com/XHNews/status/2096904000058843554",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：激光AI监测设备辅助G216边坡风险研判。",
-        "en": "Xinhua: laser AI monitor helps G216 slope-risk watch.",
-        "ne": "सिन्ह्वा: लेजर AI ले G216 भिर निगरानी।",
-        "hi": "शिन्हुआ: लेजर AI से G216 ढलान निगरानी।"
+        "zh": "新华视频：外国记者实地了解吉隆口岸救援。",
+        "en": "Xinhua video: foreign journalists briefed on Gyirong rescue.",
+        "ne": "सिन्ह्वा भिडियो: ग्यिरोङ उद्धार।",
+        "hi": "शिन्हुआ वीडियो: ग्यिरोङ बचाव।"
       }
     }
   ]
