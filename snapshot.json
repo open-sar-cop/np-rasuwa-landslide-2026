@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-11T20:14:00Z",
+  "snap": "2026-09-11T21:16:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1377, "missing": 5130, "rescued": 13656 }
   },
   "published": [
     {
-      "id": "osint-0911s",
+      "id": "osint-0911u",
       "src": "official",
-      "t": "2026-09-11T20:14:00Z",
-      "link": "https://go.ifrc.org/emergencies/8073/overview",
+      "t": "2026-09-11T21:16:00Z",
+      "link": "http://en.people.cn/n3/2026/0911/c90000-20498567.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "11日20:14Z：中方仍43/519/2；尼方NDRRMA/IFRC仍1377/5130/13656",
-        "en": "11 Sep 20:14Z: CN still 43/519/2; NP NDRRMA/IFRC still 1377/5130/13656",
-        "ne": "११ सेप्ट २०:१४Z: CN अझै ४३/५१९/२; NP अझै १३७७/५१३०/१३६५६",
-        "hi": "11 सित 20:14Z: CN अभी 43/519/2; NP अभी 1377/5130/13656"
+        "zh": "11日21:16Z：中方仍43/519/2；尼方NDRRMA/IFRC仍1377/5130/13656",
+        "en": "11 Sep 21:16Z: CN still 43/519/2; NP NDRRMA/IFRC still 1377/5130/13656",
+        "ne": "११ सेप्ट २१:१६Z: CN अझै ४३/५१९/२; NP अझै १३७७/५१३०/१३६५६",
+        "hi": "11 सित 21:16Z: CN अभी 43/519/2; NP अभी 1377/5130/13656"
       },
       "body": {
-        "zh": "本轮检索：指挥部伤亡仍截至5日18时43遇难519失联2获救。NDRRMA 10日11:00与IFRC GO 10日：1377遗体、5130失联、13656获救。未见新指挥部伤亡。国门仍毁。堰塞湖已泄。美使馆3日仍禁Rasuwagadhi。勿相加。",
-        "en": "This run: CN HQ still as of 5 Sep 18:00 — 43/519/2. NDRRMA 10 Sep 11:00 NPT and IFRC GO 10 Sep: 1377/5130/13656. No newer HQ tally. Gate destroyed. Lake drained. US Embassy 3 Sep still no-go Rasuwagadhi. Do not add.",
-        "ne": "यो रन: HQ अझै ५ सेप्ट १८:०० मा ४३/५१९/२। NDRRMA/IFRC: १३७७/५१३०/१३६५६। द्वार नष्ट। ताल खाली। नजोड़्नु।",
-        "hi": "इस रन: HQ अभी 5 सित 18:00 पर 43/519/2। NDRRMA/IFRC: 1377/5130/13656। द्वार नष्ट। झील खाली। न जोड़ें।"
+        "zh": "本轮检索：人民日报英文11日转新华社，伤亡仍截至5日18时43遇难519失联2获救；444人已返乡。NDRRMA 10日11:00与IFRC GO：1377遗体、5130失联、13656获救。未见新指挥部伤亡。国门仍毁。堰塞湖已泄。美使馆3日仍禁Rasuwagadhi。勿相加。",
+        "en": "This run: People's Daily EN 11 Sep reprints Xinhua — CN HQ still as of 5 Sep 18:00: 43/519/2; 444 returned. NDRRMA 10 Sep 11:00 NPT and IFRC GO: 1377/5130/13656. No newer HQ tally. Gate destroyed. Lake drained. US Embassy 3 Sep still no-go Rasuwagadhi. Do not add.",
+        "ne": "यो रन: HQ अझै ५ सेप्ट १८:०० मा ४३/५१९/२; ४४४ फर्किए। NDRRMA/IFRC: १३७७/५१३०/१३६५६। द्वार नष्ट। ताल खाली। नजोड़्नु।",
+        "hi": "इस रन: HQ अभी 5 सित 18:00 पर 43/519/2; 444 लौटे। NDRRMA/IFRC: 1377/5130/13656। द्वार नष्ट। झील खाली। न जोड़ें।"
       }
     },
     {
@@ -83,8 +83,8 @@
         "hi": "शिन्हुआ: 444 लौटे"
       },
       "body": {
-        "zh": "吉隆镇/萨勒乡444人返乡；堰塞湖风险基本解除后返乡。另55人准备返乡。",
-        "en": "444 returned in Gyirong/Sale after barrier-lake risk largely cleared. 55 more preparing.",
+        "zh": "吉隆镇/萨勒乡444人返乡；堰塞湖风险基本解除后返乡。另55人准备返乡。人民日报11日再转。",
+        "en": "444 returned in Gyirong/Sale after barrier-lake risk largely cleared. 55 more preparing. People's Daily reprinted 11 Sep.",
         "ne": "४४४ फर्किए; बाँधताल जोखिम घट्यो। ५५ थप।",
         "hi": "444 लौटे; बाँध झील जोखिम घटा। 55 और।"
       }
@@ -399,49 +399,21 @@
     },
     {
       "id": "x4",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-09T03:43:07Z",
-      "link": "https://x.com/CCTV_Plus/status/2097531220129353832",
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "place",
-      "text": {
-        "zh": "央视+: 志愿者在吉隆县向受灾居民及滞留尼泊尔公民发放免费餐食。",
-        "en": "CCTV+: Volunteers in Gyirong County handing free meals to residents and stranded Nepalis.",
-        "ne": "CCTV+: ग्यिरोङमा स्वयंसेवकले निःशुल्क खाना।",
-        "hi": "CCTV+: ग्यिरोंग में स्वयंसेवक निःशुल्क भोजन।"
-      }
-    },
-    {
-      "id": "x5",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-08T12:37:51Z",
-      "link": "https://x.com/CCTV_Plus/status/2097303400920887664",
-      "geo": "unknown",
-      "text": {
-        "zh": "央视+：第四批中国紧急物资8日由运-20运抵加德满都。",
-        "en": "CCTV+: Fourth batch of Chinese relief arrived Kathmandu by Y-20 on 8 Sep.",
-        "ne": "CCTV+: चौथो चिनियाँ राहत Y-20 ले काठमाडौं।",
-        "hi": "CCTV+: चौथा चीनी राहत Y-20 से काठमांडू।"
-      }
-    },
-    {
-      "id": "x6",
       "user": "@XHNews",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：吉隆口岸泥石流救援持续推进。",
-        "en": "Xinhua: Gyirong Port mudslide rescue continues.",
-        "ne": "सिन्ह्वा: ग्यिरोङ उद्धार जारी।",
-        "hi": "शिन्हुआ: ग्यिरोंग बचाव जारी।"
+        "zh": "新华：边检民警肖富贵灾后不久无人机航拍吉隆口岸核心区。",
+        "en": "Xinhua: immigration officer Xiao Fugui filmed drone footage near Gyirong Port shortly after the mudslide.",
+        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज।",
+        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज।"
       }
     },
     {
-      "id": "x7",
+      "id": "x5",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -449,10 +421,38 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华：2日10时G216通往口岸核心区陆路基本抢通。",
-        "en": "Xinhua: G216 access to port core basically restored 10:00 2 Sep.",
-        "ne": "सिन्ह्वा: २ सेप्ट १०:०० G216 कोर खुला।",
-        "hi": "शिन्हुआ: 2 सित 10:00 G216 कोर बहाल।"
+        "zh": "新华：G216通往吉隆口岸核心区陆路2日10时基本抢通。",
+        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 Wednesday.",
+        "ne": "सिन्ह्वा: G216 कोर १०:०० बुधबार खुला।",
+        "hi": "शिन्हुआ: G216 कोर बुध 10:00 बहाल।"
+      }
+    },
+    {
+      "id": "x6",
+      "user": "@XHNews",
+      "t": "2026-08-30T04:23:39Z",
+      "link": "https://x.com/XHNews/status/2093917539642519759",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华早期口径（已更新）：29日18时16遇难546失联。现以5日18时43/519为准。",
+        "en": "Xinhua early tally (superseded): 16 dead 546 missing as of 29 Aug 18:00. Use 5 Sep 18:00 43/519.",
+        "ne": "पुरानो अङ्क; अहिले ४३/५१९।",
+        "hi": "पुराना आँकड़ा; अब 43/519।"
+      }
+    },
+    {
+      "id": "x7",
+      "user": "@XHNews",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华：失联外籍人员261人、23国。",
+        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for.",
+        "ne": "सिन्ह्वा: २६१ विदेशी, २३ देश।",
+        "hi": "शिन्हुआ: 261 विदेशी, 23 देश।"
       }
     }
   ]
