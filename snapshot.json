@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-11T23:15:00Z",
+  "snap": "2026-09-12T00:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1385, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0911w",
+      "id": "osint-0912a",
       "src": "official",
-      "t": "2026-09-11T16:00:00Z",
-      "link": "https://newsable.asianetnews.com/world/nepal-floods-death-toll-climbs-to-1385-with-over-5000-missing-articleshow-3v2ilw6",
+      "t": "2026-09-12T00:05:00Z",
+      "link": "https://www.tribuneindia.com/news/world/nepal-flood-death-toll-reaches-1385-as-authorities-continue-search-relief-efforts/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "11日11:00 NPT：NDRRMA 1385死、5130失联、13676获救",
-        "en": "11 Sep 11:00 NPT: NDRRMA 1385 dead, 5130 missing, 13676 rescued",
-        "ne": "११ सेप्ट ११:०० NPT: NDRRMA १३८५ शव, ५१३० बेपत्ता, १३६७६ उद्धार",
-        "hi": "11 सित 11:00 NPT: NDRRMA 1385 शव, 5130 लापता, 13676 बचाए"
+        "zh": "本轮：NDRRMA仍1385死5130失联13676获救",
+        "en": "This run: NDRRMA still 1385 dead, 5130 missing, 13676 rescued",
+        "ne": "यो रन: NDRRMA अझै १३८५/५१३०/१३६७६",
+        "hi": "यह रन: NDRRMA अभी 1385/5130/13676"
       },
       "body": {
-        "zh": "本轮检索：NDRRMA/ANI仍报1385/5130/13676；安置点37。中方指挥部仍截至5日18时43/519/2。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "This run: NDRRMA/ANI still 1385/5130/13676; 37 holding centres. CN HQ still 43/519/2 as of 5 Sep 18:00. Do not add CN+NP. Gate destroyed. Lake drained.",
-        "ne": "NDRRMA अझै १३८५/५१३०/१३६७६। CN ४३/५१९/२। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "NDRRMA अभी 1385/5130/13676। CN 43/519/2। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "11日11:00 NPT ANI/NDRRMA：1385/5130/13676，安置点37。中方指挥部仍截至5日18时43/519/2人救出。勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "11 Sep 11:00 NPT ANI/NDRRMA: 1385/5130/13676; 37 centres. CN HQ still 43/519/2 as of 5 Sep 18:00. Do not add. Gate destroyed. Lake drained.",
+        "ne": "११ सेप्ट ११:००: १३८५/५१३०/१३६७६। CN ४३/५१९/२। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "11 सित 11:00: 1385/5130/13676। CN 43/519/2। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -154,23 +154,23 @@
       }
     },
     {
-      "id": "ifrc0910",
+      "id": "ifrc0911",
       "src": "official",
-      "t": "2026-09-10T00:00:00Z",
+      "t": "2026-09-11T00:00:00Z",
       "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "IFRC GO：1377死5130失联（已被NDRRMA 11日覆盖）",
-        "en": "IFRC GO: 1377 dead 5130 missing (superseded by NDRRMA 11 Sep)",
-        "ne": "IFRC GO: १३७७/५१३०",
-        "hi": "IFRC GO: 1377/5130"
+        "zh": "IFRC GO 11日页：1385死5130失联",
+        "en": "IFRC GO 11 Sep page: 1385 dead 5130 missing",
+        "ne": "IFRC GO: १३८५/५१३०",
+        "hi": "IFRC GO: 1385/5130"
       },
       "body": {
-        "zh": "IFRC GO最后更新仍引1377/5130。KPI用NDRRMA 11日11:00。勿与中方相加。",
-        "en": "IFRC GO last update still cites 1377/5130. KPI uses NDRRMA 11 Sep 11:00. Do not add CN.",
-        "ne": "IFRC अझै १३७७। KPI NDRRMA ११ सेप्ट। नजोड़्नु।",
-        "hi": "IFRC अभी 1377। KPI NDRRMA 11 सित। न जोड़ें।"
+        "zh": "IFRC GO与NDRRMA 11日11:00一致。勿与中方相加。",
+        "en": "IFRC GO aligns with NDRRMA 11 Sep 11:00. Do not add CN.",
+        "ne": "IFRC NDRRMA सँग मिल्यो। नजोड़्नु।",
+        "hi": "IFRC NDRRMA से मेल। न जोड़ें।"
       }
     },
     {
@@ -405,6 +405,36 @@
         "en": "Xinhua video: foreign media briefed on Gyirong rescue.",
         "ne": "सिन्ह्वा भिडियो: ग्यिरोङ उद्धार।",
         "hi": "शिन्हुआ वीडियो: ग्यिरोंग बचाव।"
+      }
+    },
+    {
+      "id": "x6",
+      "user": "@XHNews",
+      "t": "2026-09-06T14:41:30Z",
+      "link": "https://x.com/XHNews/status/2096609742487691562",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华：截至5日18时43遇难519失联，261名外籍失联。",
+        "en": "Xinhua: as of 5 Sep 18:00, 43 dead 519 missing; 261 foreign missing.",
+        "ne": "सिन्ह्वा: ५ सेप्ट १८:०० मा ४३/५१९; २६१ विदेशी।",
+        "hi": "शिन्हुआ: 5 सित 18:00 पर 43/519; 261 विदेशी।"
+      }
+    },
+    {
+      "id": "x7",
+      "user": "@XHNews",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "place",
+      "text": {
+        "zh": "新华：2日10时G216通往核心区基本抢通。",
+        "en": "Xinhua: G216 access to core basically restored 10:00 2 Sep.",
+        "ne": "सिन्ह्वा: २ सेप्ट १०:०० G216 कोर खुला।",
+        "hi": "शिन्हुआ: 2 सित 10:00 G216 कोर खुला।"
       }
     }
   ]
