@@ -1,48 +1,50 @@
 {
-  "snap": "2026-09-11T22:12:00Z",
+  "snap": "2026-09-11T23:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1385, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0911v",
+      "id": "osint-0911w",
       "src": "official",
-      "t": "2026-09-11T05:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098300291389210690",
+      "t": "2026-09-11T16:00:00Z",
+      "link": "https://newsable.asianetnews.com/world/nepal-floods-death-toll-climbs-to-1385-with-over-5000-missing-articleshow-3v2ilw6",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "11日11:00 NPT：NDRRMA遗体1385、失联5130、获救13676",
+        "zh": "11日11:00 NPT：NDRRMA 1385死、5130失联、13676获救",
         "en": "11 Sep 11:00 NPT: NDRRMA 1385 dead, 5130 missing, 13676 rescued",
         "ne": "११ सेप्ट ११:०० NPT: NDRRMA १३८५ शव, ५१३० बेपत्ता, १३६७६ उद्धार",
         "hi": "11 सित 11:00 NPT: NDRRMA 1385 शव, 5130 लापता, 13676 बचाए"
       },
       "body": {
-        "zh": "官方图示：总死亡1385（含残肢），失联5130（已核减已辨遗体104），获救13676；军航1407架次、武警航299；37安置点。中方指挥部仍截至5日18时43/519/2。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "Official graphic: 1385 deaths (incl. remains), 5130 missing after 104 identified bodies deducted, 13676 rescued; Army 1407 heli flights, APF 299; 37 holding centres. CN HQ still 43/519/2 as of 5 Sep 18:00. Do not add CN+NP. Gate destroyed. Lake drained.",
-        "ne": "आधिकारिक: १३८५/५१३०/१३६७६; सेना हेलि १४०७। CN अझै ४३/५१९/२। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "आधिकारिक: 1385/5130/13676; सेना हेली 1407। CN अभी 43/519/2। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "本轮检索：NDRRMA/ANI仍报1385/5130/13676；安置点37。中方指挥部仍截至5日18时43/519/2。勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "This run: NDRRMA/ANI still 1385/5130/13676; 37 holding centres. CN HQ still 43/519/2 as of 5 Sep 18:00. Do not add CN+NP. Gate destroyed. Lake drained.",
+        "ne": "NDRRMA अझै १३८५/५१३०/१३६७६। CN ४३/५१९/२। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "NDRRMA अभी 1385/5130/13676। CN 43/519/2। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
-      "id": "np1377",
+      "id": "pd0911",
       "src": "official",
-      "t": "2026-09-10T05:15:00Z",
-      "link": "https://english.ratopati.com/story/78638/rasuwa-flood-death-toll-reaches-1377-5130-still-missing",
+      "t": "2026-09-11T02:30:00Z",
+      "link": "http://en.people.cn/n3/2026/0911/c90000-20498567.html",
       "img": null,
-      "geo": "unknown",
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "place",
       "title": {
-        "zh": "NDRRMA 10日11:00：1377遗体（已被11日1385覆盖）",
-        "en": "NDRRMA 10 Sep 11:00 NPT: 1377 bodies (superseded by 11 Sep 1385)",
-        "ne": "NDRRMA १० सेप्ट: १३७७ (११ सेप्ट १३८५ ले प्रतिस्थापन)",
-        "hi": "NDRRMA 10 सित: 1377 (11 सित 1385 से प्रतिस्थापित)"
+        "zh": "新华/人民日报：444人已返乡",
+        "en": "Xinhua/PD: 444 evacuees returned",
+        "ne": "सिन्ह्वा: ४४४ फर्किए",
+        "hi": "शिन्हुआ: 444 लौटे"
       },
       "body": {
-        "zh": "10日口径1377/5130/13656；11日图示升至1385/5130/13676。序列保留。勿与中方相加。",
-        "en": "10 Sep ledger 1377/5130/13656; 11 Sep graphic 1385/5130/13676. Kept for sequence. Do not add CN.",
-        "ne": "१० सेप्ट १३७७; ११ सेप्ट १३८५। नजोड़्नु।",
-        "hi": "10 सित 1377; 11 सित 1385। न जोड़ें।"
+        "zh": "吉隆镇及萨勒乡444人返乡；堰塞湖风险基本解除。另55人准备返乡。伤亡仍引5日18时43/519。",
+        "en": "444 returned in Gyirong/Sale after lake risk largely cleared. 55 more preparing. Casualties still 43/519 as of 5 Sep 18:00.",
+        "ne": "४४४ फर्किए; ताल जोखिम घट्यो। ५५ थप। अङ्क ५ सेप्ट।",
+        "hi": "444 लौटे; झील जोखिम घटा। 55 और। आँकड़े 5 सित।"
       }
     },
     {
@@ -68,31 +70,9 @@
       }
     },
     {
-      "id": "ret444",
-      "src": "official",
-      "t": "2026-09-08T15:48:45Z",
-      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
-      "img": null,
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "place",
-      "title": {
-        "zh": "新华社：444人已返乡",
-        "en": "Xinhua: 444 evacuees returned",
-        "ne": "सिन्ह्वा: ४४४ फर्किए",
-        "hi": "शिन्हुआ: 444 लौटे"
-      },
-      "body": {
-        "zh": "吉隆镇/萨勒乡444人返乡；堰塞湖风险基本解除后返乡。另55人准备返乡。",
-        "en": "444 returned in Gyirong/Sale after barrier-lake risk largely cleared. 55 more preparing.",
-        "ne": "४४४ फर्किए; बाँधताल जोखिम घट्यो। ५५ थप।",
-        "hi": "444 लौटे; बाँध झील जोखिम घटा। 55 और।"
-      }
-    },
-    {
       "id": "lake",
       "src": "official",
-      "t": "2026-09-05T13:49:30Z",
+      "t": "2026-09-05T13:36:00Z",
       "link": "https://english.news.cn/20260905/9514cc986816469cabbe0a858d04197e/c.html",
       "img": null,
       "lat": 28.293,
@@ -115,7 +95,7 @@
       "id": "g216",
       "src": "official",
       "t": "2026-09-02T02:00:00Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "link": "https://en.people.cn/n3/2026/0903/c90000-20495449.html",
       "img": null,
       "lat": 28.3,
       "lng": 85.368,
@@ -127,17 +107,17 @@
         "hi": "G216 कोर बहाल"
       },
       "body": {
-        "zh": "2日10时陆路基本抢通。国门仍毁不通关。",
-        "en": "Land access 2 Sep 10:00. Gate destroyed; no customs.",
-        "ne": "२ सेप्ट १०:०० खुला। द्वार नष्ट।",
-        "hi": "2 सित 10:00 खुला। द्वार नष्ट।"
+        "zh": "2日上午陆路基本抢通。国门仍毁不通关。",
+        "en": "Land access restored 2 Sep morning. Gate destroyed; no customs.",
+        "ne": "२ सेप्ट बिहान खुला। द्वार नष्ट।",
+        "hi": "2 सित सुबह खुला। द्वार नष्ट।"
       }
     },
     {
       "id": "usemb",
       "src": "official",
-      "t": "2026-08-31T04:21:00Z",
-      "link": "https://np.usembassy.gov/travel-advisory-nepal-august-2026/",
+      "t": "2026-09-03T11:45:00Z",
+      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-flood-and-landslide-risk-and-road-disruptions/",
       "img": null,
       "geo": "unknown",
       "title": {
@@ -147,10 +127,10 @@
         "hi": "अमेरिकी दूतावास: रसुवागढ़ी न जाएँ"
       },
       "body": {
-        "zh": "8月31日旅行警示仍禁止Rasuwagadhi–Timure–Syafrubesi及中尼口岸。本轮未见更新告示。",
-        "en": "31 Aug advisory: do not travel Rasuwagadhi–Timure–Syafrubesi or the Nepal-China crossing. No newer notice this run.",
-        "ne": "रसुवागढी–तिमुरे–स्याफ्रुबेसी नजानु।",
-        "hi": "रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी न जाएँ।"
+        "zh": "9月3日灾害告示：Khalte路段仍断，Syafrubesi/Timure/Rasuwagadhi无可靠通路。8月31日旅行警示仍禁口岸。",
+        "en": "3 Sep alert: Rasuwa main road closed at Khalte; no reliable access to Syafrubesi/Timure/Rasuwagadhi. 31 Aug advisory still Level-4 do-not-travel at the crossing.",
+        "ne": "खाल्टे बन्द; रसुवागढी–तिमुरे नजानु।",
+        "hi": "खाल्टे बंद; रसुवागढ़ी–तिमुरे न जाएँ।"
       }
     },
     {
@@ -167,7 +147,7 @@
         "hi": "UNOSAT 26–27 अगस्त कीचड़ प्रवाह"
       },
       "body": {
-        "zh": "ReliefWeb发布UNOSAT Sentinel-2/PlanetScope：约230平方公里分析区内约20平方公里受泥石流影响。Copernicus EMSR927仍为主要卫星产品。",
+        "zh": "ReliefWeb发布UNOSAT Sentinel-2/PlanetScope：约230平方公里分析区内约20平方公里受影响。Copernicus EMSR927仍为主要卫星产品。",
         "en": "UNOSAT Sentinel-2/PlanetScope: ~20 km² affected in ~230 km² analysed. Copernicus EMSR927 remains a primary satellite product.",
         "ne": "UNOSAT: विश्लेषण क्षेत्रमा करिब २० वर्ग किमि प्रभावित। EMSR927।",
         "hi": "UNOSAT: विश्लेषित क्षेत्र में लगभग 20 वर्ग किमी प्रभावित। EMSR927।"
@@ -181,16 +161,16 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "IFRC GO 10日：1377死5130失联（已被NDRRMA 11日覆盖）",
-        "en": "IFRC GO 10 Sep: 1377 dead 5130 missing (superseded by NDRRMA 11 Sep)",
-        "ne": "IFRC GO १० सेप्ट: १३७७/५१३०",
-        "hi": "IFRC GO 10 सित: 1377/5130"
+        "zh": "IFRC GO：1377死5130失联（已被NDRRMA 11日覆盖）",
+        "en": "IFRC GO: 1377 dead 5130 missing (superseded by NDRRMA 11 Sep)",
+        "ne": "IFRC GO: १३७७/५१३०",
+        "hi": "IFRC GO: 1377/5130"
       },
       "body": {
-        "zh": "IFRC GO最后更新仍引1377/5130。KPI改用NDRRMA 11日11:00图示。勿与中方相加。",
-        "en": "IFRC GO last update still cites 1377/5130. KPI now uses NDRRMA 11 Sep 11:00 graphic. Do not add CN.",
-        "ne": "IFRC अझै १३७७। KPI अब NDRRMA ११ सेप्ट। नजोड़्नु।",
-        "hi": "IFRC अभी 1377। KPI अब NDRRMA 11 सित। न जोड़ें।"
+        "zh": "IFRC GO最后更新仍引1377/5130。KPI用NDRRMA 11日11:00。勿与中方相加。",
+        "en": "IFRC GO last update still cites 1377/5130. KPI uses NDRRMA 11 Sep 11:00. Do not add CN.",
+        "ne": "IFRC अझै १३७७। KPI NDRRMA ११ सेप्ट। नजोड़्नु।",
+        "hi": "IFRC अभी 1377। KPI NDRRMA 11 सित। न जोड़ें।"
       }
     },
     {
@@ -207,8 +187,8 @@
         "hi": "नेपाली सेना हेली: 1407 उड़ान"
       },
       "body": {
-        "zh": "NDRRMA 11日图示：陆军直升机1407架次，武警299架次。安置点37处，努瓦科特2615、拉苏瓦775、达定295人。",
-        "en": "NDRRMA 11 Sep graphic: Army 1407 heli flights, APF 299. 37 holding centres: Nuwakot 2615, Rasuwa 775, Dhading 295.",
+        "zh": "NDRRMA 11日图示：陆军直升机1407架次，武警299架次。安置点37处。",
+        "en": "NDRRMA 11 Sep graphic: Army 1407 heli flights, APF 299. 37 holding centres.",
         "ne": "सेना १४०७, सशस्त्र २९९। होल्डिङ ३७।",
         "hi": "सेना 1407, सशस्त्र 299। होल्डिंग 37।"
       }
@@ -245,8 +225,8 @@
         "hi": "G216 राजमार्ग"
       },
       "detail": {
-        "zh": "2日10时核心段抢通；边坡持续监测",
-        "en": "Core open 2 Sep 10:00; slopes still monitored",
+        "zh": "2日上午核心段抢通；边坡持续监测",
+        "en": "Core open 2 Sep morning; slopes still monitored",
         "ne": "कोर खुला; भिर निगरानी",
         "hi": "कोर खुला; ढलान निगरानी"
       }
@@ -263,10 +243,10 @@
         "hi": "रसुवागढ़ी–तिमुरे"
       },
       "detail": {
-        "zh": "美使馆8月31日仍请勿前往",
-        "en": "US Embassy 31 Aug: still do not travel",
-        "ne": "यात्रा निषेध",
-        "hi": "यात्रा निषेध"
+        "zh": "美使馆9月3日：Khalte仍断，请勿前往口岸",
+        "en": "US Embassy 3 Sep: Khalte still closed; do not travel to crossing",
+        "ne": "खाल्टे बन्द; यात्रा निषेध",
+        "hi": "खाल्टे बंद; यात्रा निषेध"
       }
     }
   ],
@@ -356,21 +336,6 @@
     },
     {
       "id": "x1",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-10T09:15:50Z",
-      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "place",
-      "text": {
-        "zh": "央视+: 部分尼泊尔工人仍留在吉隆镇作业，盼灾区尽快恢复。",
-        "en": "CCTV+: Some Nepali workers remain in Gyirong Town and hope the area recovers soon.",
-        "ne": "CCTV+: केही नेपाली कामदार ग्यिरोङमा; छिटो पुनःस्थापना आशा।",
-        "hi": "CCTV+: कुछ नेपाली श्रमिक ग्यिरोंग में; शीघ्र बहाली की आशा।"
-      }
-    },
-    {
-      "id": "x2",
       "user": "@XHNews",
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
@@ -383,7 +348,7 @@
       }
     },
     {
-      "id": "x3",
+      "id": "x2",
       "user": "@XHNews",
       "t": "2026-09-09T09:10:51Z",
       "link": "https://x.com/XHNews/status/2097613696990413066",
@@ -398,20 +363,7 @@
       }
     },
     {
-      "id": "x4",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-09T03:43:07Z",
-      "link": "https://x.com/CCTV_Plus/status/2097531220129353832",
-      "geo": "unknown",
-      "text": {
-        "zh": "央视+：民间志愿者在吉隆县向受灾居民和滞留尼泊尔公民发放免费餐食。",
-        "en": "CCTV+: Volunteers in Gyirong County handing free meals to residents and stranded Nepalis.",
-        "ne": "CCTV+: ग्यिरोङमा स्वयंसेवकले निःशुल्क खाना।",
-        "hi": "CCTV+: ग्यिरोंग में स्वयंसेवक निःशुल्क भोजन।"
-      }
-    },
-    {
-      "id": "x5",
+      "id": "x3",
       "user": "@XHNews",
       "t": "2026-09-08T04:59:52Z",
       "link": "https://x.com/XHNews/status/2097188145544798711",
@@ -419,36 +371,40 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：链式泥石流8月26日冲击吉隆口岸；中方全力搜救。",
-        "en": "Xinhua: chain mudslide hit Gyirong Port on 26 Aug; all-out Chinese SAR.",
-        "ne": "सिन्ह्वा: २६ अगस्ट ग्यिरोङ; पूर्ण SAR।",
-        "hi": "शिन्हुआ: 26 अगस्त ग्यिरोंग; पूर्ण SAR।"
+        "zh": "新华：冰岩崩链生泥石流冲击吉隆口岸，搜救持续。",
+        "en": "Xinhua: ice-rock avalanche chain mudslide hit Gyirong Port; SAR continues.",
+        "ne": "सिन्ह्वा: बरफ–चट्टान पहिरो; SAR जारी।",
+        "hi": "शिन्हुआ: बर्फ-चट्टान मलबा प्रवाह; SAR जारी।"
       }
     },
     {
-      "id": "x6",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-10T06:23:50Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2097934050749194370",
-      "geo": "unknown",
+      "id": "x4",
+      "user": "@XHNews",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
       "text": {
-        "zh": "NDRRMA 10日11:00通报图（次日升至1385）。",
-        "en": "NDRRMA 10 Sep 11:00 update graphic (next day rose to 1385).",
-        "ne": "NDRRMA १० सेप्ट ११:०० ग्राफिक।",
-        "hi": "NDRRMA 10 सित 11:00 ग्राफिक।"
+        "zh": "新华：外媒记者团访吉隆口岸灾区。",
+        "en": "Xinhua: foreign press visited Gyirong Port disaster site.",
+        "ne": "सिन्ह्वा: विदेशी पत्रकार ग्यिरोङ पुगे।",
+        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोंग गए।"
       }
     },
     {
-      "id": "x7",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-09T18:08:49Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2097749080130945040",
-      "geo": "unknown",
+      "id": "x5",
+      "user": "@XHNews",
+      "t": "2026-09-07T10:10:46Z",
+      "link": "https://x.com/XHNews/status/2096904000058843554",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
       "text": {
-        "zh": "NDRRMA SitRep #9（9日19:00）。",
-        "en": "NDRRMA SitRep #9 (9 Sep 19:00).",
-        "ne": "NDRRMA SitRep #९ (९ सेप्ट १९:००)।",
-        "hi": "NDRRMA SitRep #9 (9 सित 19:00)।"
+        "zh": "新华视频：外媒实地了解吉隆口岸救援。",
+        "en": "Xinhua video: foreign media briefed on Gyirong rescue.",
+        "ne": "सिन्ह्वा भिडियो: ग्यिरोङ उद्धार।",
+        "hi": "शिन्हुआ वीडियो: ग्यिरोंग बचाव।"
       }
     }
   ]
