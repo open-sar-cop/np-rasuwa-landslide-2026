@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-12T04:15:00Z",
+  "snap": "2026-09-12T05:22:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1385, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0912e",
+      "id": "osint-0912f",
       "src": "official",
-      "t": "2026-09-12T04:15:00Z",
+      "t": "2026-09-12T05:22:00Z",
       "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
@@ -49,7 +49,7 @@
       "id": "pd0911",
       "src": "official",
       "t": "2026-09-08T00:00:00Z",
-      "link": "https://gna.org.gh/2026/09/evacuated-residents-returning-home-after-mudslide-hits-border-port-in-chinas-xizang/",
+      "link": "http://en.people.cn/n3/2026/0911/c90000-20498567.html",
       "img": null,
       "lat": 28.39,
       "lng": 85.325,
@@ -71,7 +71,7 @@
       "id": "cn43",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://news.ifeng.com/c/8wCiMe25Aep",
+      "link": "https://en.people.cn/n3/2026/0911/c90000-20498567.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -422,15 +422,17 @@
     },
     {
       "id": "x7",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-09T18:08:49Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2097749080130945040",
-      "geo": "unknown",
+      "user": "@XHNews",
+      "t": "2026-09-07T06:08:33Z",
+      "link": "https://x.com/XHNews/status/2096843042137489625",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
       "text": {
-        "zh": "NDRRMA SitRep #9：9日19:00情况报告。",
-        "en": "NDRRMA SitRep #9 dated 9 Sep 19:00.",
-        "ne": "NDRRMA SitRep #9: 9 सेप्ट 19:00।",
-        "hi": "NDRRMA SitRep #9: 9 सित 19:00।"
+        "zh": "新华：指挥部称部分遇难者身份已确认。",
+        "en": "Xinhua: command center said some victim identities confirmed.",
+        "ne": "सिन्ह्वा: केही मृतकको पहिचान पुष्टि।",
+        "hi": "शिन्हुआ: कुछ मृतकों की पहचान पुष्टि।"
       }
     }
   ]
