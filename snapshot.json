@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-12T02:20:00Z",
+  "snap": "2026-09-12T03:29:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1385, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0912c",
+      "id": "osint-0912d",
       "src": "official",
-      "t": "2026-09-12T02:20:00Z",
+      "t": "2026-09-12T03:29:00Z",
       "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
@@ -49,7 +49,7 @@
       "id": "pd0911",
       "src": "official",
       "t": "2026-09-08T00:00:00Z",
-      "link": "https://www.chinadaily.com.cn/china/special_coverage/6a8ee47fe4b06d4aa055a9a5",
+      "link": "http://en.people.cn/n3/2026/0911/c90000-20498567.html",
       "img": null,
       "lat": 28.39,
       "lng": 85.325,
@@ -71,7 +71,7 @@
       "id": "cn43",
       "src": "official",
       "t": "2026-09-06T10:00:00Z",
-      "link": "https://news.cgtn.com/news/2026-09-06/news-1QdEQOcze9O/p.html",
+      "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9df0f4e4b06d4aa055c9df.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -380,16 +380,16 @@
     {
       "id": "x4",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：边检民警无人机拍下吉隆口岸灾后影像。",
-        "en": "Xinhua: immigration officer drone footage near Gyirong Port after the mudslide.",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज।",
-        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज।"
+        "zh": "新华：吉隆口岸泥石流进展汇总。",
+        "en": "Xinhua: latest progress briefing on Gyirong Port mudslide rescue.",
+        "ne": "सिन्ह्वा: ग्यिरोङ उद्धार प्रगति।",
+        "hi": "शिन्हुआ: ग्यिरोंग उद्धार प्रगति।"
       }
     },
     {
@@ -420,17 +420,15 @@
     },
     {
       "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "place",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-09T18:08:49Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2097749080130945040",
+      "geo": "unknown",
       "text": {
-        "zh": "新华：G216抢通极难，两小时推进不足5米。",
-        "en": "Xinhua: G216 reopen hard; less than 5 meters in two hours.",
-        "ne": "सिन्ह्वा: G216 खोल्न कठिन; दुई घण्टामा ५ मिटरभन्दा कम।",
-        "hi": "शिन्हुआ: G216 खोलना कठिन; दो घंटे में 5 मीटर से कम।"
+        "zh": "NDRRMA SitRep #9：9日19:00情况报告。",
+        "en": "NDRRMA SitRep #9 dated 9 Sep 19:00.",
+        "ne": "NDRRMA SitRep ९: ९ सेप्ट 19:00।",
+        "hi": "NDRRMA SitRep 9: 9 सित 19:00।"
       }
     }
   ]
