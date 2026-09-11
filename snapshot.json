@@ -1,48 +1,28 @@
 {
-  "snap": "2026-09-12T11:05:00Z",
+  "snap": "2026-09-12T13:14:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1386, "missing": 5130, "rescued": 13676 }
+    "np": { "dead": 1385, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0912g",
+      "id": "osint-0912h",
       "src": "official",
-      "t": "2026-09-12T11:05:00Z",
-      "link": "https://myrepublica.nagariknetwork.com/news/rasuwa-floods-1386-bodies-recovered-5130-people-still-missing-29-46.html",
+      "t": "2026-09-12T13:14:00Z",
+      "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "本轮复核：CN 43/519/2；NP 1386/5130/13676",
-        "en": "This run: CN 43/519/2; NP 1386/5130/13676",
-        "ne": "यो रन: CN ४३/५१९/२; NP १३८६/५१३०/१३६७६",
-        "hi": "यह रन: CN 43/519/2; NP 1386/5130/13676"
+        "zh": "本轮复核：CN 43/519/2；NP 1385/5130/13676",
+        "en": "This run: CN 43/519/2; NP 1385/5130/13676",
+        "ne": "यो रन: CN ४३/५१९/२; NP १३८५/५१३०/१३६७६",
+        "hi": "यह रन: CN 43/519/2; NP 1385/5130/13676"
       },
       "body": {
-        "zh": "中方指挥部仍截至5日18时：43遇难519失联2救出。NDRRMA发言人11日17:00 NPT：1386具遗体5130失联。获救仍引IFRC/NDRRMA 13676。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA spokesperson 11 Sep 17:00 NPT: 1386 recovered, 5130 missing. Rescued still 13676 from 11:00 bulletin. Do not add. Gate destroyed. Lake drained.",
-        "ne": "CN ४३/५१९/२。 NDRRMA 11 सेप्ट 17:00: 1386/5130。 उद्धार 13676。 नजोड़्नु。 द्वार नष्ट。 ताल खाली。",
-        "hi": "CN 43/519/2। NDRRMA 11 सित 17:00: 1386/5130। बचाए 13676। न जोड़ें। द्वार नष्ट। झील खाली।"
-      }
-    },
-    {
-      "id": "np1386",
-      "src": "official",
-      "t": "2026-09-11T11:15:00Z",
-      "link": "https://myrepublica.nagariknetwork.com/news/rasuwa-floods-1386-bodies-recovered-5130-people-still-missing-29-46.html",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 11日17:00：1386具遗体",
-        "en": "NDRRMA 11 Sep 17:00: 1386 bodies",
-        "ne": "NDRRMA 17:00: 1386 शव",
-        "hi": "NDRRMA 17:00: 1386 शव"
-      },
-      "body": {
-        "zh": "发言人Shanti Mahat：截至11日17:00 NPT已发现1386具（含残枝）；5130人仍失联。勿与中方相加。",
-        "en": "Spokesperson Shanti Mahat: 1386 recovered including remains as of 17:00 NPT 11 Sep; 5130 still missing. Do not add CN.",
-        "ne": "शान्ति महत: 1386 शव, 5130 बेपत्ता। नजोड़्नु।",
-        "hi": "शांति महत: 1386 शव, 5130 लापता। न जोड़ें।"
+        "zh": "中方指挥部仍截至5日18时：43遇难519失联2救出。IFRC GO/NDRRMA 11日页：1385死5130失联13676获救。勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). IFRC GO/NDRRMA 11 Sep: 1385 dead, 5130 missing, 13676 rescued. Do not add. Gate destroyed. Lake drained.",
+        "ne": "CN ४३/५१९/२。 IFRC/NDRRMA 11 सेप्ट: 1385/5130/13676。 नजोड़्नु。 द्वार नष्ट。 ताल खाली。",
+        "hi": "CN 43/519/2। IFRC/NDRRMA 11 सित: 1385/5130/13676। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -53,16 +33,36 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "IFRC GO 11日页：1385死5130失联",
-        "en": "IFRC GO 11 Sep page: 1385 dead 5130 missing",
+        "zh": "IFRC GO 11日：1385死5130失联",
+        "en": "IFRC GO 11 Sep: 1385 dead 5130 missing",
         "ne": "IFRC GO: 1385/5130",
         "hi": "IFRC GO: 1385/5130"
       },
       "body": {
-        "zh": "IFRC GO与NDRRMA 11日11:00一致；同日晚间调至1386。勿与中方相加。",
-        "en": "IFRC GO aligned with NDRRMA 11:00 (1385); evening tally 1386. Do not add CN.",
-        "ne": "IFRC 11:00=1385; साँझ=1386। नजोड़्नु।",
-        "hi": "IFRC 11:00=1385; शाम=1386। न जोड़ें।"
+        "zh": "IFRC GO与NDRRMA 11日11:00一致：1385/5130/13676。勿与中方相加。",
+        "en": "IFRC GO aligned with NDRRMA 11:00: 1385/5130/13676. Do not add CN.",
+        "ne": "IFRC=NDRRMA 11:00。 नजोड़्नु。",
+        "hi": "IFRC=NDRRMA 11:00। न जोड़ें।"
+      }
+    },
+    {
+      "id": "np1385",
+      "src": "official",
+      "t": "2026-09-11T05:15:00Z",
+      "link": "https://newsable.asianetnews.com/world/nepal-floods-death-toll-climbs-to-1385-with-over-5000-missing-articleshow-3v2ilw6",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 11日11:00：1385具遗体",
+        "en": "NDRRMA 11 Sep 11:00: 1385 bodies",
+        "ne": "NDRRMA 11:00: 1385 शव",
+        "hi": "NDRRMA 11:00: 1385 शव"
+      },
+      "body": {
+        "zh": "周五十一时公报：全国1385死、Rasuwa185、失联5130、获救13676。勿与中方相加。",
+        "en": "Friday 11:00: 1385 dead nationwide, 185 in Rasuwa; 5130 missing; 13676 rescued. Do not add CN.",
+        "ne": "शुक्रवार 11:00: 1385/185/5130/13676。 नजोड़्नु。",
+        "hi": "शुक्रवार 11:00: 1385/185/5130/13676। न जोड़ें।"
       }
     },
     {
@@ -112,8 +112,8 @@
     {
       "id": "lake",
       "src": "official",
-      "t": "2026-09-05T13:49:00Z",
-      "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
+      "t": "2026-09-05T13:36:00Z",
+      "link": "https://english.news.cn/20260905/9514cc986816469cabbe0a858d04197e/c.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -188,29 +188,29 @@
       },
       "body": {
         "zh": "UNOSAT Sentinel-2/PlanetScope：约230平方公里分析区内约20平方公里受影响。Copernicus EMSR927为主要卫星产品。",
-        "en": "UNOSAT Sentinel-2/PlanetScope: ~20 km² affected in ~230 km² analysed. Copernicus EMSR927 remains a primary satellite product.",
-        "ne": "UNOSAT: विश्लेषण क्षेत्रमा करिब 20 वर्ग किमि प्रभावित। EMSR927।",
-        "hi": "UNOSAT: विश्लेषित क्षेत्र में लगभग 20 वर्ग किमी प्रभावित। EMSR927।"
+        "en": "UNOSAT: ~20 km² affected in ~230 km² analysed. Copernicus EMSR927 remains a primary satellite product.",
+        "ne": "UNOSAT: करिब 20 वर्ग किमि प्रभावित। EMSR927।",
+        "hi": "UNOSAT: लगभग 20 वर्ग किमी प्रभावित। EMSR927।"
       }
     },
     {
-      "id": "heli1407",
+      "id": "mapaction",
       "src": "official",
-      "t": "2026-09-11T05:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098300291389210690",
+      "t": "2026-09-06T00:00:00Z",
+      "link": "https://reliefweb.int/map/nepal/nepal-rasuwa-floods-26th-august-2026-reference-map-series-affected-area-06092026",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "尼军直升机累计1407架次",
-        "en": "Nepal Army helicopters: 1407 sorties",
-        "ne": "नेपाली सेना हेलि: 1407 उडान",
-        "hi": "नेपाली सेना हेली: 1407 उड़ान"
+        "zh": "ReliefWeb：MapAction参考图 6日",
+        "en": "ReliefWeb: MapAction reference maps 6 Sep",
+        "ne": "ReliefWeb: MapAction नक्सा नक्सा",
+        "hi": "ReliefWeb: MapAction सन्दर्भ नक्शा"
       },
       "body": {
-        "zh": "NDRRMA 11日图示：陆军直升机1407架次。安置点37处。",
-        "en": "NDRRMA 11 Sep graphic: Army 1407 heli flights. 37 holding centres.",
-        "ne": "सेना 1407। होल्डिङ 37।",
-        "hi": "सेना 1407। होल्डिंग 37।"
+        "zh": "6日发布受灾区参考图集与损毁设施点位（评估至4日）。",
+        "en": "6 Sep reference map series of affected area and damaged facilities assessed to 4 Sep.",
+        "ne": "6 सेप्ट नक्सा तथा क्षति सौविधा।",
+        "hi": "6 सित सन्दर्भ नक्शा और क्षति सौविधाएँ।"
       }
     }
   ],
@@ -343,19 +343,6 @@
   "xPosts": [
     {
       "id": "x0",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-11T06:39:08Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098300291389210690",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA 11日11:00图示：死亡1385、失联5130、获救13676。",
-        "en": "NDRRMA 11 Sep 11:00 graphic: 1385 dead, 5130 missing, 13676 rescued.",
-        "ne": "NDRRMA 11 सेप्ट 11:00: 1385/5130/13676।",
-        "hi": "NDRRMA 11 सित 11:00: 1385/5130/13676।"
-      }
-    },
-    {
-      "id": "x1",
       "user": "@XHNews",
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
@@ -365,6 +352,21 @@
         "en": "Xinhua: China National Climate Center rolling forecasts for Nepal after Gyirong-Rasuwa mudslide.",
         "ne": "सिन्ह्वा: जलवायु केन्द्रले नेपाललाई पूर्वानुमान दिए।",
         "hi": "शिन्हुआ: जलवायु केंद्र ने नेपाल को पूर्वानुमान दिए।"
+      }
+    },
+    {
+      "id": "x1",
+      "user": "@XHNews",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华：吉隆口岸泥石流进展汇总。",
+        "en": "Xinhua: latest progress briefing on Gyirong Port mudslide rescue.",
+        "ne": "सिन्ह्वा: ग्यिरोङ उद्धार प्रगति।",
+        "hi": "शिन्हुआ: ग्यिरोंग उद्धार प्रगति।"
       }
     },
     {
@@ -385,6 +387,36 @@
     {
       "id": "x3",
       "user": "@XHNews",
+      "t": "2026-09-06T14:41:30Z",
+      "link": "https://x.com/XHNews/status/2096609742487691562",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华：截至5日18时43人遇难、519人失联；失联外籍261人/233国。",
+        "en": "Xinhua: as of 5 Sep 18:00, 43 dead, 519 missing; 261 missing foreigners from 23 countries.",
+        "ne": "सिन्ह्वा: 5 सेप्ट 18:00—43/॥१९; विदेशी २६१ जन।",
+        "hi": "शिन्हुआ: 5 सित 18:00—43/519; विदेशी 261 जन।"
+      }
+    },
+    {
+      "id": "x4",
+      "user": "@XHNews",
+      "t": "2026-09-06T13:11:53Z",
+      "link": "https://x.com/XHNews/status/2096587189023076796",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华：已投入超2500名救援人员。",
+        "en": "Xinhua: more than 2,500 rescue personnel deployed at Gyirong Port.",
+        "ne": "सिन्ह्वा: 2500 भन्दा उद्धारकर्ता मोताइए।",
+        "hi": "शिन्हुआ: 2500 से अधिक उद्धारकर्ता तैनात।"
+      }
+    },
+    {
+      "id": "x5",
+      "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
       "lat": 28.2797,
@@ -398,61 +430,31 @@
       }
     },
     {
-      "id": "x4",
-      "user": "@XHNews",
-      "t": "2026-09-09T09:10:51Z",
-      "link": "https://x.com/XHNews/status/2097613696990413066",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：吉隆口岸泥石流进展汇总。",
-        "en": "Xinhua: latest progress briefing on Gyirong Port mudslide rescue.",
-        "ne": "सिन्ह्वा: ग्यिरोङ उद्धार प्रगति।",
-        "hi": "शिन्हुआ: ग्यिरोंग उद्धार प्रगति।"
-      }
-    },
-    {
-      "id": "x5",
+      "id": "x6",
       "user": "@NDRRMA_Nepal",
-      "t": "2026-09-10T06:23:50Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2097934050749194370",
+      "t": "2026-09-11T06:39:08Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2098300291389210690",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA 10日11:00搜救安置更新图。",
-        "en": "NDRRMA 10 Sep 11:00 search-rescue-relief graphic.",
-        "ne": "NDRRMA 10 सेप्ट 11:00 अपडेट।",
-        "hi": "NDRRMA 10 सित 11:00 अपडेट।"
-      }
-    },
-    {
-      "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-09-06T14:41:30Z",
-      "link": "https://x.com/XHNews/status/2096609742487691562",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：截至6日18时43遇难、519失联；外籍261人/23国。",
-        "en": "Xinhua: as of 6 p.m. Sat 43 dead, 519 missing; 261 foreign nationals from 23 countries.",
-        "ne": "सिन्ह्वा: 43 मृत्यु, 519 बेपत्ता; 23 देशका 261 विदेशी।",
-        "hi": "शिन्हुआ: 43 मृत, 519 लापता; 23 देशों के 261 विदेशी।"
+        "zh": "NDRRMA 11日11:00图示：死亡1385、失联5130、获救13676。",
+        "en": "NDRRMA 11 Sep 11:00 graphic: 1385 dead, 5130 missing, 13676 rescued.",
+        "ne": "NDRRMA 11 सेप्ट 11:00: 1385/5130/13676।",
+        "hi": "NDRRMA 11 सित 11:00: 1385/5130/13676।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-08T04:59:52Z",
+      "link": "https://x.com/XHNews/status/2097188145544798711",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：边检民警肖福贵在吉隆口岸拍摄的灾后无人机影像。",
-        "en": "Xinhua: officer Xiao Fugui drone footage near Gyirong Port after the 26 Aug mudslide.",
-        "ne": "सिन्ह्वा: ग्यिरोङ मा ड्रोन फुटेज।",
-        "hi": "शिन्हुआ: ग्यिरोंग में ड्रोन फुटेज।"
+        "zh": "新华：吉隆口岸泥石流与救援进展再通报。",
+        "en": "Xinhua: another progress wrap on Gyirong Port mudslide and rescue.",
+        "ne": "सिन्ह्वा: ग्यिरोङ प्रगति फेरि अपडेट।",
+        "hi": "शिन्हुआ: ग्यिरोंग प्रगति फिर अपडेट।"
       }
     }
   ]
