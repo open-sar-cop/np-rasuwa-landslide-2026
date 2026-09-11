@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-12T03:29:00Z",
+  "snap": "2026-09-12T04:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1385, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0912d",
+      "id": "osint-0912e",
       "src": "official",
-      "t": "2026-09-12T03:29:00Z",
+      "t": "2026-09-12T04:15:00Z",
       "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
@@ -19,8 +19,8 @@
         "hi": "यह रन: CN 43/519/2; NP 1385/5130/13676"
       },
       "body": {
-        "zh": "中方指挥部仍截至5–6日18时：43遇难519失联2救出。NDRRMA/IFRC GO 11日11:00 NPT：1385死5130失联13676获救。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "CN HQ still 43 dead, 519 missing, 2 rescued (5–6 Sep 18:00). NDRRMA/IFRC GO 11 Sep 11:00 NPT: 1385/5130/13676. Do not add. Gate destroyed. Lake drained.",
+        "zh": "中方指挥部仍截至5日18时：43遇难519失联2救出。NDRRMA/IFRC GO 11日11:00 NPT：1385死5130失联13676获救。勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA/IFRC GO 11 Sep 11:00 NPT: 1385/5130/13676. Do not add. Gate destroyed. Lake drained.",
         "ne": "CN ४३/५१९/२। NDRRMA ११ सेप्ट ११:००: १३८५/५१३०/१३६७६। नजोड़्नु। द्वार नष्ट। ताल खाली।",
         "hi": "CN 43/519/2। NDRRMA 11 सित 11:00: 1385/5130/13676। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
@@ -49,7 +49,7 @@
       "id": "pd0911",
       "src": "official",
       "t": "2026-09-08T00:00:00Z",
-      "link": "http://en.people.cn/n3/2026/0911/c90000-20498567.html",
+      "link": "https://gna.org.gh/2026/09/evacuated-residents-returning-home-after-mudslide-hits-border-port-in-chinas-xizang/",
       "img": null,
       "lat": 28.39,
       "lng": 85.325,
@@ -70,23 +70,23 @@
     {
       "id": "cn43",
       "src": "official",
-      "t": "2026-09-06T10:00:00Z",
-      "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9df0f4e4b06d4aa055c9df.html",
+      "t": "2026-09-05T10:00:00Z",
+      "link": "https://news.ifeng.com/c/8wCiMe25Aep",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "title": {
-        "zh": "指挥部6日：43遇难519失联",
-        "en": "HQ 6 Sep: 43 dead 519 missing",
-        "ne": "६ सेप्ट: ४३/५१९",
-        "hi": "6 सित: 43/519"
+        "zh": "指挥部：43遇难519失联",
+        "en": "HQ: 43 dead 519 missing",
+        "ne": "HQ: ४३/५१९",
+        "hi": "HQ: 43/519"
       },
       "body": {
-        "zh": "救出2人。本轮未见更新指挥部伤亡。勿与尼方相加。",
-        "en": "2 rescued. No newer HQ casualty tally this run. Do not add CN+NP.",
-        "ne": "२ उद्धार। नयाँ HQ छैन। नजोड़्नु।",
-        "hi": "2 बचाए। नया HQ नहीं। न जोड़ें।"
+        "zh": "截至9月5日18时：救出2人。本轮未见更新指挥部伤亡。勿与尼方相加。",
+        "en": "As of 5 Sep 18:00: 2 rescued. No newer HQ casualty tally this run. Do not add CN+NP.",
+        "ne": "५ सेप्ट १८:००: २ उद्धार। नयाँ HQ छैन। नजोड़्नु।",
+        "hi": "5 सित 18:00: 2 बचाए। नया HQ नहीं। न जोड़ें।"
       }
     },
     {
@@ -147,8 +147,8 @@
         "hi": "अमेरिकी दूतावास: रसुवागढ़ी न जाएँ"
       },
       "body": {
-        "zh": "9月3日灾害告示：Khalte路段仍断，Syafrubesi/Timure/Rasuwagadhi无可靠通路。8月31日旅行警示仍禁口岸。",
-        "en": "3 Sep alert: Rasuwa main road closed at Khalte; no reliable access to Syafrubesi/Timure/Rasuwagadhi. 31 Aug advisory still Level-4 do-not-travel at the crossing.",
+        "zh": "9月3日灾害告示：Khalte路段仍断，Syafrubesi/Timure/Rasuwagadhi无可靠通路。",
+        "en": "3 Sep alert: Rasuwa main road closed at Khalte; no reliable access to Syafrubesi/Timure/Rasuwagadhi.",
         "ne": "खाल्टे बन्द; रसुवागढी–तिमुरे नजानु।",
         "hi": "खाल्टे बंद; रसुवागढ़ी–तिमुरे न जाएँ।"
       }
@@ -163,13 +163,13 @@
       "title": {
         "zh": "UNOSAT 26–27日泥流范围图",
         "en": "UNOSAT 26–27 Aug mudflow extent",
-        "ne": "UNOSAT २६–२७ अगस्ट माटो बहाव",
+        "ne": "UNOSAT 26–27 अगस्ट माटो बहाव",
         "hi": "UNOSAT 26–27 अगस्त कीचड़ प्रवाह"
       },
       "body": {
-        "zh": "ReliefWeb发布UNOSAT Sentinel-2/PlanetScope：约230平方公里分析区内约20平方公里受影响。Copernicus EMSR927仍为主要卫星产品。",
+        "zh": "UNOSAT Sentinel-2/PlanetScope：约230平方公里分析区内约20平方公里受影响。Copernicus EMSR927为主要卫星产品。",
         "en": "UNOSAT Sentinel-2/PlanetScope: ~20 km² affected in ~230 km² analysed. Copernicus EMSR927 remains a primary satellite product.",
-        "ne": "UNOSAT: विश्लेषण क्षेत्रमा करिब २० वर्ग किमि प्रभावित। EMSR927।",
+        "ne": "UNOSAT: विश्लेषण क्षेत्रमा करिब 20 वर्ग किमि प्रभावित। EMSR927।",
         "hi": "UNOSAT: विश्लेषित क्षेत्र में लगभग 20 वर्ग किमी प्रभावित। EMSR927।"
       }
     },
@@ -183,14 +183,14 @@
       "title": {
         "zh": "尼军直升机累计1407架次",
         "en": "Nepal Army helicopters: 1407 sorties",
-        "ne": "नेपाली सेना हेलि: १४०७ उडान",
+        "ne": "नेपाली सेना हेलि: 1407 उडान",
         "hi": "नेपाली सेना हेली: 1407 उड़ान"
       },
       "body": {
-        "zh": "NDRRMA 11日图示：陆军直升机1407架次，武警299架次。安置点37处。",
-        "en": "NDRRMA 11 Sep graphic: Army 1407 heli flights, APF 299. 37 holding centres.",
-        "ne": "सेना १४०७, सशस्त्र २९९। होल्डिङ ३७।",
-        "hi": "सेना 1407, सशस्त्र 299। होल्डिंग 37।"
+        "zh": "NDRRMA 11日图示：陆军直升机1407架次。安置点37处。",
+        "en": "NDRRMA 11 Sep graphic: Army 1407 heli flights. 37 holding centres.",
+        "ne": "सेना 1407। होल्डिङ 37।",
+        "hi": "सेना 1407। होल्डिंग 37।"
       }
     }
   ],
@@ -286,7 +286,7 @@
       "detail": {
         "zh": "早期搜救完成，2人获救",
         "en": "Early SAR done; 2 rescued",
-        "ne": "SAR सकियो; २ उद्धार",
+        "ne": "SAR सकियो; 2 उद्धार",
         "hi": "SAR पूर्ण; 2 बचाए"
       }
     },
@@ -330,7 +330,7 @@
       "text": {
         "zh": "NDRRMA 11日11:00图示：死亡1385、失联5130、获救13676。",
         "en": "NDRRMA 11 Sep 11:00 graphic: 1385 dead, 5130 missing, 13676 rescued.",
-        "ne": "NDRRMA ११ सेप्ट ११:००: १३८५/५१३०/१३६७६।",
+        "ne": "NDRRMA 11 सेप्ट 11:00: 1385/5130/13676।",
         "hi": "NDRRMA 11 सित 11:00: 1385/5130/13676।"
       }
     },
@@ -373,7 +373,7 @@
       "text": {
         "zh": "新华：2日10时通往吉隆口岸核心区道路基本抢通。",
         "en": "Xinhua: road to Gyirong Port core basically restored 10:00 2 Sep.",
-        "ne": "सिन्ह्वा: २ सेप्ट १०:०० मा कोर सडक खुला।",
+        "ne": "सिन्ह्वा: 2 सेप्ट 10:00 मा कोर सडक खुला।",
         "hi": "शिन्हुआ: 2 सित 10:00 को कोर सड़क बहाल।"
       }
     },
@@ -401,21 +401,23 @@
       "text": {
         "zh": "NDRRMA 10日11:00搜救安置更新图。",
         "en": "NDRRMA 10 Sep 11:00 search-rescue-relief graphic.",
-        "ne": "NDRRMA १० सेप्ट ११:०० अपडेट।",
+        "ne": "NDRRMA 10 सेप्ट 11:00 अपडेट।",
         "hi": "NDRRMA 10 सित 11:00 अपडेट।"
       }
     },
     {
       "id": "x6",
       "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
-      "geo": "unknown",
+      "t": "2026-09-06T14:41:30Z",
+      "link": "https://x.com/XHNews/status/2096609742487691562",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
       "text": {
-        "zh": "新华：23国261名外籍人员失联。",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for.",
-        "ne": "सिन्ह्वा: २३ देशका २६१ विदेशी बेपत्ता।",
-        "hi": "शिन्हुआ: 23 देशों के 261 विदेशी लापता।"
+        "zh": "新华：截至6日18时43遇难、519失联；外籍261人/23国。",
+        "en": "Xinhua: as of 6 p.m. Sat 43 dead, 519 missing; 261 foreign nationals from 23 countries.",
+        "ne": "सिन्ह्वा: 43 मृत्यु, 519 बेपत्ता; 23 देशका 261 विदेशी।",
+        "hi": "शिन्हुआ: 43 मृत, 519 लापता; 23 देशों के 261 विदेशी।"
       }
     },
     {
@@ -427,8 +429,8 @@
       "text": {
         "zh": "NDRRMA SitRep #9：9日19:00情况报告。",
         "en": "NDRRMA SitRep #9 dated 9 Sep 19:00.",
-        "ne": "NDRRMA SitRep ९: ९ सेप्ट 19:00।",
-        "hi": "NDRRMA SitRep 9: 9 सित 19:00।"
+        "ne": "NDRRMA SitRep #9: 9 सेप्ट 19:00।",
+        "hi": "NDRRMA SitRep #9: 9 सित 19:00।"
       }
     }
   ]
