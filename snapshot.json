@@ -1,42 +1,62 @@
 {
-  "snap": "2026-09-12T00:05:00Z",
+  "snap": "2026-09-12T01:23:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1385, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0912a",
+      "id": "osint-0912b",
       "src": "official",
-      "t": "2026-09-12T00:05:00Z",
-      "link": "https://www.tribuneindia.com/news/world/nepal-flood-death-toll-reaches-1385-as-authorities-continue-search-relief-efforts/",
+      "t": "2026-09-12T01:23:00Z",
+      "link": "https://newsable.asianetnews.com/world/nepal-floods-death-toll-climbs-to-1385-with-over-5000-missing-articleshow-3v2ilw6",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "本轮：NDRRMA仍1385死5130失联13676获救",
+        "zh": "本轮复核：NDRRMA仍1385死5130失联13676获救",
         "en": "This run: NDRRMA still 1385 dead, 5130 missing, 13676 rescued",
         "ne": "यो रन: NDRRMA अझै १३८५/५१३०/१३६७६",
         "hi": "यह रन: NDRRMA अभी 1385/5130/13676"
       },
       "body": {
-        "zh": "11日11:00 NPT ANI/NDRRMA：1385/5130/13676，安置点37。中方指挥部仍截至5日18时43/519/2人救出。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "11 Sep 11:00 NPT ANI/NDRRMA: 1385/5130/13676; 37 centres. CN HQ still 43/519/2 as of 5 Sep 18:00. Do not add. Gate destroyed. Lake drained.",
+        "zh": "11日11:00 NPT ANI/NDRRMA与IFRC GO：1385/5130/13676，安置点37。中方指挥部仍截至5日18时43遇难519失联2人救出。勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "11 Sep 11:00 NPT ANI/NDRRMA and IFRC GO: 1385/5130/13676; 37 centres. CN HQ still 43/519/2 as of 5 Sep 18:00. Do not add. Gate destroyed. Lake drained.",
         "ne": "११ सेप्ट ११:००: १३८५/५१३०/१३६७६। CN ४३/५१९/२। नजोड़्नु। द्वार नष्ट। ताल खाली।",
         "hi": "11 सित 11:00: 1385/5130/13676। CN 43/519/2। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
+      "id": "ifrc0911",
+      "src": "official",
+      "t": "2026-09-11T00:00:00Z",
+      "link": "https://go.ifrc.org/emergencies/8073/overview",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "IFRC GO 11日页：1385死5130失联",
+        "en": "IFRC GO 11 Sep page: 1385 dead 5130 missing",
+        "ne": "IFRC GO: १३८५/५१३०",
+        "hi": "IFRC GO: 1385/5130"
+      },
+      "body": {
+        "zh": "IFRC GO与NDRRMA 11日11:00一致。勿与中方相加。",
+        "en": "IFRC GO aligns with NDRRMA 11 Sep 11:00. Do not add CN.",
+        "ne": "IFRC NDRRMA सँग मिल्यो। नजोड़्नु।",
+        "hi": "IFRC NDRRMA से मेल। न जोड़ें।"
+      }
+    },
+    {
       "id": "pd0911",
       "src": "official",
-      "t": "2026-09-11T02:30:00Z",
-      "link": "http://en.people.cn/n3/2026/0911/c90000-20498567.html",
+      "t": "2026-09-08T00:00:00Z",
+      "link": "https://gna.org.gh/2026/09/evacuated-residents-returning-home-after-mudslide-hits-border-port-in-chinas-xizang/",
       "img": null,
       "lat": 28.39,
       "lng": 85.325,
       "geo": "place",
       "title": {
-        "zh": "新华/人民日报：444人已返乡",
-        "en": "Xinhua/PD: 444 evacuees returned",
+        "zh": "新华：444人已返乡",
+        "en": "Xinhua: 444 evacuees returned",
         "ne": "सिन्ह्वा: ४४४ फर्किए",
         "hi": "शिन्हुआ: 444 लौटे"
       },
@@ -51,7 +71,7 @@
       "id": "cn43",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://english.news.cn/20260908/e94e5436e0c04ecdb71b659aaf6ba2cc/c.html",
+      "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -63,8 +83,8 @@
         "hi": "5 सित 18:00: 43/519"
       },
       "body": {
-        "zh": "救出2人。本轮未见新指挥部数字。勿与尼方相加。",
-        "en": "2 rescued. No newer HQ tally this run. Do not add CN+NP.",
+        "zh": "救出2人。本轮未见更新指挥部伤亡。勿与尼方相加。",
+        "en": "2 rescued. No newer HQ casualty tally this run. Do not add CN+NP.",
         "ne": "२ उद्धार। नयाँ HQ छैन। नजोड़्नु।",
         "hi": "2 बचाए। नया HQ नहीं। न जोड़ें।"
       }
@@ -72,8 +92,8 @@
     {
       "id": "lake",
       "src": "official",
-      "t": "2026-09-05T13:36:00Z",
-      "link": "https://english.news.cn/20260905/9514cc986816469cabbe0a858d04197e/c.html",
+      "t": "2026-09-05T13:49:00Z",
+      "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -95,7 +115,7 @@
       "id": "g216",
       "src": "official",
       "t": "2026-09-02T02:00:00Z",
-      "link": "https://en.people.cn/n3/2026/0903/c90000-20495449.html",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
       "img": null,
       "lat": 28.3,
       "lng": 85.368,
@@ -107,10 +127,10 @@
         "hi": "G216 कोर बहाल"
       },
       "body": {
-        "zh": "2日上午陆路基本抢通。国门仍毁不通关。",
-        "en": "Land access restored 2 Sep morning. Gate destroyed; no customs.",
-        "ne": "२ सेप्ट बिहान खुला। द्वार नष्ट।",
-        "hi": "2 सित सुबह खुला। द्वार नष्ट।"
+        "zh": "2日上午10时通往核心区陆路基本抢通。国门仍毁不通关。",
+        "en": "Land access restored 10:00 2 Sep. Gate destroyed; no customs.",
+        "ne": "२ सेप्ट १०:०० खुला। द्वार नष्ट।",
+        "hi": "2 सित 10:00 खुला। द्वार नष्ट।"
       }
     },
     {
@@ -151,26 +171,6 @@
         "en": "UNOSAT Sentinel-2/PlanetScope: ~20 km² affected in ~230 km² analysed. Copernicus EMSR927 remains a primary satellite product.",
         "ne": "UNOSAT: विश्लेषण क्षेत्रमा करिब २० वर्ग किमि प्रभावित। EMSR927।",
         "hi": "UNOSAT: विश्लेषित क्षेत्र में लगभग 20 वर्ग किमी प्रभावित। EMSR927।"
-      }
-    },
-    {
-      "id": "ifrc0911",
-      "src": "official",
-      "t": "2026-09-11T00:00:00Z",
-      "link": "https://go.ifrc.org/emergencies/8073/overview",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "IFRC GO 11日页：1385死5130失联",
-        "en": "IFRC GO 11 Sep page: 1385 dead 5130 missing",
-        "ne": "IFRC GO: १३८५/५१३०",
-        "hi": "IFRC GO: 1385/5130"
-      },
-      "body": {
-        "zh": "IFRC GO与NDRRMA 11日11:00一致。勿与中方相加。",
-        "en": "IFRC GO aligns with NDRRMA 11 Sep 11:00. Do not add CN.",
-        "ne": "IFRC NDRRMA सँग मिल्यो। नजोड़्नु।",
-        "hi": "IFRC NDRRMA से मेल। न जोड़ें।"
       }
     },
     {
@@ -337,104 +337,102 @@
     {
       "id": "x1",
       "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
       "text": {
-        "zh": "新华：中国气候中心向尼泊尔提供滚动监测与预报。",
-        "en": "Xinhua: China climate center sending rolling forecasts to Nepal.",
-        "ne": "सिन्ह्वा: चीनले नेपाललाई जलवायु दिँदै।",
-        "hi": "शिन्हुआ: चीन नेपाल को जलवायु दे रहा।"
+        "zh": "新华：边检民警无人机拍下吉隆口岸灾后影像。",
+        "en": "Xinhua: immigration officer drone footage near Gyirong Port after the mudslide.",
+        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज।",
+        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज।"
       }
     },
     {
       "id": "x2",
       "user": "@XHNews",
-      "t": "2026-09-09T09:10:51Z",
-      "link": "https://x.com/XHNews/status/2097613696990413066",
-      "lat": 28.2797,
-      "lng": 85.3777,
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.3,
+      "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华社综述：吉隆口岸泥石流救援进展；伤亡仍引5日18时数字。",
-        "en": "Xinhua wrap: Gyirong Port mudslide rescue progress; casualties still as of 5 Sep 18:00.",
-        "ne": "सिन्ह्वा: ग्यिरोङ प्रगति; अङ्क ५ सेप्ट १८:००।",
-        "hi": "शिन्हुआ: ग्यिरोंग प्रगति; आँकड़े 5 सित 18:00।"
+        "zh": "新华：G216抢通极难，两小时推进不足5米。",
+        "en": "Xinhua: G216 reopen hard; less than 5 meters in two hours.",
+        "ne": "सिन्ह्वा: G216 खोल्न कठिन; दुई घण्टामा ५ मिटरभन्दा कम।",
+        "hi": "शिन्हुआ: G216 खोलना कठिन; दो घंटे में 5 मीटर से कम।"
       }
     },
     {
       "id": "x3",
       "user": "@XHNews",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：冰岩崩链生泥石流冲击吉隆口岸，搜救持续。",
-        "en": "Xinhua: ice-rock avalanche chain mudslide hit Gyirong Port; SAR continues.",
-        "ne": "सिन्ह्वा: बरफ–चट्टान पहिरो; SAR जारी।",
-        "hi": "शिन्हुआ: बर्फ-चट्टान मलबा प्रवाह; SAR जारी।"
+        "zh": "新华：2日10时通往吉隆口岸核心区道路基本抢通。",
+        "en": "Xinhua: road to Gyirong Port core basically restored 10:00 2 Sep.",
+        "ne": "सिन्ह्वा: २ सेप्ट १०:०० मा कोर सडक खुला।",
+        "hi": "शिन्हुआ: 2 सित 10:00 को कोर सड़क बहाल।"
       }
     },
     {
       "id": "x4",
       "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "geo": "unknown",
       "text": {
-        "zh": "新华：外媒记者团访吉隆口岸灾区。",
-        "en": "Xinhua: foreign press visited Gyirong Port disaster site.",
-        "ne": "सिन्ह्वा: विदेशी पत्रकार ग्यिरोङ पुगे।",
-        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोंग गए।"
+        "zh": "新华：激光AI监测设备实时预警落石滑坡。",
+        "en": "Xinhua: laser AI monitor for landslide and rockfall risk.",
+        "ne": "सिन्ह्वा: पहिरो जोखिम लेजर निगरानी।",
+        "hi": "शिन्हुआ: भूस्खलन जोखिम लेजर निगरानी।"
       }
     },
     {
       "id": "x5",
       "user": "@XHNews",
-      "t": "2026-09-07T10:10:46Z",
-      "link": "https://x.com/XHNews/status/2096904000058843554",
+      "t": "2026-08-30T06:49:32Z",
+      "link": "https://x.com/XHNews/status/2093954255568953603",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华视频：外媒实地了解吉隆口岸救援。",
-        "en": "Xinhua video: foreign media briefed on Gyirong rescue.",
-        "ne": "सिन्ह्वा भिडियो: ग्यिरोङ उद्धार।",
-        "hi": "शिन्हुआ वीडियो: ग्यिरोंग बचाव।"
+        "zh": "新华：直升机向吉隆口岸灾区投送物资。",
+        "en": "Xinhua: helicopters delivered supplies to Gyirong Port disaster area.",
+        "ne": "सिन्ह्वा: हेलिकप्टरले ग्यिरोङमा सामान पुर्‍याए।",
+        "hi": "शिन्हुआ: हेलीकॉप्टर ने ग्यिरोंग को सामान पहुँचाया।"
       }
     },
     {
       "id": "x6",
       "user": "@XHNews",
-      "t": "2026-09-06T14:41:30Z",
-      "link": "https://x.com/XHNews/status/2096609742487691562",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "geo": "unknown",
       "text": {
-        "zh": "新华：截至5日18时43遇难519失联，261名外籍失联。",
-        "en": "Xinhua: as of 5 Sep 18:00, 43 dead 519 missing; 261 foreign missing.",
-        "ne": "सिन्ह्वा: ५ सेप्ट १८:०० मा ४३/५१९; २६१ विदेशी।",
-        "hi": "शिन्हुआ: 5 सित 18:00 पर 43/519; 261 विदेशी।"
+        "zh": "新华：23国261名外籍人员失联。",
+        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for.",
+        "ne": "सिन्ह्वा: २३ देशका २६१ विदेशी बेपत्ता।",
+        "hi": "शिन्हुआ: 23 देशों के 261 विदेशी लापता।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
+      "t": "2026-08-30T04:23:39Z",
+      "link": "https://x.com/XHNews/status/2093917539642519759",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：2日10时G216通往核心区基本抢通。",
-        "en": "Xinhua: G216 access to core basically restored 10:00 2 Sep.",
-        "ne": "सिन्ह्वा: २ सेप्ट १०:०० G216 कोर खुला।",
-        "hi": "शिन्हुआ: 2 सित 10:00 G216 कोर खुला।"
+        "zh": "新华：截至29日18时16遇难546失联（后续已更新为43/519）。",
+        "en": "Xinhua: as of 29 Aug 18:00, 16 dead 546 missing (later updated to 43/519).",
+        "ne": "सिन्ह्वा: २९ अगस्ट १८:०० मा १६/५४६ (पछि ४३/५१९)।",
+        "hi": "शिन्हुआ: 29 अग 18:00 पर 16/546 (बाद में 43/519)।"
       }
     }
   ]
