@@ -1,28 +1,68 @@
 {
-  "snap": "2026-09-13T05:22:00Z",
+  "snap": "2026-09-13T12:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1386, "missing": 5130, "rescued": 13676 }
+    "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0913f",
+      "id": "osint-0913g",
       "src": "official",
-      "t": "2026-09-13T05:22:00Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/418",
+      "t": "2026-09-13T12:10:00Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/420",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "本轮：CN 43/519/2；NP 1386/5130/13676",
-        "en": "This run: CN 43/519/2; NP 1386/5130/13676",
-        "ne": "यो रन: CN ४३/५१९/२; NP १३८६/५१३०/१३६७६",
-        "hi": "यह रन: CN 43/519/2; NP 1386/5130/13676"
+        "zh": "本轮：CN 43/519/2；NP 1386/5130/13728",
+        "en": "This run: CN 43/519/2; NP 1386/5130/13728",
+        "ne": "यो रन: CN ४३/५१९/२; NP १३८६/५१३०/१३७२८",
+        "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
       },
       "body": {
-        "zh": "13日05:22 UTC复核：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA公开伤亡仍为11日17:00 NPT的1386具遗体、5130失联、获救13676。12日仅见RDNA，无新伤亡公报。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "Recheck 13 Sep 05:22 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA public line still 1,386 bodies / 5,130 missing / 13,676 rescued (11 Sep). RDNA 12 Sep; no newer casualty bulletin. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "13 सेप्ट 05:22 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट: 1386/5130; उद्धार 13676। 12 सेप्ट RDNA। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "13 सित 05:22 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित: 1386/5130; बचाए 13676। 12 सित RDNA। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "13日12:10 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 12日18:00图示：1386具遗体（含残肢）、5130失联、获救13728。SitRep#11已发。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "13 Sep 12:10 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA graphic 12 Sep 18:00: 1,386 bodies / 5,130 missing / 13,728 rescued. SitRep #11 posted. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "13 सेप्ट 12:10 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 12 सेप्ट 18:00: 1386/5130; उद्धार 13728। SitRep #11। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "13 सित 12:10 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 12 सित 18:00: 1386/5130; बचाए 13728। SitRep #11। न जोड़ें। द्वार नष्ट। झील खाली।"
+      }
+    },
+    {
+      "id": "np1386-1218",
+      "src": "official",
+      "t": "2026-09-12T12:15:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2098778380074443208",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 12日18:00：1386具遗体，获救13728",
+        "en": "NDRRMA 12 Sep 18:00: 1386 bodies, 13728 rescued",
+        "ne": "NDRRMA १८:००: १३८६ शव, उद्धार १३७२८",
+        "hi": "NDRRMA 18:00: 1386 शव, बचाए 13728"
+      },
+      "body": {
+        "zh": "官方图示：死亡1386（含残肢，已识别104）、失联5130（外籍587）、获救13728。安置点37处。勿与中方相加。",
+        "en": "Official graphic: 1,386 deaths incl. remains (104 identified); 5,130 missing (587 foreign); 13,728 rescued; 37 holding centres. Do not add CN.",
+        "ne": "१३८६ मृत्यु; ५१३० बेपत्ता (५८७ विदेशी); उद्धार १३७२८। नजोड़्नु।",
+        "hi": "१३८६ मृत्यु; ५१३० लापता (५८७ विदेशी); बचाए १३७२८। न जोड़ें।"
+      }
+    },
+    {
+      "id": "sitrep11",
+      "src": "official",
+      "t": "2026-09-12T13:15:00Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/420",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA SitRep#11（12日19:00）",
+        "en": "NDRRMA SitRep #11 (12 Sep 19:00)",
+        "ne": "NDRRMA SitRep #11 (१२ सेप्ट १९:००)",
+        "hi": "NDRRMA SitRep #11 (12 सित 19:00)"
+      },
+      "body": {
+        "zh": "官方形势报告#11已发布。公开伤亡以12日18:00图示为准。",
+        "en": "Official SitRep #11 posted. Public casualty line per 12 Sep 18:00 graphic.",
+        "ne": "SitRep #11 जारी। आधिकारिक अङ्क १२ सेप्ट १८:००।",
+        "hi": "SitRep #11 जारी। आधिकारिक आँकड़े 12 सित 18:00।"
       }
     },
     {
@@ -39,70 +79,10 @@
         "hi": "NDRRMA ने 12 सित RDNA जारी"
       },
       "body": {
-        "zh": "快速损害与需求评估（RDNA）已发布。本轮未改公开伤亡口径。",
-        "en": "Rapid Damage and Needs Assessment published. Public casualty line unchanged this run.",
-        "ne": "RDNA सार्वजनिक। यो रनमा मृत्यु/बेपत्ता नयाँ होइन।",
-        "hi": "RDNA सार्वजनिक। इस रन में हताहत नहीं बदले।"
-      }
-    },
-    {
-      "id": "np1386",
-      "src": "official",
-      "t": "2026-09-11T11:15:00Z",
-      "link": "https://myrepublica.nagariknetwork.com/news/rasuwa-floods-1386-bodies-recovered-5130-people-still-missing-29-46.html",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 11日17:00 NPT：1386具遗体",
-        "en": "NDRRMA 11 Sep 17:00 NPT: 1386 bodies",
-        "ne": "NDRRMA 17:00 NPT: 1386 शव",
-        "hi": "NDRRMA 17:00 NPT: 1386 शव"
-      },
-      "body": {
-        "zh": "发言人Shanti Mahat：截至11日17:00已发现1386具遗体（含残肢），失联5130。勿与中方相加。",
-        "en": "Spokesperson Shanti Mahat: 1,386 recovered including remains as of 17:00 11 Sep; 5,130 missing. Do not add CN.",
-        "ne": "१३८६ शव; ५१३० बेपत्ता। नजोड़्नु।",
-        "hi": "१३८६ शव; ५१३० लापता। न जोड़ें।"
-      }
-    },
-    {
-      "id": "sitrep10",
-      "src": "official",
-      "t": "2026-09-11T13:15:00Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/418",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA SitRep#10（11日19:00）",
-        "en": "NDRRMA SitRep #10 (11 Sep 19:00)",
-        "ne": "NDRRMA SitRep #10 (११ सेप्ट १९:००)",
-        "hi": "NDRRMA SitRep #10 (11 सित 19:00)"
-      },
-      "body": {
-        "zh": "官方形势报告#10已发布。公开伤亡仍以11日17:00的1386/5130为准；获救13676。",
-        "en": "Official SitRep #10 posted. Public casualty line remains 1386/5130 at 17:00; 13,676 rescued.",
-        "ne": "SitRep #10। आधिकारिक 1386/5130; उद्धार 13676।",
-        "hi": "SitRep #10। आधिकारिक 1386/5130; बचाए 13676।"
-      }
-    },
-    {
-      "id": "np-rescue",
-      "src": "official",
-      "t": "2026-09-11T05:15:00Z",
-      "link": "https://english.ratopati.com/story/78638/rasuwa-flood-death-toll-reaches-1377-5130-still-missing",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA：获救13676",
-        "en": "NDRRMA: 13676 rescued",
-        "ne": "NDRRMA: 13676 उद्धार",
-        "hi": "NDRRMA: 13676 बचाए"
-      },
-      "body": {
-        "zh": "搜救：获救约13676；安置点运转；安保约2.1万人。伤亡以11日17:00为准。",
-        "en": "SAR: about 13,676 rescued; holding centres open; ~21,000 security. Casualties per 11 Sep 17:00.",
-        "ne": "उद्धार 13676; आश्रय केन्द्र; सुरक्षा ~21000।",
-        "hi": "बचाए 13676; आश्रय केंद्र; सुरक्षा ~21000।"
+        "zh": "快速损害与需求评估（RDNA）已发布。伤亡以同日18:00图示为准。",
+        "en": "Rapid Damage and Needs Assessment published. Casualties per same-day 18:00 graphic.",
+        "ne": "RDNA सार्वजनिक। मृत्यु/बेपत्ता १८:०० ग्राफिक।",
+        "hi": "RDNA सार्वजनिक। हताहत उसी दिन 18:00 ग्राफिक।"
       }
     },
     {
@@ -364,6 +344,32 @@
     {
       "id": "x0",
       "user": "@NDRRMA_Nepal",
+      "t": "2026-09-12T18:14:30Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2098837672068628860",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA SitRep#11：12日19:00搜救救济形势报告已发。",
+        "en": "NDRRMA SitRep #11: 12 Sep 19:00 SAR and relief situation report.",
+        "ne": "NDRRMA SitRep #11: १२ सेप्ट १९:००।",
+        "hi": "NDRRMA SitRep #11: 12 सित 19:00।"
+      }
+    },
+    {
+      "id": "x1",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-12T14:18:53Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2098778380074443208",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：12日18:00更新——1386具遗体、5130失联、获救13728。",
+        "en": "NDRRMA: 12 Sep 18:00 update — 1,386 bodies, 5,130 missing, 13,728 rescued.",
+        "ne": "NDRRMA: १२ सेप्ट १८:०० — १३८६ शव, ५१३० बेपत्ता, उद्धार १३७२८।",
+        "hi": "NDRRMA: 12 सित 18:00 — 1386 शव, 5130 लापता, बचाए 13728।"
+      }
+    },
+    {
+      "id": "x2",
+      "user": "@NDRRMA_Nepal",
       "t": "2026-09-12T12:00:47Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2098743626507645355",
       "geo": "unknown",
@@ -375,7 +381,7 @@
       }
     },
     {
-      "id": "x1",
+      "id": "x3",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-11T18:21:06Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2098476947814891717",
@@ -388,20 +394,7 @@
       }
     },
     {
-      "id": "x2",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-11T06:39:08Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098300291389210690",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA：11日11:00搜救救济更新。",
-        "en": "NDRRMA: search, rescue and relief update 11 Sep 11:00.",
-        "ne": "NDRRMA: ११ सेप्ट ११:०० अपडेट।",
-        "hi": "NDRRMA: 11 सित 11:00 अपडेट।"
-      }
-    },
-    {
-      "id": "x3",
+      "id": "x4",
       "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
       "link": "https://x.com/XHNews/status/2096160167708778634",
@@ -416,7 +409,7 @@
       }
     },
     {
-      "id": "x4",
+      "id": "x5",
       "user": "@XHNews",
       "t": "2026-09-04T09:00:43Z",
       "link": "https://x.com/XHNews/status/2095799206615347459",
@@ -424,14 +417,14 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华：G216抢通困难——无路、急流、边坡不稳、巨石。",
-        "en": "Xinhua: why G216 reopening was hard—no road, fast water, unstable slopes, boulders.",
-        "ne": "सिन्ह्वा: G216 खोल्न कठिन—पानी, भिर, ढुङ्गा।",
-        "hi": "शिन्हुआ: G216 खोलना कठिन—पानी, ढलान, चट्टान।"
+        "zh": "新华：两小时推进不足5米——G216通往口岸核心区为何难抢通。",
+        "en": "Xinhua: less than 5 metres in two hours — why G216 to the port core was so hard to reopen.",
+        "ne": "सिन्ह्वा: दुई घण्टामा ५ मिटरभन्दा कम — G216 किन गाह्रो।",
+        "hi": "शिन्हुआ: दो घंटे में 5 मीटर से कम — G216 क्यों कठिन।"
       }
     },
     {
-      "id": "x5",
+      "id": "x6",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -440,24 +433,9 @@
       "geo": "place",
       "text": {
         "zh": "新华：2日10时G216通往吉隆口岸核心区陆路基本抢通。",
-        "en": "Xinhua: G216 land access to Gyirong Port core basically restored 10:00 Wed.",
-        "ne": "सिन्ह्वा: G216 कोर १०:०० बुधबार खुला।",
-        "hi": "शिन्हुआ: G216 कोर बुध 10:00 खुला।"
-      }
-    },
-    {
-      "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
-      "lat": 28.28,
-      "lng": 85.38,
-      "geo": "place",
-      "text": {
-        "zh": "新华早报：截至29日18时16遇难546失联（已被5日43/519取代）。",
-        "en": "Xinhua early: 16 dead 546 missing as of 29 Aug 18:00 (superseded by 5 Sep 43/519).",
-        "ne": "सिन्ह्वा पुरानो: 16/546 (५ सेप्ट 43/519 ले विस्थापित)।",
-        "hi": "शिन्हुआ पुराना: 16/546 (5 सित 43/519 से बदला)।"
+        "en": "Xinhua: G216 land access to Gyirong Port core basically restored 10:00 2 Sep.",
+        "ne": "सिन्ह्वा: २ सेप्ट १०:०० G216 कोर खुला।",
+        "hi": "शिन्हुआ: 2 सित 10:00 G216 कोर बहाल।"
       }
     },
     {
@@ -465,12 +443,14 @@
       "user": "@XHNews",
       "t": "2026-08-30T05:20:42Z",
       "link": "https://x.com/XHNews/status/2093931897667907999",
-      "geo": "unknown",
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "place",
       "text": {
-        "zh": "新华：失联外籍261人、23国。",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for.",
-        "ne": "सिन्ह्वा: २३ देशका २६१ विदेशी बेपत्ता।",
-        "hi": "शिन्हुआ: 23 देशों के 261 विदेशी लापता।"
+        "zh": "新华：排查出23国261名失联外籍人员（8月30日口径，伤亡以指挥部5日为准）。",
+        "en": "Xinhua: 261 missing foreign nationals from 23 countries (30 Aug line; casualties per 5 Sep HQ).",
+        "ne": "सिन्ह्वा: २३ देशका २६१ विदेशी बेपत्ता (३० अगस्ट; मृत्यु ५ सेप्ट HQ)।",
+        "hi": "शिन्हुआ: 23 देशों के 261 विदेशी लापता (30 अगस्त; हताहत 5 सित HQ)।"
       }
     }
   ]
