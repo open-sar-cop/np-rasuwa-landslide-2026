@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-12T19:25:00Z",
+  "snap": "2026-09-12T21:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0912t",
+      "id": "osint-0912u",
       "src": "official",
-      "t": "2026-09-12T19:25:00Z",
+      "t": "2026-09-12T21:05:00Z",
       "link": "https://myrepublica.nagariknetwork.com/news/rasuwa-floods-1386-bodies-recovered-5130-people-still-missing-29-46.html",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13676"
       },
       "body": {
-        "zh": "12日19:25 UTC再检：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17时：1386具遗体、5130失联；获救仍引11日11时13676。未见12日新指挥部伤亡。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "Recheck 12 Sep 19:25 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00: 1386 bodies, 5130 missing; rescued still 13676. No 12 Sep HQ tally. Do not add. Gate destroyed. Lake drained.",
-        "ne": "12 सेप्ट 19:25 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नयाँ HQ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "12 सित 19:25 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। नया HQ नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "12日21:05 UTC再检：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17时：1386具遗体、5130失联；获救仍引11日11时13676。未见12日新指挥部伤亡。勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "Recheck 12 Sep 21:05 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00: 1386 bodies, 5130 missing; rescued still 13676. No 12 Sep HQ tally. Do not add. Gate destroyed. Lake drained.",
+        "ne": "12 सेप्ट 21:05 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नयाँ HQ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "12 सित 21:05 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। नया HQ नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -372,21 +372,6 @@
     {
       "id": "x2",
       "user": "@XHNews",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：冰岩崩触发链式泥石流冲击吉隆口岸，搜救全面展开。",
-        "en": "Xinhua: ice-rock collapse triggered chain mudslide at Gyirong Port; SAR ongoing.",
-        "ne": "सिन्ह्वा: बरफ-चट्टान खस्दा ग्यिरोङमा SAR।",
-        "hi": "शिन्हुआ: बर्फ-चट्टान ढहने से ग्यिरोंग में SAR।"
-      }
-    },
-    {
-      "id": "x3",
-      "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
       "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
@@ -400,7 +385,7 @@
       }
     },
     {
-      "id": "x4",
+      "id": "x3",
       "user": "@XHNews",
       "t": "2026-09-04T09:00:43Z",
       "link": "https://x.com/XHNews/status/2095799206615347459",
@@ -410,12 +395,12 @@
       "text": {
         "zh": "新华：G216核心通道抢通过程——无路、急流、危岩。",
         "en": "Xinhua: how G216 core access was reopened amid water and unstable slopes.",
-        "ne": "सिन्ह्वा: G216 कोर कसरी खोलियो।",
-        "hi": "शिन्हुआ: G216 कोर कैसे खोला गया।"
+        "ne": "सिन्ह्वा: G216 कोर खोल्ने कठिनाइ।",
+        "hi": "शिन्हुआ: G216 कोर खोलने की कठिनाई।"
       }
     },
     {
-      "id": "x5",
+      "id": "x4",
       "user": "@XHNews",
       "t": "2026-09-03T12:07:02Z",
       "link": "https://x.com/XHNews/status/2095483707511734465",
@@ -423,14 +408,14 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：口岸山体“中国我爱你”大字仍隐约可见。",
-        "en": "Xinhua: mountainside ‘China I Love You’ still faintly visible beside Gyirong Port.",
-        "ne": "सिन्ह्वा: पहाडको अक्षर अझ देखिन्छ।",
+        "zh": "新华：口岸旁山体“中国我爱你”字迹仍隐约可见。",
+        "en": "Xinhua: mountainside ‘China I love you’ characters still faintly visible at the port.",
+        "ne": "सिन्ह्वा: पहाडको अक्षर अझै देखिन्छ।",
         "hi": "शिन्हुआ: पहाड़ पर अक्षर अभी दिखते हैं।"
       }
     },
     {
-      "id": "x6",
+      "id": "x5",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -438,10 +423,25 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华：2日10时G216通往口岸核心区基本抢通。",
-        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
+        "zh": "新华：2日10时G216通往核心区道路基本抢通。",
+        "en": "Xinhua: G216 access to port core basically restored 10:00 2 Sep.",
         "ne": "सिन्ह्वा: 2 सेप्ट 10:00 G216 खुला।",
         "hi": "शिन्हुआ: 2 सित 10:00 G216 खुला।"
+      }
+    },
+    {
+      "id": "x6",
+      "user": "@XHNews",
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "place",
+      "text": {
+        "zh": "新华：激光AI监测装置实时监测滑坡落石风险。",
+        "en": "Xinhua: laser AI device monitors landslide and rockfall risk in real time.",
+        "ne": "सिन्ह्वा: लेजर AI ले पहिरो जोखिम हेर्छ।",
+        "hi": "शिन्हुआ: लेजर AI भूस्खलन जोखिम देखता है।"
       }
     },
     {
@@ -453,10 +453,10 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华8月30日：截至29日18时16遇难546失联（后续已更新为43/519）。",
-        "en": "Xinhua 30 Aug: 16 dead 546 missing as of 29 Aug 18:00 (later updated to 43/519).",
-        "ne": "सिन्ह्वा 30 अगस्ट: 16/546 (पछि 43/519)।",
-        "hi": "शिन्हुआ 30 अग: 16/546 (बाद में 43/519)।"
+        "zh": "新华早报（已过时）：16遇难546失联；现以9月5日43/519为准。",
+        "en": "Xinhua early tally 16/546 now superseded by 5 Sep HQ 43/519.",
+        "ne": "पुरानो 16/546; अहिले 43/519।",
+        "hi": "पुराना 16/546; अब 43/519।"
       }
     }
   ]
