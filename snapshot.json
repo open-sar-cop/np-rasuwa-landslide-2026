@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-13T03:11:00Z",
+  "snap": "2026-09-13T04:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0913d",
+      "id": "osint-0913e",
       "src": "official",
-      "t": "2026-09-13T03:11:00Z",
+      "t": "2026-09-13T04:05:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/418",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13676"
       },
       "body": {
-        "zh": "13日03:11 UTC复核：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA最新公开伤亡仍为11日17:00 NPT的1386具遗体、5130失联；11日11:00获救13676。12日发布RDNA评估，未见新伤亡公报。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "Recheck 13 Sep 03:11 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA public line still 1,386 bodies / 5,130 missing at 17:00 11 Sep; 13,676 rescued at 11:00. RDNA posted 12 Sep; no newer casualty bulletin. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "13 सेप्ट 03:11 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट: 1386/5130; उद्धार 13676। 12 सेप्ट RDNA। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "13 सित 03:11 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित: 1386/5130; बचाए 13676। 12 सित RDNA। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "13日04:05 UTC复核：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA公开伤亡仍为11日17:00 NPT的1386具遗体、5130失联、获救13676。12日RDNA无新伤亡公报。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "Recheck 13 Sep 04:05 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA public line still 1,386 bodies / 5,130 missing / 13,676 rescued (11 Sep). RDNA 12 Sep; no newer casualty bulletin. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "13 सेप्ट 04:05 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट: 1386/5130; उद्धार 13676। 12 सेप्ट RDNA। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "13 सित 04:05 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित: 1386/5130; बचाए 13676। 12 सित RDNA। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -405,16 +405,46 @@
       "user": "@XHNews",
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "place",
       "text": {
         "zh": "新华：国家气候中心向尼方滚动提供监测预报，支援吉隆—拉苏瓦救援。",
         "en": "Xinhua: CMA climate products rolling to Nepal after Gyirong–Rasuwa mudslide.",
         "ne": "सिन्ह्वा: जलवायु पूर्वानुमान नेपाललाई।",
-        "hi": "शिन्हुआ: नेपाल को जलवायु पूर्वानुमान।"
+        "hi": "शिन्हुआ: जलवायु पूर्वानुमान नेपाल को।"
       }
     },
     {
       "id": "x4",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T14:35:34Z",
+      "link": "https://x.com/CCTV_Plus/status/2098057801461641380",
+      "geo": "unknown",
+      "text": {
+        "zh": "CCTV+：尼方气象专家称风云卫星高分辨率数据助力边境泥石流响应。",
+        "en": "CCTV+: Nepali meteorologist cites Fengyun satellite data for border mudslide response.",
+        "ne": "CCTV+: फेंग्युन उपग्रह तथ्यांक सहयोगी।",
+        "hi": "CCTV+: फेंग्युन उपग्रह डेटा सहायक।"
+      }
+    },
+    {
+      "id": "x5",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "place",
+      "text": {
+        "zh": "CCTV+：部分尼泊尔务工人员仍留吉隆镇，盼灾区尽快恢复。",
+        "en": "CCTV+: Some Nepali workers remaining in Gyirong Town hope for recovery.",
+        "ne": "CCTV+: केही नेपाली कामदार ग्यिरोङमा।",
+        "hi": "CCTV+: कुछ नेपाली कामगार ग्यिरोंग में।"
+      }
+    },
+    {
+      "id": "x6",
       "user": "@XHNews",
       "t": "2026-09-09T09:10:51Z",
       "link": "https://x.com/XHNews/status/2097613696990413066",
@@ -422,14 +452,14 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：8月26日链式泥石流冲击吉隆口岸，搜救进展综述。",
-        "en": "Xinhua: chain mudslide hit Gyirong Port 26 Aug; latest China SAR progress.",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट SAR प्रगति।",
-        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट SAR प्रगति।"
+        "zh": "新华：综述吉隆口岸8·26链式泥石流与中方搜救进展。",
+        "en": "Xinhua: briefing on 26 Aug chain mudslide at Gyirong Port and China SAR.",
+        "ne": "सिन्ह्वा: ग्यिरोङ २६ अगस्ट र SAR।",
+        "hi": "शिन्हुआ: ग्यिरोंग 26 अगस्त और SAR।"
       }
     },
     {
-      "id": "x5",
+      "id": "x7",
       "user": "@XHNews",
       "t": "2026-09-07T22:45:19Z",
       "link": "https://x.com/XHNews/status/2097093887852691511",
@@ -437,40 +467,10 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：CNN/路透/NBC记者周末探访受灾吉隆口岸。",
-        "en": "Xinhua: CNN, Reuters, NBC visited mudslide-hit Gyirong Port Sat–Sun.",
-        "ne": "सिन्ह्वा: विदेशी पत्रकार ग्यिरोङ।",
-        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोंग।"
-      }
-    },
-    {
-      "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-09-07T10:10:46Z",
-      "link": "https://x.com/XHNews/status/2096904000058843554",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：外国记者赴吉隆口岸了解灾情与多线救援。",
-        "en": "Xinhua: foreign journalists at Gyirong Port on aftermath and multi-front relief.",
-        "ne": "सिन्ह्वा: पत्रकार ग्यिरोङ पोर्ट।",
-        "hi": "शिन्हुआ: पत्रकार ग्यिरोंग पोर्ट।"
-      }
-    },
-    {
-      "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-09-06T14:41:30Z",
-      "link": "https://x.com/XHNews/status/2096609742487691562",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：截至6日18时43遇难、519失联，失联含23国261名外籍。",
-        "en": "Xinhua: as of 18:00 Sat 43 dead, 519 missing, including 261 foreign nationals from 23 countries.",
-        "ne": "सिन्ह्वा: 43 मृत्यु, 519 बेपत्ता; 261 विदेशी।",
-        "hi": "शिन्हुआ: 43 मृत्यु, 519 लापता; 261 विदेशी।"
+        "zh": "新华：CNN/路透/NBC等国际媒体周末赴吉隆口岸采访。",
+        "en": "Xinhua: CNN, Reuters, NBC visited Gyirong Port over the weekend.",
+        "ne": "सिन्ह्वा: अन्तर्राष्ट्रिय सञ्चार ग्यिरोङमा।",
+        "hi": "शिन्हुआ: अंतरराष्ट्रीय मीडिया ग्यिरोंग में।"
       }
     }
   ]
