@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-12T23:05:00Z",
+  "snap": "2026-09-13T00:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0912w",
+      "id": "osint-0913a",
       "src": "official",
-      "t": "2026-09-12T23:05:00Z",
+      "t": "2026-09-13T00:05:00Z",
       "link": "https://myrepublica.nagariknetwork.com/news/rasuwa-floods-1386-bodies-recovered-5130-people-still-missing-29-46.html",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13676"
       },
       "body": {
-        "zh": "12日23:05 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17:00 NPT：1386具遗体、5130失联；11日11:00获救13676。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "Recheck 12 Sep 23:05 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00 NPT: 1386 bodies, 5130 missing; 13,676 rescued at 11:00. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "12 सेप्ट 23:05 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "12 सित 23:05 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "13日00:05 UTC复核：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17:00 NPT：1386具遗体、5130失联；11日11:00获救13676。本轮无新官方伤亡。勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "Recheck 13 Sep 00:05 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00 NPT: 1386 bodies, 5130 missing; 13,676 rescued at 11:00. No newer official tally. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "13 सेप्ट 00:05 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नयाँ आधिकारिक छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "13 सित 00:05 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। नया आधिकारिक नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -91,7 +91,7 @@
       "id": "cn43",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://english.news.cn/20260909/f360b98049e64e6d93ad3a337002cd47/c.html",
+      "link": "https://english.news.cn/20260906/c7070ebe266b4338bf2206805140c36c/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -403,58 +403,28 @@
     },
     {
       "id": "x4",
-      "user": "@XHNews",
-      "t": "2026-08-30T14:25:09Z",
-      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "user": "@englishpardafas",
+      "t": "2026-09-12T09:38:29Z",
+      "link": "https://x.com/englishpardafas/status/2098707815514959984",
       "geo": "unknown",
       "text": {
-        "zh": "新华：激光AI监测装置辅助吉隆抢通路段落石滑坡预警。",
-        "en": "Xinhua: laser AI monitor helping detect rockfall risk on Gyirong reopen route.",
-        "ne": "सिन्ह्वा: लेजर AI जोखिम निगरानी।",
-        "hi": "शिन्हुआ: लेजर AI जोखिम निगरानी।"
+        "zh": "Pardafas：美方扩大对博特科西/拉苏瓦洪灾响应支持。",
+        "en": "Pardafas: U.S. expands support for Nepal Bhote Koshi / Rasuwa flood response.",
+        "ne": "अमेरिकाको सहयोग विस्तार।",
+        "hi": "अमेरिका ने राहत सहयोग बढ़ाया।"
       }
     },
     {
       "id": "x5",
-      "user": "@XHNews",
-      "t": "2026-08-30T06:49:32Z",
-      "link": "https://x.com/XHNews/status/2093954255568953603",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：直升机向吉隆口岸核心区投送物资。",
-        "en": "Xinhua: helicopters delivered supplies to rescuers at Gyirong Port core.",
-        "ne": "सिन्ह्वा: हेलिकप्टर आपूर्ति।",
-        "hi": "शिन्हुआ: हेलीकॉप्टर आपूर्ति।"
-      }
-    },
-    {
-      "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "user": "@NepalBolcha",
+      "t": "2026-09-12T09:47:56Z",
+      "link": "https://x.com/NepalBolcha/status/2098710191718191156",
       "geo": "unknown",
       "text": {
-        "zh": "新华：23国261名外籍人员失联（8月30日通报）。",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for (30 Aug briefing).",
-        "ne": "सिन्ह्वा: २३ देशका २६१ विदेशी बेपत्ता।",
-        "hi": "शिन्हुआ: 23 देशों के 261 विदेशी लापता।"
-      }
-    },
-    {
-      "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：截至29日18时16遇难546失联（后续已更新为43/519）。",
-        "en": "Xinhua: 16 dead 546 missing as of 29 Aug 18:00 (later HQ 43/519).",
-        "ne": "सिन्ह्वा: २९ अगस्ट 16/546 (पछि 43/519)।",
-        "hi": "शिन्हुआ: 29 अगस्त 16/546 (बाद में 43/519)।"
+        "zh": "Rasuwa博特科西洪水致12家银行17网点受扰，初估损失约72.4亿卢比。",
+        "en": "Rasuwa Bhotekoshi flood disrupted 17 bank branches; rapid assessment about Rs 7.24 billion.",
+        "ne": "१७ शाखा प्रभावित; करिब रु ७.२४ अर्ब क्षति।",
+        "hi": "17 शाखाएँ प्रभावित; लगभग 7.24 अरब रुपये क्षति।"
       }
     }
   ]
