@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-12T17:20:00Z",
+  "snap": "2026-09-12T18:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0912r",
+      "id": "osint-0912s",
       "src": "official",
-      "t": "2026-09-12T17:20:00Z",
+      "t": "2026-09-12T18:10:00Z",
       "link": "https://myrepublica.nagariknetwork.com/news/rasuwa-floods-1386-bodies-recovered-5130-people-still-missing-29-46.html",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13676"
       },
       "body": {
-        "zh": "12日17:20 UTC再检：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17时：1386具遗体、5130失联；获救仍引11日11时13676。本轮无更新指挥部伤亡。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "Recheck 12 Sep 17:20 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00: 1386 bodies, 5130 missing; rescued still 13676. No newer HQ tally. Do not add. Gate destroyed. Lake drained.",
-        "ne": "12 सेप्ट 17:20 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नयाँ HQ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "12 सित 17:20 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। नया HQ नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "12日18:10 UTC再检：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17时：1386具遗体、5130失联；获救仍引11日11时13676。未见更新指挥部伤亡。勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "Recheck 12 Sep 18:10 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00: 1386 bodies, 5130 missing; rescued still 13676. No newer HQ tally. Do not add. Gate destroyed. Lake drained.",
+        "ne": "12 सेप्ट 18:10 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नयाँ HQ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "12 सित 18:10 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। नया HQ नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -344,6 +344,79 @@
     {
       "id": "x0",
       "user": "@XHNews",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华：国家气候中心持续向尼泊尔提供滚动监测预报，支援吉隆—拉苏瓦救灾。",
+        "en": "Xinhua: China National Climate Center providing rolling forecasts to Nepal after Gyirong-Rasuwa mudslide.",
+        "ne": "सिन्ह्वा: जलवायु केन्द्रले नेपाललाई पूर्वानुमान दिइरहेको।",
+        "hi": "शिन्हुआ: जलवायु केंद्र नेपाल को पूर्वानुमान दे रहा है।"
+      }
+    },
+    {
+      "id": "x1",
+      "user": "@XHNews",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华梳理8·26吉隆口岸泥石流与中方搜救进展。",
+        "en": "Xinhua recap of 26 Aug Gyirong Port mudslide and China SAR progress.",
+        "ne": "सिन्ह्वा: ग्यिरोङ र SAR प्रगति।",
+        "hi": "शिन्हुआ: ग्यिरोंग और SAR प्रगति।"
+      }
+    },
+    {
+      "id": "x2",
+      "user": "@XHNews",
+      "t": "2026-09-08T04:59:52Z",
+      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华：冰岩崩触发链式泥石流冲击吉隆口岸，搜救全面展开。",
+        "en": "Xinhua: ice-rock collapse triggered chain mudslide at Gyirong Port; SAR ongoing.",
+        "ne": "सिन्ह्वा: बरफ-चट्टान खस्दा ग्यिरोङमा SAR।",
+        "hi": "शिन्हुआ: बर्फ-चट्टान ढहने से ग्यिरोंग में SAR।"
+      }
+    },
+    {
+      "id": "x3",
+      "user": "@XHNews",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华：CNN/路透/NBC等国际媒体采访吉隆口岸灾区。",
+        "en": "Xinhua: CNN, Reuters, NBC visited mudslide-hit Gyirong Port.",
+        "ne": "सिन्ह्वा: अन्तर्राष्ट्रिय मिडिया ग्यिरोङ पुगे।",
+        "hi": "शिन्हुआ: अंतरराष्ट्रीय मीडिया ग्यिरोंग पहुँचा।"
+      }
+    },
+    {
+      "id": "x4",
+      "user": "@XHNews",
+      "t": "2026-09-07T10:10:46Z",
+      "link": "https://x.com/XHNews/status/2096904000058843554",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华GLOBALink：外国记者赴吉隆口岸了解救援现场。",
+        "en": "Xinhua GLOBALink: foreign journalists at Gyirong Port aftermath.",
+        "ne": "सिन्ह्वा: विदेशी पत्रकार ग्यिरोङमा।",
+        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोंग में।"
+      }
+    },
+    {
+      "id": "x5",
+      "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
       "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
@@ -357,7 +430,7 @@
       }
     },
     {
-      "id": "x1",
+      "id": "x6",
       "user": "@XHNews",
       "t": "2026-09-04T09:00:43Z",
       "link": "https://x.com/XHNews/status/2095799206615347459",
@@ -372,7 +445,7 @@
       }
     },
     {
-      "id": "x2",
+      "id": "x7",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -384,79 +457,6 @@
         "en": "Xinhua: road access to Gyirong Port core basically restored 10:00 2 Sep.",
         "ne": "सिन्ह्वा: 2 सेप्ट 10:00 कोर सडक खुला।",
         "hi": "शिन्हुआ: 2 सित 10:00 कोर सड़क बहाल।"
-      }
-    },
-    {
-      "id": "x3",
-      "user": "@XHNews",
-      "t": "2026-08-30T06:49:32Z",
-      "link": "https://x.com/XHNews/status/2093954255568953603",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：直升机向吉隆口岸受灾核心区投送物资，搜救持续。",
-        "en": "Xinhua: helicopters delivered supplies to Gyirong Port as search continued.",
-        "ne": "सिन्ह्वा: हेलिकप्टरले सामग्री पुर्‍याए।",
-        "hi": "शिन्हुआ: हेलीकॉप्टर ने आपूर्ति पहुंचाई।"
-      }
-    },
-    {
-      "id": "x4",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华：排查失联外籍人员261人、来自23国。",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for.",
-        "ne": "सिन्ह्वा: २३ देशका २६१ विदेशी बेपत्ता।",
-        "hi": "शिन्हुआ: 23 देशों के 261 विदेशी लापता।"
-      }
-    },
-    {
-      "id": "x5",
-      "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：截至29日18时16遇难546失联（后续已更新为43/519）。",
-        "en": "Xinhua: as of 29 Aug 18:00, 16 dead 546 missing (later HQ 43/519).",
-        "ne": "सिन्ह्वा: 29 अगस्ट 16/546 (पछि 43/519)।",
-        "hi": "शिन्हुआ: 29 अग 16/546 (बाद में 43/519)।"
-      }
-    },
-    {
-      "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-08-29T06:51:32Z",
-      "link": "https://x.com/XHNews/status/2093592368025055379",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：边检民警黄鹏在冲击时引导人员撤离。",
-        "en": "Xinhua: border officer Huang Peng guided evacuation as the mudslide struck.",
-        "ne": "सिन्ह्वा: अधिकारीले निकासी गराए।",
-        "hi": "शिन्हुआ: अधिकारी ने निकासी कराई।"
-      }
-    },
-    {
-      "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-08-29T04:18:06Z",
-      "link": "https://x.com/XHNews/status/2093553754280968249",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：无人机夜间向吉隆口岸核心区投送物资。",
-        "en": "Xinhua: drones delivered night supplies to the hardest-hit Gyirong Port area.",
-        "ne": "सिन्ह्वा: राति ड्रोनले सामग्री पुर्‍याए।",
-        "hi": "शिन्हुआ: रात ड्रोन ने आपूर्ति पहुंचाई।"
       }
     }
   ]
