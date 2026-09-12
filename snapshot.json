@@ -1,68 +1,68 @@
 {
-  "snap": "2026-09-12T22:15:00Z",
+  "snap": "2026-09-12T23:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1384, "missing": 5132, "rescued": 13646 }
+    "np": { "dead": 1386, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0912v",
+      "id": "osint-0912w",
       "src": "official",
-      "t": "2026-09-12T22:15:00Z",
-      "link": "https://nepaldisasterupdatelive.nxtimaginelabs.com/",
+      "t": "2026-09-12T23:05:00Z",
+      "link": "https://myrepublica.nagariknetwork.com/news/rasuwa-floods-1386-bodies-recovered-5130-people-still-missing-29-46.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "本轮复核：CN 43/519/2；NP 1384/5132/13646",
-        "en": "This run: CN 43/519/2; NP 1384/5132/13646",
-        "ne": "यो रन: CN ४३/५१९/२; NP १३८४/५१३२/१३६४६",
-        "hi": "यह रन: CN 43/519/2; NP 1384/5132/13646"
+        "zh": "本轮：CN 43/519/2；NP 1386/5130/13676",
+        "en": "This run: CN 43/519/2; NP 1386/5130/13676",
+        "ne": "यो रन: CN ४३/५१९/२; NP १३८६/५१३०/१३६७६",
+        "hi": "यह रन: CN 43/519/2; NP 1386/5130/13676"
       },
       "body": {
-        "zh": "12日22:15 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。尼泊尔警方12日11:00 NPT：1384具遗体、5132失联、获救13646。NDRRMA 11日曾报1386/5130。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "Recheck 12 Sep 22:15 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). Nepal Police 12 Sep 11:00 NPT: 1384 bodies, 5132 missing, 13646 rescued. NDRRMA 11 Sep had 1386/5130. Do not add. Gate destroyed. Lake drained.",
-        "ne": "12 सेप्ट 22:15 UTC: CN 43/519/2 (५ सेप्ट 18:00)। नेपाल प्रहरी 12 सेप्ट 11:00 NPT: 1384/5132/13646। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "12 सित 22:15 UTC: CN 43/519/2 (5 सित 18:00)। नेपाल पुलिस 12 सित 11:00 NPT: 1384/5132/13646। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "12日23:05 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17:00 NPT：1386具遗体、5130失联；11日11:00获救13676。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "Recheck 12 Sep 23:05 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00 NPT: 1386 bodies, 5130 missing; 13,676 rescued at 11:00. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "12 सेप्ट 23:05 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "12 सित 23:05 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
-      "id": "np1384",
+      "id": "np1386",
       "src": "official",
-      "t": "2026-09-12T05:15:00Z",
-      "link": "https://nepaldisasterupdatelive.nxtimaginelabs.com/",
+      "t": "2026-09-11T11:15:00Z",
+      "link": "https://myrepublica.nagariknetwork.com/news/rasuwa-floods-1386-bodies-recovered-5130-people-still-missing-29-46.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "尼泊尔警方12日11:00 NPT：1384具遗体",
-        "en": "Nepal Police 12 Sep 11:00 NPT: 1384 bodies",
-        "ne": "नेपाल प्रहरी 11:00 NPT: 1384 शव",
-        "hi": "नेपाल पुलिस 11:00 NPT: 1384 शव"
+        "zh": "NDRRMA 11日17:00 NPT：1386具遗体",
+        "en": "NDRRMA 11 Sep 17:00 NPT: 1386 bodies",
+        "ne": "NDRRMA 17:00 NPT: 1386 शव",
+        "hi": "NDRRMA 17:00 NPT: 1386 शव"
       },
       "body": {
-        "zh": "警方12日11:00 NPT：全国1384遗体、失联5132、获救13646。勿与中方相加。",
-        "en": "Police 12 Sep 11:00 NPT: 1384 recovered, 5132 missing, 13646 rescued. Do not add CN.",
-        "ne": "प्रहरी: 1384/5132/13646। नजोड़्नु।",
-        "hi": "पुलिस: 1384/5132/13646। न जोड़ें।"
+        "zh": "发言人Shanti Mahat：截至11日17:00已发现1386具遗体（含残肢），失联5130。勿与中方相加。",
+        "en": "Spokesperson Shanti Mahat: 1,386 recovered including remains as of 17:00 11 Sep; 5,130 missing. Do not add CN.",
+        "ne": "१३८६ शव; ५१३० बेपत्ता। नजोड़्नु।",
+        "hi": "१३८६ शव; ५१३० लापता। न जोड़ें।"
       }
     },
     {
-      "id": "ifrc0911",
+      "id": "np-rescue",
       "src": "official",
-      "t": "2026-09-11T00:00:00Z",
-      "link": "https://go.ifrc.org/emergencies/8073/overview",
+      "t": "2026-09-11T05:15:00Z",
+      "link": "https://adaderana.lk/news/cmtwwgh790006356psg2u86jw",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "IFRC GO 11日：1385死5130失联",
-        "en": "IFRC GO 11 Sep: 1385 dead 5130 missing",
-        "ne": "IFRC GO: 1385/5130",
-        "hi": "IFRC GO: 1385/5130"
+        "zh": "NDRRMA 11日11:00：获救13676",
+        "en": "NDRRMA 11 Sep 11:00: 13676 rescued",
+        "ne": "NDRRMA 11:00: 13676 उद्धार",
+        "hi": "NDRRMA 11:00: 13676 बचाए"
       },
       "body": {
-        "zh": "IFRC GO 11日更新1385/5130。本轮采用尼泊尔警方12日11:00的1384/5132。勿与中方相加。",
-        "en": "IFRC GO 11 Sep listed 1385/5130. This run uses Nepal Police 12 Sep 11:00 figures. Do not add CN.",
-        "ne": "IFRC 1385; यो रन प्रहरी 1384। नजोड़्नु।",
-        "hi": "IFRC 1385; यह रन पुलिस 1384। न जोड़ें।"
+        "zh": "搜救更新：获救13676；37安置点；安保21022人。11日17:00伤亡改为1386/5130。",
+        "en": "SAR update: 13,676 rescued; 37 holding centres; 21,022 security. Later 17:00 tally 1386/5130.",
+        "ne": "उद्धार 13676; 37 केन्द्र; सुरक्षा 21022।",
+        "hi": "बचाए 13676; 37 केंद्र; सुरक्षा 21022।"
       }
     },
     {
@@ -423,10 +423,10 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：直升机向吉隆口岸受灾区投送物资，搜救持续。",
-        "en": "Xinhua: helicopters delivered supplies to Gyirong Port search teams.",
-        "ne": "सिन्ह्वा: हेलिकप्टरले आपूर्ति पठायो।",
-        "hi": "शिन्हुआ: हेलीकॉप्टर ने आपूर्ति पहुंचाई।"
+        "zh": "新华：直升机向吉隆口岸核心区投送物资。",
+        "en": "Xinhua: helicopters delivered supplies to rescuers at Gyirong Port core.",
+        "ne": "सिन्ह्वा: हेलिकप्टर आपूर्ति।",
+        "hi": "शिन्हुआ: हेलीकॉप्टर आपूर्ति।"
       }
     },
     {
@@ -436,10 +436,10 @@
       "link": "https://x.com/XHNews/status/2093931897667907999",
       "geo": "unknown",
       "text": {
-        "zh": "新华：吉隆口岸失联外籍人员261人、涉23国。",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for at Gyirong Port.",
-        "ne": "सिन्ह्वा: २६१ विदेशी २३ देश।",
-        "hi": "शिन्हुआ: 261 विदेशी 23 देश।"
+        "zh": "新华：23国261名外籍人员失联（8月30日通报）。",
+        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for (30 Aug briefing).",
+        "ne": "सिन्ह्वा: २३ देशका २६१ विदेशी बेपत्ता।",
+        "hi": "शिन्हुआ: 23 देशों के 261 विदेशी लापता।"
       }
     },
     {
@@ -451,10 +451,10 @@
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华当时口径：截至29日18时16遇难546失联（已被后续43/519取代）。",
-        "en": "Xinhua then: 16 dead 546 missing as of 29 Aug 18:00 (superseded by 43/519).",
-        "ne": "सिन्ह्वा त्यतिबेला 16/546 (पछि 43/519)।",
-        "hi": "शिन्हुआ तब 16/546 (बाद में 43/519)।"
+        "zh": "新华：截至29日18时16遇难546失联（后续已更新为43/519）。",
+        "en": "Xinhua: 16 dead 546 missing as of 29 Aug 18:00 (later HQ 43/519).",
+        "ne": "सिन्ह्वा: २९ अगस्ट 16/546 (पछि 43/519)।",
+        "hi": "शिन्हुआ: 29 अगस्त 16/546 (बाद में 43/519)।"
       }
     }
   ]
