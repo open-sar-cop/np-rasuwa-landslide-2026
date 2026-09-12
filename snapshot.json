@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-12T18:10:00Z",
+  "snap": "2026-09-12T19:25:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0912s",
+      "id": "osint-0912t",
       "src": "official",
-      "t": "2026-09-12T18:10:00Z",
+      "t": "2026-09-12T19:25:00Z",
       "link": "https://myrepublica.nagariknetwork.com/news/rasuwa-floods-1386-bodies-recovered-5130-people-still-missing-29-46.html",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13676"
       },
       "body": {
-        "zh": "12日18:10 UTC再检：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17时：1386具遗体、5130失联；获救仍引11日11时13676。未见更新指挥部伤亡。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "Recheck 12 Sep 18:10 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00: 1386 bodies, 5130 missing; rescued still 13676. No newer HQ tally. Do not add. Gate destroyed. Lake drained.",
-        "ne": "12 सेप्ट 18:10 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नयाँ HQ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "12 सित 18:10 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। नया HQ नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "12日19:25 UTC再检：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17时：1386具遗体、5130失联；获救仍引11日11时13676。未见12日新指挥部伤亡。勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "Recheck 12 Sep 19:25 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00: 1386 bodies, 5130 missing; rescued still 13676. No 12 Sep HQ tally. Do not add. Gate destroyed. Lake drained.",
+        "ne": "12 सेप्ट 19:25 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नयाँ HQ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "12 सित 19:25 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। नया HQ नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -387,50 +387,20 @@
     {
       "id": "x3",
       "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：CNN/路透/NBC等国际媒体采访吉隆口岸灾区。",
-        "en": "Xinhua: CNN, Reuters, NBC visited mudslide-hit Gyirong Port.",
-        "ne": "सिन्ह्वा: अन्तर्राष्ट्रिय मिडिया ग्यिरोङ पुगे।",
-        "hi": "शिन्हुआ: अंतरराष्ट्रीय मीडिया ग्यिरोंग पहुँचा।"
-      }
-    },
-    {
-      "id": "x4",
-      "user": "@XHNews",
-      "t": "2026-09-07T10:10:46Z",
-      "link": "https://x.com/XHNews/status/2096904000058843554",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华GLOBALink：外国记者赴吉隆口岸了解救援现场。",
-        "en": "Xinhua GLOBALink: foreign journalists at Gyirong Port aftermath.",
-        "ne": "सिन्ह्वा: विदेशी पत्रकार ग्यिरोङमा।",
-        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोंग में।"
-      }
-    },
-    {
-      "id": "x5",
-      "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
       "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：边检民警肖富贵灾后不久在吉隆口岸附近拍摄无人机画面。",
-        "en": "Xinhua: immigration officer Xiao Fugui filmed drone footage near Gyirong Port after the mudslide.",
-        "ne": "सिन्ह्वा: ग्यिरोङ नजिक ड्रोन फुटेज।",
-        "hi": "शिन्हुआ: ग्यिरोंग के पास ड्रोन फुटेज।"
+        "zh": "新华：边检民警肖富贵灾后无人机航拍吉隆口岸。",
+        "en": "Xinhua: immigration officer Xiao Fugui drone footage near Gyirong Port after the slide.",
+        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज।",
+        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज।"
       }
     },
     {
-      "id": "x6",
+      "id": "x4",
       "user": "@XHNews",
       "t": "2026-09-04T09:00:43Z",
       "link": "https://x.com/XHNews/status/2095799206615347459",
@@ -438,25 +408,55 @@
       "lng": 85.368,
       "geo": "place",
       "text": {
-        "zh": "新华：G216抢通两小时推进不足5米，急流乱石边坡不稳。",
-        "en": "Xinhua: G216 crews advanced less than 5 meters in two hours amid current and rock.",
-        "ne": "सिन्ह्वा: G216 दुई घण्टामा ५ मिटरभन्दा कम।",
-        "hi": "शिन्हुआ: G216 दो घंटे में 5 मीटर से कम।"
+        "zh": "新华：G216核心通道抢通过程——无路、急流、危岩。",
+        "en": "Xinhua: how G216 core access was reopened amid water and unstable slopes.",
+        "ne": "सिन्ह्वा: G216 कोर कसरी खोलियो।",
+        "hi": "शिन्हुआ: G216 कोर कैसे खोला गया।"
+      }
+    },
+    {
+      "id": "x5",
+      "user": "@XHNews",
+      "t": "2026-09-03T12:07:02Z",
+      "link": "https://x.com/XHNews/status/2095483707511734465",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华：口岸山体“中国我爱你”大字仍隐约可见。",
+        "en": "Xinhua: mountainside ‘China I Love You’ still faintly visible beside Gyirong Port.",
+        "ne": "सिन्ह्वा: पहाडको अक्षर अझ देखिन्छ।",
+        "hi": "शिन्हुआ: पहाड़ पर अक्षर अभी दिखते हैं।"
+      }
+    },
+    {
+      "id": "x6",
+      "user": "@XHNews",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "place",
+      "text": {
+        "zh": "新华：2日10时G216通往口岸核心区基本抢通。",
+        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
+        "ne": "सिन्ह्वा: 2 सेप्ट 10:00 G216 खुला।",
+        "hi": "शिन्हुआ: 2 सित 10:00 G216 खुला।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "t": "2026-08-30T04:23:39Z",
+      "link": "https://x.com/XHNews/status/2093917539642519759",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "place",
       "text": {
-        "zh": "新华：2日10时通往吉隆口岸核心区陆路基本抢通。",
-        "en": "Xinhua: road access to Gyirong Port core basically restored 10:00 2 Sep.",
-        "ne": "सिन्ह्वा: 2 सेप्ट 10:00 कोर सडक खुला।",
-        "hi": "शिन्हुआ: 2 सित 10:00 कोर सड़क बहाल।"
+        "zh": "新华8月30日：截至29日18时16遇难546失联（后续已更新为43/519）。",
+        "en": "Xinhua 30 Aug: 16 dead 546 missing as of 29 Aug 18:00 (later updated to 43/519).",
+        "ne": "सिन्ह्वा 30 अगस्ट: 16/546 (पछि 43/519)।",
+        "hi": "शिन्हुआ 30 अग: 16/546 (बाद में 43/519)।"
       }
     }
   ]
