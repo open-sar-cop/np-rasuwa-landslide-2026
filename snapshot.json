@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-13T00:05:00Z",
+  "snap": "2026-09-13T01:11:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13676 }
   },
   "published": [
     {
-      "id": "osint-0913a",
+      "id": "osint-0913b",
       "src": "official",
-      "t": "2026-09-13T00:05:00Z",
+      "t": "2026-09-13T01:11:00Z",
       "link": "https://myrepublica.nagariknetwork.com/news/rasuwa-floods-1386-bodies-recovered-5130-people-still-missing-29-46.html",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13676"
       },
       "body": {
-        "zh": "13日00:05 UTC复核：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17:00 NPT：1386具遗体、5130失联；11日11:00获救13676。本轮无新官方伤亡。勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "Recheck 13 Sep 00:05 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00 NPT: 1386 bodies, 5130 missing; 13,676 rescued at 11:00. No newer official tally. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "13 सेप्ट 00:05 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नयाँ आधिकारिक छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "13 सित 00:05 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। नया आधिकारिक नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "13日01:11 UTC复核：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 11日17:00 NPT：1386具遗体、5130失联；11日11:00获救13676。本轮无更新官方伤亡。勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "Recheck 13 Sep 01:11 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 11 Sep 17:00 NPT: 1386 bodies, 5130 missing; 13,676 rescued at 11:00. No newer official tally. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "13 सेप्ट 01:11 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 11 सेप्ट 17:00: 1386/5130; उद्धार 13676। नयाँ आधिकारिक छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "13 सित 01:11 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 11 सित 17:00: 1386/5130; बचाए 13676। नया आधिकारिक नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -344,6 +344,49 @@
     {
       "id": "x0",
       "user": "@XHNews",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华：国家气候中心向尼方滚动提供监测预报，支援吉隆—拉苏瓦救援。",
+        "en": "Xinhua: CMA climate products rolling to Nepal after Gyirong–Rasuwa mudslide.",
+        "ne": "सिन्ह्वा: जलवायु पूर्वानुमान नेपाललाई।",
+        "hi": "शिन्हुआ: नेपाल को जलवायु पूर्वानुमान।"
+      }
+    },
+    {
+      "id": "x1",
+      "user": "@XHNews",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华：8月26日链式泥石流冲击吉隆口岸，搜救进展综述。",
+        "en": "Xinhua: chain mudslide hit Gyirong Port 26 Aug; latest China SAR progress.",
+        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट SAR प्रगति।",
+        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट SAR प्रगति।"
+      }
+    },
+    {
+      "id": "x2",
+      "user": "@XHNews",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华：CNN/路透/NBC记者周末探访受灾吉隆口岸。",
+        "en": "Xinhua: CNN, Reuters, NBC visited mudslide-hit Gyirong Port Sat–Sun.",
+        "ne": "सिन्ह्वा: विदेशी पत्रकार ग्यिरोङ।",
+        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोंग।"
+      }
+    },
+    {
+      "id": "x3",
+      "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
       "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
@@ -357,7 +400,7 @@
       }
     },
     {
-      "id": "x1",
+      "id": "x4",
       "user": "@XHNews",
       "t": "2026-09-04T09:00:43Z",
       "link": "https://x.com/XHNews/status/2095799206615347459",
@@ -372,22 +415,7 @@
       }
     },
     {
-      "id": "x2",
-      "user": "@XHNews",
-      "t": "2026-09-03T12:07:02Z",
-      "link": "https://x.com/XHNews/status/2095483707511734465",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "place",
-      "text": {
-        "zh": "新华：口岸旁山体“中国我爱你”字迹仍隐约可见。",
-        "en": "Xinhua: mountainside ‘China I love you’ characters still faintly visible at the port.",
-        "ne": "सिन्ह्वा: पहाडको अक्षर अझै देखिन्छ।",
-        "hi": "शिन्हुआ: पहाड़ पर अक्षर अभी दिखते हैं।"
-      }
-    },
-    {
-      "id": "x3",
+      "id": "x5",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -402,29 +430,33 @@
       }
     },
     {
-      "id": "x4",
-      "user": "@englishpardafas",
-      "t": "2026-09-12T09:38:29Z",
-      "link": "https://x.com/englishpardafas/status/2098707815514959984",
-      "geo": "unknown",
+      "id": "x6",
+      "user": "@XHNews",
+      "t": "2026-09-07T10:10:46Z",
+      "link": "https://x.com/XHNews/status/2096904000058843554",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
       "text": {
-        "zh": "Pardafas：美方扩大对博特科西/拉苏瓦洪灾响应支持。",
-        "en": "Pardafas: U.S. expands support for Nepal Bhote Koshi / Rasuwa flood response.",
-        "ne": "अमेरिकाको सहयोग विस्तार।",
-        "hi": "अमेरिका ने राहत सहयोग बढ़ाया।"
+        "zh": "新华GLOBALink：外国记者实地了解吉隆口岸灾后与救援。",
+        "en": "Xinhua GLOBALink: foreign journalists at devastated Gyirong Port.",
+        "ne": "सिन्ह्वा: विदेशी पत्रकार स्थलमा।",
+        "hi": "शिन्हुआ: विदेशी पत्रकार स्थल पर।"
       }
     },
     {
-      "id": "x5",
-      "user": "@NepalBolcha",
-      "t": "2026-09-12T09:47:56Z",
-      "link": "https://x.com/NepalBolcha/status/2098710191718191156",
-      "geo": "unknown",
+      "id": "x7",
+      "user": "@XHNews",
+      "t": "2026-09-08T04:59:52Z",
+      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
       "text": {
-        "zh": "Rasuwa博特科西洪水致12家银行17网点受扰，初估损失约72.4亿卢比。",
-        "en": "Rasuwa Bhotekoshi flood disrupted 17 bank branches; rapid assessment about Rs 7.24 billion.",
-        "ne": "१७ शाखा प्रभावित; करिब रु ७.२४ अर्ब क्षति।",
-        "hi": "17 शाखाएँ प्रभावित; लगभग 7.24 अरब रुपये क्षति।"
+        "zh": "新华再发：链式泥石流成因与中方搜救进展。",
+        "en": "Xinhua again: chain-slide cause and China rescue progress.",
+        "ne": "सिन्ह्वा: कारण र SAR प्रगति।",
+        "hi": "शिन्हुआ: कारण और SAR प्रगति।"
       }
     }
   ]
