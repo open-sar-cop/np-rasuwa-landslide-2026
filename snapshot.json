@@ -1,15 +1,15 @@
 {
-  "snap": "2026-09-14T01:18:00Z",
+  "snap": "2026-09-14T02:06:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0914b",
+      "id": "osint-0914c",
       "src": "official",
-      "t": "2026-09-14T01:18:00Z",
-      "link": "https://www.news18.com/agency-feeds/nepal-floods-death-toll-rises-to-1386-10325657.html",
+      "t": "2026-09-14T02:06:00Z",
+      "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
       "title": {
@@ -19,17 +19,17 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
       },
       "body": {
-        "zh": "14日01:18 UTC检索：中方仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA/PTI 12日：1386具遗体、5130失联、获救13728。13日无新官方伤亡通报。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "14 Sep 01:18 UTC: CN still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA/PTI 12 Sep: 1,386 bodies / 5,130 missing / 13,728 rescued. No new official casualty bulletin 13 Sep. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "14 सेप्ट 01:18 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA/PTI 12 सेप्ट: 1386/5130; उद्धार 13728। 13 सेप्ट नयाँ आधिकारिक घाउ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "14 सित 01:18 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA/PTI 12 सित: 1386/5130; बचाए 13728। 13 सित नया आधिकारिक आँकड़ा नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "14日02:06 UTC检索：中方仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA/IFRC 12日：1386具遗体、5130失联、获救13728。13–14日无新官方伤亡通报。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "14 Sep 02:06 UTC: CN still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA/IFRC 12 Sep: 1,386 bodies / 5,130 missing / 13,728 rescued. No new official casualty bulletin 13–14 Sep. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "14 सेप्ट 02:06 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA/IFRC 12 सेप्ट: 1386/5130; उद्धार 13728। 13–14 सेप्ट नयाँ आधिकारिक घाउ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "14 सित 02:06 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA/IFRC 12 सित: 1386/5130; बचाए 13728। 13–14 सित नया आधिकारिक आँकड़ा नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
       "id": "cn-hq-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9df0f4e4b06d4aa055c9df.html",
+      "link": "https://news.ifeng.com/c/8wCiMe25Aep",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -51,18 +51,18 @@
       "id": "ndrrma-0912",
       "src": "official",
       "t": "2026-09-12T12:15:00Z",
-      "link": "https://www.news18.com/agency-feeds/nepal-floods-death-toll-rises-to-1386-10325657.html",
+      "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "NDRRMA：1386遗体 5130失联",
-        "en": "NDRRMA: 1,386 bodies, 5,130 missing",
-        "ne": "NDRRMA: १३८६ शव, ५१३० बेपत्ता",
-        "hi": "NDRRMA: 1,386 शव, 5,130 लापता"
+        "zh": "NDRRMA/IFRC：1386遗体 5130失联",
+        "en": "NDRRMA/IFRC: 1,386 bodies, 5,130 missing",
+        "ne": "NDRRMA/IFRC: १३८६ शव, ५१३० बेपत्ता",
+        "hi": "NDRRMA/IFRC: 1,386 शव, 5,130 लापता"
       },
       "body": {
-        "zh": "12日NDRRMA/PTI：1386具遗体、5130失联、获救13728。口径勿与中方相加。",
-        "en": "12 Sep NDRRMA/PTI: 1,386 bodies, 5,130 missing, 13,728 rescued. Do not add to CN figures.",
+        "zh": "12日NDRRMA/IFRC：1386具遗体、5130失联、获救13728。口径勿与中方相加。",
+        "en": "12 Sep NDRRMA/IFRC: 1,386 bodies, 5,130 missing, 13,728 rescued. Do not add to CN figures.",
         "ne": "12 सेप्ट: 1386 शव, 5130 बेपत्ता, उद्धार 13728। चीनसङ्ग नजोड़्नु।",
         "hi": "12 सित: 1386 शव, 5130 लापता, बचाए 13728। चीन से न जोड़ें।"
       }
@@ -316,6 +316,21 @@
     },
     {
       "id": "x5",
+      "user": "@XHNews",
+      "t": "2026-09-06T14:41:30Z",
+      "link": "https://x.com/XHNews/status/2096609742487691562",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社：截至6日18时吉隆口岸43遇难、519失联（含外籍261人）。",
+        "en": "Xinhua: as of 6 p.m. 6 Sep, Gyirong Port 43 dead, 519 missing (261 foreign).",
+        "ne": "सिन्हुआ: ६ सेप्ट 18:00 सम्म ४३ मृत्यु, ५१९ बेपत्ता (२६१ विदेशी)।",
+        "hi": "शिन्हुआ: 6 सित 18:00 तक 43 मृत, 519 लापता (261 विदेशी)।"
+      }
+    },
+    {
+      "id": "x6",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
