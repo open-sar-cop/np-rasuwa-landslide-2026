@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-13T21:05:00Z",
+  "snap": "2026-09-13T22:17:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0913v",
+      "id": "osint-0913w",
       "src": "official",
-      "t": "2026-09-13T21:05:00Z",
+      "t": "2026-09-13T22:17:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/420",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,96 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
       },
       "body": {
-        "zh": "13日21:05 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA公开图示仍为12日18:00：1386具遗体、5130失联、获救13728。SitRep页面仍标#12、12日19:00。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "13 Sep 21:05 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA graphic still 12 Sep 18:00: 1,386 bodies / 5,130 missing / 13,728 rescued. SitRep page still #12, 12 Sep 19:00. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "13 सेप्ट 21:05 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 12 सेप्ट 18:00: 1386/5130; उद्धार 13728। SitRep #12, समय 19:00। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "13 सित 21:05 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 12 सित 18:00: 1386/5130; बचाए 13728। SitRep #12, वही 19:00। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "13日22:17 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA公开图示仍为12日18:00：1386具遗体、5130失联、获救13728。SitRep页面仍标#11/#12、12日19:00。13日无新官方伤亡通报。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "13 Sep 22:17 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA graphic still 12 Sep 18:00: 1,386 bodies / 5,130 missing / 13,728 rescued. SitRep page still #11/#12, 12 Sep 19:00. No new official casualty bulletin on 13 Sep. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "13 सेप्ट 22:17 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 12 सेप्ट 18:00: 1386/5130; उद्धार 13728। SitRep #11/#12, समय 19:00। 13 सेप्ट नयाँ आधिकारिक घाउ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "13 सित 22:17 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 12 सित 18:00: 1386/5130; बचाए 13728। SitRep #11/#12, वही 19:00। 13 सित नया आधिकारिक आँकड़ा नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+      }
+    },
+    {
+      "id": "cn-hq-0905",
+      "src": "official",
+      "t": "2026-09-05T10:00:00Z",
+      "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9df0f4e4b06d4aa055c9df.html",
+      "img": null,
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "title": {
+        "zh": "中方指挥部：43遇难519失联",
+        "en": "CN HQ: 43 dead, 519 missing",
+        "ne": "चीन मुख्यालय: ४३ मृत्यु, ५१९ बेपत्ता",
+        "hi": "चीन मुख्यालय: 43 मृत, 519 लापता"
+      },
+      "body": {
+        "zh": "截至9月5日18时：43遇难、519失联、救出2人；遗物993件。外籍失联261人（23国）。核心区深层搜寻。",
+        "en": "As of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued; 993 personal items. 261 foreign missing (23 countries). Deep search in core.",
+        "ne": "५ सेप्ट 18:00 सम्म: ४३ मृत्यु, ५१९ बेपत्ता, २ उद्धार; ९९३ वस्तु। २६१ विदेशी बेपत्ता।",
+        "hi": "5 सित 18:00 तक: 43 मृत, 519 लापता, 2 बचाए; 993 वस्तुएँ। 261 विदेशी लापता।"
+      }
+    },
+    {
+      "id": "ndrrma-0912",
+      "src": "official",
+      "t": "2026-09-12T12:15:00Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/420",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA：1386遗体 5130失联",
+        "en": "NDRRMA: 1,386 bodies, 5,130 missing",
+        "ne": "NDRRMA: १३८६ शव, ५१३० बेपत्ता",
+        "hi": "NDRRMA: 1,386 शव, 5,130 लापता"
+      },
+      "body": {
+        "zh": "12日18:00图示：1386具遗体、5130失联、获救13728。SitRep 12日19:00。口径勿与中方相加。",
+        "en": "12 Sep 18:00 graphic: 1,386 bodies, 5,130 missing, 13,728 rescued. SitRep 12 Sep 19:00. Do not add to CN figures.",
+        "ne": "12 सेप्ट 18:00: 1386 शव, 5130 बेपत्ता, उद्धार 13728। चीनसँग नजोड़्नु।",
+        "hi": "12 सित 18:00: 1386 शव, 5130 लापता, बचाए 13728। चीन से न जोड़ें।"
+      }
+    },
+    {
+      "id": "unosat-0827",
+      "src": "official",
+      "t": "2026-08-27T12:00:00Z",
+      "link": "https://reliefweb.int/report/nepal/nepal-rasuwa-flood-flash-update-4-31-august-2026",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Timure",
+      "title": {
+        "zh": "UNOSAT/ReliefWeb：泥石流范围图",
+        "en": "UNOSAT/ReliefWeb: debris-flow extent",
+        "ne": "UNOSAT/ReliefWeb: लेदो बहाव सीमा",
+        "hi": "UNOSAT/ReliefWeb: मलबा प्रवाह सीमा"
+      },
+      "body": {
+        "zh": "Sentinel-2/PlanetScope：热索瓦约20平方公里受泥石流影响。初步分析，未经地面核验。",
+        "en": "Sentinel-2/PlanetScope: ~20 km² affected in Rasuwa. Preliminary, not field-validated.",
+        "ne": "Sentinel-2/PlanetScope: रसुवामा ~२० वर्गकिमि प्रभावित। प्रारम्भिक।",
+        "hi": "Sentinel-2/PlanetScope: रसुवा में ~20 वर्गकिमी प्रभावित। प्रारंभिक।"
+      }
+    },
+    {
+      "id": "usemb-0903",
+      "src": "official",
+      "t": "2026-09-03T11:45:00Z",
+      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-flood-and-landslide-risk-and-road-disruptions/",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Timure",
+      "title": {
+        "zh": "美使馆：勿前往口岸路段",
+        "en": "US Embassy: do not travel to crossing",
+        "ne": "अमेरिकी दूतावास: सीमा नजानुहोस्",
+        "hi": "अमेरिकी दूतावास: सीमा न जाएँ"
+      },
+      "body": {
+        "zh": "9月3日：Khalte段仍断；勿前往Rasuwagadhi–Timure–Syafrubesi及中尼口岸。",
+        "en": "3 Sep: Khalte still closed; do not travel to Rasuwagadhi–Timure–Syafrubesi or the border crossing.",
+        "ne": "३ सेप्ट: खाल्टे बन्द; रसुवागढी–तिमुरे–स्याफ्रुबेसी नजानुहोस्।",
+        "hi": "3 सित: खाल्टे बंद; रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी न जाएँ।"
       }
     }
   ],
@@ -100,10 +186,10 @@
       "link": "https://x.com/NDRRMA_Nepal/status/2098837672068628860",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA SitRep：12日19:00搜救救济形势报告已发（页面现标#12）。",
-        "en": "NDRRMA SitRep: 12 Sep 19:00 SAR and relief report posted (page now titled #12).",
-        "ne": "NDRRMA SitRep: 12 सेप्ट 19:00 (पृष्ठ #12)।",
-        "hi": "NDRRMA SitRep: 12 सित 19:00 (पृष्ठ #12)।"
+        "zh": "NDRRMA SitRep：12日19:00搜救救济形势报告已发。",
+        "en": "NDRRMA SitRep: 12 Sep 19:00 SAR and relief report posted.",
+        "ne": "NDRRMA SitRep: 12 सेप्ट 19:00।",
+        "hi": "NDRRMA SitRep: 12 सित 19:00।"
       }
     },
     {
@@ -117,6 +203,36 @@
         "en": "NDRRMA: 12 Sep 18:00 update — 1,386 bodies, 5,130 missing, 13,728 rescued.",
         "ne": "NDRRMA: 12 सेप्ट 18:00 — 1386 शव, 5130 बेपत्ता, उद्धार 13728।",
         "hi": "NDRRMA: 12 सित 18:00 — 1386 शव, 5130 लापता, बचाए 13728।"
+      }
+    },
+    {
+      "id": "x2",
+      "user": "@XHNews",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社：国家气候中心向尼方滚动提供监测预报，支援吉隆—热索瓦救援。",
+        "en": "Xinhua: China National Climate Center providing rolling forecasts to Nepal for Gyirong–Rasuwa relief.",
+        "ne": "सिन्हुआ: चीनले नेपाललाई जलवायु पूर्वानुमान दिँदै।",
+        "hi": "शिन्हुआ: चीन नेपाल को जलवायु पूर्वानुमान दे रहा है।"
+      }
+    },
+    {
+      "id": "x3",
+      "user": "@XHNews",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社：国际媒体参观吉隆口岸灾区。",
+        "en": "Xinhua: International media visited mudslide-hit Gyirong Port.",
+        "ne": "सिन्हुआ: अन्तर्राष्ट्रिय मिडिया ग्यिरोङ पुगे।",
+        "hi": "शिन्हुआ: अंतरराष्ट्रीय मीडिया ग्यिरोंग पहुँचा।"
       }
     }
   ]
