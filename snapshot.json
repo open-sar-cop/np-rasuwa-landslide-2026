@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-14T12:05:00Z",
+  "snap": "2026-09-14T13:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0914g",
+      "id": "osint-0914h",
       "src": "official",
-      "t": "2026-09-14T12:05:00Z",
+      "t": "2026-09-14T13:10:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/420",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
       },
       "body": {
-        "zh": "14日12:05 UTC：中方无新指挥部数字，仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA/IFRC口径12日：1386死、5130失联、获救13728。13日媒体引警方1390，本快照仍用NDRRMA。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "14 Sep 12:05 UTC: no new CN HQ count; still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA/IFRC 12 Sep: 1,386 dead / 5,130 missing / 13,728 rescued. Media 13 Sep cite Police 1,390; this snap keeps NDRRMA. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "14 सेप्ट 12:05 UTC: CN 43/519/2। NDRRMA 12 सेप्ट: 1386/5130/13728। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "14 सित 12:05 UTC: CN 43/519/2। NDRRMA 12 सित: 1386/5130/13728। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "14日13:10 UTC检索：中方指挥部无新数字，仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA SitRep#11（12日19:00）1386死、5130失联、获救13728。13日媒体引警方1390，本快照仍用NDRRMA。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "14 Sep 13:10 UTC search: no new CN HQ count; still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA SitRep#11 12 Sep 19:00: 1,386 dead / 5,130 missing / 13,728 rescued. Media 13 Sep cite Police 1,390; this snap keeps NDRRMA. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "14 सेप्ट 13:10 UTC: CN 43/519/2। NDRRMA 12 सेप्ट: 1386/5130/13728। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "14 सित 13:10 UTC: CN 43/519/2। NDRRMA 12 सित: 1386/5130/13728। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -329,76 +329,76 @@
     {
       "id": "x3",
       "user": "@XHNews",
-      "t": "2026-09-06T14:41:30Z",
-      "link": "https://x.com/XHNews/status/2096609742487691562",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：截至6日18时吉隆口岸43遇难、519失联（含外籍261人）。",
-        "en": "Xinhua: as of 6 p.m. 6 Sep, Gyirong Port 43 dead, 519 missing (261 foreign).",
-        "ne": "सिन्हुआ: 6 सेप्ट 18:00 सम्म 43 मृत्यु, 519 बेपत्ता (261 विदेशी)।",
-        "hi": "शिन्हुआ: 6 सित 18:00 तक 43 मृत, 519 लापता (261 विदेशी)।"
+        "zh": "新华社：8月26日冰崩泥石流冲击吉隆口岸，中方全力搜救进展综述。",
+        "en": "Xinhua: 26 Aug ice-collapse mudslide hit Gyirong Port; China SAR progress recap.",
+        "ne": "सिन्हुआ: ग्यिरोङमा लेदो; चीन SAR सारांश।",
+        "hi": "शिन्हुआ: ग्यिरोंग मलबा; चीन SAR सार।"
       }
     },
     {
       "id": "x4",
       "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "t": "2026-09-08T04:59:52Z",
+      "link": "https://x.com/XHNews/status/2097188145544798711",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：2日10时G216通往口岸核心区基本抢通。",
-        "en": "Xinhua: G216 access to port core basically restored 10:00 2 Sep.",
-        "ne": "सिन्हुआ: 2 सेप्ट 10:00 G216 कोर खुल्यो।",
-        "hi": "शिन्हुआ: 2 सित 10:00 G216 कोर खुला।"
+        "zh": "新华社：吉隆口岸泥石流最新进展与搜救综述。",
+        "en": "Xinhua: latest Gyirong Port mudslide and rescue progress.",
+        "ne": "सिन्हुआ: ग्यिरोङ पोर्ट लेदो र उद्धार।",
+        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट मलबा और बचाव।"
       }
     },
     {
       "id": "x5",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：边检民警肖富贵灾后不久无人机拍下吉隆口岸核心区。",
-        "en": "Xinhua: immigration officer Xiao Fugui filmed drone footage of Gyirong Port shortly after the slide.",
-        "ne": "सिन्हुआ: ग्यिरोङ पोर्टको ड्रोन फुटेज।",
-        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज।"
+        "zh": "新华社：CNN/路透/NBC等记者团探访吉隆口岸灾区。",
+        "en": "Xinhua: CNN/Reuters/NBC journalists visited Gyirong Port site.",
+        "ne": "सिन्हुआ: विदेशी पत्रकार ग्यिरोङ पुगे।",
+        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोंग पहुंचे।"
       }
     },
     {
       "id": "x6",
       "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.28,
-      "lng": 85.38,
+      "t": "2026-09-07T10:10:46Z",
+      "link": "https://x.com/XHNews/status/2096904000058843554",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：G216抢通困难—急流、失稳边坡、巨石。",
-        "en": "Xinhua: why G216 reopening was so hard — current, unstable slopes, massive rocks.",
-        "ne": "सिन्हुआ: G216 खोल्न गाह्रो — बहाव, अस्थिर भिर, ठूला चट्टान।",
-        "hi": "शिन्हुआ: G216 खोलना कठिन — प्रवाह, अस्थिर ढलान, बड़े पत्थर।"
+        "zh": "新华社视频：外媒记者实地了解吉隆口岸灾情与救援。",
+        "en": "Xinhua video: foreign press briefed on-site at Gyirong Port.",
+        "ne": "सिन्हुआ भिडियो: ग्यिरोङ स्थलगत।",
+        "hi": "शिन्हुआ वीडियो: ग्यिरोंग स्थल पर।"
       }
     },
     {
       "id": "x7",
-      "user": "@CGTNOfficial",
-      "t": "2026-09-02T11:48:36Z",
-      "link": "https://x.com/CGTNOfficial/status/2095116678011257148",
-      "lat": 28.293,
-      "lng": 85.392,
-      "geo": "barrier lake",
+      "user": "@globaltimesnews",
+      "t": "2026-09-03T08:35:10Z",
+      "link": "https://x.com/globaltimesnews/status/2095430387937968628",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "CGTN：航拍显示吉隆口岸上游堰塞湖已完全泄空。",
-        "en": "CGTN: aerial video shows barrier lake near Gyirong Port fully drained.",
-        "ne": "CGTN: बाँधताल पूर्ण खाली।",
-        "hi": "CGTN: बाँधझील पूरी खाली।"
+        "zh": "环球时报：卫星前后对比吉隆口岸；G216核心通道已基本抢通。",
+        "en": "Global Times: before/after satellite of Gyirong Port; core road access basically restored.",
+        "ne": "ग्लोबल टाइम्स: उपग्रह अघि/पछि; कोर बाटो खुल्यो।",
+        "hi": "ग्लोबल टाइम्स: उपग्रह पहले/बाद; कोर सड़क खुली।"
       }
     }
   ]
