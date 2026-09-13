@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-13T15:21:00Z",
+  "snap": "2026-09-13T15:25:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0913p",
+      "id": "osint-0913q",
       "src": "official",
-      "t": "2026-09-13T15:21:00Z",
+      "t": "2026-09-13T15:25:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/420",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
       },
       "body": {
-        "zh": "13日15:21 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 12日18:00：1386具遗体、5130失联、获救13728。本轮无更新指挥部伤亡。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "13 Sep 15:21 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 12 Sep 18:00: 1,386 bodies / 5,130 missing / 13,728 rescued. No newer HQ tally. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "13 सेप्ट 15:21 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 12 सेप्ट 18:00: 1386/5130; उद्धार 13728। नयाँ HQ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "13 सित 15:21 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 12 सित 18:00: 1386/5130; बचाए 13728। नया HQ नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "13日15:25 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 12日18:00：1386具遗体、5130失联、获救13728。本轮无新指挥部伤亡、无SitRep#12。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "13 Sep 15:25 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 12 Sep 18:00: 1,386 bodies / 5,130 missing / 13,728 rescued. No newer HQ tally or SitRep #12. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "13 सेप्ट 15:25 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 12 सेप्ट 18:00: 1386/5130; उद्धार 13728। नयाँ HQ/SitRep#12 छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "13 सित 15:25 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 12 सित 18:00: 1386/5130; बचाए 13728। नया HQ/SitRep#12 नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -404,51 +404,51 @@
       "text": {
         "zh": "新华：8月26日冰岩崩触发链式泥石流冲击吉隆口岸，搜救持续。",
         "en": "Xinhua: 26 Aug glacier collapse chain mudslide hit Gyirong Port; SAR continues.",
-        "ne": "सिन्ह्वा: २६ अगस्ट हिमनदी भत्कियो; ग्यिरोङ पोर्ट।",
-        "hi": "शिन्हुआ: 26 अगस्त हिमनद ढहना; ग्यिरोंग पोर्ट।"
+        "ne": "सिन्ह्वा: २६ अगस्ट हिमनदी भत्किएर ग्यिरोङ पोर्टमा पहिरो।",
+        "hi": "शिन्हुआ: 26 अगस्त हिमनद ढहने से ग्यिरोंग पोर्ट पर मलबा प्रवाह।"
       }
     },
     {
       "id": "x5",
       "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "t": "2026-09-08T04:59:52Z",
+      "link": "https://x.com/XHNews/status/2097188145544798711",
       "lat": 28.28,
       "lng": 85.38,
       "geo": "place",
       "text": {
-        "zh": "新华：CNN/路透/NBC等国际媒体采访团抵达吉隆口岸灾区。",
-        "en": "Xinhua: CNN, Reuters, NBC journalists visited mudslide-hit Gyirong Port.",
-        "ne": "सिन्ह्वा: अन्तर्राष्ट्रिय पत्रकार ग्यिरोङ पुगे।",
-        "hi": "शिन्हुआ: अंतरराष्ट्रीय पत्रकार ग्यिरोंग पहुँचे।"
+        "zh": "新华：吉隆口岸链式泥石流救援进展综述。",
+        "en": "Xinhua: latest progress wrap on Gyirong Port chain mudslide rescue.",
+        "ne": "सिन्ह्वा: ग्यिरोङ उद्धार प्रगति।",
+        "hi": "शिन्हुआ: ग्यिरोंग बचाव प्रगति।"
       }
     },
     {
       "id": "x6",
+      "user": "@XHNews",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "place",
+      "text": {
+        "zh": "新华：CNN/路透/NBC等外媒实地探访吉隆口岸灾区。",
+        "en": "Xinhua: CNN, Reuters, NBC visited Gyirong Port disaster site.",
+        "ne": "सिन्ह्वा: विदेशी मिडिया ग्यिरोङ पुगे।",
+        "hi": "शिन्हुआ: विदेशी मीडिया ग्यिरोंग पहुँचे।"
+      }
+    },
+    {
+      "id": "x7",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-11T18:21:06Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2098476947814891717",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA SitRep#10：11日19:00搜救与救济形势报告已发。",
-        "en": "NDRRMA SitRep #10: 11 Sep 19:00 SAR and relief situation report.",
+        "zh": "NDRRMA SitRep#10：11日19:00搜救救济形势报告。",
+        "en": "NDRRMA SitRep #10: 11 Sep 19:00 SAR and relief report.",
         "ne": "NDRRMA SitRep #10: ११ सेप्ट १९:००।",
         "hi": "NDRRMA SitRep #10: 11 सित 19:00।"
-      }
-    },
-    {
-      "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-09-07T10:10:46Z",
-      "link": "https://x.com/XHNews/status/2096904000058843554",
-      "lat": 28.28,
-      "lng": 85.38,
-      "geo": "place",
-      "text": {
-        "zh": "新华：外媒记者团实地了解吉隆口岸灾情与多线救援。",
-        "en": "Xinhua: Foreign press visit on Gyirong Port aftermath and multi-front relief.",
-        "ne": "सिन्ह्वा: विदेशी पत्रकारले राहत बुझे।",
-        "hi": "शिन्हुआ: विदेशी पत्रकारों ने राहत देखा।"
       }
     }
   ]
