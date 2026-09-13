@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-13T14:05:00Z",
+  "snap": "2026-09-13T15:21:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0913n",
+      "id": "osint-0913p",
       "src": "official",
-      "t": "2026-09-13T14:05:00Z",
+      "t": "2026-09-13T15:21:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/420",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
       },
       "body": {
-        "zh": "13日14:05 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 12日18:00：1386具遗体、5130失联、获救13728。未见更新指挥部伤亡。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "13 Sep 14:05 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 12 Sep 18:00: 1,386 bodies / 5,130 missing / 13,728 rescued. No newer HQ tally. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "13 सेप्ट 14:05 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 12 सेप्ट 18:00: 1386/5130; उद्धार 13728। नयाँ HQ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "13 सित 14:05 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 12 सित 18:00: 1386/5130; बचाए 13728। नया HQ नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "13日15:21 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 12日18:00：1386具遗体、5130失联、获救13728。本轮无更新指挥部伤亡。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "13 Sep 15:21 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 12 Sep 18:00: 1,386 bodies / 5,130 missing / 13,728 rescued. No newer HQ tally. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "13 सेप्ट 15:21 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 12 सेप्ट 18:00: 1386/5130; उद्धार 13728। नयाँ HQ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "13 सित 15:21 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 12 सित 18:00: 1386/5130; बचाए 13728। नया HQ नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -382,6 +382,49 @@
     },
     {
       "id": "x3",
+      "user": "@XHNews",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华：国家气候中心向尼方滚动提供监测预报，支援吉隆—拉苏瓦救援。",
+        "en": "Xinhua: China National Climate Center rolling forecasts to Nepal after Gyirong–Rasuwa mudslide.",
+        "ne": "सिन्ह्वा: जलवायु केन्द्रले नेपाललाई पूर्वानुमान सहयोग।",
+        "hi": "शिन्हुआ: जलवायु केंद्र नेपाल को पूर्वानुमान सहायता।"
+      }
+    },
+    {
+      "id": "x4",
+      "user": "@XHNews",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "place",
+      "text": {
+        "zh": "新华：8月26日冰岩崩触发链式泥石流冲击吉隆口岸，搜救持续。",
+        "en": "Xinhua: 26 Aug glacier collapse chain mudslide hit Gyirong Port; SAR continues.",
+        "ne": "सिन्ह्वा: २६ अगस्ट हिमनदी भत्कियो; ग्यिरोङ पोर्ट।",
+        "hi": "शिन्हुआ: 26 अगस्त हिमनद ढहना; ग्यिरोंग पोर्ट।"
+      }
+    },
+    {
+      "id": "x5",
+      "user": "@XHNews",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "place",
+      "text": {
+        "zh": "新华：CNN/路透/NBC等国际媒体采访团抵达吉隆口岸灾区。",
+        "en": "Xinhua: CNN, Reuters, NBC journalists visited mudslide-hit Gyirong Port.",
+        "ne": "सिन्ह्वा: अन्तर्राष्ट्रिय पत्रकार ग्यिरोङ पुगे।",
+        "hi": "शिन्हुआ: अंतरराष्ट्रीय पत्रकार ग्यिरोंग पहुँचे।"
+      }
+    },
+    {
+      "id": "x6",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-11T18:21:06Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2098476947814891717",
@@ -394,61 +437,18 @@
       }
     },
     {
-      "id": "x4",
+      "id": "x7",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-07T10:10:46Z",
+      "link": "https://x.com/XHNews/status/2096904000058843554",
       "lat": 28.28,
       "lng": 85.38,
       "geo": "place",
       "text": {
-        "zh": "新华：边检民警肖富贵泥石流后在吉隆口岸附近拍摄无人机画面。",
-        "en": "Xinhua: officer Xiao Fugui drone footage near Gyirong Port after the mudslide.",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज।",
-        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट के पास ड्रोन फुटेज।"
-      }
-    },
-    {
-      "id": "x5",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "place",
-      "text": {
-        "zh": "新华：为何两小时只推进不到5米——G216抢通难点。",
-        "en": "Xinhua: less than 5 meters in two hours — why G216 reopening was so hard.",
-        "ne": "सिन्ह्वा: G216 खोल्न किन गाह्रो।",
-        "hi": "शिन्हुआ: G216 खोलना क्यों कठिन।"
-      }
-    },
-    {
-      "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "place",
-      "text": {
-        "zh": "新华：2日上午10时G216通往吉隆口岸核心区陆路基本抢通。",
-        "en": "Xinhua: G216 land access to Gyirong Port core basically restored 10:00 2 Sep.",
-        "ne": "सिन्ह्वा: २ सेप्ट १०:०० G216 कोर खुला।",
-        "hi": "शिन्हुआ: 2 सित 10:00 G216 कोर खुला।"
-      }
-    },
-    {
-      "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-08-30T14:25:09Z",
-      "link": "https://x.com/XHNews/status/2094068911415443557",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华：激光AI监测装置辅助吉隆抢通路段滑坡落石预警。",
-        "en": "Xinhua: laser AI monitor helping detect landslide and rockfall risk on Gyirong route.",
-        "ne": "सिन्ह्वा: लेजर AI पहिरो निगरानी।",
-        "hi": "शिन्हुआ: लेजर AI भूस्खलन निगरानी।"
+        "zh": "新华：外媒记者团实地了解吉隆口岸灾情与多线救援。",
+        "en": "Xinhua: Foreign press visit on Gyirong Port aftermath and multi-front relief.",
+        "ne": "सिन्ह्वा: विदेशी पत्रकारले राहत बुझे।",
+        "hi": "शिन्हुआ: विदेशी पत्रकारों ने राहत देखा।"
       }
     }
   ]
