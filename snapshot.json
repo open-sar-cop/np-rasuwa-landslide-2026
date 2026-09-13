@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-14T02:06:00Z",
+  "snap": "2026-09-14T03:19:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0914c",
+      "id": "osint-0914d",
       "src": "official",
-      "t": "2026-09-14T02:06:00Z",
+      "t": "2026-09-14T03:19:00Z",
       "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
@@ -19,17 +19,17 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
       },
       "body": {
-        "zh": "14日02:06 UTC检索：中方仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA/IFRC 12日：1386具遗体、5130失联、获救13728。13–14日无新官方伤亡通报。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "14 Sep 02:06 UTC: CN still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA/IFRC 12 Sep: 1,386 bodies / 5,130 missing / 13,728 rescued. No new official casualty bulletin 13–14 Sep. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "14 सेप्ट 02:06 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA/IFRC 12 सेप्ट: 1386/5130; उद्धार 13728। 13–14 सेप्ट नयाँ आधिकारिक घाउ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "14 सित 02:06 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA/IFRC 12 सित: 1386/5130; बचाए 13728। 13–14 सित नया आधिकारिक आँकड़ा नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "14日03:19 UTC检索：中方伤亡仍截至9月5–6日18时43遇难、519失联、救出2人，无更新。IFRC GO/NDRRMA 12日：1386死、5130失联、获救13728。13–14日无新官方伤亡通报。勿与中方相加。国门仍毁不通关。堰塞湖已泄。",
+        "en": "14 Sep 03:19 UTC: CN still 43 dead, 519 missing, 2 rescued (5–6 Sep 18:00); no newer CN bulletin. IFRC GO/NDRRMA 12 Sep: 1,386 dead / 5,130 missing / 13,728 rescued. No new official casualty bulletin 13–14 Sep. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "14 सेप्ट 03:19 UTC: CN 43/519/2 (५–६ सेप्ट 18:00)। IFRC/NDRRMA 12 सेप्ट: 1386/5130; उद्धार 13728। 13–14 सेप्ट नयाँ आधिकारिक घाउ छैन। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "14 सित 03:19 UTC: CN 43/519/2 (5–6 सित 18:00)। IFRC/NDRRMA 12 सित: 1386/5130; बचाए 13728। 13–14 सित नया आधिकारिक आँकड़ा नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
       "id": "cn-hq-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://news.ifeng.com/c/8wCiMe25Aep",
+      "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9df0f4e4b06d4aa055c9df.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -61,39 +61,39 @@
         "hi": "NDRRMA/IFRC: 1,386 शव, 5,130 लापता"
       },
       "body": {
-        "zh": "12日NDRRMA/IFRC：1386具遗体、5130失联、获救13728。口径勿与中方相加。",
-        "en": "12 Sep NDRRMA/IFRC: 1,386 bodies, 5,130 missing, 13,728 rescued. Do not add to CN figures.",
+        "zh": "12日NDRRMA/IFRC GO：1386具遗体、5130失联、获救13728。口径勿与中方相加。",
+        "en": "12 Sep NDRRMA/IFRC GO: 1,386 bodies, 5,130 missing, 13,728 rescued. Do not add to CN figures.",
         "ne": "12 सेप्ट: 1386 शव, 5130 बेपत्ता, उद्धार 13728। चीनसङ्ग नजोड़्नु।",
         "hi": "12 सित: 1386 शव, 5130 लापता, बचाए 13728। चीन से न जोड़ें।"
       }
     },
     {
-      "id": "cn-lake-0905",
+      "id": "cn-lake-0908",
       "src": "official",
-      "t": "2026-09-05T10:00:00Z",
-      "link": "https://en.people.cn/n3/2026/0903/c90000-20495449.html",
+      "t": "2026-09-08T10:00:00Z",
+      "link": "https://gna.org.gh/2026/09/evacuated-residents-returning-home-after-mudslide-hits-border-port-in-chinas-xizang/",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
       "geo": "barrier lake",
       "title": {
-        "zh": "堰塞湖已泄、河道复流",
-        "en": "Barrier lake drained, channel flowing",
-        "ne": "बाँधताल खाली, नदी बग्दै",
-        "hi": "बाँधझील खाली, नहर बह रही"
+        "zh": "堰塞湖险情基本排除 444人返乡",
+        "en": "Barrier-lake threat largely gone; 444 return home",
+        "ne": "बाँधताल जोखिम घट्यो; ४४४ घर फर्किए",
+        "hi": "बाँधझील जोखिम घटा; 444 घर लौटे"
       },
       "body": {
-        "zh": "新华社：口岸上游堰塞湖已排空，河道恢复过流，险情基本排除；仍监测新堰塞。",
-        "en": "Xinhua: lake above port drained; channel flowing; hazard largely gone; still watch new dams.",
-        "ne": "ताल खाली; नदी बग्दै; जोखिम घट्यो; नयाँ बाँध निगरानी।",
-        "hi": "झील खाली; नहर बह रही; जोखिम घटा; नई बाँध निगरानी।"
+        "zh": "新华社9月8日：口岸上游堰塞湖威胁基本消除，吉隆镇及萨勒乡444名转移群众返乡；河道复流，仍监测新堰塞。",
+        "en": "Xinhua 8 Sep: threat from barrier lake largely eliminated; 444 evacuees from Gyirong Town and Sale Township returned; channel flowing; still watch new dams.",
+        "ne": "ताल जोखिम घट्यो; ४४४ फर्किए; नदी बग्दै; नयाँ बाँध निगरानी।",
+        "hi": "झील जोखिम घटा; 444 लौटे; नहर बह रही; नई बाँध निगरानी।"
       }
     },
     {
       "id": "cn-g216-0902",
       "src": "official",
       "t": "2026-09-02T02:00:00Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "link": "https://en.people.cn/n3/2026/0903/c90000-20495449.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -105,8 +105,8 @@
         "hi": "G216 कोर 2 सित सुबह लगभग खुला"
       },
       "body": {
-        "zh": "新华社：2日10时通往吉隆口岸核心区陆路基本恢复；国门仍毁、不通关。",
-        "en": "Xinhua: land access to port core basically restored 10:00 2 Sep; gate still destroyed, no customs.",
+        "zh": "新华社：2日上午通往吉隆口岸核心区陆路基本恢复；国门仍毁、不通关。",
+        "en": "Xinhua: land access to port core basically restored morning 2 Sep; gate still destroyed, no customs.",
         "ne": "कोर बाटो खुल्यो; द्वार नष्ट; भन्सार छैन।",
         "hi": "कोर सड़क खुली; द्वार नष्ट; सीमा शुल्क नहीं।"
       }
@@ -127,10 +127,10 @@
         "hi": "UNOSAT/ReliefWeb: मलबा प्रवाह सीमा"
       },
       "body": {
-        "zh": "Sentinel-2/PlanetScope：热索瓦约20平方公里受泥石流影响。初步分析，未经地面核验。",
-        "en": "Sentinel-2/PlanetScope: ~20 km² affected in Rasuwa. Preliminary, not field-validated.",
-        "ne": "Sentinel-2/PlanetScope: रसुवामा ~२० वर्गकिमि प्रभावित। प्रारम्भिक।",
-        "hi": "Sentinel-2/PlanetScope: रसुवा में ~20 वर्गकिमी प्रभावित। प्रारंभिक।"
+        "zh": "ReliefWeb Flash Update #4：热索瓦走廊受灾；初步分析，未经地面核验。",
+        "en": "ReliefWeb Flash Update #4: Rasuwa corridor affected. Preliminary, not field-validated.",
+        "ne": "ReliefWeb #4: रसुवा करिडोर प्रभावित। प्रारम्भिक।",
+        "hi": "ReliefWeb #4: रसुवा गलियारा प्रभावित। प्रारंभिक।"
       }
     },
     {
@@ -342,6 +342,19 @@
         "en": "Xinhua: G216 access to port core basically restored 10:00 2 Sep.",
         "ne": "सिन्हुआ: २ सेप्ट 10:00 G216 कोर खुल्यो।",
         "hi": "शिन्हुआ: 2 सित 10:00 G216 कोर खुला।"
+      }
+    },
+    {
+      "id": "x7",
+      "user": "@navsri6619",
+      "t": "2026-09-12T13:15:35Z",
+      "link": "https://x.com/navsri6619/status/2098762449990439169",
+      "geo": "unknown",
+      "text": {
+        "zh": "印驻尼大使：70米贝利桥首批构件移交赫陶达，用于恢复伯特拉瓦蒂交通。",
+        "en": "India Ambassador Nepal: first 70 m Bailey-bridge components handed over in Hetauda for Betrawati access.",
+        "ne": "भारत दूत: हेटौंडामा ७० मि बेली पुल सामग्री हस्तान्तरण (बेत्रावती)।",
+        "hi": "भारत राजदूत: हेटौडा में 70 मी बेली पुल सामग्री सौंपी (बेत्रावती)।"
       }
     }
   ]
