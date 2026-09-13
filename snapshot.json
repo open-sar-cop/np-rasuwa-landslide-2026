@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-13T17:10:00Z",
+  "snap": "2026-09-13T18:14:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0913s",
+      "id": "osint-0913t",
       "src": "official",
-      "t": "2026-09-13T17:10:00Z",
+      "t": "2026-09-13T18:14:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/420",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
       },
       "body": {
-        "zh": "13日17:10 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA公开图示仍为12日18:00：1386具遗体、5130失联、获救13728。SitRep页面现标#12，时间仍为12日19:00。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "13 Sep 17:10 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA graphic still 12 Sep 18:00: 1,386 bodies / 5,130 missing / 13,728 rescued. SitRep page now titled #12, same 12 Sep 19:00 stamp. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "13 सेप्ट 17:10 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 12 सेप्ट 18:00: 1386/5130; उद्धार 13728। SitRep पृष्ठमा #12, समय 19:00। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "13 सित 17:10 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 12 सित 18:00: 1386/5130; बचाए 13728। SitRep पृष्ठ #१२, वही 19:00। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "13日18:14 UTC：中方指挥部仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA公开图示仍为12日18:00：1386具遗体、5130失联、获救13728。SitRep页面仍标#12，12日19:00。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "13 Sep 18:14 UTC: CN HQ still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA graphic still 12 Sep 18:00: 1,386 bodies / 5,130 missing / 13,728 rescued. SitRep page still #12, 12 Sep 19:00. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "13 सेप्ट 18:14 UTC: CN 43/519/2 (५ सेप्ट 18:00)। NDRRMA 12 सेप्ट 18:00: 1386/5130; उद्धार 13728। SitRep #12, समय 19:00। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "13 सित 18:14 UTC: CN 43/519/2 (5 सित 18:00)। NDRRMA 12 सित 18:00: 1386/5130; बचाए 13728। SitRep #12, वही 19:00। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -101,10 +101,10 @@
         "hi": "शिन्हुआ: 444 लौटे"
       },
       "body": {
-        "zh": "吉隆镇及萨勒乡444人返乡；堰塞湖风险基本解除。伤亡仍引5日18时43/519。",
+        "zh": "吉隆镇及萨勒乡䑄人返乡；堰塞湖风险基本解除。伤亡仍引5日18时43/519。",
         "en": "444 returned in Gyirong/Sale after lake risk largely cleared. Casualties still 43/519 as of 5 Sep 18:00.",
         "ne": "444 फर्किए; ताल जोखिम घट्यो। अङ्क 5 सेप्ट।",
-        "hi": "444 लौटे; झील जोखिम घटा। आࠑकड़े 5 सित।"
+        "hi": "444 लौटे; झील जोखिम घटा। आँकड़े 5 सित।"
       }
     },
     {
@@ -141,14 +141,14 @@
       "title": {
         "zh": "新华：堰塞湖已泄洪",
         "en": "Xinhua: barrier lake drained",
-        "ne": "बाࠑधताल खाली",
-        "hi": "बाࠑध झील खाली"
+        "ne": "बाँधताल खाली",
+        "hi": "बाँध झील खाली"
       },
       "body": {
         "zh": "口岸核心区上游堰塞湖已泄洪、河道正常过流，险情基本解除；仍监测新堰塞。",
         "en": "Upstream lake drained; channel normal; hazard largely gone; watch new dams.",
-        "ne": "ताल खाली; नदी सामान्य; जोखिम घट्यो; नयाࠑ बाࠑध निगरानी।",
-        "hi": "झील खाली; नहर सामान्य; जोखिम घटा; नई बाࠑध निगरानी।"
+        "ne": "ताल खाली; नदी सामान्य; जोखिम घट्यो; नयाँ बाँध निगरानी।",
+        "hi": "झील खाली; नहर सामान्य; जोखिम घटा; नई बाँध निगरानी।"
       }
     },
     {
@@ -184,13 +184,13 @@
         "zh": "美使馆：Rasuwagadhi请勿前往",
         "en": "US Embassy: do not travel Rasuwagadhi",
         "ne": "अमेरिकी दूतावास: रसुवागढी नजानु",
-        "hi": "अमेरिकी दूतावास: रसुवागढ़ी न जाएࠑ"
+        "hi": "अमेरिकी दूतावास: रसुवागढ़ी न जाएँ"
       },
       "body": {
         "zh": "9月3日灾害告示：Khalte路段仍断，Syafrubesi/Timure/Rasuwagadhi无可靠通路。本轮未见更新路况告示。",
         "en": "3 Sep alert: Rasuwa main road closed at Khalte; no reliable access to Syafrubesi/Timure/Rasuwagadhi. No newer embassy road notice this run.",
-        "ne": "खाल्टे बन्द; रसुवागढी–तिमुरे नजानु। नयाࠑ सडक सूचना छैन।",
-        "hi": "खाल्टे बंद; रसुवागढ़ी–तिमुरे न जाएࠑ। नई सड़क सूचना नहीं।"
+        "ne": "खाल्टे बन्द; रसुवागढी–तिमुरे नजानु। नयाँ सडक सूचना छैन।",
+        "hi": "खाल्टे बंद; रसुवागढ़ी–तिमुरे न जाएँ। नई सड़क सूचना नहीं।"
       }
     },
     {
@@ -336,8 +336,8 @@
     "status": {
       "zh": "堰塞湖已完全泄洪，河道过流正常，险情基本排除，仍监测新堰塞",
       "en": "Lake fully drained; channel normal; hazard largely gone; watch new dams",
-      "ne": "ताल पूर्ण खाली; नदी सामान्य; जोखिम घट्यो; नयाࠑ बाࠑध निगरानी",
-      "hi": "झील पूरी खाली; नहर सामान्य; जोखिम घटा; नई बाࠑध निगरानी"
+      "ne": "ताल पूर्ण खाली; नदी सामान्य; जोखिम घट्यो; नयाँ बाँध निगरानी",
+      "hi": "झील पूरी खाली; नहर सामान्य; जोखिम घटा; नई बाँध निगरानी"
     }
   },
   "xPosts": [
@@ -361,7 +361,7 @@
       "link": "https://x.com/NDRRMA_Nepal/status/2098778380074443208",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA：12日18:00更新—1486具遗体、5130失联、获救13728。",
+        "zh": "NDRRMA：12日18:00更新—1386具遗体、5130失联、获救13728。",
         "en": "NDRRMA: 12 Sep 18:00 update — 1,386 bodies, 5,130 missing, 13,728 rescued.",
         "ne": "NDRRMA: 12 सेप्ट 18:00 — 1386 शव, 5130 बेपत्ता, उद्धार 13728।",
         "hi": "NDRRMA: 12 सित 18:00 — 1386 शव, 5130 लापता, बचाए 13728।"
@@ -402,53 +402,10 @@
       "lng": 85.38,
       "geo": "place",
       "text": {
-        "zh": "新华：边检民警无人机航拍吉隆口岸灾后现场。",
-        "en": "Xinhua: immigration officer drone footage near Gyirong Port after the mudslide.",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज।",
-        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज।"
-      }
-    },
-    {
-      "id": "x5",
-      "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "place",
-      "text": {
-        "zh": "新华：G216通往吉隆口岸核心区陆路2日10时基本抢通。",
-        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
-        "ne": "सिन्ह्वा: G216 कोर 2 सेप्ट 10:00 खुला।",
-        "hi": "शिन्हुआ: G216 कोर 2 सित 10:00 खुला।"
-      }
-    },
-    {
-      "id": "x6",
-      "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
-      "lat": 28.28,
-      "lng": 85.38,
-      "geo": "place",
-      "text": {
-        "zh": "新华早报：截至29日18时16遇难546失联（已被后续指挥部数字取代）。",
-        "en": "Xinhua early: 16 dead 546 missing as of 29 Aug 18:00 (superseded by later HQ).",
-        "ne": "सिन्ह्वा पुरानो अङ्क; पछि HQ ले प्रतिस्थापन।",
-        "hi": "शिन्हुआ पुराना आࠑकड़ा; बाद के HQ से प्रतिस्थापित।"
-      }
-    },
-    {
-      "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华：吉隆口岸失联外籍人员261人、23国。",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted at Gyirong Port.",
-        "ne": "सिन्ह्वा: 261 विदेशी, 23 देश।",
-        "hi": "शिन्हुआ: 261 विदेशी, 23 देश।"
+        "zh": "新华：堰塞湖险情基本解除；中方仍持续核心区搜救。",
+        "en": "Xinhua: barrier-lake hazard largely cleared; search continues in the port core.",
+        "ne": "सिन्ह्वा: ताल जोखिम घट्यो; खोजी जारी।",
+        "hi": "शिन्हुआ: झील जोखिम घटा; खोज जारी।"
       }
     }
   ]
