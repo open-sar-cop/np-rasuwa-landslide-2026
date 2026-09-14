@@ -1,15 +1,15 @@
 {
-  "snap": "2026-09-14T17:14:00Z",
+  "snap": "2026-09-14T19:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1392, "missing": 4089, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0914r2",
+      "id": "osint-0914r3",
       "src": "official",
-      "t": "2026-09-14T17:14:00Z",
-      "link": "https://english.khabarhub.com/2026/14/567730/",
+      "t": "2026-09-14T19:15:00Z",
+      "link": "https://english.khabarhub.com/2026/13/567599/",
       "img": null,
       "geo": "unknown",
       "title": {
@@ -19,17 +19,17 @@
         "hi": "पुनः जाँच: CN 43/519/2; NP पुलिस 1392/4089; बचाए 13728"
       },
       "body": {
-        "zh": "14日17:14 UTC复核：中方仍截至9月5日18时43遇难、519失联、热索村救2人。尼泊尔警方总部（Khabarhub 14日）：寻获1392具遗体、失联4089；获救仍用NDRRMA SitRep#12的13728。两国口径勿相加。国门仍毁。堰塞湖已泄。",
-        "en": "14 Sep 17:14 UTC refresh: CN still 43/519/2 as of 5 Sep 18:00. Nepal Police HQ (Khabarhub 14 Sep): 1,392 bodies, 4,089 missing; rescued kept at NDRRMA SitRep#12 13,728. Do not add CN+NP. Gate destroyed. Lake drained.",
-        "ne": "14 सेप्ट 17:14 UTC: CN 43/519/2। नेपाल प्रहरी: शव 1392, बेपत्ता 4089; उद्धार NDRRMA 13728। नजोड्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "14 सित 17:14 UTC: CN 43/519/2। नेपाल पुलिस: शव 1392, लापता 4089; बचाए NDRRMA 13728। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "14日19:15 UTC：中方仍截至9月5日18时43遇难、519失联、热索村救2人（新华社）。尼泊尔警方总部（Khabarhub）：寻获1392具、失联4089；获救仍用NDRRMA SitRep#12的13728。两国口径勿相加。国门仍毁。堰塞湖已泄。",
+        "en": "14 Sep 19:15 UTC: CN still 43/519/2 as of 5 Sep 18:00 (Xinhua). Nepal Police HQ (Khabarhub): 1,392 bodies, 4,089 missing; rescued kept at NDRRMA SitRep#12 13,728. Do not add CN+NP. Gate destroyed. Lake drained.",
+        "ne": "14 सेप्ट 19:15 UTC: CN 43/519/2। नेपाल प्रहरी: शव 1392, बेपत्ता 4089; उद्धार NDRRMA 13728। नजोड्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "14 सित 19:15 UTC: CN 43/519/2। नेपाल पुलिस: शव 1392, लापता 4089; बचाए NDRRMA 13728। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
       "id": "npc-0914",
       "src": "official",
       "t": "2026-09-14T06:00:00Z",
-      "link": "https://english.khabarhub.com/2026/14/567730/",
+      "link": "https://english.khabarhub.com/2026/13/567599/",
       "img": null,
       "geo": "unknown",
       "title": {
@@ -39,10 +39,10 @@
         "hi": "नेपाल पुलिस मुख्यालय: 1392 शव, 4089 लापता"
       },
       "body": {
-        "zh": "Khabarhub引警方总部：8月26日洪灾至今寻获1392具（542男、336女、514残肤/未标识）；失联4089；交还家属103具。总获救仍用NDRRMA 13728。",
-        "en": "Police HQ via Khabarhub: 1,392 recovered (542 men, 336 women, 514 partial/unidentified); 4,089 missing; 103 handed to families. Total rescued kept at NDRRMA 13,728.",
-        "ne": "प्रहरी: शव 1392; बेपत्ता 4089; परिवार 103। कुल उद्धार NDRRMA 13728।",
-        "hi": "पुलिस: शव 1392; लापता 4089; सौंपे 103। कुल बचाए NDRRMA 13728।"
+        "zh": "Khabarhub引警方总部：8月26日洪灾至今寻获1392具；失联4089。总获救仍用NDRRMA 13728。",
+        "en": "Police HQ via Khabarhub: 1,392 recovered; 4,089 missing. Total rescued kept at NDRRMA 13,728.",
+        "ne": "प्रहरी: शव 1392; बेपत्ता 4089। कुल उद्धार NDRRMA 13728।",
+        "hi": "पुलिस: शव 1392; लापता 4089। कुल बचाए NDRRMA 13728।"
       }
     },
     {
@@ -314,31 +314,31 @@
     {
       "id": "x2",
       "user": "@XHNews",
-      "t": "2026-09-06T14:41:30Z",
-      "link": "https://x.com/XHNews/status/2096609742487691562",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华社：截至6日18时中方43遇难、519失联；外籍261人失联。",
-        "en": "Xinhua: as of 6 Sep 18:00, CN 43 dead, 519 missing; 261 foreigners among missing.",
-        "ne": "सिन्हुआ: ६ सेप्ट 18:00 सम्म CN ४३/५१९; विदेशी २६१।",
-        "hi": "शिन्हुआ: 6 सित 18:00 तक CN 43/519; विदेशी 261।"
-      }
-    },
-    {
-      "id": "x3",
-      "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
       "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：边检民警肖富贵无人机拍吉隆口岸灾后河谷。",
-        "en": "Xinhua: immigration officer Xiao Fugui drone footage of Gyirong Port after the mudslide.",
-        "ne": "सिन्हुआ: ग्यिरोङ पोर्टको ड्रोन फुटेज।",
-        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज।"
+        "zh": "新华社：边检民警无人机记录8月26日吉隆口岸泥石流瞬间。",
+        "en": "Xinhua: immigration officer drone footage of 26 Aug Gyirong Port mudslide.",
+        "ne": "सिन्हुआ: २६ अगस्ट ग्यिरोङ पोर्ट ड्रोन फुटेज।",
+        "hi": "शिन्हुआ: 26 अगस्त ग्यिरोंग पोर्ट ड्रोन फुटेज।"
+      }
+    },
+    {
+      "id": "x3",
+      "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社：G216抢通难点——急流、危坡、巨石。",
+        "en": "Xinhua: G216 reopen obstacles — fast water, unstable slopes, huge rocks.",
+        "ne": "सिन्हुआ: G216 खोल्न कठिन — पानी, भिर, ढुङ्गा।",
+        "hi": "शिन्हुआ: G216 खोलना कठिन — पानी, ढलान, पत्थर।"
       }
     },
     {
@@ -351,48 +351,50 @@
       "geo": "Gyirong Port",
       "text": {
         "zh": "新华社：2日10时G216通往吉隆口岸核心区基本抢通。",
-        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10 a.m. 2 Sep.",
-        "ne": "सिन्हुआ: २ सेप्ट १० बजे G216 कोर खुल्यो।",
-        "hi": "शिन्हुआ: 2 सित 10 बजे G216 कोर खुला।"
+        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
+        "ne": "सिन्हुआ: २ सेप्ट १०:०० G216 कोर लगभग खुल्यो।",
+        "hi": "शिन्हुआ: 2 सित 10:00 G216 कोर लगभग खुला।"
       }
     },
     {
       "id": "x5",
       "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "geo": "unknown",
+      "t": "2026-08-30T04:23:39Z",
+      "link": "https://x.com/XHNews/status/2093917539642519759",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：两小时推进不足5米，说明G216抢通为何极难。",
-        "en": "Xinhua: less than 5 meters in two hours — why reopening G216 was so hard.",
-        "ne": "सिन्हुआ: दुई घण्टामा ५ मिटरभन्दा कम — G216 किन कठिन।",
-        "hi": "शिन्हुआ: दो घंटे में 5 मीटर से कम — G216 क्यों कठिन।"
+        "zh": "新华社（当时口径）：16遇难、546失联（已被9月5日43/519取代）。",
+        "en": "Xinhua (then): 16 dead, 546 missing — superseded by 5 Sep 43/519.",
+        "ne": "सिन्हुआ (पुरानो): १६/५४६ — ५ सेप्ट ४३/५१९ ले प्रतिस्थापित।",
+        "hi": "शिन्हुआ (पुराना): 16/546 — 5 सित 43/519 से बदला।"
       }
     },
     {
       "id": "x6",
+      "user": "@XHNews",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华社：排查出23国261名失联外籍人员。",
+        "en": "Xinhua: 261 missing foreign nationals from 23 countries identified.",
+        "ne": "सिन्हुआ: २३ देशका २६१ विदेशी बेपत्ता।",
+        "hi": "शिन्हुआ: 23 देशों के 261 विदेशी लापता।"
+      }
+    },
+    {
+      "id": "x7",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-12T18:14:30Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2098837672068628860",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA发布SitRep#11（12日19:00）。",
-        "en": "NDRRMA posted SitRep #11 dated 12 Sep 19:00.",
-        "ne": "NDRRMA ले SitRep #11 (१२ सेप्ट १९:००) राख्यो।",
-        "hi": "NDRRMA ने SitRep #11 (12 सित 19:00) जारी किया।"
-      }
-    },
-    {
-      "id": "x7",
-      "user": "@XHNews",
-      "t": "2026-08-30T14:25:09Z",
-      "link": "https://x.com/XHNews/status/2094068911415443557",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华社：激光AI监测设备实时预警滑坡落石，护航吉隆抢通。",
-        "en": "Xinhua: laser AI monitor flags landslide and rockfall risk during Gyirong road work.",
-        "ne": "सिन्हुआ: लेजर AI ले पहिरो जोखिम देखाउँछ।",
-        "hi": "शिन्हुआ: लेजर AI भूस्खलन जोखिम दिखाता है।"
+        "zh": "NDRRMA SitRep#11：12日19:00搜救与救济进展。",
+        "en": "NDRRMA SitRep#11: 12 Sep 19:00 search-rescue-relief update.",
+        "ne": "NDRRMA SitRep#11: १२ सेप्ट १९:०० अपडेट।",
+        "hi": "NDRRMA SitRep#11: 12 सित 19:00 अपडेट।"
       }
     }
   ]
