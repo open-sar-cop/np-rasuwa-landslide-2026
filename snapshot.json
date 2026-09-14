@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-14T13:10:00Z",
+  "snap": "2026-09-14T14:06:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0914h",
+      "id": "osint-0914i",
       "src": "official",
-      "t": "2026-09-14T13:10:00Z",
+      "t": "2026-09-14T14:06:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/420",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
       },
       "body": {
-        "zh": "14日13:10 UTC检索：中方指挥部无新数字，仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA SitRep#11（12日19:00）1386死、5130失联、获救13728。13日媒体引警方1390，本快照仍用NDRRMA。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "14 Sep 13:10 UTC search: no new CN HQ count; still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA SitRep#11 12 Sep 19:00: 1,386 dead / 5,130 missing / 13,728 rescued. Media 13 Sep cite Police 1,390; this snap keeps NDRRMA. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "14 सेप्ट 13:10 UTC: CN 43/519/2। NDRRMA 12 सेप्ट: 1386/5130/13728। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "14 सित 13:10 UTC: CN 43/519/2। NDRRMA 12 सित: 1386/5130/13728। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "14日14:06 UTC检索：中方指挥部无新数字，仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA SitRep#11（12日19:00）1386死、5130失联、获救13728。13日媒体引警方1390，本快照仍用NDRRMA。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "14 Sep 14:06 UTC search: no new CN HQ count; still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA SitRep#11 12 Sep 19:00: 1,386 dead / 5,130 missing / 13,728 rescued. Media 13 Sep cite Police 1,390; this snap keeps NDRRMA. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "14 सेप्ट 14:06 UTC: CN 43/519/2। NDRRMA 12 सेप्ट: 1386/5130/13728। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "14 सित 14:06 UTC: CN 43/519/2। NDRRMA 12 सित: 1386/5130/13728। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -49,7 +49,7 @@
       "id": "cn-hq-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9df0f4e4b06d4aa055c9df.html",
+      "link": "https://en.people.cn/n3/2026/0911/c90000-20498567.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -81,8 +81,8 @@
         "hi": "NDRRMA SitRep#11: 1,386 शव, 5,130 लापता"
       },
       "body": {
-        "zh": "12日19:00 NDRRMA SitRep#11：1386具遗体、5130失联、获救13728。口径勿与中方相加。IFRC 12日同口径。",
-        "en": "12 Sep 19:00 NDRRMA SitRep#11: 1,386 bodies, 5,130 missing, 13,728 rescued. Do not add to CN. IFRC 12 Sep same count.",
+        "zh": "12日19:00 NDRRMA SitRep#11：1386具遗体、5130失联、获救13728。口径勿与中方相加。",
+        "en": "12 Sep 19:00 NDRRMA SitRep#11: 1,386 bodies, 5,130 missing, 13,728 rescued. Do not add to CN.",
         "ne": "12 सेप्ट 19:00: 1386 शव, 5130 बेपत्ता, उद्धार 13728।",
         "hi": "12 सित 19:00: 1386 शव, 5130 लापता, बचाए 13728।"
       }
@@ -91,7 +91,7 @@
       "id": "cn-lake-0908",
       "src": "official",
       "t": "2026-09-08T10:00:00Z",
-      "link": "https://english.news.cn/20260905/9514cc986816469cabbe0a858d04197e/c.html",
+      "link": "https://en.people.cn/n3/2026/0911/c90000-20498567.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -147,10 +147,10 @@
         "hi": "UNOSAT/ReliefWeb: मलबा प्रवाह सीमा"
       },
       "body": {
-        "zh": "UNOSAT 26–27日影像：拉苏瓦约20 km²受泥石流影响；初步分析未经地面核验。",
-        "en": "UNOSAT 26–27 Aug: ~20 km² debris flow in Rasuwa. Preliminary, not field-validated.",
-        "ne": "UNOSAT: रसुवामा ~20 वर्ग किमी लेदो। प्रारम्भिक।",
-        "hi": "UNOSAT: रसुवा ~20 वर्ग किमी मलबा। प्रारंभिक।"
+        "zh": "UNOSAT 26–27日影像：拉苏瓦约20 km²受泥石流影响；初步分析未经地面核验。Copernicus EMSR927已启动。",
+        "en": "UNOSAT 26–27 Aug: ~20 km² debris flow in Rasuwa. Preliminary, not field-validated. Copernicus EMSR927 activated.",
+        "ne": "UNOSAT: रसुवामा ~20 वर्ग किमी लेदो। प्रारम्भिक। EMSR927।",
+        "hi": "UNOSAT: रसुवा ~20 वर्ग किमी मलबा। प्रारंभिक। EMSR927।"
       }
     },
     {
@@ -314,91 +314,91 @@
     {
       "id": "x2",
       "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "lat": 28.28,
-      "lng": 85.38,
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：国家气候中心向尼方滚动提供监测预报。",
-        "en": "Xinhua: China National Climate Center providing rolling forecasts to Nepal.",
-        "ne": "सिन्हुआ: चीनले नेपाललाई जलवायु पूर्वानुमान दिँदै।",
-        "hi": "शिन्हुआ: चीन नेपाल को जलवायु पूर्वानुमान दे रहा है।"
+        "zh": "新华社：边检人员在吉隆口岸核心区拍摄的无人机影像。",
+        "en": "Xinhua: immigration officer drone footage near Gyirong Port core.",
+        "ne": "सिन्हुआ: ग्यिरोङ पोर्ट ड्रोन फुटेज।",
+        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज।"
       }
     },
     {
       "id": "x3",
       "user": "@XHNews",
-      "t": "2026-09-09T09:10:51Z",
-      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：8月26日冰崩泥石流冲击吉隆口岸，中方全力搜救进展综述。",
-        "en": "Xinhua: 26 Aug ice-collapse mudslide hit Gyirong Port; China SAR progress recap.",
-        "ne": "सिन्हुआ: ग्यिरोङमा लेदो; चीन SAR सारांश।",
-        "hi": "शिन्हुआ: ग्यिरोंग मलबा; चीन SAR सार।"
+        "zh": "新华社：2日10:00 G216通往吉隆口岸核心区基本抢通。",
+        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
+        "ne": "सिन्हुआ: G216 कोर 2 सेप्ट 10:00 खुल्यो।",
+        "hi": "शिन्हुआ: G216 कोर 2 सित 10:00 खुला।"
       }
     },
     {
       "id": "x4",
       "user": "@XHNews",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "t": "2026-08-30T04:23:39Z",
+      "link": "https://x.com/XHNews/status/2093917539642519759",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：吉隆口岸泥石流最新进展与搜救综述。",
-        "en": "Xinhua: latest Gyirong Port mudslide and rescue progress.",
-        "ne": "सिन्हुआ: ग्यिरोङ पोर्ट लेदो र उद्धार।",
-        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट मलबा और बचाव।"
+        "zh": "新华社：截至29日18时16人遇难、546人失联（早期口径，已被9月5日数字替代）。",
+        "en": "Xinhua: as of 29 Aug 18:00, 16 dead, 546 missing (superseded by 5 Sep count).",
+        "ne": "सिन्हुआ: 29 अग 18:00 — 16/५४६ (पछि संख्या)।",
+        "hi": "शिन्हुआ: 29 अग 18:00 — 16/546 (पुराना आँकड़ा)।"
       }
     },
     {
       "id": "x5",
       "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：CNN/路透/NBC等记者团探访吉隆口岸灾区。",
-        "en": "Xinhua: CNN/Reuters/NBC journalists visited Gyirong Port site.",
-        "ne": "सिन्हुआ: विदेशी पत्रकार ग्यिरोङ पुगे।",
-        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोंग पहुंचे।"
+        "zh": "新华社：排查261名失联外籍人员，涉23国。",
+        "en": "Xinhua: 261 missing foreign nationals from 23 countries identified.",
+        "ne": "सिन्हुआ: 261 विदेशी बेपत्ता, 23 देश।",
+        "hi": "शिन्हुआ: 261 विदेशी लापता, 23 देश।"
       }
     },
     {
       "id": "x6",
       "user": "@XHNews",
-      "t": "2026-09-07T10:10:46Z",
-      "link": "https://x.com/XHNews/status/2096904000058843554",
-      "lat": 28.2797,
-      "lng": 85.3777,
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.28,
+      "lng": 85.38,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社视频：外媒记者实地了解吉隆口岸灾情与救援。",
-        "en": "Xinhua video: foreign press briefed on-site at Gyirong Port.",
-        "ne": "सिन्हुआ भिडियो: ग्यिरोङ स्थलगत।",
-        "hi": "शिन्हुआ वीडियो: ग्यिरोंग स्थल पर।"
+        "zh": "新华社：G216抢通遇激流、失稳边坡与巨石。",
+        "en": "Xinhua: G216 reopen delayed by fast water, unstable slopes, massive rocks.",
+        "ne": "सिन्हुआ: G216 खुल्ने गाह्रो नदी/भिर/चट्टान।",
+        "hi": "शिन्हुआ: G216 खोलने में नदी/ढलान/चट्टान।"
       }
     },
     {
       "id": "x7",
-      "user": "@globaltimesnews",
-      "t": "2026-09-03T08:35:10Z",
-      "link": "https://x.com/globaltimesnews/status/2095430387937968628",
-      "lat": 28.2797,
-      "lng": 85.3777,
+      "user": "@XHNews",
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "lat": 28.28,
+      "lng": 85.38,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "环球时报：卫星前后对比吉隆口岸；G216核心通道已基本抢通。",
-        "en": "Global Times: before/after satellite of Gyirong Port; core road access basically restored.",
-        "ne": "ग्लोबल टाइम्स: उपग्रह अघि/पछि; कोर बाटो खुल्यो।",
-        "hi": "ग्लोबल टाइम्स: उपग्रह पहले/बाद; कोर सड़क खुली।"
+        "zh": "新华社：激光AI监测设备用于吉隆泥石流区边坡与落石风险。",
+        "en": "Xinhua: laser AI device monitors landslide and rockfall risk in Gyirong.",
+        "ne": "सिन्हुआ: ग्यिरोङमा लेजर AI निगरानी।",
+        "hi": "शिन्हुआ: ग्यिरोंग में लेजर AI निगरानी।"
       }
     }
   ]
