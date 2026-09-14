@@ -1,28 +1,48 @@
 {
-  "snap": "2026-09-14T15:10:00Z",
+  "snap": "2026-09-14T16:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
+    "np": { "dead": 1388, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0914j",
+      "id": "osint-0914k",
       "src": "official",
-      "t": "2026-09-14T15:10:00Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/420",
+      "t": "2026-09-14T16:20:00Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/422",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "本轮：CN 43/519/2；NP 1386/5130/13728",
-        "en": "This run: CN 43/519/2; NP 1386/5130/13728",
-        "ne": "यो रन: CN ४३/५१९/२; NP १३८६/५१३०/१३७२८",
-        "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
+        "zh": "本轮：CN 43/519/2；NP 1388/5130/13728",
+        "en": "This run: CN 43/519/2; NP 1388/5130/13728",
+        "ne": "यो रन: CN ४३/५१९/२; NP १३८८/५१३०/१३७२८",
+        "hi": "यह रन: CN 43/519/2; NP 1388/5130/13728"
       },
       "body": {
-        "zh": "14日15:10 UTC检索：中方指挥部无新伤亡数字，仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA SitRep#11（12日19:00）1386死、5130失联、获救13728。13日媒体引警方1390，本快照仍用NDRRMA。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "14 Sep 15:10 UTC search: no new CN HQ count; still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA SitRep#11 12 Sep 19:00: 1,386 dead / 5,130 missing / 13,728 rescued. Media 13 Sep cite Police 1,390; this snap keeps NDRRMA. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "14 सेप्ट 15:10 UTC: CN 43/519/2। NDRRMA 12 सेप्ट: 1386/5130/13728। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "14 सित 15:10 UTC: CN 43/519/2। NDRRMA 12 सित: 1386/5130/13728। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "14日16:20 UTC检索：中方指挥部无新伤亡数字，仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA 13日19:00图形通报（SitRep#12/422）总死亡1388、失联5130、获救13728。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "14 Sep 16:20 UTC: no new CN HQ count; still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA 13 Sep 19:00 graphic (SitRep#12/422): 1,388 dead / 5,130 missing / 13,728 rescued. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "14 सेप्ट 16:20 UTC: CN 43/519/2। NDRRMA 13 सेप्ट 19:00: 1388/5130/13728। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "14 सित 16:20 UTC: CN 43/519/2। NDRRMA 13 सित 19:00: 1388/5130/13728। न जोड़ें। द्वार नष्ट। झील खाली।"
+      }
+    },
+    {
+      "id": "ndrrma-0913",
+      "src": "official",
+      "t": "2026-09-13T13:15:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099140132981096692",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 13日19:00：1388死亡 5130失联",
+        "en": "NDRRMA 13 Sep 19:00: 1,388 dead, 5,130 missing",
+        "ne": "NDRRMA १३ सेप्ट १९:००: १३८८ मृत्यु, ५१३० बेपत्ता",
+        "hi": "NDRRMA 13 सित 19:00: 1,388 मृत, 5,130 लापता"
+      },
+      "body": {
+        "zh": "2083年8月28日19:00官方图：总死亡1388（含残肢口径）；失联5130；获救13728；33个安置点。已确认身份遗体104。勿与中方相加。",
+        "en": "Official graphic 28 Bhadra 2083 19:00: 1,388 dead; 5,130 missing; 13,728 rescued; 33 holding centres. 104 bodies identified. Do not add to CN.",
+        "ne": "आधिकारिक ग्राफिक: मृत्यु १३८८; बेपत्ता ५१३०; उद्धार १३७२८।",
+        "hi": "आधिकारिक ग्राफिक: मृत 1388; लापता 5130; बचाए 13728।"
       }
     },
     {
@@ -81,10 +101,10 @@
         "hi": "NDRRMA SitRep#11: 1,386 शव, 5,130 लापता"
       },
       "body": {
-        "zh": "12日19:00 NDRRMA SitRep#11：1386具遗体、5130失联、获救13728。口径勿与中方相加。",
-        "en": "12 Sep 19:00 NDRRMA SitRep#11: 1,386 bodies, 5,130 missing, 13,728 rescued. Do not add to CN.",
-        "ne": "12 सेप्ट 19:00: 1386 शव, 5130 बेपत्ता, उद्धार 13728।",
-        "hi": "12 सित 19:00: 1386 शव, 5130 लापता, बचाए 13728।"
+        "zh": "12日19:00 NDRRMA SitRep#11：1386具遗体、5130失联、获救13728。已被13日1388口径更新。",
+        "en": "12 Sep 19:00 NDRRMA SitRep#11: 1,386 bodies, 5,130 missing, 13,728 rescued. Superseded by 13 Sep 1,388.",
+        "ne": "12 सेप्ट 19:00: 1386 शव; 13 सेप्ट मा 1388।",
+        "hi": "12 सित 19:00: 1386 शव; 13 सित पर 1388।"
       }
     },
     {
@@ -196,26 +216,6 @@
         "ne": "काठमाण्डु पोस्ट: ~40 किमी बग्यो; अस्थायी ट्र्याक र बेली पुल।",
         "hi": "काठमांडू पोस्ट: ~40 किमी बहा; अस्थायी ट्रैक और बेली पुल।"
       }
-    },
-    {
-      "id": "fews-0910",
-      "src": "official",
-      "t": "2026-09-10T02:00:00Z",
-      "link": "https://reliefweb.int/report/nepal/nepal-food-security-outlook-update-stressed-ipc-phase-2-likely-rasuwa-district-following-historic-flooding-august-2026-january-2027",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "FEWS NET：拉苏瓦粮食安全紧张",
-        "en": "FEWS NET: Rasuwa food security stressed",
-        "ne": "FEWS NET: रसुवा खाद्य सुरक्षा तनाव",
-        "hi": "FEWS NET: रसुवा खाद्य सुरक्षा तनाव"
-      },
-      "body": {
-        "zh": "ReliefWeb 10日：拉苏瓦至2027年1月预计IPC 2!（有援助支撑）；公路、口岸与水电损毁制约生计。",
-        "en": "ReliefWeb 10 Sep: Rasuwa likely Stressed! (IPC Phase 2!) through Jan 2027 with aid; highway, port and hydropower damage constrain livelihoods.",
-        "ne": "१० सेप्ट: रसुवा IPC 2! जनवरी २०२७ सम्म।",
-        "hi": "10 सित: रसुवा IPC 2! जनवरी 2027 तक।"
-      }
     }
   ],
   "roads": [
@@ -288,27 +288,27 @@
     {
       "id": "x0",
       "user": "@NDRRMA_Nepal",
-      "t": "2026-09-12T18:14:30Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098837672068628860",
+      "t": "2026-09-13T14:16:22Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099140132981096692",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA SitRep：12日19:00搜救救济形势报告已发。",
-        "en": "NDRRMA SitRep: 12 Sep 19:00 SAR and relief report posted.",
-        "ne": "NDRRMA SitRep: 12 सेप्ट 19:00।",
-        "hi": "NDRRMA SitRep: 12 सित 19:00।"
+        "zh": "NDRRMA：13日19:00图形通报—总死亡1388、失联5130、获救13728。",
+        "en": "NDRRMA: 13 Sep 19:00 graphic — 1,388 dead, 5,130 missing, 13,728 rescued.",
+        "ne": "NDRRMA: १३ सेप्ट १९:०० — मृत्यु १३८८, बेपत्ता ५१३०, उद्धार १३७२८।",
+        "hi": "NDRRMA: 13 सित 19:00 — मृत 1388, लापता 5130, बचाए 13728।"
       }
     },
     {
       "id": "x1",
       "user": "@NDRRMA_Nepal",
-      "t": "2026-09-12T14:18:53Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098778380074443208",
+      "t": "2026-09-12T18:14:30Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2098837672068628860",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA：12日18:00更新—1386具遗体、5130失联、获救13728。",
-        "en": "NDRRMA: 12 Sep 18:00 update — 1,386 bodies, 5,130 missing, 13,728 rescued.",
-        "ne": "NDRRMA: 12 सेप्ट 18:00 — 1386 शव, 5130 बेपत्ता, उद्धार 13728।",
-        "hi": "NDRRMA: 12 सित 18:00 — 1386 शव, 5130 लापता, बचाए 13728।"
+        "zh": "NDRRMA SitRep#11：12日19:00搜救救济形势报告已发。",
+        "en": "NDRRMA SitRep#11: 12 Sep 19:00 SAR and relief report posted.",
+        "ne": "NDRRMA SitRep#11: 12 सेप्ट 19:00।",
+        "hi": "NDRRMA SitRep#11: 12 सित 19:00।"
       }
     },
     {
