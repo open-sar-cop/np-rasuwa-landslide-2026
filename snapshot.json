@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-15T01:20:00Z",
+  "snap": "2026-09-15T02:17:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1388, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0915r1",
+      "id": "osint-0915r2",
       "src": "official",
-      "t": "2026-09-15T01:20:00Z",
-      "link": "https://go.ifrc.org/emergencies/8073/overview",
+      "t": "2026-09-15T02:17:00Z",
+      "link": "https://nrcs.org/highlight/9",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "复核：CN仍43/519/2；NDRRMA/IFRC仍1388/5130/13728",
-        "en": "Refresh: CN still 43/519/2; NDRRMA/IFRC still 1,388/5,130/13,728",
-        "ne": "पुनर्जाँच: CN ४३/५१९/२; NDRRMA/IFRC १३८८/५१३०/१३७२८",
-        "hi": "पुनः जाँच: CN 43/519/2; NDRRMA/IFRC 1388/5130/13728"
+        "zh": "复核：CN仍43/519/2；NDRRMA/NRCS仍1388/5130/13728",
+        "en": "Refresh: CN still 43/519/2; NDRRMA/NRCS still 1,388/5,130/13,728",
+        "ne": "पुनर्जाँच: CN ४३/५१९/२; NDRRMA/NRCS १३८८/५१३०/१३७२८",
+        "hi": "पुनः जाँच: CN 43/519/2; NDRRMA/NRCS 1388/5130/13728"
       },
       "body": {
-        "zh": "15日01:20 UTC：中方指挥部/新华社仍截至9月5日18时43遇难、519失联、热索村救2人。IFRC GO 13日更新与红十字会SitRep 8仍引NDRRMA：死亡1388、失联5130、获救13728。14日无新官方SitRep。非官方聚合称警方1392，未采信。国门仍毁。堰塞湖已泄。两国口径勿相加。",
-        "en": "15 Sep 01:20 UTC: CN HQ/Xinhua still 43/519/2 as of 5 Sep 18:00. IFRC GO 13 Sep and NRCS SitRep 8 still cite NDRRMA 1,388 dead, 5,130 missing, 13,728 rescued. No new official SitRep on 14 Sep. Unofficial Police 1,392 not used. Gate destroyed. Lake drained. Do not add CN+NP.",
-        "ne": "15 सेप्ट 01:20 UTC: CN 43/519/2। NDRRMA/IFRC 1388/5130/13728। 14 सेप्ट SitRep छैन। नजोड्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "15 सित 01:20 UTC: CN 43/519/2। NDRRMA/IFRC 1388/5130/13728। 14 सित SitRep नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "15日02:17 UTC：中方指挥部/新华社仍截至9月5日18时43遇难、519失联、热索村救2人。NRCS SitRep 8（13日）引NDRRMA：死亡约1386–1388、失联5130、获救13728。非官方聚合称警方1392，未采信。国门仍毁。堰塞湖已泄。两国口径勿相加。",
+        "en": "15 Sep 02:17 UTC: CN HQ/Xinhua still 43/519/2 as of 5 Sep 18:00. NRCS SitRep 8 (13 Sep) cites NDRRMA ~1,386–1,388 dead, 5,130 missing, 13,728 rescued. Unofficial Police 1,392 not used. Gate destroyed. Lake drained. Do not add CN+NP.",
+        "ne": "15 सेप्ट 02:17 UTC: CN 43/519/2। NDRRMA/NRCS 1388/5130/13728। नजोड्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "15 सित 02:17 UTC: CN 43/519/2। NDRRMA/NRCS 1388/5130/13728। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -39,7 +39,7 @@
         "hi": "NRCS SitRep 8: 1386–1388 मृत, 5130 लापता"
       },
       "body": {
-        "zh": "尼泊尔红十字13日更新引NDRRMA：死亡约1386、失联5130、获救13728；98具已移交家属。KPI仍用NDRRMA图形1388。",
+        "zh": "尼泊尔红十字13日更新引NDRRMA：死亡约1386、失联5130、获救13728；98具已移交家属。KPI用NDRRMA图形1388。",
         "en": "NRCS 13 Sep cites NDRRMA: ~1,386 dead, 5,130 missing, 13,728 rescued; 98 bodies handed over. KPI keeps NDRRMA graphic 1,388.",
         "ne": "NRCS: ~1386/5130/13728; 98 शव हस्तान्तरण। KPI 1388।",
         "hi": "NRCS: ~1386/5130/13728; 98 शव सौंपे। KPI 1388।"
@@ -189,8 +189,8 @@
         "hi": "अमेरिकी दूतावास: सीमा न जाएँ"
       },
       "body": {
-        "zh": "9月3日：Khalte段仍断；勿前往Rasuwagadhi–Timure–Syafrubesi及中尼口岸。未见15日新路告。",
-        "en": "3 Sep: Khalte still closed; do not travel to Rasuwagadhi–Timure–Syafrubesi or the border crossing. No newer embassy road notice on 15 Sep UTC.",
+        "zh": "9月3日：Khalte段仍断；勿前往Rasuwagadhi–Timure–Syafrubesi及中尼口岸。未见更新路告。",
+        "en": "3 Sep: Khalte still closed; do not travel to Rasuwagadhi–Timure–Syafrubesi or the border crossing. No newer embassy road notice.",
         "ne": "3 सेप्ट: खाल्टे बन्द; रसुवागढी–तिमुरे–स्याफ्रुबेसी नजानुहोस्।",
         "hi": "3 सित: खाल्टे बंद; रसुवागढ़ी–तिमुरे–स्याफ्रुबेसी न जाएँ।"
       }
@@ -344,29 +344,57 @@
     {
       "id": "x4",
       "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华社：G216抢通受阻于急流、边坡与巨石，两小时推进不足5米。",
+        "en": "Xinhua: G216 repair slowed by water, slopes and boulders; under 5 m in two hours.",
+        "ne": "सिन्हुआ: G216 मर्मत ढिलो; दुई घण्टामा ५ मिटरभन्दा कम।",
+        "hi": "शिन्हुआ: G216 मरम्मत धीमी; दो घंटे में 5 मीटर से कम।"
+      }
+    },
+    {
+      "id": "x5",
+      "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：2日10时G216通往口岸核心区基本抢通。",
-        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
-        "ne": "सिन्हुआ: 2 सेप्ट 10:00 G216 कोर खुल्यो।",
-        "hi": "शिन्हुआ: 2 सित 10:00 G216 कोर खुला।"
+        "zh": "新华社：2日10时通往吉隆口岸核心区道路基本抢通。",
+        "en": "Xinhua: road access to Gyirong Port core basically restored 10:00 2 Sep.",
+        "ne": "सिन्हुआ: २ सेप्ट १०:०० कोर बाटो लगभग खुल्यो।",
+        "hi": "शिन्हुआ: 2 सित 10:00 कोर सड़क लगभग खुली।"
       }
     },
     {
-      "id": "x5",
+      "id": "x6",
       "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社：吉隆口岸泥石流排查出261名失联外籍人员（23国）。",
+        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for at Gyirong Port.",
+        "ne": "सिन्हुआ: ग्यिरोङमा २६१ विदेशी बेपत्ता (२३ देश)।",
+        "hi": "शिन्हुआ: ग्यिरोंग में 261 विदेशी लापता (23 देश)।"
+      }
+    },
+    {
+      "id": "x7",
+      "user": "@XHNews",
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
       "geo": "unknown",
       "text": {
-        "zh": "新华社：截至29日18时16遇难546失联（已由后续43/519取代）。",
-        "en": "Xinhua: as of 29 Aug 18:00 — 16 dead, 546 missing (superseded by later 43/519).",
-        "ne": "सिन्हुआ: 29 अग 18:00 — 16/546 (पछि 43/519)।",
-        "hi": "शिन्हुआ: 29 अग 18:00 — 16/546 (बाद में 43/519)।"
+        "zh": "新华社：激光AI监测设备实时预警吉隆抢通路段滑坡落石。",
+        "en": "Xinhua: laser AI monitors landslide and rockfall risk on the Gyirong repair route.",
+        "ne": "सिन्हुआ: लेजर AI ले पहिरो जोखिम निगरानी।",
+        "hi": "शिन्हुआ: लेजर AI भूस्खलन जोखिम निगरानी।"
       }
     }
   ]
