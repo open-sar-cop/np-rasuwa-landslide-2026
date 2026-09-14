@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-14T22:19:00Z",
+  "snap": "2026-09-14T23:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1388, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0914r6",
+      "id": "osint-0914r7",
       "src": "official",
-      "t": "2026-09-14T22:19:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2099140132981096692",
+      "t": "2026-09-14T23:05:00Z",
+      "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "复核：CN仍43/519/2；NDRRMA仍1388/5130/13728",
-        "en": "Refresh: CN still 43/519/2; NDRRMA still 1,388/5,130/13,728",
-        "ne": "पुनर्जाँच: CN ४३/५१९/२; NDRRMA १३८८/५१३०/१३७२८",
-        "hi": "पुनः जाँच: CN 43/519/2; NDRRMA 1388/5130/13728"
+        "zh": "复核：CN仍43/519/2；NDRRMA/IFRC仍1388/5130/13728",
+        "en": "Refresh: CN still 43/519/2; NDRRMA/IFRC still 1,388/5,130/13,728",
+        "ne": "पुनर्जाँच: CN ४३/५१९/२; NDRRMA/IFRC १३८८/५१३०/१३७२८",
+        "hi": "पुनः जाँच: CN 43/519/2; NDRRMA/IFRC 1388/5130/13728"
       },
       "body": {
-        "zh": "14日22:19 UTC：中方指挥部/新华社仍截至9月5日18时43遇难、519失联、热索村救2人，未见更新。NDRRMA最新官方图形仍为13日19:00：死亡1388、失联5130、获救13728；14日无新SitRep。非官方聚合称警方1392，未采信。国门仍毁。堰塞湖已泄。两国口径勿相加。",
-        "en": "14 Sep 22:19 UTC: CN HQ/Xinhua still 43/519/2 as of 5 Sep 18:00; no newer CN count. NDRRMA last official graphic 13 Sep 19:00: 1,388 dead, 5,130 missing, 13,728 rescued; no 14 Sep SitRep. Unofficial aggregator citing Police 1,392 not used. Gate destroyed. Lake drained. Do not add CN+NP.",
-        "ne": "14 सेप्ट 22:19 UTC: CN 43/519/2। NDRRMA 1388/5130/13728। 14 सेप्ट SitRep छैन। नजोड्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "14 सित 22:19 UTC: CN 43/519/2। NDRRMA 1388/5130/13728। 14 सित SitRep नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "14日23:05 UTC：中方指挥部/新华社仍截至9月5日18时43遇难、519失联、热索村救2人，未见更新。NDRRMA 13日19:00图形与IFRC 13日更新均为死亡1388、失联5130、获救13728；14日无新官方SitRep。非官方聚合称警方1392，未采信。国门仍毁。堰塞湖已泄。两国口径勿相加。",
+        "en": "14 Sep 23:05 UTC: CN HQ/Xinhua still 43/519/2 as of 5 Sep 18:00; no newer CN count. NDRRMA 13 Sep 19:00 graphic and IFRC 13 Sep update: 1,388 dead, 5,130 missing, 13,728 rescued; no 14 Sep SitRep. Unofficial aggregator citing Police 1,392 not used. Gate destroyed. Lake drained. Do not add CN+NP.",
+        "ne": "14 सेप्ट 23:05 UTC: CN 43/519/2। NDRRMA/IFRC 1388/5130/13728। 14 सेप्ट SitRep छैन। नजोड्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "14 सित 23:05 UTC: CN 43/519/2। NDRRMA/IFRC 1388/5130/13728। 14 सित SitRep नहीं। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -147,10 +147,10 @@
         "hi": "UNOSAT/ReliefWeb: मलबा प्रवाह सीमा"
       },
       "body": {
-        "zh": "UNOSAT 26–27日影像：拉苏瓦约20 km²受泥石流影响。Copernicus EMSR927已启动。MapAction 9月6日参考图已发。",
-        "en": "UNOSAT 26–27 Aug: ~20 km² debris flow in Rasuwa. Copernicus EMSR927 activated. MapAction reference series 6 Sep.",
-        "ne": "UNOSAT: रसुवामा ~20 वर्ग किमी लेदो। EMSR927। MapAction 6 सेप्ट।",
-        "hi": "UNOSAT: रसुवा ~20 वर्ग किमी मलबा। EMSR927। MapAction 6 सित।"
+        "zh": "UNOSAT 26–27日影像：拉苏瓦约20 km²受泥石流影响。Copernicus EMSR927已启动。",
+        "en": "UNOSAT 26–27 Aug: ~20 km² debris flow in Rasuwa. Copernicus EMSR927 activated.",
+        "ne": "UNOSAT: रसुवामा ~20 वर्ग किमी लेदो। EMSR927।",
+        "hi": "UNOSAT: रसुवा ~20 वर्ग किमी मलबा। EMSR927।"
       }
     },
     {
@@ -337,21 +337,23 @@
       "text": {
         "zh": "新华社：外媒记者探访吉隆口岸灾区。",
         "en": "Xinhua: foreign media visit Gyirong Port disaster site.",
-        "ne": "सिन्हुआ: विदेशी मिडिया ग्यिरोङ पोर्ट।",
-        "hi": "शिन्हुआ: विदेशी मीडिया ग्यिरोंग पोर्ट।"
+        "ne": "सिन्हुआ: विदेशी पत्रकार ग्यिरोङ पोर्ट गए।",
+        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोंग पोर्ट गए।"
       }
     },
     {
       "id": "x4",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-13T14:24:57Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2099142294343737713",
-      "geo": "unknown",
+      "user": "@XHNews",
+      "t": "2026-09-08T04:59:52Z",
+      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "NDRRMA：中央与拉苏瓦、努瓦科特、达丁指挥所视频会商搜救协调。",
-        "en": "NDRRMA: virtual coord among central and Rasuwa/Nuwakot/Dhading command posts.",
-        "ne": "NDRRMA: केन्द्र–जिल्ला कमाण्ड छलफल।",
-        "hi": "NDRRMA: केंद्र–जिला कमांड चर्चा।"
+        "zh": "新华社：吉隆口岸搜救进展再综述。",
+        "en": "Xinhua: further recap of Gyirong Port SAR progress.",
+        "ne": "सिन्हुआ: ग्यिरोङ SAR पुनरावलोकन।",
+        "hi": "शिन्हुआ: ग्यिरोंग SAR समीक्षा।"
       }
     },
     {
@@ -361,10 +363,38 @@
       "link": "https://x.com/NDRRMA_Nepal/status/2098837672068628860",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA SitRep #11（12日19:00）已发布。",
-        "en": "NDRRMA SitRep #11 dated 12 Sep 19:00 published.",
-        "ne": "NDRRMA SitRep #11, १२ सेप्ट १९:००।",
-        "hi": "NDRRMA SitRep #11, 12 सित 19:00।"
+        "zh": "NDRRMA SitRep #11（12日19:00）已发。",
+        "en": "NDRRMA SitRep #11 posted (12 Sep 19:00).",
+        "ne": "NDRRMA SitRep #11 (१२ सेप्ट १९:००)।",
+        "hi": "NDRRMA SitRep #11 (12 सित 19:00)।"
+      }
+    },
+    {
+      "id": "x6",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-12T14:18:53Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2098778380074443208",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：12日18:00搜救与救济图形更新。",
+        "en": "NDRRMA: 12 Sep 18:00 search/relief graphic update.",
+        "ne": "NDRRMA: १२ सेप्ट १८:०० ग्राफिक।",
+        "hi": "NDRRMA: 12 सित 18:00 ग्राफिक।"
+      }
+    },
+    {
+      "id": "x7",
+      "user": "@XHNews",
+      "t": "2026-09-07T10:10:46Z",
+      "link": "https://x.com/XHNews/status/2096904000058843554",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社视频：外媒记者进入吉隆口岸灾区了解救援。",
+        "en": "Xinhua video: foreign journalists at devastated Gyirong Port.",
+        "ne": "सिन्हुआ भिडियो: विदेशी पत्रकार ग्यिरोङ।",
+        "hi": "शिन्हुआ वीडियो: विदेशी पत्रकार ग्यिरोंग।"
       }
     }
   ]
