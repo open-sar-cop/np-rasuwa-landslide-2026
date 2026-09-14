@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-15T03:40:00Z",
+  "snap": "2026-09-15T04:32:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1395, "missing": 5130, "rescued": 13737 }
   },
   "published": [
     {
-      "id": "osint-0915r4",
+      "id": "osint-0915r5",
       "src": "official",
-      "t": "2026-09-15T03:40:00Z",
+      "t": "2026-09-15T04:32:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2099494943706546257",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "पुनः जाँच: CN 43/519/2; NDRRMA 14 सित 19:00 = 1395/5130/13737"
       },
       "body": {
-        "zh": "15日03:40 UTC：中方指挥部/新华社仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA 14日19:00图形：死亡1395、失联5130、获救13737。国门仍毁。堰塞湖已泄。两国口径勿相加。",
-        "en": "15 Sep 03:40 UTC: CN HQ/Xinhua still 43/519/2 as of 5 Sep 18:00. NDRRMA graphic 14 Sep 19:00: 1,395 dead, 5,130 missing, 13,737 rescued. Gate destroyed. Lake drained. Do not add CN+NP.",
-        "ne": "15 सेप्ट 03:40 UTC: CN 43/519/2। NDRRMA 1395/5130/13737। नजोड्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "15 सित 03:40 UTC: CN 43/519/2। NDRRMA 1395/5130/13737। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "15日04:32 UTC：中方指挥部/新华社仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA 14日19:00图形：死亡1395、失联5130、获救13737。国门仍毁。堰塞湖已泄。尼方寻求中方协助重建热索瓦路并开临时道。两国口径勿相加。",
+        "en": "15 Sep 04:32 UTC: CN HQ/Xinhua still 43/519/2 as of 5 Sep 18:00. NDRRMA graphic 14 Sep 19:00: 1,395 dead, 5,130 missing, 13,737 rescued. Gate destroyed. Lake drained. Nepal seeks China help to rebuild Rasuwagadhi road; temporary track planned. Do not add CN+NP.",
+        "ne": "15 सेप्ट 04:32 UTC: CN 43/519/2। NDRRMA 1395/5130/13737। द्वार नष्ट। ताल खाली। अस्थायी ट्र्याक। नजोड्नु।",
+        "hi": "15 सित 04:32 UTC: CN 43/519/2। NDRRMA 1395/5130/13737। द्वार नष्ट। झील खाली। अस्थायी ट्रैक। न जोड़ें।"
       }
     },
     {
@@ -39,10 +39,32 @@
         "hi": "NDRRMA 14 सित 19:00: 1,395 मृत, 5,130 लापता, 13,737 बचाए"
       },
       "body": {
-        "zh": "官方图形：总死亡1395（含未识别遗骸）；失联5130（已扣已确认遗体104）；获救13737；陆航1531架次。",
-        "en": "Official graphic: 1,395 dead (incl. unidentified remains); 5,130 missing after deducting 104 IDs; 13,737 rescued; 1,531 Army flights.",
+        "zh": "官方图形：总死亡1395；失联5130；获救13737。未见15日新官方命亡数。",
+        "en": "Official graphic: 1,395 dead; 5,130 missing; 13,737 rescued. No newer official 15 Sep casualty count.",
         "ne": "आधिकारिक: मृत्यु १३९५; बेपत्ता ५१३०; उद्धार १३७३७।",
         "hi": "आधिकारिक: मृत 1395; लापता 5130; बचाए 13737।"
+      }
+    },
+    {
+      "id": "kpost-0914-road",
+      "src": "official",
+      "t": "2026-09-14T09:18:00Z",
+      "link": "https://www.indiatoday.in/world/story/nepal-seeks-china-help-to-rebuild-flood-hit-rasuwagadhi-border-road-ptag-2994214-2026-09-14",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Timure",
+      "title": {
+        "zh": "尼方寻求中方协助重建热索瓦公路",
+        "en": "Nepal seeks China help to rebuild Rasuwagadhi road",
+        "ne": "नेपालले रसुवागढी सडक पुनर्निर्माणमा चीन सहयोग माग्यो",
+        "hi": "नेपाल ने रसुवागढ़ी सड़क पुनर्निर्माण में चीन सहायता मांगी"
+      },
+      "body": {
+        "zh": "14日：基础设施部长Lamsal称中方口头承诺协助；先开临时道维持通往热索瓦通道；正式协议未签。口岸仍不通关。",
+        "en": "14 Sep: Minister Lamsal said China gave a verbal pledge; temporary track first; no written pact yet. Crossing still closed.",
+        "ne": "१४ सेप्ट: मौखिक प्रतिबद्धता; अस्थायी ट्र्याक; सम्झौता छैन; द्वार बन्द।",
+        "hi": "14 सित: मौखिक वादा; अस्थायी ट्रैक; समझौता नहीं; द्वार बंद।"
       }
     },
     {
@@ -53,10 +75,10 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "红十字会SitRep 8（13日）曾报1386–1388/5130/13728",
-        "en": "NRCS SitRep 8 (13 Sep) had 1,386–1,388 / 5,130 / 13,728",
-        "ne": "NRCS SitRep 8 (१३ सेप्ट): १३८६–१३८८ / ५१३० / १३७२८",
-        "hi": "NRCS SitRep 8 (13 सित): 1386–1388 / 5130 / 13728"
+        "zh": "红十字会SitRep 8（13日）曾报1386/5130/13728",
+        "en": "NRCS SitRep 8 (13 Sep) had 1,386 / 5,130 / 13,728",
+        "ne": "NRCS SitRep 8 (१३ सेप्ट): १३८६ / ५१३० / १३७२८",
+        "hi": "NRCS SitRep 8 (13 सित): 1386 / 5130 / 13728"
       },
       "body": {
         "zh": "NRCS 13日引NDRRMA旧数；KPI现改用14日官方图形。",
@@ -91,7 +113,7 @@
       "id": "cn-lake-0908",
       "src": "official",
       "t": "2026-09-08T10:00:00Z",
-      "link": "https://en.people.cn/n3/2026/0911/c90000-20498567.html",
+      "link": "https://www.news.cn/20260908/9ea476a2e09249b7a27a077879455af3/c.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -176,28 +198,6 @@
       }
     },
     {
-      "id": "kpost-0913",
-      "src": "official",
-      "t": "2026-09-13T03:17:00Z",
-      "link": "https://kathmandupost.com/national/2026/09/13/flood-damage-leaves-rasuwagadhi-road-facing-long-repairs",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Timure",
-      "title": {
-        "zh": "道路局：热索瓦道路仍需长期修复",
-        "en": "DoR: Rasuwagadhi road still needs long repairs",
-        "ne": "सडक विभाग: रसुवागढी सडक लामो मरमत",
-        "hi": "सड़क विभाग: रसुवागढ़ी सड़क लंबा मरम्मत"
-      },
-      "body": {
-        "zh": "Kathmandu Post 13日：约40 km路段冲毁，正开临时道并计划贝雷桥。",
-        "en": "Kathmandu Post 13 Sep: ~40 km washed out; temporary tracks and Bailey bridges planned.",
-        "ne": "~४० किमी बग्यो; अस्थायी ट्र्याक र बेली पुल।",
-        "hi": "~40 किमी बहा; अस्थायी ट्रैक और बेली पुल।"
-      }
-    },
-    {
       "id": "ifrc-0913",
       "src": "official",
       "t": "2026-09-13T00:00:00Z",
@@ -241,7 +241,7 @@
       "lat": 28.248,
       "lng": 85.356,
       "name": { "zh": "热索瓦—蒂姆雷", "en": "Rasuwagadhi–Timure", "ne": "रसुवागढी–तिमुरे", "hi": "रसुवागढ़ी–तिमुरे" },
-      "detail": { "zh": "美使馆9月3日：Khalte仍断；13日报道路局仍在修临时道", "en": "US Embassy 3 Sep: Khalte closed; DoR 13 Sep still building temporary tracks", "ne": "खाल्टे बन्द; अस्थायी ट्र्याक", "hi": "खाल्टे बंद; अस्थायी ट्रैक" }
+      "detail": { "zh": "美使馆9月3日：Khalte仍断；14日拟开临时道并寻求中方援建", "en": "US Embassy 3 Sep: Khalte closed; 14 Sep temporary track planned, China rebuild aid sought", "ne": "खाल्टे बन्द; अस्थायी ट्र्याक; चीन सहयोग माग", "hi": "खाल्टे बंद; अस्थायी ट्रैक; चीन सहायता मांगी" }
     }
   ],
   "forces": [
@@ -339,62 +339,6 @@
         "en": "Xinhua: Gyirong Port chain mudslide and China SAR progress recap.",
         "ne": "सिन्हुआ: ग्यिरोङ पोर्ट लेदो र SAR।",
         "hi": "शिन्हुआ: ग्यिरोंग पोर्ट मलबा और SAR।"
-      }
-    },
-    {
-      "id": "x4",
-      "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华社：国际媒体探访吉隆口岸灾区。",
-        "en": "Xinhua: international media visit mudslide-hit Gyirong Port.",
-        "ne": "सिन्हुआ: अन्तर्राष्ट्रिय मिडिया ग्यिरोङ पोर्ट।",
-        "hi": "शिन्हुआ: अंतरराष्ट्रीय मीडिया ग्यिरोंग पोर्ट।"
-      }
-    },
-    {
-      "id": "x5",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-10T09:15:50Z",
-      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "Gyirong town",
-      "text": {
-        "zh": "CGTN+：吉隆镇滞留尼泊尔工人继续作业，盼尽快复原。",
-        "en": "CCTV+: Nepali workers remaining in Gyirong Town hope for recovery.",
-        "ne": "CCTV+: ग्यिरोङ टाउनमा नेपाली कामदार; पुनर्लाभ आशा।",
-        "hi": "CCTV+: ग्यिरोंग टाउन में नेपाली मजदूर; बहाली की उम्मीद।"
-      }
-    },
-    {
-      "id": "x6",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-12T18:14:30Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098837672068628860",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA SitRep #11（12日19:00）。",
-        "en": "NDRRMA SitRep #11 (12 Sep 19:00).",
-        "ne": "NDRRMA SitRep #11 (१२ सेप्ट १९:००)।",
-        "hi": "NDRRMA SitRep #11 (12 सित 19:00)।"
-      }
-    },
-    {
-      "id": "x7",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-12T12:00:47Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098743626507645355",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA发布热索瓦—波特科西洪水RDNA评估。",
-        "en": "NDRRMA published Rasuwa–Bhotekoshi flood RDNA.",
-        "ne": "NDRRMA ले रसुवा–भोटेकोशी RDNA जारी।",
-        "hi": "NDRRMA ने रसुवा–भोटेकोशी RDNA जारी।"
       }
     }
   ]
