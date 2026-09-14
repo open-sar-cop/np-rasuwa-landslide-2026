@@ -1,14 +1,14 @@
 {
-  "snap": "2026-09-14T14:06:00Z",
+  "snap": "2026-09-14T15:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1386, "missing": 5130, "rescued": 13728 }
   },
   "published": [
     {
-      "id": "osint-0914i",
+      "id": "osint-0914j",
       "src": "official",
-      "t": "2026-09-14T14:06:00Z",
+      "t": "2026-09-14T15:10:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/420",
       "img": null,
       "geo": "unknown",
@@ -19,10 +19,10 @@
         "hi": "यह रन: CN 43/519/2; NP 1386/5130/13728"
       },
       "body": {
-        "zh": "14日14:06 UTC检索：中方指挥部无新数字，仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA SitRep#11（12日19:00）1386死、5130失联、获救13728。13日媒体引警方1390，本快照仍用NDRRMA。勿与中方相加。国门仍毁。堰塞湖已泄。",
-        "en": "14 Sep 14:06 UTC search: no new CN HQ count; still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA SitRep#11 12 Sep 19:00: 1,386 dead / 5,130 missing / 13,728 rescued. Media 13 Sep cite Police 1,390; this snap keeps NDRRMA. Do not add CN. Gate destroyed. Lake drained.",
-        "ne": "14 सेप्ट 14:06 UTC: CN 43/519/2। NDRRMA 12 सेप्ट: 1386/5130/13728। नजोड़्नु। द्वार नष्ट। ताल खाली।",
-        "hi": "14 सित 14:06 UTC: CN 43/519/2। NDRRMA 12 सित: 1386/5130/13728। न जोड़ें। द्वार नष्ट। झील खाली।"
+        "zh": "14日15:10 UTC检索：中方指挥部无新伤亡数字，仍截至9月5日18时43遇难、519失联、救出2人。NDRRMA SitRep#11（12日19:00）1386死、5130失联、获救13728。13日媒体引警方1390，本快照仍用NDRRMA。勿与中方相加。国门仍毁。堰塞湖已泄。",
+        "en": "14 Sep 15:10 UTC search: no new CN HQ count; still 43 dead, 519 missing, 2 rescued (5 Sep 18:00). NDRRMA SitRep#11 12 Sep 19:00: 1,386 dead / 5,130 missing / 13,728 rescued. Media 13 Sep cite Police 1,390; this snap keeps NDRRMA. Do not add CN. Gate destroyed. Lake drained.",
+        "ne": "14 सेप्ट 15:10 UTC: CN 43/519/2। NDRRMA 12 सेप्ट: 1386/5130/13728। नजोड़्नु। द्वार नष्ट। ताल खाली।",
+        "hi": "14 सित 15:10 UTC: CN 43/519/2। NDRRMA 12 सित: 1386/5130/13728। न जोड़ें। द्वार नष्ट। झील खाली।"
       }
     },
     {
@@ -344,61 +344,59 @@
     {
       "id": "x4",
       "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社：通往吉隆口岸核心区道路抢通难点纪录。",
+        "en": "Xinhua: how crews reopened the last stretch to Gyirong Port core.",
+        "ne": "सिन्हुआ: ग्यिरोङ कोर सडक खोल्ने कठिनाइ।",
+        "hi": "शिन्हुआ: ग्यिरोंग कोर सड़क खोलने की कठिनाई।"
+      }
+    },
+    {
+      "id": "x5",
+      "user": "@XHNews",
       "t": "2026-08-30T04:23:39Z",
       "link": "https://x.com/XHNews/status/2093917539642519759",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：截至29日18时16人遇难、546人失联（早期口径，已被9月5日数字替代）。",
-        "en": "Xinhua: as of 29 Aug 18:00, 16 dead, 546 missing (superseded by 5 Sep count).",
-        "ne": "सिन्हुआ: 29 अग 18:00 — 16/५४६ (पछि संख्या)।",
-        "hi": "शिन्हुआ: 29 अग 18:00 — 16/546 (पुराना आँकड़ा)।"
-      }
-    },
-    {
-      "id": "x5",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华社：排查261名失联外籍人员，涉23国。",
-        "en": "Xinhua: 261 missing foreign nationals from 23 countries identified.",
-        "ne": "सिन्हुआ: 261 विदेशी बेपत्ता, 23 देश।",
-        "hi": "शिन्हुआ: 261 विदेशी लापता, 23 देश।"
+        "zh": "新华社：截至29日18时16遇难546失联（后续已更新为43/519）。",
+        "en": "Xinhua: as of 29 Aug 18:00, 16 dead 546 missing (later updated to 43/519).",
+        "ne": "सिन्हुआ: 29 अग 18:00 मा 16/546 (पछि 43/519)।",
+        "hi": "शिन्हुआ: 29 अग 18:00 पर 16/546 (बाद में 43/519)।"
       }
     },
     {
       "id": "x6",
       "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.28,
-      "lng": 85.38,
-      "geo": "Gyirong Port",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "geo": "unknown",
       "text": {
-        "zh": "新华社：G216抢通遇激流、失稳边坡与巨石。",
-        "en": "Xinhua: G216 reopen delayed by fast water, unstable slopes, massive rocks.",
-        "ne": "सिन्हुआ: G216 खुल्ने गाह्रो नदी/भिर/चट्टान।",
-        "hi": "शिन्हुआ: G216 खोलने में नदी/ढलान/चट्टान।"
+        "zh": "新华社：失联外籍人员261人、涉23国。",
+        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for.",
+        "ne": "सिन्हुआ: २६१ विदेशी, २३ देश।",
+        "hi": "शिन्हुआ: 261 विदेशी, 23 देश।"
       }
     },
     {
       "id": "x7",
       "user": "@XHNews",
-      "t": "2026-08-30T14:25:09Z",
-      "link": "https://x.com/XHNews/status/2094068911415443557",
-      "lat": 28.28,
-      "lng": 85.38,
+      "t": "2026-09-03T12:07:02Z",
+      "link": "https://x.com/XHNews/status/2095483707511734465",
+      "lat": 28.2797,
+      "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：激光AI监测设备用于吉隆泥石流区边坡与落石风险。",
-        "en": "Xinhua: laser AI device monitors landslide and rockfall risk in Gyirong.",
-        "ne": "सिन्हुआ: ग्यिरोङमा लेजर AI निगरानी।",
-        "hi": "शिन्हुआ: ग्यिरोंग में लेजर AI निगरानी।"
+        "zh": "新华社：口岸山体“中国我爱你”字迹仍依稀可见。",
+        "en": "Xinhua: hillside slogan near Gyirong Port still faintly visible.",
+        "ne": "सिन्हुआ: ग्यिरोङ पहाडको नारा अझै देखिन्छ।",
+        "hi": "शिन्हुआ: ग्यिरोंग पहाड़ी नारा अभी दिखता है।"
       }
     }
   ]
