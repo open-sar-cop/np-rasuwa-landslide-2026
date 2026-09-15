@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-16T00:17:00Z",
+  "snap": "2026-09-16T02:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1395, "missing": 5130, "rescued": 13737 }
   },
   "published": [
     {
-      "id": "osint-0916r0017",
+      "id": "osint-0916t0215",
       "src": "official",
-      "t": "2026-09-16T00:17:00Z",
+      "t": "2026-09-16T02:15:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2099810534090743982",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "16日00:17UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
-        "en": "16 Sep 00:17 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
-        "ne": "१६ सेप्ट 00:17 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
-        "hi": "16 सित 00:17 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
+        "zh": "16日02:15UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
+        "en": "16 Sep 02:15 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
+        "ne": "१६ सेप्ट 02:15 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
+        "hi": "16 सित 02:15 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
       },
       "body": {
-        "zh": "检索新华社/@XHNews、指挥部、NDRRMA（14日19:00 SitRep#13与图形；15日仅NPDRR复原会议无新命亡）、美使馆与ReliefWeb/UNOSAT：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为死亡1395、失联5130、获救13737。媒体/IFRC/志愿者更高或略异数字未作官方确认，不采用。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
-        "en": "Xinhua/@XHNews, CN HQ, NDRRMA SitRep #13 (14 Sep 19:00) plus 15 Sep recovery meeting with no new toll, US Embassy, ReliefWeb/UNOSAT: CN still 43/519/2 as of 5 Sep 18:00. Latest official NDRRMA graphic: 1,395 dead, 5,130 missing, 13,737 rescued. Higher or differing media/IFRC tallies not adopted. Gate destroyed. Lake drained. G216 core open. Do not add CN+NP.",
+        "zh": "检索新华社/@XHNews、指挥部、NDRRMA（14日19:00 SitRep#13与图形；15日仅NPDRR复原会议无新命亡）、美使馆与ReliefWeb/UNOSAT：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为死亡1395、失联5130、获救13737。IFRC等非官方口径略异数字未采用。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
+        "en": "Xinhua/@XHNews, CN HQ, NDRRMA SitRep #13 (14 Sep 19:00) plus 15 Sep recovery meeting with no new toll, US Embassy, ReliefWeb/UNOSAT: CN still 43/519/2 as of 5 Sep 18:00. Latest official NDRRMA graphic: 1,395 dead, 5,130 missing, 13,737 rescued. Differing IFRC/media tallies not adopted. Gate destroyed. Lake drained. G216 core open. Do not add CN+NP.",
         "ne": "CN ४३/५१९/२। NDRRMA १३९५/५१३०/१३७३७। द्वार नष्ट। ताल खाली। नजोड्नु।",
         "hi": "CN 43/519/2। NDRRMA 1395/5130/13737। द्वार नष्ट। झील खाली। न जोड़ें।"
       }
@@ -328,12 +328,12 @@
       "text": {
         "zh": "新华社：截至5日18时43遇难、519失联；失联外籍261人、23国。",
         "en": "Xinhua: as of 5 Sep 18:00, 43 dead, 519 missing; 261 foreigners from 23 countries.",
-        "ne": "सिन्ह्वा: ४३ मृत्यु, ५१९ बेपत्ता; २६१ विदेशी।",
-        "hi": "सिन्हुआ: 43 मृत, 519 लापता; 261 विदेशी।"
+        "ne": "सिन्ह्वा: 5 सेप्ट 18:00 मा 43 मृत्यु, 519 बेपत्ता।",
+        "hi": "सिन्हुआ: 5 सित 18:00 पर 43 मृत, 519 लापता।"
       }
     },
     {
-      "id": "x2",
+      "id": "x-g216",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -341,38 +341,10 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：2日10时G216通往吉隆口岸核心区基本抢通。",
+        "zh": "新华社：2日10时G216通往吉隆口岸核心区陆路基本抢通。",
         "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
-        "ne": "सिन्ह्वा: २ सेप्ट १०:०० G216 कोर खुल्यो।",
-        "hi": "सिन्हुआ: 2 सित 10:00 G216 कोर खुला।"
-      }
-    },
-    {
-      "id": "x4",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-12T14:18:53Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098778380074443208",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA：12日18:00搜救救济图形通报。",
-        "en": "NDRRMA: 12 Sep 18:00 search-rescue-relief graphic.",
-        "ne": "NDRRMA: १२ सेप्ट १८:०० ग्राफिक।",
-        "hi": "NDRRMA: 12 सित 18:00 ग्राफिक।"
-      }
-    },
-    {
-      "id": "x-xh-0907id",
-      "user": "@XHNews",
-      "t": "2026-09-07T06:08:33Z",
-      "link": "https://x.com/XHNews/status/2096843042137489625",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华社：指挥部称部分遇难者身份已确认。",
-        "en": "Xinhua: command center said some victims’ identities confirmed.",
-        "ne": "सिन्ह्वा: केही मृतक पहिचान पुष्टि।",
-        "hi": "सिन्हुआ: कुछ मृतक पहचान पुष्ट।"
+        "ne": "सिन्ह्वा: G216 कोर 2 सेप्ट 10:00 मा खुल्यो।",
+        "hi": "सिन्हुआ: G216 कोर 2 सित 10:00 पर खुला।"
       }
     }
   ]
