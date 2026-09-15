@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-15T12:05:00Z",
+  "snap": "2026-09-15T13:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1395, "missing": 5130, "rescued": 13737 }
   },
   "published": [
     {
-      "id": "osint-0915r12",
+      "id": "osint-0915r13",
       "src": "official",
-      "t": "2026-09-15T12:05:00Z",
+      "t": "2026-09-15T13:15:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2099494943706546257",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "15日复核：无新官方命亡数；CN仍43/519/2；NP仍1395/5130/13737",
-        "en": "15 Sep refresh: no newer official toll; CN still 43/519/2; NP still 1,395/5,130/13,737",
-        "ne": "१५ सेप्ट जाँच: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
-        "hi": "15 सित जाँच: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
+        "zh": "15日13:15UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
+        "en": "15 Sep 13:15 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
+        "ne": "१५ सेप्ट 13:15 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
+        "hi": "15 सित 13:15 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
       },
       "body": {
-        "zh": "15日12:05 UTC检索新华社/指挥部/gov.cn及NDRRMA X：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为14日19:00死亡1395、失联5130、获救13737；SitRep #13同日。国门仍毁不通关。堰塞湖已泄。G216核心段已抢通。两国口径勿相加。",
-        "en": "15 Sep 12:05 UTC search of Xinhua/HQ/gov.cn and NDRRMA X: CN still 43/519/2 as of 5 Sep 18:00. Latest NDRRMA graphic still 14 Sep 19:00: 1,395 dead, 5,130 missing, 13,737 rescued; SitRep #13 same day. Gate destroyed. Lake drained. G216 core open. Do not add CN+NP.",
-        "ne": "१५ सेप्ट 12:05 UTC: CN 43/519/2। NDRRMA 1395/5130/13737। द्वार नष्ट। ताल खाली। नजोड्नु।",
-        "hi": "15 सित 12:05 UTC: CN 43/519/2। NDRRMA 1395/5130/13737। द्वार नष्ट। झील खाली। न जोड़ें।"
+        "zh": "检索新华社/指挥部/gov.cn、NDRRMA与美使馆：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为14日19:00死亡1395、失联5130、获救13737。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
+        "en": "Xinhua/HQ/gov.cn, NDRRMA and US Embassy: CN still 43/519/2 as of 5 Sep 18:00. Latest NDRRMA graphic still 14 Sep 19:00: 1,395 dead, 5,130 missing, 13,737 rescued. Gate destroyed. Lake drained. G216 core open. Do not add CN+NP.",
+        "ne": "CN ४३/५१९/२। NDRRMA १३९५/५१३०/१३७३७। द्वार नष्ट। ताल खाली। नजोड्नु।",
+        "hi": "CN 43/519/2। NDRRMA 1395/5130/13737। द्वार नष्ट। झील खाली। न जोड़ें।"
       }
     },
     {
@@ -39,8 +39,8 @@
         "hi": "NDRRMA 14 सित 19:00: 1,395 मृत, 5,130 लापता, 13,737 बचाए"
       },
       "body": {
-        "zh": "官方图形：总死亡1395（含未辨残肢）；失联5130（已扣已确认遗体104）；获救13737。SitRep #13同日19:00。",
-        "en": "Official graphic: 1,395 dead (incl. unidentified remains); 5,130 missing after deducting 104 IDed bodies; 13,737 rescued. SitRep #13 same 19:00.",
+        "zh": "官方图形：总死亡1395（含未辨残肢）；失联5130；获救13737。SitRep #13同日。",
+        "en": "Official graphic: 1,395 dead; 5,130 missing; 13,737 rescued. SitRep #13 same day.",
         "ne": "आधिकारिक: मृत्यु १३९५; बेपत्ता ५१३०; उद्धार १३७३७। SitRep #13।",
         "hi": "आधिकारिक: मृत 1395; लापता 5130; बचाए 13737। SitRep #13।"
       }
@@ -372,89 +372,61 @@
       }
     },
     {
-      "id": "x0c",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-14T15:38:14Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2099523121741222260",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA尼文SitRep：2083年8月29日晚7时搜救救济报告。",
-        "en": "NDRRMA Nepali SitRep: report as of 29 Bhadra 2083, 7:00 p.m.",
-        "ne": "NDRRMA नेपाली SitRep: २०८३ भदौ २९ साँझ ७:००।",
-        "hi": "NDRRMA नेपाली SitRep: 29 भाद्र 2083 शाम 7:00।"
-      }
-    },
-    {
       "id": "x1",
       "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：中国气象局向尼泊尔提供滚动气候预报支援救灾。",
-        "en": "Xinhua: CMA rolling climate products for Nepal relief after Gyirong–Rasuwa mudslide.",
-        "ne": "सिन्हुआ: CMA ले नेपाल राहतमा जलवायु पूर्वानुमान।",
-        "hi": "शिन्हुआ: CMA ने नेपाल राहत के लिए मौसम पूर्वानुमान।"
+        "zh": "新华社：边检民警在吉隆口岸拍摄灾后无人机画面。",
+        "en": "Xinhua: immigration officer filmed post-slide drone footage near Gyirong Port.",
+        "ne": "सिन्ह्वा: ग्यिरोङमा ड्रोन फुटेज।",
+        "hi": "सिन्हुआ: ग्यिरोंग में ड्रोन फुटेज।"
       }
     },
     {
       "id": "x2",
       "user": "@XHNews",
-      "t": "2026-09-09T09:10:51Z",
-      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：冰川连锁泥石流冲击吉隆口岸，搜救进展综述。",
-        "en": "Xinhua: chain mudslide hit Gyirong Port; latest SAR progress recap.",
-        "ne": "सिन्हुआ: ग्यिरोङ पोर्टमा लेदो; SAR प्रगति।",
-        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट मलबा; SAR प्रगति।"
+        "zh": "新华社：两小时推进不足5米，说明通往口岸核心区道路抢通之难。",
+        "en": "Xinhua: less than 5 meters in two hours — why the port-core road was so hard to reopen.",
+        "ne": "सिन्ह्वा: दुई घण्टामा ५ मिटरभन्दा कम।",
+        "hi": "सिन्हुआ: दो घंटे में 5 मीटर से कम।"
       }
     },
     {
       "id": "x3",
       "user": "@XHNews",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：吉隆口岸搜救与堰塞湖处置进展综述。",
-        "en": "Xinhua: Gyirong Port SAR and barrier-lake response recap.",
-        "ne": "सिन्हुआ: ग्यिरोङ SAR र बाँधताल।",
-        "hi": "शिन्हुआ: ग्यिरोंग SAR और बाँधझील।"
+        "zh": "新华社：2日10时G216通往吉隆口岸核心区基本抢通。",
+        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
+        "ne": "सिन्ह्वा: २ सेप्ट १०:०० G216 कोर खुल्यो।",
+        "hi": "सिन्हुआ: 2 सित 10:00 G216 कोर खुला।"
       }
     },
     {
       "id": "x4",
       "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "geo": "unknown",
       "text": {
-        "zh": "新华社：国际媒体记者团探访吉隆口岸灾区。",
-        "en": "Xinhua: foreign press pool visits mudslide-hit Gyirong Port.",
-        "ne": "सिन्हुआ: विदेशी पत्रकार ग्यिरोङमा।",
-        "hi": "शिन्हुआ: विदेशी पत्रकार ग्यिरोंग में।"
-      }
-    },
-    {
-      "id": "x5",
-      "user": "@XHNews",
-      "t": "2026-09-07T10:10:46Z",
-      "link": "https://x.com/XHNews/status/2096904000058843554",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华社视频：外媒探访吉隆口岸多线救援现场。",
-        "en": "Xinhua video: foreign journalists at Gyirong multi-front rescue.",
-        "ne": "सिन्हुआ भिडियो: ग्यिरोङ बहु-मोर्चा उद्धार।",
-        "hi": "शिन्हुआ वीडियो: ग्यिरोंग बहु-मोर्चा बचाव।"
+        "zh": "新华社：激光AI监测设备用于抢通路段落石预警。",
+        "en": "Xinhua: laser AI monitors rockfall risk on the repair route.",
+        "ne": "सिन्ह्वा: लेजर एआई खस्ने ढुङ्गा निगरानी।",
+        "hi": "सिन्हुआ: लेजर एआई पत्थर गिरने की निगरानी।"
       }
     }
   ]
