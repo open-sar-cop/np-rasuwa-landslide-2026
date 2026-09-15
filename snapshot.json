@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-15T20:15:00Z",
+  "snap": "2026-09-15T21:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1395, "missing": 5130, "rescued": 13737 }
   },
   "published": [
     {
-      "id": "osint-0915r2015",
+      "id": "osint-0915r2120",
       "src": "official",
-      "t": "2026-09-15T20:15:00Z",
+      "t": "2026-09-15T21:20:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2099494943706546257",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "15日20:15UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
-        "en": "15 Sep 20:15 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
-        "ne": "१५ सेप्ट 20:15 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
-        "hi": "15 सित 20:15 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
+        "zh": "15日21:20UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
+        "en": "15 Sep 21:20 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
+        "ne": "१५ सेप्ट 21:20 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
+        "hi": "15 सित 21:20 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
       },
       "body": {
         "zh": "检索新华社/@XHNews、指挥部、NDRRMA SitRep#13（14日19:00）、美使馆与ReliefWeb/UNOSAT：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为死亡1395、失联5130、获救13737。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
@@ -351,10 +351,10 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：边检民警于灾后在吉隆口岸附近拍摄无人机画面。",
-        "en": "Xinhua: immigration officer filmed drone footage near Gyirong Port after the slide.",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज।",
-        "hi": "सिन्हुआ: ग्यिरोंग पोर्ट के पास ड्रोन फुटेज।"
+        "zh": "新华社：边检民警肖富贵灾后无人机航拍吉隆口岸核心区。",
+        "en": "Xinhua: immigration officer Xiao Fugui drone footage of Gyirong Port core after the slide.",
+        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज।",
+        "hi": "सिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज।"
       }
     }
   ]
