@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-15T17:15:00Z",
+  "snap": "2026-09-15T19:16:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1395, "missing": 5130, "rescued": 13737 }
   },
   "published": [
     {
-      "id": "osint-0915r1715",
+      "id": "osint-0915r1916",
       "src": "official",
-      "t": "2026-09-15T17:15:00Z",
+      "t": "2026-09-15T19:16:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2099494943706546257",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "15日17:15UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
-        "en": "15 Sep 17:15 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
-        "ne": "१५ सेप्ट 17:15 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
-        "hi": "15 सित 17:15 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
+        "zh": "15日19:16UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
+        "en": "15 Sep 19:16 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
+        "ne": "१५ सेप्ट 19:16 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
+        "hi": "15 सित 19:16 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
       },
       "body": {
-        "zh": "检索新华社/指挥部、NDRRMA、美使馆与ReliefWeb/UNOSAT：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为14日19:00死亡1395、失联5130、获救13737；SitRep #13同日。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
-        "en": "Xinhua/HQ, NDRRMA, US Embassy, ReliefWeb/UNOSAT: CN still 43/519/2 as of 5 Sep 18:00. Latest NDRRMA graphic still 14 Sep 19:00: 1,395 dead, 5,130 missing, 13,737 rescued; SitRep #13 same day. Gate destroyed. Lake drained. G216 core open. Do not add CN+NP.",
+        "zh": "检索新华社/@XHNews、指挥部、NDRRMA SitRep#13、美使馆与ReliefWeb/UNOSAT：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为14日19:00死亡1395、失联5130、获救13737。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
+        "en": "Xinhua/@XHNews, CN HQ, NDRRMA SitRep #13, US Embassy, ReliefWeb/UNOSAT: CN still 43/519/2 as of 5 Sep 18:00. Latest NDRRMA graphic still 14 Sep 19:00: 1,395 dead, 5,130 missing, 13,737 rescued. Gate destroyed. Lake drained. G216 core open. Do not add CN+NP.",
         "ne": "CN ४३/५१९/२। NDRRMA १३९५/५१३०/१३७३७। द्वार नष्ट। ताल खाली। नजोड्नु।",
         "hi": "CN 43/519/2। NDRRMA 1395/5130/13737। द्वार नष्ट। झील खाली। न जोड़ें।"
       }
@@ -71,7 +71,7 @@
       "id": "cn-hq-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://china.cnr.cn/news/20260907/t20260907_527806632.shtml",
+      "link": "https://www.globaltimes.cn/page/202609/1369925.shtml",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -272,18 +272,31 @@
       }
     },
     {
-      "id": "x1",
+      "id": "x-cma-0910",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华社：国家气候中心向尼方滚动提供气候监测预报，支援吉隆—拉苏瓦口岸救援。",
+        "en": "Xinhua: CMA climate products rolling to Nepal for Gyirong–Rasuwa rescue support.",
+        "ne": "सिन्ह्वा: जलवायु उत्पादन नेपाललाई सहयोग।",
+        "hi": "सिन्हुआ: जलवायु उत्पाद नेपाल सहायता।"
+      }
+    },
+    {
+      "id": "x-xh-0906",
+      "user": "@XHNews",
+      "t": "2026-09-06T14:41:30Z",
+      "link": "https://x.com/XHNews/status/2096609742487691562",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：边检民警肖富贵在吉隆口岸附近航拍泥石流冲击后现场。",
-        "en": "Xinhua: officer Xiao Fugui filmed drone footage near Gyirong Port after the mudslide.",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज।",
-        "hi": "सिन्हुआ: ग्यिरोंग पोर्ट के पास ड्रोन फुटेज।"
+        "zh": "新华社：截至5日18时43遇难、519失联；失联外籍261人、23国。",
+        "en": "Xinhua: as of 5 Sep 18:00, 43 dead, 519 missing; 261 foreigners from 23 countries.",
+        "ne": "सिन्ह्वा: ४३ मृत्यु, ५१९ बेपत्ता; २६१ विदेशी।",
+        "hi": "सिन्हुआ: 43 मृत, 519 लापता; 261 विदेशी।"
       }
     },
     {
@@ -302,21 +315,6 @@
       }
     },
     {
-      "id": "x3",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华社：无路、急流、边坡不稳，G216抢通极难。",
-        "en": "Xinhua: no road, fast water, unstable slopes made G216 reopen extremely hard.",
-        "ne": "सिन्ह्वा: G216 खोल्न अत्यन्त कठिन।",
-        "hi": "सिन्हुआ: G216 खोलना अत्यंत कठिन।"
-      }
-    },
-    {
       "id": "x4",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-12T14:18:53Z",
@@ -330,33 +328,33 @@
       }
     },
     {
-      "id": "x5",
+      "id": "x-xh-0907id",
       "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
+      "t": "2026-09-07T06:08:33Z",
+      "link": "https://x.com/XHNews/status/2096843042137489625",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：截至29日18时中方通报16遇难546失联（后续已更新至43/519）。",
-        "en": "Xinhua: as of 29 Aug 18:00 CN reported 16 dead, 546 missing (later updated to 43/519).",
-        "ne": "सिन्ह्वा: २९ अगस्ट १६/५४६ (पछि ४३/५१९)।",
-        "hi": "सिन्हुआ: 29 अग 16/546 (बाद में 43/519)।"
+        "zh": "新华社：指挥部称部分遇难者身份已确认。",
+        "en": "Xinhua: command center said some victims’ identities confirmed.",
+        "ne": "सिन्ह्वा: केही मृतक पहिचान पुष्टि।",
+        "hi": "सिन्हुआ: कुछ मृतक पहचान पुष्ट।"
       }
     },
     {
-      "id": "x6",
+      "id": "x-xh-0906force",
       "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "t": "2026-09-06T13:11:53Z",
+      "link": "https://x.com/XHNews/status/2096587189023076796",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：261名来自23国的外籍人员在中方失联名单。",
-        "en": "Xinhua: 261 foreign nationals from 23 countries listed missing on CN side.",
-        "ne": "सिन्ह्वा: चीनतर्फ २३ देशका २६१ विदेशी बेपत्ता।",
-        "hi": "सिन्हुआ: चीन तरफ 23 देशों के 261 विदेशी लापता।"
+        "zh": "新华社：已投入2500余名救援人员。",
+        "en": "Xinhua: more than 2,500 rescuers deployed.",
+        "ne": "सिन्ह्वा: २५०० भन्दा बढी उद्धारकर्ता।",
+        "hi": "सिन्हुआ: 2,500 से अधिक बचावकर्मी।"
       }
     }
   ]
