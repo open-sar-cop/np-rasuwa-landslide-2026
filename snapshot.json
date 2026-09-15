@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-16T02:15:00Z",
+  "snap": "2026-09-16T03:28:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1395, "missing": 5130, "rescued": 13737 }
   },
   "published": [
     {
-      "id": "osint-0916t0215",
+      "id": "osint-0916t0328",
       "src": "official",
-      "t": "2026-09-16T02:15:00Z",
+      "t": "2026-09-16T03:28:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2099810534090743982",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "16日02:15UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
-        "en": "16 Sep 02:15 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
-        "ne": "१६ सेप्ट 02:15 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
-        "hi": "16 सित 02:15 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
+        "zh": "16日03:28UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
+        "en": "16 Sep 03:28 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
+        "ne": "१६ सेप्ट 03:28 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
+        "hi": "16 सित 03:28 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
       },
       "body": {
         "zh": "检索新华社/@XHNews、指挥部、NDRRMA（14日19:00 SitRep#13与图形；15日仅NPDRR复原会议无新命亡）、美使馆与ReliefWeb/UNOSAT：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为死亡1395、失联5130、获救13737。IFRC等非官方口径略异数字未采用。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
@@ -305,35 +305,7 @@
       }
     },
     {
-      "id": "x-cma-0910",
-      "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华社：国家气候中心向尼方滚动提供气候监测预报，支援吉隆—拉苏瓦口岸救援。",
-        "en": "Xinhua: CMA climate products rolling to Nepal for Gyirong–Rasuwa rescue support.",
-        "ne": "सिन्ह्वा: जलवायु उत्पादन नेपाललाई सहयोग।",
-        "hi": "सिन्हुआ: जलवायु उत्पाद नेपाल सहायता।"
-      }
-    },
-    {
-      "id": "x-xh-0906",
-      "user": "@XHNews",
-      "t": "2026-09-06T14:41:30Z",
-      "link": "https://x.com/XHNews/status/2096609742487691562",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华社：截至5日18时43遇难、519失联；失联外籍261人、23国。",
-        "en": "Xinhua: as of 5 Sep 18:00, 43 dead, 519 missing; 261 foreigners from 23 countries.",
-        "ne": "सिन्ह्वा: 5 सेप्ट 18:00 मा 43 मृत्यु, 519 बेपत्ता।",
-        "hi": "सिन्हुआ: 5 सित 18:00 पर 43 मृत, 519 लापता।"
-      }
-    },
-    {
-      "id": "x-g216",
+      "id": "x-xh-g216",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -341,10 +313,38 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：2日10时G216通往吉隆口岸核心区陆路基本抢通。",
+        "zh": "新华社：2日10时G216通往吉隆口岸核心区路面基本抢通。",
         "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
         "ne": "सिन्ह्वा: G216 कोर 2 सेप्ट 10:00 मा खुल्यो।",
         "hi": "सिन्हुआ: G216 कोर 2 सित 10:00 पर खुला।"
+      }
+    },
+    {
+      "id": "x-xh-0905-drone",
+      "user": "@XHNews",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社：出入境警察在吉隆口岸附近拍摄灾后无人机影像。",
+        "en": "Xinhua: immigration officer filmed post-slide drone footage near Gyirong Port.",
+        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज।",
+        "hi": "सिन्हुआ: ग्यिरोंग पोर्ट के पास ड्रोन फुटेज।"
+      }
+    },
+    {
+      "id": "x-xh-foreign",
+      "user": "@XHNews",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华社：23国261名外籍人员在吉隆口岸一侧失联。",
+        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for at Gyirong Port.",
+        "ne": "सिन्ह्वा: 23 देशका 261 विदेशी बेपत्ता।",
+        "hi": "सिन्हुआ: 23 देशों के 261 विदेशी लापता।"
       }
     }
   ]
