@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-15T14:20:00Z",
+  "snap": "2026-09-15T15:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1395, "missing": 5130, "rescued": 13737 }
   },
   "published": [
     {
-      "id": "osint-0915r14",
+      "id": "osint-0915r15",
       "src": "official",
-      "t": "2026-09-15T14:20:00Z",
+      "t": "2026-09-15T15:15:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2099494943706546257",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "15日14:20UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
-        "en": "15 Sep 14:20 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
-        "ne": "१५ सेप्ट 14:20 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
-        "hi": "15 सित 14:20 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
+        "zh": "15日15:15UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
+        "en": "15 Sep 15:15 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
+        "ne": "१५ सेप्ट 15:15 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
+        "hi": "15 सित 15:15 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
       },
       "body": {
         "zh": "检索新华社/指挥部/gov.cn、NDRRMA与美使馆：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为14日19:00死亡1395、失联5130、获救13737。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
@@ -330,29 +330,31 @@
     {
       "id": "x5",
       "user": "@XHNews",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社再发吉隆口岸搜救进展综述。",
-        "en": "Xinhua recap of Gyirong Port SAR progress.",
-        "ne": "सिन्ह्वा: ग्यिरोङ SAR प्रगति।",
-        "hi": "सिन्हुआ: ग्यिरोंग SAR प्रगति।"
+        "zh": "新华社：2日10时G216通往吉隆口岸核心区基本抢通。",
+        "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
+        "ne": "सिन्ह्वा: २ सेप्ट १०:०० G216 कोर खुल्यो।",
+        "hi": "सिन्हुआ: 2 सित 10:00 G216 कोर खुला।"
       }
     },
     {
       "id": "x6",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-12T18:14:30Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098837672068628860",
-      "geo": "unknown",
+      "user": "@XHNews",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "NDRRMA SitRep #11：12日19:00简报。",
-        "en": "NDRRMA SitRep #11: 12 Sep 19:00 report.",
-        "ne": "NDRRMA SitRep #11: १२ सेप्ट १९:००।",
-        "hi": "NDRRMA SitRep #11: 12 सित 19:00।"
+        "zh": "新华社：边检民警肖富贵灾后无人机航拍吉隆口岸核心区。",
+        "en": "Xinhua: immigration officer Xiao Fugui drone footage of Gyirong Port core.",
+        "ne": "सिन्ह्वा: ग्यिरोङ कोर ड्रोन फुटेज।",
+        "hi": "सिन्हुआ: ग्यिरोंग कोर ड्रोन फुटेज।"
       }
     }
   ]
