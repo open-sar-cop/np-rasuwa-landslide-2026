@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-15T23:10:00Z",
+  "snap": "2026-09-15T23:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1395, "missing": 5130, "rescued": 13737 }
   },
   "published": [
     {
-      "id": "osint-0915r2310",
+      "id": "osint-0915r2320",
       "src": "official",
-      "t": "2026-09-15T23:10:00Z",
+      "t": "2026-09-15T23:20:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2099494943706546257",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "15日23:10UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
-        "en": "15 Sep 23:10 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
-        "ne": "१५ सेप्ट 23:10 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
-        "hi": "15 सित 23:10 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
+        "zh": "15日23:20UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
+        "en": "15 Sep 23:20 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
+        "ne": "१५ सेप्ट 23:20 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
+        "hi": "15 सित 23:20 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
       },
       "body": {
-        "zh": "检索新华社/@XHNews、指挥部、NDRRMA SitRep#13（14日19:00）、美使馆与ReliefWeb/UNOSAT：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为死亡1395、失联5130、获救13737。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
-        "en": "Xinhua/@XHNews, CN HQ, NDRRMA SitRep #13 (14 Sep 19:00), US Embassy, ReliefWeb/UNOSAT: CN still 43/519/2 as of 5 Sep 18:00. Latest official NDRRMA graphic: 1,395 dead, 5,130 missing, 13,737 rescued. Gate destroyed. Lake drained. G216 core open. Do not add CN+NP.",
+        "zh": "检索新华社/@XHNews、指挥部、NDRRMA SitRep#13（14日19:00）、美使馆与ReliefWeb/UNOSAT：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为死亡1395、失联5130、获救13737。媒体更高数字未作官方确认，不采用。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
+        "en": "Xinhua/@XHNews, CN HQ, NDRRMA SitRep #13 (14 Sep 19:00), US Embassy, ReliefWeb/UNOSAT: CN still 43/519/2 as of 5 Sep 18:00. Latest official NDRRMA graphic: 1,395 dead, 5,130 missing, 13,737 rescued. Higher media tallies not adopted. Gate destroyed. Lake drained. G216 core open. Do not add CN+NP.",
         "ne": "CN ४३/५१९/२। NDRRMA १३९५/५१३०/१३७३७। द्वार नष्ट। ताल खाली। नजोड्नु।",
         "hi": "CN 43/519/2। NDRRMA 1395/5130/13737। द्वार नष्ट। झील खाली। न जोड़ें।"
       }
@@ -343,18 +343,18 @@
       }
     },
     {
-      "id": "x-xh-0909",
+      "id": "x-xh-drone",
       "user": "@XHNews",
-      "t": "2026-09-09T09:10:51Z",
-      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社：8·26吉隆口岸链式泥石流进展汇总。",
-        "en": "Xinhua: progress recap of 26 Aug Gyirong Port chain mudslide.",
-        "ne": "सिन्ह्वा: ग्यिरोङ प्रगति सार।",
-        "hi": "सिन्हुआ: ग्यिरोंग प्रगति सार।"
+        "zh": "新华社：边检民警肖富贵灾后无人机航拍吉隆口岸核心区。",
+        "en": "Xinhua: immigration officer Xiao Fugui drone footage of Gyirong Port core after the flow.",
+        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज।",
+        "hi": "सिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज।"
       }
     }
   ]
