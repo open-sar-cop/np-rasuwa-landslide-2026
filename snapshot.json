@@ -1,24 +1,24 @@
 {
-  "snap": "2026-09-17T04:05:00Z",
+  "snap": "2026-09-17T04:22:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1399, "missing": 5179, "rescued": 13742}
   },
   "published": [
     {
-      "id": "osint-0917t0405",
+      "id": "osint-0917t0422",
       "src": "official",
-      "t": "2026-09-17T04:05:00Z",
+      "t": "2026-09-17T04:22:00Z",
       "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "17日04:05UTC：中方仍为9月5日18时43死519失联2获救",
-        "en": "17 Sep 04:05 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
-        "ne": "17 Sep 04:05 UTC: CN 43/519/2 (5 Sep 18:00)",
-        "hi": "17 Sep 04:05 UTC: CN 43/519/2 (5 Sep 18:00)"
+        "zh": "17日04:22UTC：中方伤亡仍为9月5日18时43死519失联2获救",
+        "en": "17 Sep 04:22 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
+        "ne": "17 Sep 04:22 UTC: CN 43/519/2 (5 Sep 18:00)",
+        "hi": "17 Sep 04:22 UTC: CN 43/519/2 (5 Sep 18:00)"
       },
       "body": {
         "zh": "新华社/指挥部最新伤亡仍截至9月5日18时。堰塞湖已排空。口岸夷平。勿把中尼数字相加。17日无新中方伤亡公报。",
@@ -41,8 +41,8 @@
         "hi": "NDRRMA सिट्रेप #14, 15 सित 19:00"
       },
       "body": {
-        "zh": "官方图形通报仍为1399死、5179失联、13742获救。17日04:05UTC尚无SitRep #15。",
-        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. No SitRep #15 as of 17 Sep 04:05 UTC.",
+        "zh": "官方图形通报仍为1399死、5179失联、13742获救。17日04:22UTC尚无SitRep #15。非官方聚合1401不作KPI。",
+        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. No SitRep #15 as of 17 Sep 04:22 UTC. Unofficial 1,401 not used as KPI.",
         "ne": "अझै 1399 मृत, 5179 बेपत्ता, 13742 उद्धार। #15 आएको छैन।",
         "hi": "अभी 1399 मृत, 5179 लापता, 13742 बचाए। #15 अभी नहीं।"
       }
@@ -400,59 +400,61 @@
       }
     },
     {
-      "id": "x-xh-0909",
+      "id": "x-xh-0905-drone",
       "user": "@XHNews",
-      "t": "2026-09-09T09:10:51Z",
-      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华综述：吉隆口岸链式泥石流与搜救进展",
-        "en": "Xinhua recap: Gyirong chain mudslide and SAR progress",
-        "ne": "Xinhua: ग्यिरोङ खोजी सारांश",
-        "hi": "Xinhua: ग्यिरोंग खोज सार"
+        "zh": "新华：边检员肖富贵灾后无人机航拍口岸核心",
+        "en": "Xinhua: officer Xiao drone footage of Gyirong Port after slide",
+        "ne": "Xinhua: ग्यिरोङ पोर्ट ड्रोन फुटेज",
+        "hi": "Xinhua: ग्यिरोंग पोर्ट ड्रोन फुटेज"
       }
     },
     {
-      "id": "x-xh-0907-media",
+      "id": "x-xh-0902-g216",
       "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "G216",
+      "text": {
+        "zh": "新华：周三10时G216通往口岸核心基本抢通",
+        "en": "Xinhua: G216 to port core basically restored Wed 10:00",
+        "ne": "Xinhua: G216 कोर बुध 10:00 लगभग खुल्यो",
+        "hi": "Xinhua: G216 कोर बुध 10:00 लगभग खुला"
+      }
+    },
+    {
+      "id": "x-xh-0830-foreign",
+      "user": "@XHNews",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华：失联外籍261人、23国（8月30日口径）",
+        "en": "Xinhua: 261 foreign unaccounted, 23 countries (30 Aug briefing)",
+        "ne": "Xinhua: 261 विदेशी बेपत्ता, 23 देश",
+        "hi": "Xinhua: 261 विदेशी लापता, 23 देश"
+      }
+    },
+    {
+      "id": "x-xh-0830-kpi",
+      "user": "@XHNews",
+      "t": "2026-08-30T04:23:39Z",
+      "link": "https://x.com/XHNews/status/2093917539642519759",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：外媒记者探访吉隆口岸灾区",
-        "en": "Xinhua: foreign press visit to Gyirong Port",
-        "ne": "Xinhua: विदेशी पत्रकार ग्यिरोङ",
-        "hi": "Xinhua: विदेशी पत्रकार ग्यिरोंग"
-      }
-    },
-    {
-      "id": "x-np-0914",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-14T16:08:07Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2099530642690281595",
-      "geo": "unknown",
-      "text": {
-        "zh": "SitRep #13（14日19:00NPT）已发布",
-        "en": "SitRep #13 published (14 Sep 19:00 NPT)",
-        "ne": "स्थिति प्रतिवेदन #13 प्रकाशित",
-        "hi": "सिट्रेप #13 प्रकाशित"
-      }
-    },
-    {
-      "id": "x-np-0912",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-12T18:14:30Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2098837672068628860",
-      "geo": "unknown",
-      "text": {
-        "zh": "SitRep #11（12日19:00NPT）已发布",
-        "en": "SitRep #11 published (12 Sep 19:00 NPT)",
-        "ne": "स्थिति प्रतिवेदन #11 प्रकाशित",
-        "hi": "सिट्रेप #11 प्रकाशित"
+        "zh": "新华：截至周六18时16死546失联（后续已更新）",
+        "en": "Xinhua: 16 dead, 546 missing as of Sat 18:00 (later superseded)",
+        "ne": "Xinhua: शनि 18:00 मा 16/546 (पछि अद्यावधिक)",
+        "hi": "Xinhua: शनि 18:00 पर 16/546 (बाद में अद्यतन)"
       }
     }
   ]
