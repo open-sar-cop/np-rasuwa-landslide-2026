@@ -1,24 +1,24 @@
 {
-  "snap": "2026-09-17T01:25:00Z",
+  "snap": "2026-09-17T02:25:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1399, "missing": 5179, "rescued": 13742}
   },
   "published": [
     {
-      "id": "osint-0917t0125",
+      "id": "osint-0917t0225",
       "src": "official",
-      "t": "2026-09-17T01:25:00Z",
+      "t": "2026-09-17T02:25:00Z",
       "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "17日01:25UTC：中方仍为9月5日18时43死519失联2获救",
-        "en": "17 Sep 01:25 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
-        "ne": "17 Sep 01:25 UTC: CN 43/519/2 (5 Sep 18:00)",
-        "hi": "17 Sep 01:25 UTC: CN 43/519/2 (5 Sep 18:00)"
+        "zh": "17日02:25UTC：中方仍为9月5日18时43死519失联2获救",
+        "en": "17 Sep 02:25 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
+        "ne": "17 Sep 02:25 UTC: CN 43/519/2 (5 Sep 18:00)",
+        "hi": "17 Sep 02:25 UTC: CN 43/519/2 (5 Sep 18:00)"
       },
       "body": {
         "zh": "新华社：堰塞湖已排空、河道恢复、风险基本消除。口岸夷平。勿把中尼数字相加。16–17日无新中方伤亡公报。",
@@ -41,8 +41,8 @@
         "hi": "NDRRMA सिट्रेप #14, 15 सित 19:00"
       },
       "body": {
-        "zh": "官方图形通报仍为1399死、5179失联、13742获救。17日01:25UTC尚无SitRep #15。",
-        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. No SitRep #15 as of 17 Sep 01:25 UTC.",
+        "zh": "官方图形通报仍为1399死、5179失联、13742获救。17日02:25UTC尚无SitRep #15。",
+        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. No SitRep #15 as of 17 Sep 02:25 UTC.",
         "ne": "अझै 1399 मृत, 5179 बेपत्ता, 13742 उद्धार। #15 आएको छैन।",
         "hi": "अभी 1399 मृत, 5179 लापता, 13742 बचाए। #15 अभी नहीं।"
       }
@@ -147,8 +147,8 @@
         "hi": "G216 कोर पहुँच 2 सित 10:00 लगभग खुली"
       },
       "body": {
-        "zh": "新华社：昼夜抢修后基本恢复通行，边坡仍监测，仅救援通行。",
-        "en": "Xinhua: basically restored after 24h repairs; slopes monitored; SAR traffic only.",
+        "zh": "新华社：昼夜抢修后基本恢复通行，边坡仍监测，仅救援通行。9月5日报道加宽加固。",
+        "en": "Xinhua: basically restored after 24h repairs; slopes monitored; SAR traffic only. Widened 5 Sep.",
         "ne": "मर्मतपछि लगभग खुल्यो; भिर निगरानी; उद्धार मात्र।",
         "hi": "मरम्मत के बाद लगभग खुला; ढलान निगरानी; केवल एसएआर।"
       }
@@ -402,7 +402,7 @@
       }
     },
     {
-      "id": "x-xh-drone",
+      "id": "x-xh-0905-drone",
       "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
       "link": "https://x.com/XHNews/status/2096160167708778634",
@@ -410,14 +410,14 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：口岸附近无人机画面（8月26日灾后）",
-        "en": "Xinhua: drone footage near Gyirong Port after 26 Aug strike",
-        "ne": "ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज",
-        "hi": "ग्यिरोंग पोर्ट के पास ड्रोन फुटेज"
+        "zh": "新华：口岸边检警员无人机航拍泥石流冲击后现场",
+        "en": "Xinhua: immigration officer drone footage of Gyirong Port after the chain mudslide",
+        "ne": "Xinhua: ग्यिरोङ पोर्ट ड्रोन फुटेज",
+        "hi": "Xinhua: ग्यिरोंग पोर्ट ड्रोन फुटेज"
       }
     },
     {
-      "id": "x-xh-road",
+      "id": "x-xh-0904-road",
       "user": "@XHNews",
       "t": "2026-09-04T09:00:43Z",
       "link": "https://x.com/XHNews/status/2095799206615347459",
@@ -425,27 +425,14 @@
       "lng": 85.368,
       "geo": "G216",
       "text": {
-        "zh": "新华：抢通口岸核心路段难点（无路、急流、巨石）",
-        "en": "Xinhua: obstacles reopening route to port core",
-        "ne": "कोर सडक खोल्ने कठिनाइ",
-        "hi": "कोर मार्ग खोलने की बाधाएँ"
+        "zh": "新华：两小时推进不足5米，G216抢通难点",
+        "en": "Xinhua: less than 5 m in two hours — why G216 was hard to reopen",
+        "ne": "Xinhua: दुई घण्टामा 5 मि भन्दा कम — G216 कठिन",
+        "hi": "Xinhua: दो घंटे में 5 मी से कम — G216 कठिन"
       }
     },
     {
-      "id": "x-np-sitrep13",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-14T16:08:07Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2099530642690281595",
-      "geo": "unknown",
-      "text": {
-        "zh": "SitRep #13（14日19:00）",
-        "en": "SitRep #13 published (14 Sep 19:00)",
-        "ne": "स्थिति प्रतिवेदन #13",
-        "hi": "सिट्रेप #13"
-      }
-    },
-    {
-      "id": "x-xh-slogan",
+      "id": "x-xh-0903-chars",
       "user": "@XHNews",
       "t": "2026-09-03T12:07:02Z",
       "link": "https://x.com/XHNews/status/2095483707511734465",
@@ -453,10 +440,23 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：口岸山壁“我爱你中国”字迹仍隐约可见",
-        "en": "Xinhua: mountainside slogan still faintly visible at port",
-        "ne": "पोर्ट छेउको नारा अझै देखिन्छ",
-        "hi": "पोर्ट पर पहाड़ी नारा अभी दिखता है"
+        "zh": "新华：口岸山体“中国我爱你”大字仍隐约可见",
+        "en": "Xinhua: mountainside “China, I Love You” characters still faintly visible at port",
+        "ne": "Xinhua: पहाडमा चिनियाँ अक्षर अझै देखिन्छ",
+        "hi": "Xinhua: पहाड़ पर चीनी अक्षर अभी दिखते हैं"
+      }
+    },
+    {
+      "id": "x-ifrc-0915",
+      "user": "@IFRC",
+      "t": "2026-09-15T05:00:00Z",
+      "link": "https://go.ifrc.org/emergencies/8073/overview",
+      "geo": "unknown",
+      "text": {
+        "zh": "IFRC GO 15日更新：1388死5130失联（与NDRRMA图形略异，KPI仍用NDRRMA）",
+        "en": "IFRC GO 15 Sep: 1,388 dead / 5,130 missing (KPI remains NDRRMA graphic)",
+        "ne": "IFRC: 1388/5130; KPI = NDRRMA",
+        "hi": "IFRC: 1388/5130; KPI = NDRRMA"
       }
     }
   ]
