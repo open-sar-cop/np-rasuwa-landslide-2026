@@ -1,30 +1,50 @@
 {
-  "snap": "2026-09-16T18:05:00Z",
+  "snap": "2026-09-16T19:05:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1399, "missing": 5179, "rescued": 13742}
   },
   "published": [
     {
-      "id": "osint-0916t1805",
+      "id": "osint-0916t1905",
       "src": "official",
-      "t": "2026-09-16T18:05:00Z",
+      "t": "2026-09-16T19:05:00Z",
       "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "16日18:05UTC刷新：中方仍为9月5日18时43死519失联2获救",
-        "en": "16 Sep 18:05 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
-        "ne": "16 Sep 18:05 UTC: CN 43/519/2 (5 Sep 18:00)",
-        "hi": "16 Sep 18:05 UTC: CN 43/519/2 (5 Sep 18:00)"
+        "zh": "16日19:05UTC刷新：中方仍为9月5日18时43死519失联2获救",
+        "en": "16 Sep 19:05 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
+        "ne": "16 Sep 19:05 UTC: CN 43/519/2 (5 Sep 18:00)",
+        "hi": "16 Sep 19:05 UTC: CN 43/519/2 (5 Sep 18:00)"
       },
       "body": {
         "zh": "新华社：堰塞湖已排空、河道恢复、风险基本消除。口岸建筑夷平。勿把中尼数字相加。",
         "en": "Xinhua: barrier lake drained, channel normal, hazard largely gone. Port buildings destroyed. Do not add CN+NP totals.",
         "ne": "Xinhua: ताल खाली, जोखिम घट्यो। CN+NP जोड्नुहोस् न।",
         "hi": "Xinhua: झील खाली, जोखिम कम। CN+NP न जोड़ें।"
+      }
+    },
+    {
+      "id": "ndrrma-sitrep14",
+      "src": "official",
+      "t": "2026-09-15T13:15:00Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/426",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA SitRep #14（15日19:00NPT）",
+        "en": "NDRRMA SitRep #14 as of 15 Sep 19:00 NPT",
+        "ne": "NDRRMA स्थिति प्रतिवेदन #१४, १५ सेप १९:००",
+        "hi": "NDRRMA सिट्रेप #14, 15 सित 19:00"
+      },
+      "body": {
+        "zh": "官方图形通报仍为1399死、5179失联、13742获救。搜救与安置并行。",
+        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. SAR plus relief.",
+        "ne": "अझै १३९९ मृत, ५१७९ बेपत्ता, १३७४२ उद्धार।",
+        "hi": "अभी 1399 मृत, 5179 लापता, 13742 बचाए।"
       }
     },
     {
@@ -41,8 +61,8 @@
         "hi": "NDRRMA 15 Sep 19:00: 1399 मृत, 5179 लापता, 13742 बचाए"
       },
       "body": {
-        "zh": "尼方最新官方图形通报。搜救与安置并行。水电隧洞仍在搜寻。",
-        "en": "Latest NDRRMA graphic. SAR plus relief. Tunnel searches at hydropower sites continue.",
+        "zh": "尼方最新官方图形通报。水电隧洞仍在搜寻。",
+        "en": "Latest NDRRMA graphic. Tunnel searches at hydropower sites continue.",
         "ne": "पछिल्लो आधिकारिक ग्राफिक। जलविद्युत् सुरुङ खोजी जारी।",
         "hi": "नवीनतम आधिकारिक ग्राफिक। जलविद्युत सुरंग खोज जारी।"
       }
@@ -153,6 +173,28 @@
         "en": "31 Aug Level-4 do-not-travel for that corridor. 3 Sep: Khalte still closed; no reliable access to border.",
         "ne": "कोरिडोर स्तर-४। खल्ते बन्द। सीमा पहुँच अविश्वसनीय।",
         "hi": "कॉरिडोर स्तर-4। खल्ते बंद। सीमा पहुँच अविश्वसनीय।"
+      }
+    },
+    {
+      "id": "unosat-0827",
+      "src": "official",
+      "t": "2026-08-27T12:00:00Z",
+      "link": "https://reliefweb.int/map/nepal/nepal-satellite-detected-mudflow-rockflow-extent-26-27-august-2026-rasuwa-district-bagmati-province-imagery-analysis-2627082026-published-27082026-v1",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Timure",
+      "title": {
+        "zh": "UNOSAT：拉苏瓦约20km²泥石流范围",
+        "en": "UNOSAT: ~20 km² mud/rockflow extent in Rasuwa",
+        "ne": "UNOSAT: रसुवामा करिब २० वर्ग किमि",
+        "hi": "UNOSAT: रसुवा में लगभग 20 वर्ग किमी"
+      },
+      "body": {
+        "zh": "Sentinel-2/Planet 26–27日影像。分析区约230km²。",
+        "en": "Sentinel-2/Planet 26–27 Aug. Analysed area ~230 km².",
+        "ne": "२६–२७ अगस्ट इमेजरी। विश्लेषण क्षेत्र ~२३० वर्ग किमि।",
+        "hi": "26–27 अगस्त इमेजरी। विश्लेषण क्षेत्र ~230 वर्ग किमी।"
       }
     },
     {
@@ -317,6 +359,19 @@
       }
     },
     {
+      "id": "x-np-sitrep14",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-15T17:04:17Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099907164357980461",
+      "geo": "unknown",
+      "text": {
+        "zh": "SitRep #14 已发布（15日19:00）",
+        "en": "SitRep #14 published (15 Sep 19:00)",
+        "ne": "स्थिति प्रतिवेदन #१४ प्रकाशित",
+        "hi": "सिट्रेप #14 प्रकाशित"
+      }
+    },
+    {
       "id": "x-xh-0905-drone",
       "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
@@ -402,21 +457,6 @@
         "en": "The Hindu: death toll climbed to 1,399 on 15 Sep",
         "ne": "The Hindu: १५ सेप मृत्यु १३९९",
         "hi": "The Hindu: 15 सित मृत्यु 1399"
-      }
-    },
-    {
-      "id": "x-xh-0830-16",
-      "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "截至29日18时：16死546失联（后续已更新为43/519）",
-        "en": "As of 29 Aug 18:00: 16 dead, 546 missing (later updated to 43/519)",
-        "ne": "२९ अग १८:००: १६/५४६ (पछि ४३/५१९)",
-        "hi": "29 अग 18:00: 16/546 (बाद में 43/519)"
       }
     }
   ]
