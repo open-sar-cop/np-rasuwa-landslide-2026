@@ -1,48 +1,48 @@
 {
-  "snap": "2026-09-16T13:24:00Z",
+  "snap": "2026-09-16T14:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1395, "missing": 5130, "rescued": 13737 }
+    "np": { "dead": 1399, "missing": 5179, "rescued": 13742 }
   },
   "published": [
     {
-      "id": "osint-0916t1324",
+      "id": "osint-0916t1420",
       "src": "official",
-      "t": "2026-09-16T13:24:00Z",
-      "link": "https://www.globaltimes.cn/page/202609/1369925.shtml",
+      "t": "2026-09-16T14:20:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099893771701981621",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "16日13:24UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
-        "en": "16 Sep 13:24 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
-        "ne": "१६ सेप्ट 13:24 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
-        "hi": "16 सित 13:24 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
+        "zh": "16日14:20UTC：NDRRMA 15日19:00图形—NP 1399/5179/13742；CN仍43/519/2",
+        "en": "16 Sep 14:20 UTC: NDRRMA 15 Sep 19:00 graphic — NP 1,399/5,179/13,742; CN still 43/519/2",
+        "ne": "१६ सेप्ट 14:20 UTC: NDRRMA १५ सेप्ट १९:०० — NP १३९९/५१७९/१३७४२; CN ४३/५१९/२",
+        "hi": "16 सित 14:20 UTC: NDRRMA 15 सित 19:00 — NP 1399/5179/13742; CN 43/519/2"
       },
       "body": {
-        "zh": "检索新华社/@XHNews、吉隆指挥部、NDRRMA、尼警、BIPAD、美使馆、ReliefWeb/UNOSAT/Copernicus：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为死亡1395、失联5130、获救13737。媒体/警方约1401未作官方采用。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
-        "en": "Xinhua/@XHNews, Gyirong HQ, NDRRMA, Nepal Police, BIPAD, US Embassy, ReliefWeb/UNOSAT/Copernicus: CN still 43/519/2 as of 5 Sep 18:00. Latest official NDRRMA graphic: 1,395 dead, 5,130 missing, 13,737 rescued. Media/Police ~1,401 not adopted. Gate destroyed. Lake drained. G216 core open. Do not add CN+NP.",
-        "ne": "CN ४३/५१९/२। NDRRMA १३९५/५१३०/१३७३७। द्वार नष्ट। ताल खाली। नजोड्नु।",
-        "hi": "CN 43/519/2। NDRRMA 1395/5130/13737। द्वार नष्ट। झील खाली। न जोड़ें।"
+        "zh": "检索新华社/@XHNews、吉隆指挥部、NDRRMA SitRep #14、尼警、BIPAD、美使馆、ReliefWeb/UNOSAT/Copernicus：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA 15日19:00官方图形：死亡1399、失联5179（已核减已辨认遗体104）、获救13742。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
+        "en": "Xinhua/@XHNews, Gyirong HQ, NDRRMA SitRep #14, Nepal Police, BIPAD, US Embassy, ReliefWeb/UNOSAT/Copernicus: CN still 43/519/2 as of 5 Sep 18:00. NDRRMA 15 Sep 19:00 graphic: 1,399 dead, 5,179 missing (104 identified bodies deducted), 13,742 rescued. Gate destroyed. Lake drained. G216 core open. Do not add CN+NP.",
+        "ne": "CN ४३/५१९/२। NDRRMA १५ सेप्ट १९:००: १३९९/५१७९/१३७४२। द्वार नष्ट। ताल खाली। नजोड्नु।",
+        "hi": "CN 43/519/2। NDRRMA 15 सित 19:00: 1399/5179/13742। द्वार नष्ट। झील खाली। न जोड़ें।"
       }
     },
     {
-      "id": "ndrrma-0915-meet",
+      "id": "ndrrma-0915-sitrep14",
       "src": "official",
-      "t": "2026-09-15T10:40:18Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2099810534090743982",
+      "t": "2026-09-15T13:15:00Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/426",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "NDRRMA 15日：NPDRR讨论复原重建，无新命亡数",
-        "en": "NDRRMA 15 Sep: NPDRR recovery meeting; no new casualty figures",
-        "ne": "NDRRMA १५ सेप्ट: पुनर्लाभ बैठक; नयाँ संख्या छैन",
-        "hi": "NDRRMA 15 सित: पुनर्वास बैठक; नया आँकड़ा नहीं"
+        "zh": "NDRRMA SitRep #14：1399死亡 5179失联 13742获救",
+        "en": "NDRRMA SitRep #14: 1,399 dead, 5,179 missing, 13,742 rescued",
+        "ne": "NDRRMA SitRep #14: १३९९ मृत्यु, ५१७९ बेपत्ता, १३७४२ उद्धार",
+        "hi": "NDRRMA SitRep #14: 1,399 मृत, 5,179 लापता, 13,742 बचाए"
       },
       "body": {
-        "zh": "官方发文讨论受灾群众立即复原、安置与重建；未发布新的死亡/失联/获救总数。",
-        "en": "Official post on immediate recovery, resettlement and reconstruction; no new dead/missing/rescued totals.",
-        "ne": "पुनर्लाभ छलफल; नयाँ मृत्यु/बेपत्ता/उद्धार छैन।",
-        "hi": "पुनर्वास चर्चा; नया मृत/लापता/बचाए नहीं।"
+        "zh": "15日19:00 NPT官方图形：总死亡1399；失联5179（核减已辨认遗体104）；获救13742。陆军直升机累计1561架次。集中安置中心30处、2155人。",
+        "en": "15 Sep 19:00 NPT official graphic: 1,399 dead; 5,179 missing (104 identified bodies deducted); 13,742 rescued. Army helis 1,561 sorties. 30 holding centres, 2,155 people.",
+        "ne": "आधिकारिक: मृत्यु १३९९; बेपत्ता ५१७९; उद्धार १३७४२। हेलिकप्टर १५६१।",
+        "hi": "आधिकारिक: मृत 1399; लापता 5179; बचाए 13742। हेली 1561।"
       }
     },
     {
@@ -266,16 +266,29 @@
   },
   "xPosts": [
     {
-      "id": "x-np-0915",
+      "id": "x-np-0915-sit14",
       "user": "@NDRRMA_Nepal",
-      "t": "2026-09-15T10:40:18Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2099810534090743982",
+      "t": "2026-09-15T17:04:17Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099907164357980461",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA：15日NPDRR会议讨论复原重建，未更新伤亡数字。",
-        "en": "NDRRMA: 15 Sep NPDRR meeting on recovery; no new casualty figures.",
-        "ne": "NDRRMA: १५ सेप्ट पुनर्लाभ बैठक; नयाँ संख्या छैन।",
-        "hi": "NDRRMA: 15 सित पुनर्वास बैठक; नया आँकड़ा नहीं।"
+        "zh": "NDRRMA SitRep #14：15日19:00搜救救济简报已发布。",
+        "en": "NDRRMA SitRep #14: 15 Sep 19:00 search-rescue-relief report posted.",
+        "ne": "NDRRMA SitRep #14: १५ सेप्ट १९:०० प्रतिवेदन।",
+        "hi": "NDRRMA SitRep #14: 15 सित 19:00 रिपोर्ट।"
+      }
+    },
+    {
+      "id": "x-np-0915-g",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-15T16:11:03Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099893771701981621",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：15日19:00图形—死亡1399、失联5179、获救13742。",
+        "en": "NDRRMA: 15 Sep 19:00 graphic — 1,399 dead, 5,179 missing, 13,742 rescued.",
+        "ne": "NDRRMA: १५ सेप्ट १९:०० — मृत्यु १३९९, बेपत्ता ५१७९, उद्धार १३७४२।",
+        "hi": "NDRRMA: 15 सित 19:00 — मृत 1399, लापता 5179, बचाए 13742।"
       }
     },
     {
@@ -318,6 +331,21 @@
       }
     },
     {
+      "id": "x-xh-0906",
+      "user": "@XHNews",
+      "t": "2026-09-06T14:41:30Z",
+      "link": "https://x.com/XHNews/status/2096609742487691562",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社：截至5日18时吉隆口岸43遇难、519失联，其中外籍261人。",
+        "en": "Xinhua: as of 5 Sep 18:00, Gyirong Port 43 dead, 519 missing, including 261 foreigners.",
+        "ne": "सिन्ह्वा: ५ सेप्ट 18:00 — ४३ मृत्यु, ५१९ बेपत्ता, २६१ विदेशी।",
+        "hi": "सिन्हुआ: 5 सित 18:00 — 43 मृत, 519 लापता, 261 विदेशी।"
+      }
+    },
+    {
       "id": "x-xh-g216",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
@@ -330,21 +358,6 @@
         "en": "Xinhua: G216 access to Gyirong Port core basically restored 10:00 2 Sep.",
         "ne": "सिन्ह्वा: G216 कोर 2 सेप्ट 10:00 मा खुल्यो।",
         "hi": "सिन्हुआ: G216 कोर 2 सित 10:00 पर खुला।"
-      }
-    },
-    {
-      "id": "x-xh-0905-drone",
-      "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华社：出入境警察在吉隆口岸附近拍摄灾后无人机影像。",
-        "en": "Xinhua: immigration officer filmed post-slide drone footage near Gyirong Port.",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज।",
-        "hi": "सिन्हुआ: ग्यिरोंग पोर्ट नजदीक ड्रोन फुटेज।"
       }
     }
   ]
