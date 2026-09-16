@@ -1,30 +1,30 @@
 {
-  "snap": "2026-09-16T19:05:00Z",
+  "snap": "2026-09-16T21:20:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1399, "missing": 5179, "rescued": 13742}
   },
   "published": [
     {
-      "id": "osint-0916t1905",
+      "id": "osint-0916t2120",
       "src": "official",
-      "t": "2026-09-16T19:05:00Z",
+      "t": "2026-09-16T21:20:00Z",
       "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "16日19:05UTC刷新：中方仍为9月5日18时43死519失联2获救",
-        "en": "16 Sep 19:05 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
-        "ne": "16 Sep 19:05 UTC: CN 43/519/2 (5 Sep 18:00)",
-        "hi": "16 Sep 19:05 UTC: CN 43/519/2 (5 Sep 18:00)"
+        "zh": "16日21:20UTC刷新：中方仍为9月5日18时43死519失联2获救",
+        "en": "16 Sep 21:20 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
+        "ne": "16 Sep 21:20 UTC: CN 43/519/2 (5 Sep 18:00)",
+        "hi": "16 Sep 21:20 UTC: CN 43/519/2 (5 Sep 18:00)"
       },
       "body": {
-        "zh": "新华社：堰塞湖已排空、河道恢复、风险基本消除。口岸建筑夷平。勿把中尼数字相加。",
-        "en": "Xinhua: barrier lake drained, channel normal, hazard largely gone. Port buildings destroyed. Do not add CN+NP totals.",
-        "ne": "Xinhua: ताल खाली, जोखिम घट्यो। CN+NP जोड्नुहोस् न।",
-        "hi": "Xinhua: झील खाली, जोखिम कम। CN+NP न जोड़ें।"
+        "zh": "新华社：堰塞湖已排空、河道恢复、风险基本消除。口岸建筑夷平。勿把中尼数字相加。16日无新指挥部伤亡公报。",
+        "en": "Xinhua: barrier lake drained, channel normal, hazard largely gone. Port destroyed. Do not add CN+NP. No new CN casualty bulletin on 16 Sep.",
+        "ne": "Xinhua: ताल खाली। CN+NP जोड्नुहोस् न। १६ सेप नयाँ CN संख्या छैन।",
+        "hi": "Xinhua: झील खाली। CN+NP न जोड़ें। 16 सित नई CN संख्या नहीं।"
       }
     },
     {
@@ -41,10 +41,10 @@
         "hi": "NDRRMA सिट्रेप #14, 15 सित 19:00"
       },
       "body": {
-        "zh": "官方图形通报仍为1399死、5179失联、13742获救。搜救与安置并行。",
-        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. SAR plus relief.",
-        "ne": "अझै १३९९ मृत, ५१७९ बेपत्ता, १३७४२ उद्धार।",
-        "hi": "अभी 1399 मृत, 5179 लापता, 13742 बचाए।"
+        "zh": "官方图形通报仍为1399死、5179失联、13742获救。16日尚无SitRep #15。",
+        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. No SitRep #15 yet on 16 Sep.",
+        "ne": "अझै १३९९ मृत, ५१७९ बेपत्ता, १३७४२ उद्धार। #१५ आएको छैन।",
+        "hi": "अभी 1399 मृत, 5179 लापता, 13742 बचाए। #15 अभी नहीं।"
       }
     },
     {
@@ -125,8 +125,8 @@
         "hi": "5 सित 18:00 तक चीन पक्ष 43 मृत, 519 लापता"
       },
       "body": {
-        "zh": "含23国261名外籍失联。已确认部分遇难者身份；寻获遗体暂无外籍。热索村早期2人获救。口岸核心未见新幸存者通报。",
-        "en": "Includes 261 foreign missing from 23 countries. Recovered bodies so far not foreign. 2 early rescues at Resuo. No new survivors reported at port core.",
+        "zh": "含23国261名外籍失联。热索村早期2人获救。口岸核心未见新幸存者通报。",
+        "en": "Includes 261 foreign missing from 23 countries. 2 early rescues at Resuo. No new survivors at port core.",
         "ne": "२३ देशका २६१ विदेशी बेपत्ता। रेसुओमा २ उद्धार।",
         "hi": "23 देशों के 261 विदेशी लापता। रेसुओ में 2 बचाव।"
       }
@@ -372,6 +372,19 @@
       }
     },
     {
+      "id": "x-np-0914-g",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-14T13:46:15Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099494943706546257",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA 14日19:00图形更新",
+        "en": "NDRRMA 14 Sep 19:00 graphic update",
+        "ne": "NDRRMA १४ सेप १९:०० ग्राफिक",
+        "hi": "NDRRMA 14 सित 19:00 ग्राफिक"
+      }
+    },
+    {
       "id": "x-xh-0905-drone",
       "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
@@ -387,6 +400,21 @@
       }
     },
     {
+      "id": "x-xh-0904-road",
+      "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "G216",
+      "text": {
+        "zh": "新华：两小时推进不足5米，抢通口岸核心路",
+        "en": "Xinhua: less than 5 m in two hours reopening route to port core",
+        "ne": "दुई घण्टामा ५ मि भन्दा कम; कोर बाटो",
+        "hi": "दो घंटे में 5 मी से कम; कोर मार्ग"
+      }
+    },
+    {
       "id": "x-xh-0902-g216",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
@@ -396,39 +424,9 @@
       "geo": "G216",
       "text": {
         "zh": "2日10时G216通往口岸核心基本抢通",
-        "en": "G216 to port core basically restored 10:00 Wed 2 Sep",
-        "ne": "G216 कोर २ सेप १०:०० मा लगभग खुल्यो",
-        "hi": "G216 कोर 2 सित 10:00 लगभग खुला"
-      }
-    },
-    {
-      "id": "x-cgtn-0902-lake",
-      "user": "@CGTNOfficial",
-      "t": "2026-09-02T11:48:36Z",
-      "link": "https://x.com/CGTNOfficial/status/2095116678011257148",
-      "lat": 28.293,
-      "lng": 85.392,
-      "geo": "barrier lake",
-      "text": {
-        "zh": "航拍显示吉隆口岸附近堰塞湖已排空",
-        "en": "Aerial: barrier lake near Gyirong Port fully drained",
-        "ne": "हवाई: बाँधताल खाली",
-        "hi": "हवाई: बाँध झील खाली"
-      }
-    },
-    {
-      "id": "x-xh-0904-road",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "G216",
-      "text": {
-        "zh": "两小时推进不到5米：急流、边坡、巨石阻碍抢通",
-        "en": "Less than 5 m in two hours: water, slopes, boulders blocked G216 reopen",
-        "ne": "दुई घण्टामा ५ मि भन्दा कम प्रगति",
-        "hi": "दो घंटे में 5 मी से कम प्रगति"
+        "en": "G216 to port core basically restored 10:00 2 Sep",
+        "ne": "G216 कोर लगभग खुल्यो २ सेप १०:००",
+        "hi": "G216 कोर लगभग खुला 2 सित 10:00"
       }
     },
     {
@@ -440,23 +438,25 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "23国261名外籍人员被核定失联",
-        "en": "261 foreign nationals from 23 countries identified as unaccounted for",
+        "zh": "口岸外籍失联261人、23国",
+        "en": "261 foreign nationals from 23 countries unaccounted at port",
         "ne": "२३ देशका २६१ विदेशी बेपत्ता",
         "hi": "23 देशों के 261 विदेशी लापता"
       }
     },
     {
-      "id": "x-hindu-0916",
-      "user": "@the_hindu",
-      "t": "2026-09-16T02:08:48Z",
-      "link": "https://x.com/the_hindu/status/2100044200184266976",
-      "geo": "unknown",
+      "id": "x-xh-0830-kpi",
+      "user": "@XHNews",
+      "t": "2026-08-30T04:23:39Z",
+      "link": "https://x.com/XHNews/status/2093917539642519759",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "The Hindu：15日死亡升至1399",
-        "en": "The Hindu: death toll climbed to 1,399 on 15 Sep",
-        "ne": "The Hindu: १५ सेप मृत्यु १३९९",
-        "hi": "The Hindu: 15 सित मृत्यु 1399"
+        "zh": "截至29日18时：16死546失联（后续已更新）",
+        "en": "As of 29 Aug 18:00: 16 dead, 546 missing (later superseded)",
+        "ne": "२९ अग १८:००: १६ मृत, ५४६ बेपत्ता (पछि अद्यावधिक)",
+        "hi": "29 अग 18:00: 16 मृत, 546 लापता (बाद में अद्यतन)"
       }
     }
   ]
