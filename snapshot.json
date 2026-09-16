@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-17T00:20:00Z",
+  "snap": "2026-09-17T01:25:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1399, "missing": 5179, "rescued": 13742}
   },
   "published": [
     {
-      "id": "osint-0917t0020",
+      "id": "osint-0917t0125",
       "src": "official",
-      "t": "2026-09-17T00:20:00Z",
+      "t": "2026-09-17T01:25:00Z",
       "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "17日00:20UTC：中方仍为9月5日18时43死519失联2获救",
-        "en": "17 Sep 00:20 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
-        "ne": "17 Sep 00:20 UTC: CN 43/519/2 (5 Sep 18:00)",
-        "hi": "17 Sep 00:20 UTC: CN 43/519/2 (5 Sep 18:00)"
+        "zh": "17日01:25UTC：中方仍为9月5日18时43死519失联2获救",
+        "en": "17 Sep 01:25 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
+        "ne": "17 Sep 01:25 UTC: CN 43/519/2 (5 Sep 18:00)",
+        "hi": "17 Sep 01:25 UTC: CN 43/519/2 (5 Sep 18:00)"
       },
       "body": {
-        "zh": "新华社/指挥部：堰塞湖已排空、河道恢复、风险基本消除。口岸夷平。勿把中尼数字相加。16–17日无新中方伤亡公报。",
-        "en": "Xinhua HQ: barrier lake drained, channel normal, hazard largely gone. Port destroyed. Do not add CN+NP. No new CN casualty bulletin 16–17 Sep.",
+        "zh": "新华社：堰塞湖已排空、河道恢复、风险基本消除。口岸夷平。勿把中尼数字相加。16–17日无新中方伤亡公报。",
+        "en": "Xinhua: barrier lake drained, channel normal, hazard largely gone. Port destroyed. Do not add CN+NP. No new CN casualty bulletin 16–17 Sep.",
         "ne": "Xinhua: ताल खाली। CN+NP जोड्नुहोस् न। 16–17 सेप नयाँ CN संख्या छैन।",
         "hi": "Xinhua: झील खाली। CN+NP न जोडें। 16–17 सित नई CN संख्या नहीं।"
       }
@@ -41,8 +41,8 @@
         "hi": "NDRRMA सिट्रेप #14, 15 सित 19:00"
       },
       "body": {
-        "zh": "官方图形通报仍为1399死、5179失联、13742获救。17日00:20UTC尚无SitRep #15。",
-        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. No SitRep #15 as of 17 Sep 00:20 UTC.",
+        "zh": "官方图形通报仍为1399死、5179失联、13742获救。17日01:25UTC尚无SitRep #15。",
+        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. No SitRep #15 as of 17 Sep 01:25 UTC.",
         "ne": "अझै 1399 मृत, 5179 बेपत्ता, 13742 उद्धार। #15 आएको छैन।",
         "hi": "अभी 1399 मृत, 5179 लापता, 13742 बचाए। #15 अभी नहीं।"
       }
@@ -387,50 +387,7 @@
       }
     },
     {
-      "id": "x-xh-0910-cma",
-      "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
-      "text": {
-        "zh": "中国气象局：向尼泊尔轮送气候监测预报支援吉隆–拉苏瓦救灾",
-        "en": "CMA providing Nepal rolling climate products after Gyirong-Rasuwa mudslide",
-        "ne": "CMA नेपाललाई जलबायु आधार दिँदै",
-        "hi": "CMA नेपाल को जलवायु आधार दे रहा"
-      }
-    },
-    {
-      "id": "x-xh-0905-drone",
-      "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "边检民警无人机拍下吉隆口岸灾后画面",
-        "en": "Immigration officer drone footage near Gyirong Port after the mudslide",
-        "ne": "ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज",
-        "hi": "ग्यिरोंग पोर्ट के पास ड्रोन फुटेज"
-      }
-    },
-    {
-      "id": "x-xh-0904-road",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "G216",
-      "text": {
-        "zh": "新华：两小时推进不到5米，G216抢通难点",
-        "en": "Xinhua: less than 5 m in two hours reopening the Gyirong core road",
-        "ne": "दुई घण्टामा ५ मिटरभन्दा कम",
-        "hi": "दो घंटे में 5 मीटर से कम"
-      }
-    },
-    {
-      "id": "x-xh-0902",
+      "id": "x-xh-g216",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -438,25 +395,68 @@
       "lng": 85.368,
       "geo": "G216",
       "text": {
-        "zh": "G216通往口岸核心周三10时基本抢通",
-        "en": "G216 access to port core basically restored Wed 10:00",
-        "ne": "G216 कोर पहुँच बुध 10:00 लगभग खुल्यो",
-        "hi": "G216 कोर पहुँच बुध 10:00 लगभग खुली"
+        "zh": "新华：G216通往口岸核心2日10时基本抢通",
+        "en": "Xinhua: G216 to port core basically restored 2 Sep 10:00",
+        "ne": "G216 कोर 2 सेप 10:00 लगभग खुल्यो",
+        "hi": "G216 कोर 2 सित 10:00 लगभग खुला"
       }
     },
     {
-      "id": "x-xh-0830-foreign",
+      "id": "x-xh-drone",
       "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "23国261名外籍人员在吉隆口岸失联",
-        "en": "261 foreign nationals from 23 countries unaccounted for at Gyirong Port",
-        "ne": "23 देशका 261 विदेशी बेपत्ता",
-        "hi": "23 देशों के 261 विदेशी लापता"
+        "zh": "新华：口岸附近无人机画面（8月26日灾后）",
+        "en": "Xinhua: drone footage near Gyirong Port after 26 Aug strike",
+        "ne": "ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज",
+        "hi": "ग्यिरोंग पोर्ट के पास ड्रोन फुटेज"
+      }
+    },
+    {
+      "id": "x-xh-road",
+      "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "G216",
+      "text": {
+        "zh": "新华：抢通口岸核心路段难点（无路、急流、巨石）",
+        "en": "Xinhua: obstacles reopening route to port core",
+        "ne": "कोर सडक खोल्ने कठिनाइ",
+        "hi": "कोर मार्ग खोलने की बाधाएँ"
+      }
+    },
+    {
+      "id": "x-np-sitrep13",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-14T16:08:07Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099530642690281595",
+      "geo": "unknown",
+      "text": {
+        "zh": "SitRep #13（14日19:00）",
+        "en": "SitRep #13 published (14 Sep 19:00)",
+        "ne": "स्थिति प्रतिवेदन #13",
+        "hi": "सिट्रेप #13"
+      }
+    },
+    {
+      "id": "x-xh-slogan",
+      "user": "@XHNews",
+      "t": "2026-09-03T12:07:02Z",
+      "link": "https://x.com/XHNews/status/2095483707511734465",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华：口岸山壁“我爱你中国”字迹仍隐约可见",
+        "en": "Xinhua: mountainside slogan still faintly visible at port",
+        "ne": "पोर्ट छेउको नारा अझै देखिन्छ",
+        "hi": "पोर्ट पर पहाड़ी नारा अभी दिखता है"
       }
     }
   ]
