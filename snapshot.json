@@ -1,30 +1,30 @@
 {
-  "snap": "2026-09-17T03:15:00Z",
+  "snap": "2026-09-17T04:05:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1399, "missing": 5179, "rescued": 13742}
   },
   "published": [
     {
-      "id": "osint-0917t0315",
+      "id": "osint-0917t0405",
       "src": "official",
-      "t": "2026-09-17T03:15:00Z",
-      "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
+      "t": "2026-09-17T04:05:00Z",
+      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "17日03:15UTC：中方仍为9月5日18时43死519失联2获救",
-        "en": "17 Sep 03:15 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
-        "ne": "17 Sep 03:15 UTC: CN 43/519/2 (5 Sep 18:00)",
-        "hi": "17 Sep 03:15 UTC: CN 43/519/2 (5 Sep 18:00)"
+        "zh": "17日04:05UTC：中方仍为9月5日18时43死519失联2获救",
+        "en": "17 Sep 04:05 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
+        "ne": "17 Sep 04:05 UTC: CN 43/519/2 (5 Sep 18:00)",
+        "hi": "17 Sep 04:05 UTC: CN 43/519/2 (5 Sep 18:00)"
       },
       "body": {
-        "zh": "新华社/指挥部：堰塞湖已排空、河道恢复、风险基本消除。口岸夷平。勿把中尼数字相加。16–17日无新中方伤亡公报。",
-        "en": "Xinhua: barrier lake drained, channel normal, hazard largely gone. Port destroyed. Do not add CN+NP. No new CN casualty bulletin 16–17 Sep.",
-        "ne": "Xinhua: ताल खाली। CN+NP जोड्नुहोस् न। 16–17 सेप नयाँ CN संख्या छैन।",
-        "hi": "Xinhua: झील खाली। CN+NP न जोडें। 16–17 सित नई CN संख्या नहीं।"
+        "zh": "新华社/指挥部最新伤亡仍截至9月5日18时。堰塞湖已排空。口岸夷平。勿把中尼数字相加。17日无新中方伤亡公报。",
+        "en": "Latest CN casualty briefing remains 5 Sep 18:00. Barrier lake drained. Port destroyed. Do not add CN+NP. No new CN bulletin on 17 Sep.",
+        "ne": "CN संख्या 5 सेप 18:00 नै। ताल खाली। CN+NP जोड्नुहोस् न।",
+        "hi": "CN आँकड़ा 5 सित 18:00 ही। झील खाली। CN+NP न जोड़ें।"
       }
     },
     {
@@ -41,8 +41,8 @@
         "hi": "NDRRMA सिट्रेप #14, 15 सित 19:00"
       },
       "body": {
-        "zh": "官方图形通报仍为1399死、5179失联、13742获救。17日03:15UTC尚无SitRep #15。",
-        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. No SitRep #15 as of 17 Sep 03:15 UTC.",
+        "zh": "官方图形通报仍为1399死、5179失联、13742获救。17日04:05UTC尚无SitRep #15。",
+        "en": "Graphic still 1,399 dead, 5,179 missing, 13,742 rescued. No SitRep #15 as of 17 Sep 04:05 UTC.",
         "ne": "अझै 1399 मृत, 5179 बेपत्ता, 13742 उद्धार। #15 आएको छैन।",
         "hi": "अभी 1399 मृत, 5179 लापता, 13742 बचाए। #15 अभी नहीं।"
       }
@@ -147,8 +147,8 @@
         "hi": "G216 कोर पहुँच 2 सित 10:00 लगभग खुली"
       },
       "body": {
-        "zh": "新华社：昼夜抢修后基本恢复通行，边坡仍监测，仅救援通行。9月5日报道加宽加固。",
-        "en": "Xinhua: basically restored after 24h repairs; slopes monitored; SAR traffic only. Widened 5 Sep.",
+        "zh": "新华社：昼夜抢修后基本恢复通行，边坡仍监测，仅救援通行。",
+        "en": "Xinhua: basically restored after 24h repairs; slopes monitored; SAR traffic only.",
         "ne": "मर्मतपछि लगभग खुल्यो; भिर निगरानी; उद्धार मात्र।",
         "hi": "मरम्मत के बाद लगभग खुला; ढलान निगरानी; केवल एसएआर।"
       }
@@ -169,8 +169,8 @@
         "hi": "अमेरिकी दूतावास: रसुवागढी–टिमुरे–स्याफ्रुबेसी न जाएँ"
       },
       "body": {
-        "zh": "8月31日旅行警示Level 4该段。9月3日：Khalte路段仍断，边境未可靠恢复。17日未见新使馆道路通报。",
-        "en": "31 Aug Level-4 do-not-travel. 3 Sep: Khalte still closed; no reliable border access. No new embassy road notice as of 17 Sep.",
+        "zh": "8月31日旅行警示Level 4该段。9月3日：Khalte路段仍断。17日未见新使馆道路通报。",
+        "en": "31 Aug Level-4 do-not-travel. 3 Sep: Khalte still closed. No new embassy road notice as of 17 Sep.",
         "ne": "कोरिडोर स्तर-4। खल्ते बन्द। 17 सेप नयाँ सूचना छैन।",
         "hi": "कॉरिडोर स्तर-4। खल्ते बंद। 17 सित नई सूचना नहीं।"
       }
@@ -372,6 +372,19 @@
       }
     },
     {
+      "id": "x-xh-0910-cma",
+      "user": "@XHNews",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华：国家气候中心向尼方滚动提供监测预报",
+        "en": "Xinhua: CMA rolling climate products to Nepal for relief",
+        "ne": "Xinhua: CMA ले नेपाललाई मौसम सहयोग",
+        "hi": "Xinhua: CMA नेपाल को मौसम सहायता"
+      }
+    },
+    {
       "id": "x-xh-0906-kpi",
       "user": "@XHNews",
       "t": "2026-09-06T10:55:53Z",
@@ -387,78 +400,59 @@
       }
     },
     {
-      "id": "x-xh-drone",
+      "id": "x-xh-0909",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：边检民警事发当日吉隆口岸无人机画面",
-        "en": "Xinhua: immigration officer drone clip at Gyirong Port on 26 Aug",
-        "ne": "Xinhua: 26 अगस्ट ग्यिरोङ ड्रोन",
-        "hi": "Xinhua: 26 अग ग्यिरोंग ड्रोन"
+        "zh": "新华综述：吉隆口岸链式泥石流与搜救进展",
+        "en": "Xinhua recap: Gyirong chain mudslide and SAR progress",
+        "ne": "Xinhua: ग्यिरोङ खोजी सारांश",
+        "hi": "Xinhua: ग्यिरोंग खोज सार"
       }
     },
     {
-      "id": "x-xh-g216",
+      "id": "x-xh-0907-media",
       "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "G216",
-      "text": {
-        "zh": "新华：G216通往口岸核心2日10时基本抢通",
-        "en": "Xinhua: G216 to port core basically restored 2 Sep 10:00",
-        "ne": "G216 कोर 2 सेप 10:00 लगभग खुल्यो",
-        "hi": "G216 कोर 2 सित 10:00 लगभग खुला"
-      }
-    },
-    {
-      "id": "x-xh-roadhard",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "G216",
-      "text": {
-        "zh": "新华：G216抢通最难段，无路急流危坡巨石",
-        "en": "Xinhua: hardest G216 stretch — no road, torrent, slopes, boulders",
-        "ne": "G216 कठिन खण्ड",
-        "hi": "G216 कठिन खंड"
-      }
-    },
-    {
-      "id": "x-xh-foreign",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：23国261名外籍人员失联",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for",
-        "ne": "23 देशका 261 विदेशी बेपत्ता",
-        "hi": "23 देशों के 261 विदेशी लापता"
+        "zh": "新华：外媒记者探访吉隆口岸灾区",
+        "en": "Xinhua: foreign press visit to Gyirong Port",
+        "ne": "Xinhua: विदेशी पत्रकार ग्यिरोङ",
+        "hi": "Xinhua: विदेशी पत्रकार ग्यिरोंग"
       }
     },
     {
-      "id": "x-xh-heli",
-      "user": "@XHNews",
-      "t": "2026-08-30T06:49:32Z",
-      "link": "https://x.com/XHNews/status/2093954255568953603",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
+      "id": "x-np-0914",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-14T16:08:07Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099530642690281595",
+      "geo": "unknown",
       "text": {
-        "zh": "新华：直升机向吉隆口岸灾区投送物资",
-        "en": "Xinhua: helicopters delivering supplies to Gyirong Port SAR",
-        "ne": "हेलिकप्टर आपूर्ति",
-        "hi": "हेलीकॉप्टर आपूर्ति"
+        "zh": "SitRep #13（14日19:00NPT）已发布",
+        "en": "SitRep #13 published (14 Sep 19:00 NPT)",
+        "ne": "स्थिति प्रतिवेदन #13 प्रकाशित",
+        "hi": "सिट्रेप #13 प्रकाशित"
+      }
+    },
+    {
+      "id": "x-np-0912",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-12T18:14:30Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2098837672068628860",
+      "geo": "unknown",
+      "text": {
+        "zh": "SitRep #11（12日19:00NPT）已发布",
+        "en": "SitRep #11 published (12 Sep 19:00 NPT)",
+        "ne": "स्थिति प्रतिवेदन #11 प्रकाशित",
+        "hi": "सिट्रेप #11 प्रकाशित"
       }
     }
   ]
