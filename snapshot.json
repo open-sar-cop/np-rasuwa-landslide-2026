@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-16T13:07:00Z",
+  "snap": "2026-09-16T13:24:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1395, "missing": 5130, "rescued": 13737 }
   },
   "published": [
     {
-      "id": "osint-0916t1307",
+      "id": "osint-0916t1324",
       "src": "official",
-      "t": "2026-09-16T13:07:00Z",
+      "t": "2026-09-16T13:24:00Z",
       "link": "https://www.globaltimes.cn/page/202609/1369925.shtml",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "16日13:07UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
-        "en": "16 Sep 13:07 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
-        "ne": "१६ सेप्ट 13:07 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
-        "hi": "16 सित 13:07 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
+        "zh": "16日13:24UTC复核：无更新官方命亡；CN 43/519/2；NP 1395/5130/13737",
+        "en": "16 Sep 13:24 UTC refresh: no newer official toll; CN 43/519/2; NP 1,395/5,130/13,737",
+        "ne": "१६ सेप्ट 13:24 UTC: नयाँ आधिकारिक संख्या छैन; CN ४३/५१९/२; NP १३९५/५१३०/१३७३७",
+        "hi": "16 सित 13:24 UTC: नया आधिकारिक आँकड़ा नहीं; CN 43/519/2; NP 1395/5130/13737"
       },
       "body": {
         "zh": "检索新华社/@XHNews、吉隆指挥部、NDRRMA、尼警、BIPAD、美使馆、ReliefWeb/UNOSAT/Copernicus：中方仍截至9月5日18时43遇难、519失联、热索村救2人。NDRRMA最近官方图形仍为死亡1395、失联5130、获救13737。媒体/警方约1401未作官方采用。国门仍毁不通关。堰塞湖已完全泄洪。G216核心段已抢通。两国口径勿相加。",
@@ -302,6 +302,19 @@
         "en": "NDRRMA SitRep #13: 14 Sep 19:00 search-rescue-relief report posted.",
         "ne": "NDRRMA SitRep #13: १४ सेप्ट १९:०० प्रतिवेदन।",
         "hi": "NDRRMA SitRep #13: 14 सित 19:00 रिपोर्ट।"
+      }
+    },
+    {
+      "id": "x-xh-0910",
+      "user": "@XHNews",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华社：国家气候中心向尼方滚动提供气候监测预报，支援吉隆—拉苏瓦救援。",
+        "en": "Xinhua: CMA climate products rolling to Nepal to support Gyirong–Rasuwa relief.",
+        "ne": "सिन्ह्वा: जलवायु पूर्वानुमान नेपाललाई पठाइयो।",
+        "hi": "सिन्हुआ: जलवायु पूर्वानुमान नेपाल को भेजा।"
       }
     },
     {
