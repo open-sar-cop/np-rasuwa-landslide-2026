@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-16T21:20:00Z",
+  "snap": "2026-09-16T22:05:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1399, "missing": 5179, "rescued": 13742}
   },
   "published": [
     {
-      "id": "osint-0916t2120",
+      "id": "osint-0916t2205",
       "src": "official",
-      "t": "2026-09-16T21:20:00Z",
+      "t": "2026-09-16T22:05:00Z",
       "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "16日21:20UTC刷新：中方仍为9月5日18时43死519失联2获救",
-        "en": "16 Sep 21:20 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
-        "ne": "16 Sep 21:20 UTC: CN 43/519/2 (5 Sep 18:00)",
-        "hi": "16 Sep 21:20 UTC: CN 43/519/2 (5 Sep 18:00)"
+        "zh": "16日22:05UTC：中方仍为9月5日18时43死519失联2获救",
+        "en": "16 Sep 22:05 UTC: CN still 43 dead / 519 missing / 2 rescued as of 5 Sep 18:00",
+        "ne": "16 Sep 22:05 UTC: CN 43/519/2 (5 Sep 18:00)",
+        "hi": "16 Sep 22:05 UTC: CN 43/519/2 (5 Sep 18:00)"
       },
       "body": {
-        "zh": "新华社：堰塞湖已排空、河道恢复、风险基本消除。口岸建筑夷平。勿把中尼数字相加。16日无新指挥部伤亡公报。",
-        "en": "Xinhua: barrier lake drained, channel normal, hazard largely gone. Port destroyed. Do not add CN+NP. No new CN casualty bulletin on 16 Sep.",
+        "zh": "新华社/指挥部：堰塞湖已排空、河道恢复、风险基本消除。口岸夷平。勿把中尼数字相加。16日无新中方伤亡公报。",
+        "en": "Xinhua HQ: barrier lake drained, channel normal, hazard largely gone. Port destroyed. Do not add CN+NP. No new CN casualty bulletin on 16 Sep.",
         "ne": "Xinhua: ताल खाली। CN+NP जोड्नुहोस् न। १६ सेप नयाँ CN संख्या छैन।",
         "hi": "Xinhua: झील खाली। CN+NP न जोड़ें। 16 सित नई CN संख्या नहीं।"
       }
@@ -61,30 +61,30 @@
         "hi": "NDRRMA 15 Sep 19:00: 1399 मृत, 5179 लापता, 13742 बचाए"
       },
       "body": {
-        "zh": "尼方最新官方图形通报。水电隧洞仍在搜寻。",
-        "en": "Latest NDRRMA graphic. Tunnel searches at hydropower sites continue.",
+        "zh": "尼方最新官方图形通报。水电隧洞仍在搜寻。PTI同日亦引1399死/约5170失联。",
+        "en": "Latest NDRRMA graphic. Tunnel searches continue. PTI same day: 1,399 dead / ~5,170 missing.",
         "ne": "पछिल्लो आधिकारिक ग्राफिक। जलविद्युत् सुरुङ खोजी जारी।",
         "hi": "नवीनतम आधिकारिक ग्राफिक। जलविद्युत सुरंग खोज जारी।"
       }
     },
     {
-      "id": "dot-0915-foreign",
+      "id": "np-police-0915",
       "src": "official",
-      "t": "2026-09-15T11:43:00Z",
-      "link": "https://www.spotlightnepal.com/2026/09/15/rasuwa-flood-607-foreign-tourists-34-countries-still-missing/",
+      "t": "2026-09-15T12:00:00Z",
+      "link": "https://risingnepaldaily.com/news/86579",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "尼旅游部：34国607名外国游客仍失联，已救出310人",
-        "en": "Nepal DoT: 607 foreign tourists from 34 countries still missing; 310 rescued",
-        "ne": "पर्यटन विभाग: ३४ देशका ६०७ विदेशी पर्यटक बेपत्ता; ३१० उद्धार",
-        "hi": "पर्यटन विभाग: 34 देशों के 607 विदेशी पर्यटक लापता; 310 बचाए"
+        "zh": "尼警：已寻获1399具遗体（名册口径另计）",
+        "en": "Nepal Police: 1,399 bodies recovered (missing roster differs)",
+        "ne": "नेपाल प्रहरी: १३९९ शव; बेपत्ता सूची फरक",
+        "hi": "नेपाल पुलिस: 1399 शव; लापता सूची अलग"
       },
       "body": {
-        "zh": "多为冈仁波齐/戈赛昆达朝圣线。印189、美65、马55、乌54等。",
-        "en": "Mostly Kailash/Gosaikunda pilgrims. India 189, US 65, Malaysia 55, Ukraine 54.",
-        "ne": "अधिकांश कैलाश/गोसाइँकुण्ड यात्री। भारत १८९।",
-        "hi": "अधिकतर कैलाश/गोसाईंकुंड यात्री। भारत 189।"
+        "zh": "Rising Nepal引总部：男544女336残肢519。官方失联名册4089，与NDRRMA 5179口径不同，勿混用。",
+        "en": "HQ: 544 male, 336 female, 519 partial. Missing roster 4,089 — not the same series as NDRRMA 5,179.",
+        "ne": "पुरुष ५४४, महिला ३३६। बेपत्ता ४०८९ ≠ NDRRMA ५१७९।",
+        "hi": "पुरुष 544, महिला 336। लापता 4089 ≠ NDRRMA 5179।"
       }
     },
     {
@@ -169,10 +169,10 @@
         "hi": "अमेरिकी दूतावास: रसुवागढ़ी–टिमुरे–स्याफ्रुबेसी न जाएँ"
       },
       "body": {
-        "zh": "8月31日旅行警示Level 4该段。9月3日：Khalte路段仍断，边境未可靠恢复。",
-        "en": "31 Aug Level-4 do-not-travel for that corridor. 3 Sep: Khalte still closed; no reliable access to border.",
-        "ne": "कोरिडोर स्तर-४। खल्ते बन्द। सीमा पहुँच अविश्वसनीय।",
-        "hi": "कॉरिडोर स्तर-4। खल्ते बंद। सीमा पहुँच अविश्वसनीय।"
+        "zh": "8月31日旅行警示Level 4该段。9月3日：Khalte路段仍断，边境未可靠恢复。16日未见新使馆道路通报。",
+        "en": "31 Aug Level-4 do-not-travel. 3 Sep: Khalte still closed; no reliable border access. No new embassy road notice on 16 Sep.",
+        "ne": "कोरिडोर स्तर-४। खल्ते बन्द। १६ सेप नयाँ सूचना छैन।",
+        "hi": "कॉरिडोर स्तर-4। खल्ते बंद। 16 सित नई सूचना नहीं।"
       }
     },
     {
@@ -372,19 +372,6 @@
       }
     },
     {
-      "id": "x-np-0914-g",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-14T13:46:15Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2099494943706546257",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA 14日19:00图形更新",
-        "en": "NDRRMA 14 Sep 19:00 graphic update",
-        "ne": "NDRRMA १४ सेप १९:०० ग्राफिक",
-        "hi": "NDRRMA 14 सित 19:00 ग्राफिक"
-      }
-    },
-    {
       "id": "x-xh-0905-drone",
       "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
@@ -394,9 +381,9 @@
       "geo": "Gyirong Port",
       "text": {
         "zh": "边检民警肖富贵灾后不久无人机拍口岸",
-        "en": "Immigration officer Xiao Fugui drone footage near Gyirong Port after the slide",
-        "ne": "ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज",
-        "hi": "ग्यिरोंग पोर्ट के पास ड्रोन फुटेज"
+        "en": "Immigration officer Xiao Fugui drone footage near Gyirong Port after 26 Aug mudslide",
+        "ne": "ग्यिरोङ पोर्ट ड्रोन फुटेज (शाओ फुगुई)",
+        "hi": "ग्यिरोंग पोर्ट ड्रोन फुटेज (शाओ फुगुई)"
       }
     },
     {
@@ -408,10 +395,10 @@
       "lng": 85.368,
       "geo": "G216",
       "text": {
-        "zh": "新华：两小时推进不足5米，抢通口岸核心路",
-        "en": "Xinhua: less than 5 m in two hours reopening route to port core",
-        "ne": "दुई घण्टामा ५ मि भन्दा कम; कोर बाटो",
-        "hi": "दो घंटे में 5 मी से कम; कोर मार्ग"
+        "zh": "两小时推进不到5米：抢通口岸核心路",
+        "en": "Less than 5 m in two hours: reopening route to Gyirong Port core",
+        "ne": "दुई घण्टामा ५ मि भन्दा कम: कोर सडक",
+        "hi": "दो घंटे में 5 मी से कम: कोर सड़क"
       }
     },
     {
@@ -423,40 +410,53 @@
       "lng": 85.368,
       "geo": "G216",
       "text": {
-        "zh": "2日10时G216通往口岸核心基本抢通",
-        "en": "G216 to port core basically restored 10:00 2 Sep",
-        "ne": "G216 कोर लगभग खुल्यो २ सेप १०:००",
-        "hi": "G216 कोर लगभग खुला 2 सित 10:00"
+        "zh": "G216通往口岸核心2日10时基本抢通",
+        "en": "G216 to port core basically restored 2 Sep 10:00",
+        "ne": "G216 कोर २ सेप १०:०० लगभग खुल्यो",
+        "hi": "G216 कोर 2 सित 10:00 लगभग खुला"
       }
     },
     {
-      "id": "x-xh-0830-foreign",
+      "id": "x-xh-0830-ai",
       "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "G216",
+      "text": {
+        "zh": "激光AI监测边坡落石风险，协助抢通路",
+        "en": "Laser AI monitors rockfall risk while reopening route in Gyirong",
+        "ne": "लेजर AI ले पहिरो जोखिम निगरानी",
+        "hi": "लेजर AI चट्टान गिरने का जोखिम निगरानी"
+      }
+    },
+    {
+      "id": "x-xh-0903-love",
+      "user": "@XHNews",
+      "t": "2026-09-03T12:07:02Z",
+      "link": "https://x.com/XHNews/status/2095483707511734465",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "口岸外籍失联261人、23国",
-        "en": "261 foreign nationals from 23 countries unaccounted at port",
-        "ne": "२३ देशका २६१ विदेशी बेपत्ता",
-        "hi": "23 देशों के 261 विदेशी लापता"
+        "zh": "口岸山体“中国我爱你”字样仍隐约可见",
+        "en": "Mountainside 'China I Love You' still faintly visible beside the port",
+        "ne": "पोर्ट छेउ पहाडमा चिनियाँ अक्षर अझै देखिन्छ",
+        "hi": "पोर्ट के पास पहाड़ पर चीनी अक्षर अभी दिखते हैं"
       }
     },
     {
-      "id": "x-xh-0830-kpi",
-      "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
+      "id": "x-np-0914-g",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-14T13:46:15Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099494943706546257",
+      "geo": "unknown",
       "text": {
-        "zh": "截至29日18时：16死546失联（后续已更新）",
-        "en": "As of 29 Aug 18:00: 16 dead, 546 missing (later superseded)",
-        "ne": "२९ अग १८:००: १६ मृत, ५४६ बेपत्ता (पछि अद्यावधिक)",
-        "hi": "29 अग 18:00: 16 मृत, 546 लापता (बाद में अद्यतन)"
+        "zh": "NDRRMA 14日19:00图形更新",
+        "en": "NDRRMA 14 Sep 19:00 graphic update",
+        "ne": "NDRRMA १४ सेप १९:०० ग्राफिक",
+        "hi": "NDRRMA 14 सित 19:00 ग्राफिक"
       }
     }
   ]
