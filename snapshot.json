@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-17T21:20:00Z",
+  "snap": "2026-09-17T22:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1403, "missing": 6150, "rescued": 13742 }
   },
   "published": [
     {
-      "id": "osint-0917t2120",
+      "id": "osint-0917t2205",
       "src": "official",
-      "t": "2026-09-17T21:20:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2100267309168496853",
+      "t": "2026-09-17T22:05:00Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/428",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "17日21:20UTC：仍无SitRep#16，中方无新伤亡公报",
-        "en": "17 Sep 21:20 UTC: still no SitRep #16; no new CN casualty bulletin",
-        "ne": "17 Sep 21:20 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
-        "hi": "17 Sep 21:20 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
+        "zh": "17日22:05UTC：仍无SitRep#16，中方无新伤亡公报",
+        "en": "17 Sep 22:05 UTC: still no SitRep #16; no new CN casualty bulletin",
+        "ne": "17 Sep 22:05 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
+        "hi": "17 Sep 22:05 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
       },
       "body": {
-        "zh": "KPI仍用NDRRMA SitRep#15：1403死、6150失联、13742获救（16日19:00NPT）。中方截至9月5日18时43/519/2。非官方聚合不作KPI。勿把中尼数字相加。",
-        "en": "KPI remains NDRRMA SitRep #15: 1,403 dead / 6,150 missing / 13,742 rescued (16 Sep 19:00 NPT). CN still 43/519/2 as of 5 Sep 18:00. Unofficial aggregates unused. Do not add CN+NP.",
+        "zh": "KPI仍用NDRRMA SitRep#15：1403死、6150失联、13742获救（16日19:00NPT）。中方截至9月5日18时43/519/2。媒体汇总数字不作KPI。勿把中尼数字相加。",
+        "en": "KPI remains NDRRMA SitRep #15: 1,403 dead / 6,150 missing / 13,742 rescued (16 Sep 19:00 NPT). CN still 43/519/2 as of 5 Sep 18:00. Media aggregates unused. Do not add CN+NP.",
         "ne": "KPI SitRep #15: 1403/6150/13742। CN अझै 43/519/2। अनधिकृत जोड नगर्ने।",
         "hi": "KPI SitRep #15: 1403/6150/13742। CN अभी 43/519/2। अनौपचारिक जोड़ न करें।"
       }
@@ -391,10 +391,10 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：边检民警无人机影像记录吉隆口岸",
-        "en": "Xinhua: immigration officer drone footage at Gyirong Port",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज",
-        "hi": "सिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज"
+        "zh": "新华：边检民警无人机拍口岸泥石流后现场",
+        "en": "Xinhua: immigration officer drone footage after Gyirong Port mudslide",
+        "ne": "XHNews: ग्यिरोङ पोर्ट ड्रोन फुटेज",
+        "hi": "XHNews: ग्यिरोंग पोर्ट ड्रोन फुटेज"
       }
     },
     {
@@ -406,14 +406,14 @@
       "lng": 85.368,
       "geo": "G216",
       "text": {
-        "zh": "新华：两小时推进不足5米，G216抢通极难",
-        "en": "Xinhua: less than 5 m in two hours reopening G216",
-        "ne": "सिन्ह्वा: दुई घण्टामा ५ मि भन्दा कम",
-        "hi": "सिन्हुआ: दो घंटे में 5 मी से कम"
+        "zh": "新华：两小时推进不到5米，口岸道路为何难抢通",
+        "en": "Xinhua: less than 5 m in two hours reopening Gyirong core road",
+        "ne": "XHNews: दुई घण्टामा ५ मि भन्दा कम",
+        "hi": "XHNews: दो घंटे में 5 मी से कम"
       }
     },
     {
-      "id": "x-xh-0902-open",
+      "id": "x-xh-0902-g216",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -421,10 +421,10 @@
       "lng": 85.368,
       "geo": "G216",
       "text": {
-        "zh": "新华：2日10时口岸核心G216基本抢通",
+        "zh": "新华：2日10时G216通往口岸核心基本抢通",
         "en": "Xinhua: G216 to port core basically restored 2 Sep 10:00",
-        "ne": "सिन्ह्वा: G216 कोर 2 सेप 10:00 लगभग खुल्यो",
-        "hi": "सिन्हुआ: G216 कोर 2 सित 10:00 लगभग खुला"
+        "ne": "XHNews: G216 कोर लगभग खुल्यो 2 सेप 10:00",
+        "hi": "XHNews: G216 कोर लगभग खुला 2 सित 10:00"
       }
     },
     {
@@ -434,25 +434,23 @@
       "link": "https://x.com/XHNews/status/2094068911415443557",
       "geo": "unknown",
       "text": {
-        "zh": "新华：激光AI监测边坡落石风险",
-        "en": "Xinhua: laser AI monitors rockfall risk on slopes",
-        "ne": "सिन्ह्वा: लेजर एआईले ढुङ्गा खस्ने जोखिम निगरानी",
-        "hi": "सिन्हुआ: लेजर एआई चट्टान गिरने की निगरानी"
+        "zh": "新华：激光AI监测滑坡落石风险",
+        "en": "Xinhua: laser AI monitoring landslide/rockfall risk",
+        "ne": "XHNews: लेजर AI पहिरो निगरानी",
+        "hi": "XHNews: लेजर AI भूस्खलन निगरानी"
       }
     },
     {
-      "id": "x-xh-0903-chars",
-      "user": "@XHNews",
-      "t": "2026-09-03T12:07:02Z",
-      "link": "https://x.com/XHNews/status/2095483707511734465",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
+      "id": "x-media-0917-missing",
+      "user": "@PhilstarNews",
+      "t": "2026-09-17T02:56:28Z",
+      "link": "https://x.com/PhilstarNews/status/2100418582840750118",
+      "geo": "unknown",
       "text": {
-        "zh": "新华：口岸旁山体“中国我爱你”字迹仍依稀可见",
-        "en": "Xinhua: mountainside characters still faintly visible at port",
-        "ne": "सिन्ह्वा: पहाडमा अक्षर अझै देखिन्छ",
-        "hi": "सिन्हुआ: पहाड़ पर अक्षर अभी दिखते हैं"
+        "zh": "外媒转述：尼方将失联上修至6150（对应SitRep#15）",
+        "en": "Media: Nepal revised missing to 6,150 (matches SitRep #15)",
+        "ne": "मिडिया: बेपत्ता 6150 (SitRep #15)",
+        "hi": "मीडिया: लापता 6150 (SitRep #15)"
       }
     }
   ]
