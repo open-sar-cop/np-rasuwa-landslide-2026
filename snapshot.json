@@ -1,28 +1,48 @@
 {
-  "snap": "2026-09-18T03:26:00Z",
+  "snap": "2026-09-18T04:16:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1403, "missing": 6150, "rescued": 13742 }
+    "np": { "dead": 1410, "missing": 6145, "rescued": 13756 }
   },
   "published": [
     {
-      "id": "osint-0918t0326",
+      "id": "osint-0918t0416",
       "src": "official",
-      "t": "2026-09-18T03:26:00Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/428",
+      "t": "2026-09-18T04:16:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2100583466467565739",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "18日03:26UTC：仍无SitRep#16，中方无新伤亡公报",
-        "en": "18 Sep 03:26 UTC: still no SitRep #16; no new CN casualty bulletin",
-        "ne": "18 Sep 03:26 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
-        "hi": "18 Sep 03:26 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
+        "zh": "18日04:16UTC：采用NDRRMA 17日19:00图报；中方无新伤亡公报",
+        "en": "18 Sep 04:16 UTC: using NDRRMA 17 Sep 19:00 graphic; no new CN casualty bulletin",
+        "ne": "18 Sep 04:16 UTC: NDRRMA 17 Sep 19:00 ग्राफिक; नयाँ CN बुलेटिन छैन",
+        "hi": "18 Sep 04:16 UTC: NDRRMA 17 सित 19:00 ग्राफिक; नया CN बुलेटिन नहीं"
       },
       "body": {
-        "zh": "KPI仍用NDRRMA SitRep#15：1403死、6150失联、13742获救（16日19:00NPT）。中方截至9月5日18时43/519/2。媒体/警方汇总不作KPI。勿把中尼数字相加。",
-        "en": "KPI remains NDRRMA SitRep #15: 1,403 dead / 6,150 missing / 13,742 rescued (16 Sep 19:00 NPT). CN still 43/519/2 as of 5 Sep 18:00. Media aggregates unused. Do not add CN+NP.",
-        "ne": "KPI SitRep #15: 1403/6150/13742। CN अझै 43/519/2। अनधिकृत जोड नगर्ने।",
-        "hi": "KPI SitRep #15: 1403/6150/13742। CN अभी 43/519/2। अनौपचारिक जोड़ न करें।"
+        "zh": "KPI尼方1410死、6145失联、13756获救（17日19:00NPT图报）。SitRep#16 PDF尚未见。中方截至9月5日18时43/519/2。勿把中尼数字相加。",
+        "en": "NP KPI 1,410 dead / 6,145 missing / 13,756 rescued (17 Sep 19:00 NPT graphic). SitRep #16 PDF not yet posted. CN still 43/519/2 as of 5 Sep 18:00. Do not add CN+NP.",
+        "ne": "KPI NP 1410/6145/13756। SitRep #16 PDF छैन। CN अझै 43/519/2। जोड नगर्ने।",
+        "hi": "KPI NP 1410/6145/13756। SitRep #16 PDF नहीं। CN अभी 43/519/2। जोड़ न करें।"
+      }
+    },
+    {
+      "id": "ndrrma-0917-1900",
+      "src": "official",
+      "t": "2026-09-17T13:15:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2100583466467565739",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 17日19:00NPT图报：1410死 6145失联 13756获救",
+        "en": "NDRRMA 17 Sep 19:00 NPT graphic: 1,410 dead, 6,145 missing, 13,756 rescued",
+        "ne": "NDRRMA 17 सेप 19:00: 1410 मृत, 6145 बेपत्ता, 13756 उद्धार",
+        "hi": "NDRRMA 17 सित 19:00: 1410 मृत, 6145 लापता, 13756 बचाए"
+      },
+      "body": {
+        "zh": "失联已扣除已识别遗体110具后为6145。安置点27处：努瓦科特832、拉苏瓦817、达丁94。德维加特Acrow桥已通。陆军直升机累计1634架次。",
+        "en": "Missing 6,145 after deducting 110 identified bodies. 27 holding centres (Nuwakot 832; Rasuwa 817; Dhading 94). Devighat Acrow bridge in operation. Army heli 1,634 sorties.",
+        "ne": "बेपत्ता 6145 (110 पहिचान घटाइएको)। 27 आश्रय। देवीघाट एक्रो पुल। हेलि 1634।",
+        "hi": "लापता 6145 (110 पहचान घटाए)। 27 आश्रय। देवीघाट एक्रो पुल। हेली 1634।"
       }
     },
     {
@@ -39,30 +59,10 @@
         "hi": "NDRRMA सिट्रेप #15, 16 सित 19:00"
       },
       "body": {
-        "zh": "官方图形：死亡1403、失联6150、获救13742。29处安置点；努瓦科特1185、拉苏瓦817、达丁94。德维加特Acrow桥已通。",
-        "en": "Graphic: 1,403 dead, 6,150 missing, 13,742 rescued. 29 holding centres (Nuwakot 1,185; Rasuwa 817; Dhading 94). Acrow bridge at Devighat in operation.",
-        "ne": "1403 मृत, 6150 बेपत्ता, 13742 उद्धार। 29 आश्रय। देवीघाट एक्रो पुल सञ्चालन।",
-        "hi": "1403 मृत, 6150 लापता, 13742 बचाए। 29 आश्रय। देवीघाट एक्रो पुल चालू।"
-      }
-    },
-    {
-      "id": "ndrrma-0916-1900",
-      "src": "official",
-      "t": "2026-09-16T13:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2100224791395614849",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 16日19:00NPT：1403死 6150失联 13742获救",
-        "en": "NDRRMA 16 Sep 19:00 NPT: 1,403 dead, 6,150 missing, 13,742 rescued",
-        "ne": "NDRRMA 16 Sep 19:00: 1403 मृत, 6150 बेपत्ता, 13742 उद्धार",
-        "hi": "NDRRMA 16 Sep 19:00: 1403 मृत, 6150 लापता, 13742 बचाए"
-      },
-      "body": {
-        "zh": "失联口径修订：扣除已识别遗体后为6150。获救数与15日图形相同。水电隧洞搜寻仍在进行。",
-        "en": "Missing revised to 6,150 after deducting identified bodies. Rescued unchanged vs 15 Sep graphic. Tunnel searches continue.",
-        "ne": "बेपत्ता 6150। उद्धार उस्तै। सुरुङ खोजी जारी।",
-        "hi": "लापता 6150। बचाव वही। सुरंग खोज जारी।"
+        "zh": "当时图形：死亡1403、失联6150、获救13742。17日图报已更新KPI。",
+        "en": "Then-graphic: 1,403 dead, 6,150 missing, 13,742 rescued. Superseded by 17 Sep graphic for KPI.",
+        "ne": "त्यतिबेला 1403/6150/13742। 17 सेप ग्राफिकले KPI अपडेट।",
+        "hi": "तब 1403/6150/13742। 17 सित ग्राफिक से KPI अपडेट।"
       }
     },
     {
@@ -81,7 +81,7 @@
         "hi": "5 सित 18:00 तक चीन पक्ष 43 मृत, 519 लापता"
       },
       "body": {
-        "zh": "含23国261名外籍失联。热索村早期2人获救。18日无新中方伤亡公报。",
+        "zh": "含23国261名外籍失联。热索村早期2人获救。18日仍无新中方伤亡公报。",
         "en": "Includes 261 foreign missing from 23 countries. 2 early rescues at Resuo. No new CN casualty bulletin on 18 Sep.",
         "ne": "23 देशका 261 विदेशी बेपत्ता। रेसुओमा 2 उद्धार। 18 सेप नयाँ CN बुलेटिन छैन।",
         "hi": "23 देशों के 261 विदेशी लापता। रेसुओ में 2 बचाव। 18 सित नया CN बुलेटिन नहीं।"
@@ -346,6 +346,32 @@
   },
   "xPosts": [
     {
+      "id": "x-np-0917-g",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-17T13:51:40Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2100583466467565739",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA 17日19:00：1410死6145失联13756获救",
+        "en": "NDRRMA 17 Sep 19:00: 1,410 dead, 6,145 missing, 13,756 rescued",
+        "ne": "NDRRMA 1410/6145/13756",
+        "hi": "NDRRMA 1410/6145/13756"
+      }
+    },
+    {
+      "id": "x-np-0917-ne",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-17T13:50:24Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2100583150888050801",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA尼文图报（1 असोज 19:00）",
+        "en": "NDRRMA Nepali graphic 1 Ashoj 19:00",
+        "ne": "नेपाली ग्राफिक १ असोज साँझ ७:००",
+        "hi": "नेपाली ग्राफिक 1 अशोज शाम 7:00"
+      }
+    },
+    {
       "id": "x-np-0917-daily",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-17T09:34:53Z",
@@ -393,10 +419,25 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：口岸边检民警无人机航拍8·26冲击现场",
-        "en": "Xinhua: immigration officer drone footage of 26 Aug strike at port",
-        "ne": "सिमाना प्रहरी ड्रोन फुटेज",
-        "hi": "सीमा पुलिस ड्रोन फुटेज"
+        "zh": "新华：边检民警肖富贵事发后无人机抵近吉隆口岸",
+        "en": "Xinhua: officer Xiao Fugui drone footage near Gyirong Port after strike",
+        "ne": "सिन्हुवा: ग्यिरोङ पोर्ट नजिक ड्रोन फुटेज",
+        "hi": "शिन्हुआ: ग्यिरोंग पोर्ट के पास ड्रोन फुटेज"
+      }
+    },
+    {
+      "id": "x-xh-0904-road",
+      "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "G216",
+      "text": {
+        "zh": "新华：两小时推进不足5米，G216抢通难点",
+        "en": "Xinhua: less than 5 m in two hours on G216 reopen",
+        "ne": "सिन्हुवा: G216 खोल्न दुई घण्टामा ५ मि भन्दा कम",
+        "hi": "शिन्हुआ: G216 खोलने में दो घंटे में 5 मी से कम"
       }
     },
     {
@@ -410,51 +451,8 @@
       "text": {
         "zh": "新华：2日10时G216通往口岸核心基本抢通",
         "en": "Xinhua: G216 to port core basically restored 2 Sep 10:00",
-        "ne": "G216 कोर लगभग खुल्यो",
-        "hi": "G216 कोर लगभग खुला"
-      }
-    },
-    {
-      "id": "x-xh-0830-kpi",
-      "user": "@XHNews",
-      "t": "2026-08-30T04:23:39Z",
-      "link": "https://x.com/XHNews/status/2093917539642519759",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华早期：截至29日18时16死546失联（已被9月5日43/519取代）",
-        "en": "Xinhua early: 16 dead/546 missing as of 29 Aug 18:00 (superseded by 5 Sep 43/519)",
-        "ne": "पुरानो अंक 16/546; 5 सेप 43/519 ले प्रतिस्थापन",
-        "hi": "पुराना आँकड़ा 16/546; 5 सित 43/519 से प्रतिस्थापित"
-      }
-    },
-    {
-      "id": "x-xh-0830-foreign",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华：失联外籍261人、23国",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for",
-        "ne": "261 विदेशी, 23 देश बेपत्ता",
-        "hi": "261 विदेशी, 23 देश लापता"
-      }
-    },
-    {
-      "id": "x-xh-0904-road",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "G216",
-      "text": {
-        "zh": "新华：G216抢通难点——急流、危坡、巨石",
-        "en": "Xinhua: G216 reopen obstacles — fast water, unstable slopes, boulders",
-        "ne": "G216 कठिनाइ: पानी, भिर, ढुङ्गा",
-        "hi": "G216 बाधा: तेज़ पानी, ढलान, पत्थर"
+        "ne": "सिन्हुवा: G216 कोर २ सेप १०:०० मा लगभग खुल्यो",
+        "hi": "शिन्हुआ: G216 कोर 2 सित 10:00 लगभग खुला"
       }
     }
   ]
