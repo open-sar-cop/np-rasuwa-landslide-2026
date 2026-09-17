@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-17T23:12:00Z",
+  "snap": "2026-09-17T23:16:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1403, "missing": 6150, "rescued": 13742 }
   },
   "published": [
     {
-      "id": "osint-0917t2312",
+      "id": "osint-0917t2316",
       "src": "official",
-      "t": "2026-09-17T23:12:00Z",
+      "t": "2026-09-17T23:16:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/428",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "17日23:12UTC：仍无SitRep#16，中方无新伤亡公报",
-        "en": "17 Sep 23:12 UTC: still no SitRep #16; no new CN casualty bulletin",
-        "ne": "17 Sep 23:12 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
-        "hi": "17 Sep 23:12 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
+        "zh": "17日23:16UTC：仍无SitRep#16，中方无新伤亡公报",
+        "en": "17 Sep 23:16 UTC: still no SitRep #16; no new CN casualty bulletin",
+        "ne": "17 Sep 23:16 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
+        "hi": "17 Sep 23:16 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
       },
       "body": {
         "zh": "KPI仍用NDRRMA SitRep#15：1403死、6150失联、13742获救（16日19:00NPT）。中方截至9月5日18时43/519/2。媒体汇总不作KPI。勿把中尼数字相加。",
@@ -391,12 +391,42 @@
       "text": {
         "zh": "新华：国家气候中心向尼方滚动提供气候监测预报",
         "en": "Xinhua: CMA rolling climate products to Nepal for relief",
-        "ne": "XHNews: CMA ले नेपाललाई मौसम पूर्वानुमान",
-        "hi": "XHNews: CMA नेपाल को मौसम पूर्वानुमान"
+        "ne": "XHNews: CMA ले नेपाललाई मौसम उत्पादन",
+        "hi": "XHNews: CMA नेपाल को जलवायु उत्पाद"
       }
     },
     {
-      "id": "x-xh-0907-media",
+      "id": "x-xh-0909",
+      "user": "@XHNews",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华综述吉隆口岸搜救进展",
+        "en": "Xinhua recap of Gyirong Port SAR progress",
+        "ne": "ग्यिरोङ पोर्ट खोज प्रगति",
+        "hi": "ग्यिरोंग पोर्ट एसएआर प्रगति"
+      }
+    },
+    {
+      "id": "x-xh-0908",
+      "user": "@XHNews",
+      "t": "2026-09-08T04:59:52Z",
+      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华：吉隆链式泥石流与搜救进展",
+        "en": "Xinhua: chain mudslide and latest China SAR",
+        "ne": "श्रृंखला पहिरो र खोज",
+        "hi": "श्रृंखला मलबा और एसएआर"
+      }
+    },
+    {
+      "id": "x-xh-0907-visit",
       "user": "@XHNews",
       "t": "2026-09-07T22:45:19Z",
       "link": "https://x.com/XHNews/status/2097093887852691511",
@@ -404,25 +434,23 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：外媒团访吉隆口岸灾区",
-        "en": "Xinhua: foreign media visit Gyirong Port",
-        "ne": "XHNews: विदेशी मिडिया ग्यिरोङ पोर्ट",
-        "hi": "XHNews: विदेशी मीडिया ग्यिरोंग पोर्ट"
+        "zh": "外媒记者团访吉隆口岸灾区",
+        "en": "Foreign press visit to mudslide-hit Gyirong Port",
+        "ne": "विदेशी पत्रकार ग्यिरोङ भ्रमण",
+        "hi": "विदेशी पत्रकार ग्यिरोंग दौरा"
       }
     },
     {
-      "id": "x-xh-0906-kpi",
-      "user": "@XHNews",
-      "t": "2026-09-06T10:55:53Z",
-      "link": "https://x.com/XHNews/status/2096552965477941484",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
+      "id": "x-np-sitrep14",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-15T17:04:17Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2099907164357980461",
+      "geo": "unknown",
       "text": {
-        "zh": "新华：截至周六18时43死519失联",
-        "en": "Xinhua: as of Sat 18:00, 43 dead, 519 missing",
-        "ne": "XHNews: शनि 18:00 मा 43 मृत, 519 बेपत्ता",
-        "hi": "XHNews: शनि 18:00 पर 43 मृत, 519 लापता"
+        "zh": "SitRep #14（15日19:00）已发布",
+        "en": "SitRep #14 published (15 Sep 19:00)",
+        "ne": "स्थिति प्रतिवेदन #14 प्रकाशित",
+        "hi": "सिट्रेप #14 प्रकाशित"
       }
     }
   ]
