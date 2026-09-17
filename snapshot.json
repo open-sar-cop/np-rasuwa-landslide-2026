@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-17T19:13:00Z",
+  "snap": "2026-09-17T21:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1403, "missing": 6150, "rescued": 13742 }
   },
   "published": [
     {
-      "id": "osint-0917t1913",
+      "id": "osint-0917t2120",
       "src": "official",
-      "t": "2026-09-17T19:13:00Z",
+      "t": "2026-09-17T21:20:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2100267309168496853",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "17日19:13UTC：仍无SitRep#16，中方无新伤亡公报",
-        "en": "17 Sep 19:13 UTC: still no SitRep #16; no new CN casualty bulletin",
-        "ne": "17 Sep 19:13 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
-        "hi": "17 Sep 19:13 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
+        "zh": "17日21:20UTC：仍无SitRep#16，中方无新伤亡公报",
+        "en": "17 Sep 21:20 UTC: still no SitRep #16; no new CN casualty bulletin",
+        "ne": "17 Sep 21:20 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
+        "hi": "17 Sep 21:20 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
       },
       "body": {
         "zh": "KPI仍用NDRRMA SitRep#15：1403死、6150失联、13742获救（16日19:00NPT）。中方截至9月5日18时43/519/2。非官方聚合不作KPI。勿把中尼数字相加。",
@@ -393,12 +393,27 @@
       "text": {
         "zh": "新华：边检民警无人机影像记录吉隆口岸",
         "en": "Xinhua: immigration officer drone footage at Gyirong Port",
-        "ne": "सिन्हुवा: ग्यिरोङ पोर्ट ड्रोन फुटेज",
+        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज",
         "hi": "सिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज"
       }
     },
     {
-      "id": "x-xh-0902-g216",
+      "id": "x-xh-0904-road",
+      "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "G216",
+      "text": {
+        "zh": "新华：两小时推进不足5米，G216抢通极难",
+        "en": "Xinhua: less than 5 m in two hours reopening G216",
+        "ne": "सिन्ह्वा: दुई घण्टामा ५ मि भन्दा कम",
+        "hi": "सिन्हुआ: दो घंटे में 5 मी से कम"
+      }
+    },
+    {
+      "id": "x-xh-0902-open",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
       "link": "https://x.com/XHNews/status/2095037845782315284",
@@ -406,25 +421,38 @@
       "lng": 85.368,
       "geo": "G216",
       "text": {
-        "zh": "新华：G216通往口岸核心基本抢通",
-        "en": "Xinhua: G216 access to port core basically restored",
-        "ne": "सिन्हुवा: G216 कोर पहुँच लगभग खुल्यो",
-        "hi": "सिन्हुआ: G216 कोर पहुँच लगभग खुली"
+        "zh": "新华：2日10时口岸核心G216基本抢通",
+        "en": "Xinhua: G216 to port core basically restored 2 Sep 10:00",
+        "ne": "सिन्ह्वा: G216 कोर 2 सेप 10:00 लगभग खुल्यो",
+        "hi": "सिन्हुआ: G216 कोर 2 सित 10:00 लगभग खुला"
       }
     },
     {
-      "id": "x-xh-0830-miss",
+      "id": "x-xh-0830-ai",
       "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "t": "2026-08-30T14:25:09Z",
+      "link": "https://x.com/XHNews/status/2094068911415443557",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华：激光AI监测边坡落石风险",
+        "en": "Xinhua: laser AI monitors rockfall risk on slopes",
+        "ne": "सिन्ह्वा: लेजर एआईले ढुङ्गा खस्ने जोखिम निगरानी",
+        "hi": "सिन्हुआ: लेजर एआई चट्टान गिरने की निगरानी"
+      }
+    },
+    {
+      "id": "x-xh-0903-chars",
+      "user": "@XHNews",
+      "t": "2026-09-03T12:07:02Z",
+      "link": "https://x.com/XHNews/status/2095483707511734465",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：23国261名外籍失联（吉隆口岸）",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for",
-        "ne": "सिन्हुवा: 23 देशका 261 विदेशी बेपत्ता",
-        "hi": "सिन्हुआ: 23 देशों के 261 विदेशी लापता"
+        "zh": "新华：口岸旁山体“中国我爱你”字迹仍依稀可见",
+        "en": "Xinhua: mountainside characters still faintly visible at port",
+        "ne": "सिन्ह्वा: पहाडमा अक्षर अझै देखिन्छ",
+        "hi": "सिन्हुआ: पहाड़ पर अक्षर अभी दिखते हैं"
       }
     }
   ]
