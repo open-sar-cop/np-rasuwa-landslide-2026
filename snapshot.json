@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-18T02:20:00Z",
+  "snap": "2026-09-18T03:26:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1403, "missing": 6150, "rescued": 13742 }
   },
   "published": [
     {
-      "id": "osint-0918t0220",
+      "id": "osint-0918t0326",
       "src": "official",
-      "t": "2026-09-18T02:20:00Z",
+      "t": "2026-09-18T03:26:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/428",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "18日02:20UTC：仍无SitRep#16，中方无新伤亡公报",
-        "en": "18 Sep 02:20 UTC: still no SitRep #16; no new CN casualty bulletin",
-        "ne": "18 Sep 02:20 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
-        "hi": "18 Sep 02:20 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
+        "zh": "18日03:26UTC：仍无SitRep#16，中方无新伤亡公报",
+        "en": "18 Sep 03:26 UTC: still no SitRep #16; no new CN casualty bulletin",
+        "ne": "18 Sep 03:26 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
+        "hi": "18 Sep 03:26 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
       },
       "body": {
         "zh": "KPI仍用NDRRMA SitRep#15：1403死、6150失联、13742获救（16日19:00NPT）。中方截至9月5日18时43/519/2。媒体/警方汇总不作KPI。勿把中尼数字相加。",
@@ -385,19 +385,6 @@
       }
     },
     {
-      "id": "x-np-0915-g",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-15T16:11:03Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2099893771701981621",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA 15日19:00：1399死5179失联13742获救",
-        "en": "NDRRMA 15 Sep 19:00: 1,399 dead, 5,179 missing, 13,742 rescued",
-        "ne": "NDRRMA 1399/5179/13742",
-        "hi": "NDRRMA 1399/5179/13742"
-      }
-    },
-    {
       "id": "x-xh-0905-drone",
       "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
@@ -406,10 +393,10 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：边检民警肖富贵灾后无人机航拍吉隆口岸",
-        "en": "Xinhua: officer Xiao Fugui drone footage near Gyirong Port after slide",
-        "ne": "सिन्ह्वा: ग्यिरोङ पोर्ट ड्रोन फुटेज",
-        "hi": "सिन्हुआ: ग्यिरोंग पोर्ट ड्रोन फुटेज"
+        "zh": "新华：口岸边检民警无人机航拍8·26冲击现场",
+        "en": "Xinhua: immigration officer drone footage of 26 Aug strike at port",
+        "ne": "सिमाना प्रहरी ड्रोन फुटेज",
+        "hi": "सीमा पुलिस ड्रोन फुटेज"
       }
     },
     {
@@ -421,25 +408,10 @@
       "lng": 85.368,
       "geo": "G216",
       "text": {
-        "zh": "新华：G216通往口岸核心2日10时基本抢通",
+        "zh": "新华：2日10时G216通往口岸核心基本抢通",
         "en": "Xinhua: G216 to port core basically restored 2 Sep 10:00",
-        "ne": "G216 कोर लगभग खुल्यो 2 सेप 10:00",
-        "hi": "G216 कोर लगभग खुला 2 सित 10:00"
-      }
-    },
-    {
-      "id": "x-xh-0830-foreign",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：失联外籍261人、23国",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for",
-        "ne": "261 विदेशी, 23 देश बेपत्ता",
-        "hi": "261 विदेशी, 23 देश लापता"
+        "ne": "G216 कोर लगभग खुल्यो",
+        "hi": "G216 कोर लगभग खुला"
       }
     },
     {
@@ -451,10 +423,38 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华当时口径：16死546失联（已被9月5日43/519取代）",
-        "en": "Xinhua then: 16 dead, 546 missing (superseded by 5 Sep 43/519)",
-        "ne": "त्यतिबेला 16/546 (5 सेप 43/519 ले विस्थापित)",
-        "hi": "तब 16/546 (5 सित 43/519 से बदला)"
+        "zh": "新华早期：截至29日18时16死546失联（已被9月5日43/519取代）",
+        "en": "Xinhua early: 16 dead/546 missing as of 29 Aug 18:00 (superseded by 5 Sep 43/519)",
+        "ne": "पुरानो अंक 16/546; 5 सेप 43/519 ले प्रतिस्थापन",
+        "hi": "पुराना आँकड़ा 16/546; 5 सित 43/519 से प्रतिस्थापित"
+      }
+    },
+    {
+      "id": "x-xh-0830-foreign",
+      "user": "@XHNews",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华：失联外籍261人、23国",
+        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted for",
+        "ne": "261 विदेशी, 23 देश बेपत्ता",
+        "hi": "261 विदेशी, 23 देश लापता"
+      }
+    },
+    {
+      "id": "x-xh-0904-road",
+      "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "G216",
+      "text": {
+        "zh": "新华：G216抢通难点——急流、危坡、巨石",
+        "en": "Xinhua: G216 reopen obstacles — fast water, unstable slopes, boulders",
+        "ne": "G216 कठिनाइ: पानी, भिर, ढुङ्गा",
+        "hi": "G216 बाधा: तेज़ पानी, ढलान, पत्थर"
       }
     }
   ]
