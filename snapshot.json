@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-17T23:16:00Z",
+  "snap": "2026-09-18T00:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1403, "missing": 6150, "rescued": 13742 }
   },
   "published": [
     {
-      "id": "osint-0917t2316",
+      "id": "osint-0918t0005",
       "src": "official",
-      "t": "2026-09-17T23:16:00Z",
+      "t": "2026-09-18T00:05:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/428",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "17日23:16UTC：仍无SitRep#16，中方无新伤亡公报",
-        "en": "17 Sep 23:16 UTC: still no SitRep #16; no new CN casualty bulletin",
-        "ne": "17 Sep 23:16 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
-        "hi": "17 Sep 23:16 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
+        "zh": "18日00:05UTC：仍无SitRep#16，中方无新伤亡公报",
+        "en": "18 Sep 00:05 UTC: still no SitRep #16; no new CN casualty bulletin",
+        "ne": "18 Sep 00:05 UTC: SitRep #16 छैन; नयाँ CN बुलेटिन छैन",
+        "hi": "18 Sep 00:05 UTC: SitRep #16 नहीं; नया CN बुलेटिन नहीं"
       },
       "body": {
         "zh": "KPI仍用NDRRMA SitRep#15：1403死、6150失联、13742获救（16日19:00NPT）。中方截至9月5日18时43/519/2。媒体汇总不作KPI。勿把中尼数字相加。",
@@ -81,10 +81,10 @@
         "hi": "5 सित 18:00 तक चीन पक्ष 43 मृत, 519 लापता"
       },
       "body": {
-        "zh": "含23国261名外籍失联。热索村早期2人获救。17日无新中方伤亡公报。",
-        "en": "Includes 261 foreign missing from 23 countries. 2 early rescues at Resuo. No new CN casualty bulletin on 17 Sep.",
-        "ne": "23 देशका 261 विदेशी बेपत्ता। रेसुओमा 2 उद्धार। 17 सेप नयाँ CN बुलेटिन छैन।",
-        "hi": "23 देशों के 261 विदेशी लापता। रेसुओ में 2 बचाव। 17 सित नया CN बुलेटिन नहीं।"
+        "zh": "含23国261名外籍失联。热索村早期2人获救。18日无新中方伤亡公报。",
+        "en": "Includes 261 foreign missing from 23 countries. 2 early rescues at Resuo. No new CN casualty bulletin on 18 Sep.",
+        "ne": "23 देशका 261 विदेशी बेपत्ता। रेसुओमा 2 उद्धार। 18 सेप नयाँ CN बुलेटिन छैन।",
+        "hi": "23 देशों के 261 विदेशी लापता। रेसुओ में 2 बचाव। 18 सित नया CN बुलेटिन नहीं।"
       }
     },
     {
@@ -147,10 +147,10 @@
         "hi": "अमेरिकी दूतावास: रसुवागढी–टिमुरे–स्याफ्रुबेसी न जाएँ"
       },
       "body": {
-        "zh": "8月31日旅行警示Level 4该段。9月3日：Khalte路段仍断。17日未见新使馆道路通报。",
-        "en": "31 Aug Level-4 do-not-travel. 3 Sep: Khalte still closed. No new embassy road notice as of 17 Sep.",
-        "ne": "कोरिडर स्तर-4। खल्ते बन्द। 17 सेप नयाँ सूचना छैन।",
-        "hi": "कॉरिडोर स्तर-4। खल्ते बंद। 17 सित नई सूचना नहीं।"
+        "zh": "8月31日旅行警示Level 4该段。9月3日：Khalte路段仍断。18日未见新使馆道路通报。",
+        "en": "31 Aug Level-4 do-not-travel. 3 Sep: Khalte still closed. No new embassy road notice as of 18 Sep.",
+        "ne": "कोरिडर स्तर-4। खल्ते बन्द। 18 सेप नयाँ सूचना छैन।",
+        "hi": "कॉरिडोर स्तर-4। खल्ते बंद। 18 सित नई सूचना नहीं।"
       }
     },
     {
@@ -390,9 +390,9 @@
       "geo": "unknown",
       "text": {
         "zh": "新华：国家气候中心向尼方滚动提供气候监测预报",
-        "en": "Xinhua: CMA rolling climate products to Nepal for relief",
-        "ne": "XHNews: CMA ले नेपाललाई मौसम उत्पादन",
-        "hi": "XHNews: CMA नेपाल को जलवायु उत्पाद"
+        "en": "Xinhua: CMA rolling climate products for Nepal SAR",
+        "ne": "सिन्ह्वा: CMA जलवायु सहयोग",
+        "hi": "सिन्हुआ: CMA जलवायु सहयोग"
       }
     },
     {
@@ -405,24 +405,9 @@
       "geo": "Gyirong Port",
       "text": {
         "zh": "新华综述吉隆口岸搜救进展",
-        "en": "Xinhua recap of Gyirong Port SAR progress",
+        "en": "Xinhua wrap: Gyirong Port SAR progress",
         "ne": "ग्यिरोङ पोर्ट खोज प्रगति",
         "hi": "ग्यिरोंग पोर्ट एसएआर प्रगति"
-      }
-    },
-    {
-      "id": "x-xh-0908",
-      "user": "@XHNews",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：吉隆链式泥石流与搜救进展",
-        "en": "Xinhua: chain mudslide and latest China SAR",
-        "ne": "श्रृंखला पहिरो र खोज",
-        "hi": "श्रृंखला मलबा और एसएआर"
       }
     },
     {
@@ -434,23 +419,10 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "外媒记者团访吉隆口岸灾区",
-        "en": "Foreign press visit to mudslide-hit Gyirong Port",
+        "zh": "外媒记者探访吉隆口岸灾区",
+        "en": "Foreign press visit to Gyirong Port",
         "ne": "विदेशी पत्रकार ग्यिरोङ भ्रमण",
         "hi": "विदेशी पत्रकार ग्यिरोंग दौरा"
-      }
-    },
-    {
-      "id": "x-np-sitrep14",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-15T17:04:17Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2099907164357980461",
-      "geo": "unknown",
-      "text": {
-        "zh": "SitRep #14（15日19:00）已发布",
-        "en": "SitRep #14 published (15 Sep 19:00)",
-        "ne": "स्थिति प्रतिवेदन #14 प्रकाशित",
-        "hi": "सिट्रेप #14 प्रकाशित"
       }
     }
   ]
