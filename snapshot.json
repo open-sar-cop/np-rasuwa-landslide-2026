@@ -1,5 +1,5 @@
 {
-  "snap": "2026-09-19T03:40:00Z",
+  "snap": "2026-09-19T03:12:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1410, "missing": 6145, "rescued": 13756 }
@@ -129,10 +129,10 @@
         "hi": "US Embassy: Rasuwagadhi–Timure–Syafrubesi na jayen"
       },
       "body": {
-        "zh": "Level 4。19日UTC早晨无更新使馆道路通报。",
-        "en": "Level 4. No newer embassy road notice as of 19 Sep UTC.",
-        "ne": "Level 4. 19 Sep UTC naya suchana chain.",
-        "hi": "Level 4. 19 Sep UTC nai suchna nahi."
+        "zh": "Level 4。本次检索无更新使馆道路通报。",
+        "en": "Level 4. No newer embassy road notice this run.",
+        "ne": "Level 4. Yo run naya suchana chain.",
+        "hi": "Level 4. Is run nai suchna nahi."
       }
     },
     {
