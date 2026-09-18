@@ -1,5 +1,5 @@
 {
-  "snap": "2026-09-19T01:25:00Z",
+  "snap": "2026-09-19T02:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1410, "missing": 6145, "rescued": 13756 }
