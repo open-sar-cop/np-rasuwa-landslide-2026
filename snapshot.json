@@ -1,5 +1,5 @@
 {
-  "snap": "2026-09-19T04:30:00Z",
+  "snap": "2026-09-19T11:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1410, "missing": 6145, "rescued": 13756 }
@@ -41,8 +41,8 @@
         "hi": "NDRRMA SitRep #16 (17 Sep 19:00)"
       },
       "body": {
-        "zh": "1410死、6145失联、13756获救。本轮检索未见SitRep #17。勿与中方数字相加。",
-        "en": "1410 dead, 6145 missing, 13756 rescued. No SitRep #17 this run. Do not add CN.",
+        "zh": "1410死、6145失联、13756获救。19日晨检索未见SitRep #17。勿与中方数字相加。",
+        "en": "1410 dead, 6145 missing, 13756 rescued. No SitRep #17 as of 19 Sep morning. Do not add CN.",
         "ne": "1410/6145/13756. SitRep #17 chain. CN najodnu.",
         "hi": "1410/6145/13756. SitRep #17 nahi. CN na joden."
       }
