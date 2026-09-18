@@ -1,5 +1,5 @@
 {
-  "snap": "2026-09-19T03:12:00Z",
+  "snap": "2026-09-19T04:30:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1410, "missing": 6145, "rescued": 13756 }
@@ -9,7 +9,7 @@
       "id": "mem-0818-562",
       "src": "official",
       "t": "2026-09-18T05:39:00Z",
-      "link": "https://m.chinanews.com/wap/detail/chs/zw/10698880.shtml",
+      "link": "https://www.zaobao.com.sg/news/china/story20260918-9699028",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -41,10 +41,10 @@
         "hi": "NDRRMA SitRep #16 (17 Sep 19:00)"
       },
       "body": {
-        "zh": "1410死、6145失联、13756获救。18日无SitRep #17。勿与中方数字相加。",
-        "en": "1410 dead, 6145 missing, 13756 rescued. No SitRep #17 on 18 Sep. Do not add CN.",
-        "ne": "1410/6145/13756. 18 Sep SitRep #17 chain. CN najodnu.",
-        "hi": "1410/6145/13756. 18 Sep SitRep #17 nahi. CN na joden."
+        "zh": "1410死、6145失联、13756获救。本轮检索未见SitRep #17。勿与中方数字相加。",
+        "en": "1410 dead, 6145 missing, 13756 rescued. No SitRep #17 this run. Do not add CN.",
+        "ne": "1410/6145/13756. SitRep #17 chain. CN najodnu.",
+        "hi": "1410/6145/13756. SitRep #17 nahi. CN na joden."
       }
     },
     {
@@ -117,7 +117,7 @@
       "id": "usemb-0903",
       "src": "official",
       "t": "2026-09-03T11:45:00Z",
-      "link": "https://np.usembassy.gov/travel-advisory-nepal-august-2026/",
+      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-flood-and-landslide-risk-and-road-disruptions/",
       "img": null,
       "lat": 28.248,
       "lng": 85.356,
@@ -129,7 +129,7 @@
         "hi": "US Embassy: Rasuwagadhi–Timure–Syafrubesi na jayen"
       },
       "body": {
-        "zh": "Level 4。本次检索无更新使馆道路通报。",
+        "zh": "Level 4。本轮未见更新使馆道路通报。",
         "en": "Level 4. No newer embassy road notice this run.",
         "ne": "Level 4. Yo run naya suchana chain.",
         "hi": "Level 4. Is run nai suchna nahi."
@@ -200,23 +200,25 @@
       }
     },
     {
-      "id": "ani-0918",
+      "id": "chinadaily-0918",
       "src": "official",
-      "t": "2026-09-18T00:00:00Z",
-      "link": "https://www.tribuneindia.com/news/world/nepal-flash-flood-death-toll-climbs-to-1410-6145-still-missing-as-rescue-and-relief-operations-continue/",
+      "t": "2026-09-18T13:48:00Z",
+      "link": "https://www.chinadaily.com.cn/china/special_coverage/6a8ee47fe4b06d4aa055a9a5",
       "img": null,
-      "geo": "unknown",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "title": {
-        "zh": "媒体转述NDRRMA：死亡已升至1410",
-        "en": "Media citing NDRRMA: death toll 1410",
-        "ne": "NDRRMA uddharan: 1410 mrityu",
-        "hi": "NDRRMA haval: 1410 mrityu"
+        "zh": "中国日报：吉隆泥石流为8月全国最致命灾情",
+        "en": "China Daily: Gyirong mudslide most lethal Aug disaster",
+        "ne": "China Daily: Gyirong August ko sabai bhanda maranak",
+        "hi": "China Daily: Gyirong August ki sabse ghatak"
       },
       "body": {
-        "zh": "Tribune/ANI 18日：1410死、6145失联、13756获救。以SitRep#16为准。",
-        "en": "Tribune/ANI 18 Sep cites 1410/6145/13756. SitRep#16 remains source of record.",
-        "ne": "1410/6145/13756. SitRep#16 praman.",
-        "hi": "1410/6145/13756. SitRep#16 praman."
+        "zh": "转述应急部8月合计562死亡失踪。分项仍以9月5日指挥部为准。",
+        "en": "Cites MEM Aug combined 562. Split remains 5 Sep command figures.",
+        "ne": "MEM 562 jog. Split 5 Sep command.",
+        "hi": "MEM 562 yog. Split 5 Sep command."
       }
     }
   ],
@@ -348,16 +350,63 @@
   },
   "xPosts": [
     {
-      "id": "x-np-0918",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-18T08:07:42Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2100859295877484842",
-      "geo": "unknown",
+      "id": "x-xh-0905-drone",
+      "user": "@XHNews",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "NDRRMA 18日无新SitRep，仅互动回复",
-        "en": "NDRRMA 18 Sep: no new SitRep, reply only",
-        "ne": "18 Sep naya SitRep chain",
-        "hi": "18 Sep naya SitRep nahi"
+        "zh": "新华：口岸核心区无人机航拍",
+        "en": "Xinhua: drone footage near Gyirong Port core",
+        "ne": "Xinhua: Gyirong Port drone",
+        "hi": "Xinhua: Gyirong Port drone"
+      }
+    },
+    {
+      "id": "x-xh-0902-g216",
+      "user": "@XHNews",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "G216",
+      "text": {
+        "zh": "新华：2日10时G216通往口岸核心基本抢通",
+        "en": "Xinhua: G216 to port core basically restored 2 Sep 10:00",
+        "ne": "Xinhua: G216 core 2 Sep 10:00 khulyo",
+        "hi": "Xinhua: G216 core 2 Sep 10:00 khula"
+      }
+    },
+    {
+      "id": "x-xh-0906-kpi",
+      "user": "@XHNews",
+      "t": "2026-09-06T14:41:30Z",
+      "link": "https://x.com/XHNews/status/2096609742487691562",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华：截至5日18时43死519失联，外籍261人23国",
+        "en": "Xinhua: as of 5 Sep 18:00, 43 dead 519 missing; 261 foreign/23 countries",
+        "ne": "Xinhua: 43/519; 261 foreign, 23 desh",
+        "hi": "Xinhua: 43/519; 261 videshi, 23 desh"
+      }
+    },
+    {
+      "id": "x-xh-0830-foreign",
+      "user": "@XHNews",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华：外籍失联261人、23国",
+        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted",
+        "ne": "Xinhua: 261 foreign, 23 desh",
+        "hi": "Xinhua: 261 videshi, 23 desh"
       }
     },
     {
@@ -387,74 +436,29 @@
       }
     },
     {
+      "id": "x-np-0918",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-18T08:07:42Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2100859295877484842",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA 18日无新SitRep，仅互动回复",
+        "en": "NDRRMA 18 Sep: no new SitRep, reply only",
+        "ne": "18 Sep naya SitRep chain",
+        "hi": "18 Sep naya SitRep nahi"
+      }
+    },
+    {
       "id": "x-un-0918",
       "user": "@UN_Nepal",
       "t": "2026-09-18T09:52:01Z",
       "link": "https://x.com/UN_Nepal/status/2100885548256895226",
       "geo": "unknown",
       "text": {
-        "zh": "UN Nepal转SitRep#8：1399死、五千余失联",
-        "en": "UN Nepal cites SitRep#8: 1399 dead, 5k+ missing",
-        "ne": "UN Nepal SitRep#8: 1399/5k+",
-        "hi": "UN Nepal SitRep#8: 1399/5k+"
-      }
-    },
-    {
-      "id": "x-xh-0910-cma",
-      "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华：国家气候中心向尼方滚动提供监测预报",
-        "en": "Xinhua: CMA rolling climate products to Nepal for relief",
-        "ne": "Xinhua: CMA Nepal lai mausam sahayog",
-        "hi": "Xinhua: CMA Nepal ko mausam sahyog"
-      }
-    },
-    {
-      "id": "x-xh-0906-kpi",
-      "user": "@XHNews",
-      "t": "2026-09-06T14:41:30Z",
-      "link": "https://x.com/XHNews/status/2096609742487691562",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：截至5日18时43死519失联，外籍261人23国",
-        "en": "Xinhua: as of 5 Sep 18:00, 43 dead 519 missing; 261 foreign/23 countries",
-        "ne": "Xinhua: 43/519; 261 foreign, 23 desh",
-        "hi": "Xinhua: 43/519; 261 videshi, 23 desh"
-      }
-    },
-    {
-      "id": "x-xh-0902-g216",
-      "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "G216",
-      "text": {
-        "zh": "新华：2日10时G216通往口岸核心基本抢通",
-        "en": "Xinhua: G216 to port core basically restored 2 Sep 10:00",
-        "ne": "Xinhua: G216 core 2 Sep 10:00 khulyo",
-        "hi": "Xinhua: G216 core 2 Sep 10:00 khula"
-      }
-    },
-    {
-      "id": "x-xh-0830-foreign",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：外籍失联261人、23国",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted",
-        "ne": "Xinhua: 261 foreign, 23 desh",
-        "hi": "Xinhua: 261 videshi, 23 desh"
+        "zh": "UN Nepal转较早SitRep数字，以SitRep#16为准",
+        "en": "UN Nepal cites older SitRep; SitRep#16 is source of record",
+        "ne": "UN Nepal purano ank; SitRep#16 praman",
+        "hi": "UN Nepal purana ank; SitRep#16 praman"
       }
     }
   ]
