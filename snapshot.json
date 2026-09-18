@@ -1,10 +1,32 @@
 {
-  "snap": "2026-09-19T11:20:00Z",
+  "snap": "2026-09-19T13:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1410, "missing": 6145, "rescued": 13756 }
   },
   "published": [
+    {
+      "id": "run-0919-am",
+      "src": "official",
+      "t": "2026-09-19T13:00:00Z",
+      "link": "https://www.zaobao.com.sg/news/china/story20260918-9699028",
+      "img": null,
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "title": {
+        "zh": "19日晨复检：中方分项未更新，尼方无SitRep#17",
+        "en": "19 Sep AM recheck: no new CN split; no NDRRMA SitRep #17",
+        "ne": "19 Sep bihan: CN split chain; SitRep #17 chain",
+        "hi": "19 Sep subah: CN split nahi; SitRep #17 nahi"
+      },
+      "body": {
+        "zh": "应急部8月合计562死亡失踪仍在核查。KPI维持指挥部9月5日18时43/519/2与NDRRMA SitRep#16的1410/6145/13756。",
+        "en": "MEM Aug combined 562 still under verification. KPI remains 5 Sep 18:00 CN 43/519/2 and SitRep#16 NP 1410/6145/13756.",
+        "ne": "MEM 562 jaanch. KPI CN 43/519/2; NP SitRep#16 1410/6145/13756.",
+        "hi": "MEM 562 jaanch. KPI CN 43/519/2; NP SitRep#16 1410/6145/13756."
+      }
+    },
     {
       "id": "mem-0818-562",
       "src": "official",
@@ -21,10 +43,10 @@
         "hi": "MEM: Gyirong 562 dead+missing (yog)"
       },
       "body": {
-        "zh": "正在进一步核查。未拆分死/失联。KPI仍用指挥部9月5日18时：43死519失联2获救。勿把562当新增。",
-        "en": "Still under verification. No split. KPI remains command 5 Sep 18:00: 43/519/2. Do not treat 562 as new split.",
-        "ne": "Jaanch jari. Split chain. KPI 43/519/2. 562 naya hoina.",
-        "hi": "Jaanch jari. Split nahi. KPI 43/519/2. 562 naya nahi."
+        "zh": "正在进一步核查。未拆分死/失联。勿把562当新增分项。",
+        "en": "Still under verification. No split. Do not treat 562 as a new split.",
+        "ne": "Jaanch jari. Split chain. 562 naya hoina.",
+        "hi": "Jaanch jari. Split nahi. 562 naya nahi."
       }
     },
     {
@@ -41,7 +63,7 @@
         "hi": "NDRRMA SitRep #16 (17 Sep 19:00)"
       },
       "body": {
-        "zh": "1410死、6145失联、13756获救。19日晨检索未见SitRep #17。勿与中方数字相加。",
+        "zh": "1410死、6145失联、13756获救。19日晨未见SitRep #17。勿与中方数字相加。",
         "en": "1410 dead, 6145 missing, 13756 rescued. No SitRep #17 as of 19 Sep morning. Do not add CN.",
         "ne": "1410/6145/13756. SitRep #17 chain. CN najodnu.",
         "hi": "1410/6145/13756. SitRep #17 nahi. CN na joden."
@@ -198,28 +220,6 @@
         "ne": "444 farkie; 55 tayari. Gate band.",
         "hi": "444 laute; 55 taiyar. Gate band."
       }
-    },
-    {
-      "id": "chinadaily-0918",
-      "src": "official",
-      "t": "2026-09-18T13:48:00Z",
-      "link": "https://www.chinadaily.com.cn/china/special_coverage/6a8ee47fe4b06d4aa055a9a5",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "title": {
-        "zh": "中国日报：吉隆泥石流为8月全国最致命灾情",
-        "en": "China Daily: Gyirong mudslide most lethal Aug disaster",
-        "ne": "China Daily: Gyirong August ko sabai bhanda maranak",
-        "hi": "China Daily: Gyirong August ki sabse ghatak"
-      },
-      "body": {
-        "zh": "转述应急部8月合计562死亡失踪。分项仍以9月5日指挥部为准。",
-        "en": "Cites MEM Aug combined 562. Split remains 5 Sep command figures.",
-        "ne": "MEM 562 jog. Split 5 Sep command.",
-        "hi": "MEM 562 yog. Split 5 Sep command."
-      }
     }
   ],
   "roads": [
@@ -350,6 +350,34 @@
   },
   "xPosts": [
     {
+      "id": "x-xh-0910-cma",
+      "user": "@XHNews",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华：国家气候中心向尼泊尔滚动提供气候监测预报",
+        "en": "Xinhua: CMA providing rolling climate products to Nepal",
+        "ne": "Xinhua: CMA Nepal lai jalbayu anuman",
+        "hi": "Xinhua: CMA Nepal ko jalvayu anuman"
+      }
+    },
+    {
+      "id": "x-cctv-0910",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "Gyirong town",
+      "text": {
+        "zh": "CGTN+：部分尼泊尔工人仍在吉隆镇作业盼恢复",
+        "en": "CCTV+: some Nepali workers remain in Gyirong Town",
+        "ne": "CCTV+: kehi Nepali kamdar Gyirong Town",
+        "hi": "CCTV+: kuchh Nepali shramik Gyirong Town"
+      }
+    },
+    {
       "id": "x-xh-0905-drone",
       "user": "@XHNews",
       "t": "2026-09-05T08:55:03Z",
@@ -395,18 +423,18 @@
       }
     },
     {
-      "id": "x-xh-0830-foreign",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "id": "x-cctv-0907-kpi",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-07T02:35:18Z",
+      "link": "https://x.com/CCTV_Plus/status/2096789374872801595",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：外籍失联261人、23国",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted",
-        "ne": "Xinhua: 261 foreign, 23 desh",
-        "hi": "Xinhua: 261 videshi, 23 desh"
+        "zh": "CCTV+：截至5日18时43死519失联",
+        "en": "CCTV+: as of 5 Sep 18:00, 43 dead, 519 missing",
+        "ne": "CCTV+: 5 Sep 18:00 43/519",
+        "hi": "CCTV+: 5 Sep 18:00 43/519"
       }
     },
     {
@@ -433,32 +461,6 @@
         "en": "NDRRMA 17 Sep 19:00: 1410 dead, 6145 missing, 13756 rescued",
         "ne": "NDRRMA 1410/6145/13756",
         "hi": "NDRRMA 1410/6145/13756"
-      }
-    },
-    {
-      "id": "x-np-0918",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-18T08:07:42Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2100859295877484842",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA 18日无新SitRep，仅互动回复",
-        "en": "NDRRMA 18 Sep: no new SitRep, reply only",
-        "ne": "18 Sep naya SitRep chain",
-        "hi": "18 Sep naya SitRep nahi"
-      }
-    },
-    {
-      "id": "x-un-0918",
-      "user": "@UN_Nepal",
-      "t": "2026-09-18T09:52:01Z",
-      "link": "https://x.com/UN_Nepal/status/2100885548256895226",
-      "geo": "unknown",
-      "text": {
-        "zh": "UN Nepal转较早SitRep数字，以SitRep#16为准",
-        "en": "UN Nepal cites older SitRep; SitRep#16 is source of record",
-        "ne": "UN Nepal purano ank; SitRep#16 praman",
-        "hi": "UN Nepal purana ank; SitRep#16 praman"
       }
     }
   ]
