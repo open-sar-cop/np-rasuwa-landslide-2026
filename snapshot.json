@@ -1,24 +1,24 @@
 {
-  "snap": "2026-09-19T16:12:00Z",
+  "snap": "2026-09-19T17:04:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1410, "missing": 6145, "rescued": 13756 }
   },
   "published": [
     {
-      "id": "run-0919-1612",
+      "id": "run-0919-1704",
       "src": "official",
-      "t": "2026-09-19T16:12:00Z",
+      "t": "2026-09-19T17:04:00Z",
       "link": "https://m.chinanews.com/wap/detail/chs/zw/10698880.shtml",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "19日16:12复检：无新分项KPI",
-        "en": "19 Sep 16:12 recheck: no new split KPI",
-        "ne": "19 Sep 16:12: naya split chain",
-        "hi": "19 Sep 16:12: naya split nahi"
+        "zh": "19日17:04复检：无新分项KPI",
+        "en": "19 Sep 17:04 recheck: no new split KPI",
+        "ne": "19 Sep 17:04: naya split chain",
+        "hi": "19 Sep 17:04: naya split nahi"
       },
       "body": {
         "zh": "应急部8月会商仍报吉隆口岸562死亡失踪合计、正在核查。KPI维持指挥部9月5日18时43/519/2与NDRRMA SitRep#16 1410/6145/13756。未见SitRep#17，未见美使馆新道路通报。国门关闭，堰塞湖已排空。",
