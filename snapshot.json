@@ -1,30 +1,50 @@
 {
-  "snap": "2026-09-19T14:12:00Z",
+  "snap": "2026-09-19T15:16:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1410, "missing": 6145, "rescued": 13756 }
   },
   "published": [
     {
-      "id": "run-0919-1412",
+      "id": "run-0919-1516",
       "src": "official",
-      "t": "2026-09-19T14:12:00Z",
-      "link": "https://www.zaobao.com.sg/news/china/story20260918-9699028",
+      "t": "2026-09-19T15:16:00Z",
+      "link": "https://www.chinanews.com/gn/2026/09-18/10698880.shtml",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "19日午复检：中方分项仍为9月5日；未见SitRep#17",
-        "en": "19 Sep midday recheck: CN split still 5 Sep; no SitRep #17",
-        "ne": "19 Sep madhyanha: CN split 5 Sep; SitRep #17 chain",
-        "hi": "19 Sep dopahar: CN split 5 Sep; SitRep #17 nahi"
+        "zh": "19日复检：无新分项；应急部仍报562合计",
+        "en": "19 Sep recheck: no new split; MEM still 562 combined",
+        "ne": "19 Sep: naya split chain; MEM 562 jog",
+        "hi": "19 Sep: naya split nahi; MEM 562 yog"
       },
       "body": {
-        "zh": "应急部8月合计562死亡失踪仍核查未拆分。KPI维持指挥部9月5日18时43/519/2与NDRRMA SitRep#16（17日19:00NPT）1410/6145/13756。",
-        "en": "MEM Aug combined 562 still unverified/unsplit. KPI remains HQ 5 Sep 18:00 CN 43/519/2 and SitRep#16 NP 1410/6145/13756.",
-        "ne": "MEM 562 jaanch, split chain. KPI CN 43/519/2; NP SitRep#16 1410/6145/13756.",
-        "hi": "MEM 562 jaanch, split nahi. KPI CN 43/519/2; NP SitRep#16 1410/6145/13756."
+        "zh": "中新社转应急部8月会商：吉隆口岸562死亡失踪仍核查。KPI维持指挥部9月5日18时43/519/2与NDRRMA SitRep#16 1410/6145/13756。新华18日：中方隧道专家物资交接。未见SitRep#17。",
+        "en": "MEM Aug consult via CNS: Gyirong 562 dead+missing still verifying. KPI remains HQ 5 Sep 18:00 43/519/2 and SitRep#16 1410/6145/13756. Xinhua 18 Sep: CN tunnel experts handed over kit. No SitRep #17.",
+        "ne": "MEM 562 jaanch. KPI CN 43/519/2; NP 1410/6145/13756. Tunnel expert saman. SitRep#17 chain.",
+        "hi": "MEM 562 jaanch. KPI CN 43/519/2; NP 1410/6145/13756. Tunnel expert saman. SitRep#17 nahi."
+      }
+    },
+    {
+      "id": "xinhua-tunnel-0918",
+      "src": "official",
+      "t": "2026-09-18T14:05:00Z",
+      "link": "https://www.163.com/dy/article/L751NUBJ05346RC6.html",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "新华：尼方肯定中方隧道救援专家",
+        "en": "Xinhua: Nepal commends Chinese tunnel SAR experts",
+        "ne": "Xinhua: Nepal le Chin tunnel visheshagya prashansa",
+        "hi": "Xinhua: Nepal ne Chin tunnel visheshagya prashansa"
+      },
+      "body": {
+        "zh": "应尼方请求8月29-30日派出9名专家；18日签署援尼隧道救援物资交接。",
+        "en": "9 experts deployed 29-30 Aug at Nepal request; kit handover signed 18 Sep.",
+        "ne": "9 visheshagya 29-30 Aug; saman 18 Sep.",
+        "hi": "9 visheshagya 29-30 Aug; saman 18 Sep."
       }
     },
     {
@@ -363,18 +383,18 @@
       }
     },
     {
-      "id": "x-cctv-0910",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-10T09:15:50Z",
-      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "Gyirong town",
+      "id": "x-xh-0909-brief",
+      "user": "@XHNews",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "CGTN+：部分尼泊尔工人仍在吉隆镇作业盼恢复",
-        "en": "CCTV+: some Nepali workers remain in Gyirong Town",
-        "ne": "CCTV+: kehi Nepali kamdar Gyirong Town",
-        "hi": "CCTV+: kuchh Nepali shramik Gyirong Town"
+        "zh": "新华：吉隆口岸搜救进展综述",
+        "en": "Xinhua: Gyirong Port SAR progress briefing",
+        "ne": "Xinhua: Gyirong Port SAR prgati",
+        "hi": "Xinhua: Gyirong Port SAR pragati"
       }
     },
     {
