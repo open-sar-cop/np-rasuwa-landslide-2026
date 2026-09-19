@@ -1,30 +1,30 @@
 {
-  "snap": "2026-09-19T15:16:00Z",
+  "snap": "2026-09-19T16:12:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1410, "missing": 6145, "rescued": 13756 }
   },
   "published": [
     {
-      "id": "run-0919-1516",
+      "id": "run-0919-1612",
       "src": "official",
-      "t": "2026-09-19T15:16:00Z",
-      "link": "https://www.chinanews.com/gn/2026/09-18/10698880.shtml",
+      "t": "2026-09-19T16:12:00Z",
+      "link": "https://m.chinanews.com/wap/detail/chs/zw/10698880.shtml",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "19日复检：无新分项；应急部仍报562合计",
-        "en": "19 Sep recheck: no new split; MEM still 562 combined",
-        "ne": "19 Sep: naya split chain; MEM 562 jog",
-        "hi": "19 Sep: naya split nahi; MEM 562 yog"
+        "zh": "19日16:12复检：无新分项KPI",
+        "en": "19 Sep 16:12 recheck: no new split KPI",
+        "ne": "19 Sep 16:12: naya split chain",
+        "hi": "19 Sep 16:12: naya split nahi"
       },
       "body": {
-        "zh": "中新社转应急部8月会商：吉隆口岸562死亡失踪仍核查。KPI维持指挥部9月5日18时43/519/2与NDRRMA SitRep#16 1410/6145/13756。新华18日：中方隧道专家物资交接。未见SitRep#17。",
-        "en": "MEM Aug consult via CNS: Gyirong 562 dead+missing still verifying. KPI remains HQ 5 Sep 18:00 43/519/2 and SitRep#16 1410/6145/13756. Xinhua 18 Sep: CN tunnel experts handed over kit. No SitRep #17.",
-        "ne": "MEM 562 jaanch. KPI CN 43/519/2; NP 1410/6145/13756. Tunnel expert saman. SitRep#17 chain.",
-        "hi": "MEM 562 jaanch. KPI CN 43/519/2; NP 1410/6145/13756. Tunnel expert saman. SitRep#17 nahi."
+        "zh": "应急部8月会商仍报吉隆口岸562死亡失踪合计、正在核查。KPI维持指挥部9月5日18时43/519/2与NDRRMA SitRep#16 1410/6145/13756。未见SitRep#17，未见美使馆新道路通报。国门关闭，堰塞湖已排空。",
+        "en": "MEM Aug consult still 562 dead+missing combined, verifying. KPI remains HQ 5 Sep 18:00 43/519/2 and SitRep#16 1410/6145/13756. No SitRep#17. No newer US Embassy road notice. Gate closed; lake drained.",
+        "ne": "MEM 562 jaanch. KPI CN 43/519/2; NP 1410/6145/13756. SitRep#17 chain. Gate band; tal khali.",
+        "hi": "MEM 562 jaanch. KPI CN 43/519/2; NP 1410/6145/13756. SitRep#17 nahi. Gate band; jheel khali."
       }
     },
     {
