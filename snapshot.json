@@ -1,30 +1,30 @@
 {
-  "snap": "2026-09-19T13:05:00Z",
+  "snap": "2026-09-19T14:12:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1410, "missing": 6145, "rescued": 13756 }
   },
   "published": [
     {
-      "id": "run-0919-am",
+      "id": "run-0919-1412",
       "src": "official",
-      "t": "2026-09-19T13:00:00Z",
+      "t": "2026-09-19T14:12:00Z",
       "link": "https://www.zaobao.com.sg/news/china/story20260918-9699028",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "19日晨复检：中方分项未更新，尼方无SitRep#17",
-        "en": "19 Sep AM recheck: no new CN split; no NDRRMA SitRep #17",
-        "ne": "19 Sep bihan: CN split chain; SitRep #17 chain",
-        "hi": "19 Sep subah: CN split nahi; SitRep #17 nahi"
+        "zh": "19日午复检：中方分项仍为9月5日；未见SitRep#17",
+        "en": "19 Sep midday recheck: CN split still 5 Sep; no SitRep #17",
+        "ne": "19 Sep madhyanha: CN split 5 Sep; SitRep #17 chain",
+        "hi": "19 Sep dopahar: CN split 5 Sep; SitRep #17 nahi"
       },
       "body": {
-        "zh": "应急部8月合计562死亡失踪仍在核查。KPI维持指挥部9月5日18时43/519/2与NDRRMA SitRep#16的1410/6145/13756。",
-        "en": "MEM Aug combined 562 still under verification. KPI remains 5 Sep 18:00 CN 43/519/2 and SitRep#16 NP 1410/6145/13756.",
-        "ne": "MEM 562 jaanch. KPI CN 43/519/2; NP SitRep#16 1410/6145/13756.",
-        "hi": "MEM 562 jaanch. KPI CN 43/519/2; NP SitRep#16 1410/6145/13756."
+        "zh": "应急部8月合计562死亡失踪仍核查未拆分。KPI维持指挥部9月5日18时43/519/2与NDRRMA SitRep#16（17日19:00NPT）1410/6145/13756。",
+        "en": "MEM Aug combined 562 still unverified/unsplit. KPI remains HQ 5 Sep 18:00 CN 43/519/2 and SitRep#16 NP 1410/6145/13756.",
+        "ne": "MEM 562 jaanch, split chain. KPI CN 43/519/2; NP SitRep#16 1410/6145/13756.",
+        "hi": "MEM 562 jaanch, split nahi. KPI CN 43/519/2; NP SitRep#16 1410/6145/13756."
       }
     },
     {
@@ -63,8 +63,8 @@
         "hi": "NDRRMA SitRep #16 (17 Sep 19:00)"
       },
       "body": {
-        "zh": "1410死、6145失联、13756获救。19日晨未见SitRep #17。勿与中方数字相加。",
-        "en": "1410 dead, 6145 missing, 13756 rescued. No SitRep #17 as of 19 Sep morning. Do not add CN.",
+        "zh": "1410死、6145失联、13756获救。19日未见SitRep #17。勿与中方数字相加。",
+        "en": "1410 dead, 6145 missing, 13756 rescued. No SitRep #17 as of 19 Sep. Do not add CN.",
         "ne": "1410/6145/13756. SitRep #17 chain. CN najodnu.",
         "hi": "1410/6145/13756. SitRep #17 nahi. CN na joden."
       }
