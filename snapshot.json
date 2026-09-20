@@ -1,28 +1,48 @@
 {
-  "snap": "2026-09-20T23:05:00Z",
+  "snap": "2026-09-20T23:08:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1411, "missing": 5875, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0920-2305",
+      "id": "refresh-0920-2308",
       "src": "official",
-      "t": "2026-09-20T23:05:00Z",
+      "t": "2026-09-20T23:08:00Z",
       "link": "https://github.com/open-sar-cop/np-rasuwa-landslide-2026",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "20日23:05Z检索：无更新官方分项",
-        "en": "20 Sep 23:05Z search: no newer official splits",
-        "ne": "20 Sep 23:05Z: naya official split chain",
-        "hi": "20 Sep 23:05Z: naya official split nahi"
+        "zh": "20日23:08Z检索：中方无新分项",
+        "en": "20 Sep 23:08Z: no newer CN split",
+        "ne": "20 Sep 23:08Z: CN naya split chain",
+        "hi": "20 Sep 23:08Z: CN naya split nahi"
       },
       "body": {
-        "zh": "中方仍用9月5日18时分项43/519/2；应急部562为合计待核。尼方最新官方图为19日19:00NPT 1411/5875/13784。媒体/志愿者数字未采用。",
-        "en": "CN split still 5 Sep 18:00 43/519/2; MEM 562 combined under review. Latest NP official graphic 19 Sep 19:00 NPT 1411/5875/13784. Media/volunteer figures not used.",
-        "ne": "CN 5 Sep 18:00 43/519/2; MEM 562 jog. NP graphic 19 Sep 19:00 1411/5875/13784. Media/volunteer nai.",
-        "hi": "CN 5 Sep 18:00 43/519/2; MEM 562 yog. NP graphic 19 Sep 19:00. Media/volunteer nahi."
+        "zh": "中方KPI仍9月5日18时43/519/2。应急部562为合计待核。尼方KPI仍用NDRRMA 19日19:00NPT图1411/5875/13784。尼警媒体引述20日11:00NPT遗体1436未改KPI。",
+        "en": "CN KPI still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP KPI remains NDRRMA 19 Sep 19:00 NPT 1411/5875/13784. Police 1436 bodies (media, 20 Sep 11:00 NPT) not used for KPI.",
+        "ne": "CN 5 Sep 18:00 43/519/2. MEM 562 jog. NP NDRRMA 1411/5875/13784. Police 1436 KPI hoina.",
+        "hi": "CN 5 Sep 18:00 43/519/2. MEM 562 yog. NP NDRRMA 1411/5875/13784. Police 1436 KPI nahi."
+      }
+    },
+    {
+      "id": "np-police-1436",
+      "src": "official",
+      "t": "2026-09-20T05:15:00Z",
+      "link": "https://myrepublica.nagariknetwork.com/news/1436-bodies-recovered-so-far-since-rasuwa-floods-17-90.html",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "尼警（媒体引述）20日11:00NPT：已发现遗体1436具",
+        "en": "Nepal Police via media 20 Sep 11:00 NPT: 1436 bodies recovered",
+        "ne": "Nepal Police 20 Sep 11:00: 1436 lash",
+        "hi": "Nepal Police 20 Sep 11:00: 1436 shav"
+      },
+      "body": {
+        "zh": "拉苏瓦223、努瓦科特203、达丁72、奇旺365等。失踪4655为警方案。KPI仍用NDRRMA 1411/5875以免混口径。",
+        "en": "Rasuwa 223, Nuwakot 203, Dhading 72, Chitwan 365. Police missing 4655. KPI kept on NDRRMA 1411/5875 to avoid mixing definitions.",
+        "ne": "Rasuwa 223, Nuwakot 203. Police missing 4655. KPI NDRRMA nai.",
+        "hi": "Rasuwa 223, Nuwakot 203. Police missing 4655. KPI NDRRMA hi."
       }
     },
     {
@@ -33,16 +53,16 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "NDRRMA SitRep #29（19日19:00NPT）已链接",
-        "en": "NDRRMA SitRep #29 linked (19 Sep 19:00 NPT)",
-        "ne": "SitRep #29 (19 Sep 19:00) link",
-        "hi": "SitRep #29 (19 Sep 19:00) link"
+        "zh": "NDRRMA SitRep #29（19日19:00NPT）",
+        "en": "NDRRMA SitRep #29 (19 Sep 19:00 NPT)",
+        "ne": "SitRep #29 (19 Sep 19:00)",
+        "hi": "SitRep #29 (19 Sep 19:00)"
       },
       "body": {
-        "zh": "官方X于19日16:25Z发布#29链接。20日检索无更新分项；KPI仍用同日图1411/5875/13784。",
-        "en": "Official X posted #29 link 19 Sep 16:25Z. No newer split 20 Sep; KPI remains same-day graphic 1411/5875/13784.",
-        "ne": "X ma #29 link 19 Sep 16:25Z. 20 Sep naya split chain; KPI graphic nai.",
-        "hi": "X par #29 link 19 Sep 16:25Z. 20 Sep naya split nahi; KPI graphic hi."
+        "zh": "官方X于19日16:25Z发布#29。KPI用同日图1411/5875/13784。",
+        "en": "Official X posted #29 19 Sep 16:25Z. KPI from same-day graphic 1411/5875/13784.",
+        "ne": "X ma #29. KPI graphic 1411/5875/13784.",
+        "hi": "X par #29. KPI graphic 1411/5875/13784."
       }
     },
     {
@@ -59,30 +79,10 @@
         "hi": "NDRRMA 19 Sep 19:00: 1411/5875/13784"
       },
       "body": {
-        "zh": "官方图示：遗体含残肢；失踪已扣已识别遗体110具。勿与中方数字相加。国门仍关。",
-        "en": "Official graphic; remains include unidentified parts; missing after deducting 110 IDed bodies. Do not add CN. Gate closed.",
-        "ne": "Official graphic; 110 IDed bodies katyo. CN najodnu. Gate band.",
-        "hi": "Official graphic; 110 IDed bodies kate. CN na joden. Gate band."
-      }
-    },
-    {
-      "id": "ifrc-0919",
-      "src": "official",
-      "t": "2026-09-19T12:00:00Z",
-      "link": "https://go.ifrc.org/emergencies/8073/overview",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "IFRC GO 19日更新：1411死、5875失踪",
-        "en": "IFRC GO 19 Sep update: 1411 dead, 5875 missing",
-        "ne": "IFRC GO 19 Sep: 1411/5875",
-        "hi": "IFRC GO 19 Sep: 1411/5875"
-      },
-      "body": {
-        "zh": "IFRC关键数字与NDRRMA 19日图一致。",
-        "en": "IFRC key figures match NDRRMA 19 Sep graphic.",
-        "ne": "IFRC ankda NDRRMA 19 Sep sanga milcha.",
-        "hi": "IFRC ankade NDRRMA 19 Sep se milte hain."
+        "zh": "遗体含残肢；失踪已扣已识别遗体110具。勿与中方相加。国门仍关。",
+        "en": "Remains include unidentified parts; missing after 110 IDed bodies. Do not add CN. Gate closed.",
+        "ne": "110 IDed bodies katyo. CN najodnu. Gate band.",
+        "hi": "110 IDed bodies kate. CN na joden. Gate band."
       }
     },
     {
@@ -111,7 +111,7 @@
       "id": "xinhua-kpi-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9df0f4e4b06d4aa055c9df.html",
+      "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -123,10 +123,10 @@
         "hi": "5 Sep 18:00: CN 43/519/2"
       },
       "body": {
-        "zh": "指挥部分项最新（20日无更新分项）。261名外籍失联（23国）。",
-        "en": "Latest CN split; no newer split 20 Sep. 261 foreign missing (23 countries).",
-        "ne": "CN split; 20 Sep naya chain. 261 foreign, 23 desh.",
-        "hi": "CN split; 20 Sep naya nahi. 261 videshi, 23 desh."
+        "zh": "指挥部分项最新。261名外籍失联（23国）。",
+        "en": "Latest CN split. 261 foreign missing (23 countries).",
+        "ne": "CN split. 261 foreign, 23 desh.",
+        "hi": "CN split. 261 videshi, 23 desh."
       }
     },
     {
@@ -414,34 +414,6 @@
       }
     },
     {
-      "id": "x-np-sitrep17",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-18T16:39:51Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2100988182297034870",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA发布SitRep #17（18日19:00）",
-        "en": "NDRRMA published SitRep #17 (18 Sep 19:00)",
-        "ne": "SitRep #17 published",
-        "hi": "SitRep #17 published"
-      }
-    },
-    {
-      "id": "x-cd-0914-dna",
-      "user": "@ChinaDaily",
-      "t": "2026-09-14T09:45:01Z",
-      "link": "https://x.com/ChinaDaily/status/2099434235207815387",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "中国日报：外交部称已通报使馆采集失联外籍人员家属DNA",
-        "en": "China Daily: MFA notified embassies on DNA for missing foreign families",
-        "ne": "China Daily: MFA embassy lai DNA suchana",
-        "hi": "China Daily: MFA ne embassy ko DNA suchna"
-      }
-    },
-    {
       "id": "x-xh-0910-cma",
       "user": "@XHNews",
       "t": "2026-09-10T05:47:43Z",
@@ -467,6 +439,36 @@
         "en": "Xinhua: Gyirong Port SAR progress briefing",
         "ne": "Xinhua: Gyirong Port SAR prgati",
         "hi": "Xinhua: Gyirong Port SAR pragati"
+      }
+    },
+    {
+      "id": "x-xh-0907-media",
+      "user": "@XHNews",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华：外媒记者团探访吉隆口岸灾区",
+        "en": "Xinhua: foreign media visit Gyirong Port",
+        "ne": "Xinhua: bideshi media Gyirong Port",
+        "hi": "Xinhua: videshi media Gyirong Port"
+      }
+    },
+    {
+      "id": "x-xh-0906-kpi",
+      "user": "@XHNews",
+      "t": "2026-09-06T14:41:30Z",
+      "link": "https://x.com/XHNews/status/2096609742487691562",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华：截至5日18时43死519失联，外籍261人",
+        "en": "Xinhua: as of 5 Sep 18:00 43 dead 519 missing; 261 foreign",
+        "ne": "Xinhua: 5 Sep 18:00 43/519; 261 foreign",
+        "hi": "Xinhua: 5 Sep 18:00 43/519; 261 videshi"
       }
     },
     {
@@ -497,36 +499,6 @@
         "en": "CCTV+: Nepali workers remaining in Gyirong Town hope for recovery",
         "ne": "CCTV+: Gyirong Town Nepali majdur",
         "hi": "CCTV+: Gyirong Town Nepali majdoor"
-      }
-    },
-    {
-      "id": "x-cctv-0907-kpi",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-07T02:35:18Z",
-      "link": "https://x.com/CCTV_Plus/status/2096789374872801595",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "CCTV+：截至5日18时43死519失联",
-        "en": "CCTV+: as of 5 Sep 18:00, 43 dead, 519 missing",
-        "ne": "CCTV+: 5 Sep 18:00 43/519",
-        "hi": "CCTV+: 5 Sep 18:00 43/519"
-      }
-    },
-    {
-      "id": "x-xh-0905-drone",
-      "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：口岸附近无人机影像（8月26日后）",
-        "en": "Xinhua: drone footage near Gyirong Port after 26 Aug",
-        "ne": "Xinhua: Gyirong Port drone footage",
-        "hi": "Xinhua: Gyirong Port drone footage"
       }
     }
   ]
