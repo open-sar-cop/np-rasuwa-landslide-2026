@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-20T23:08:00Z",
+  "snap": "2026-09-21T01:26:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1411, "missing": 5875, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0920-2308",
+      "id": "refresh-0921-0126",
       "src": "official",
-      "t": "2026-09-20T23:08:00Z",
+      "t": "2026-09-21T01:26:00Z",
       "link": "https://github.com/open-sar-cop/np-rasuwa-landslide-2026",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "20日23:08Z检索：中方无新分项",
-        "en": "20 Sep 23:08Z: no newer CN split",
-        "ne": "20 Sep 23:08Z: CN naya split chain",
-        "hi": "20 Sep 23:08Z: CN naya split nahi"
+        "zh": "21日01:26Z检索：中方无新分项",
+        "en": "21 Sep 01:26Z: no newer CN split",
+        "ne": "21 Sep 01:26Z: CN naya split chain",
+        "hi": "21 Sep 01:26Z: CN naya split nahi"
       },
       "body": {
-        "zh": "中方KPI仍9月5日18时43/519/2。应急部562为合计待核。尼方KPI仍用NDRRMA 19日19:00NPT图1411/5875/13784。尼警媒体引述20日11:00NPT遗体1436未改KPI。",
-        "en": "CN KPI still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP KPI remains NDRRMA 19 Sep 19:00 NPT 1411/5875/13784. Police 1436 bodies (media, 20 Sep 11:00 NPT) not used for KPI.",
-        "ne": "CN 5 Sep 18:00 43/519/2. MEM 562 jog. NP NDRRMA 1411/5875/13784. Police 1436 KPI hoina.",
-        "hi": "CN 5 Sep 18:00 43/519/2. MEM 562 yog. NP NDRRMA 1411/5875/13784. Police 1436 KPI nahi."
+        "zh": "中方KPI仍9月5日18时43/519/2。应急部562为合计待核。尼方KPI仍用NDRRMA 19日19:00NPT 1411/5875/13784。尼警媒体引述20日11:00NPT遗体1436未改KPI。国门仍关，堰塞湖已排空。",
+        "en": "CN KPI still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP KPI remains NDRRMA 19 Sep 19:00 NPT 1411/5875/13784. Police 1436 bodies (media, 20 Sep 11:00 NPT) not used for KPI. Gate closed; lake drained.",
+        "ne": "CN 5 Sep 18:00 43/519/2. MEM 562 jog. NP NDRRMA 1411/5875/13784. Police 1436 KPI hoina. Gate band; tal khali.",
+        "hi": "CN 5 Sep 18:00 43/519/2. MEM 562 yog. NP NDRRMA 1411/5875/13784. Police 1436 KPI nahi. Gate band; jheel khali."
       }
     },
     {
