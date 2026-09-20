@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-21T03:35:00Z",
+  "snap": "2026-09-21T04:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1411, "missing": 5875, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0921-0335",
+      "id": "refresh-0921-0405",
       "src": "official",
-      "t": "2026-09-21T03:35:00Z",
+      "t": "2026-09-21T04:05:00Z",
       "link": "https://github.com/open-sar-cop/np-rasuwa-landslide-2026",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "21日03:35Z检索：中尼无新官方分项",
-        "en": "21 Sep 03:35Z: no newer official split",
-        "ne": "21 Sep 03:35Z: naya official split chain",
-        "hi": "21 Sep 03:35Z: naya official split nahi"
+        "zh": "21日04:05Z检索：中尼无新官方分项",
+        "en": "21 Sep 04:05Z: no newer official split",
+        "ne": "21 Sep 04:05Z: naya official split chain",
+        "hi": "21 Sep 04:05Z: naya official split nahi"
       },
       "body": {
         "zh": "中方KPI仍9月5日18时43/519/2。应急部562为合计待核。尼方KPI仍用NDRRMA 19日19:00NPT 1411/5875/13784。尼警媒体20日11:00NPT遗体1436未改KPI。国门仍关，堰塞湖已排空。",
