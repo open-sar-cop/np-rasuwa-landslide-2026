@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-21T11:10:00Z",
+  "snap": "2026-09-21T13:21:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5786, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0921-1110",
+      "id": "refresh-0921-1321",
       "src": "official",
-      "t": "2026-09-21T11:10:00Z",
+      "t": "2026-09-21T13:21:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2101676006826508692",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "21日11:10Z：尼方KPI改用NDRRMA 20日19:00NPT",
-        "en": "21 Sep 11:10Z: NP KPI now NDRRMA 20 Sep 19:00 NPT",
-        "ne": "21 Sep 11:10Z: NP KPI NDRRMA 20 Sep 19:00",
-        "hi": "21 Sep 11:10Z: NP KPI NDRRMA 20 Sep 19:00"
+        "zh": "21日13:21Z：本轮无新官方分项KPI",
+        "en": "21 Sep 13:21Z: no newer official split KPI this run",
+        "ne": "21 Sep 13:21Z: naya official split KPI chain",
+        "hi": "21 Sep 13:21Z: naya official split KPI nahi"
       },
       "body": {
-        "zh": "中方分项仍9月5日18时43/519/2。应急部562为合计待核。尼方图示1451死、5786失联、13784获救。国门仍关，堰塞湖已排空。",
-        "en": "CN split still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP graphic 1451/5786/13784. Gate closed; lake drained.",
+        "zh": "中方仍9月5日18时43/519/2。应急部562为合计待核。尼方仍用NDRRMA 20日19:00NPT图1451/5786/13784。国门关闭，堰塞湖已排空。",
+        "en": "CN split still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP still NDRRMA 20 Sep 19:00 NPT 1451/5786/13784. Gate closed; lake drained.",
         "ne": "CN 5 Sep 18:00 43/519/2. MEM 562 jog. NP 1451/5786/13784. Gate band; tal khali.",
         "hi": "CN 5 Sep 18:00 43/519/2. MEM 562 yog. NP 1451/5786/13784. Gate band; jheel khali."
       }
@@ -39,10 +39,10 @@
         "hi": "NDRRMA 20 Sep 19:00: 1451/5786/13784"
       },
       "body": {
-        "zh": "含未识别遗体。失踪已扣移交家属遗体110具。直升机当日33架次。勿与中方相加。",
-        "en": "Includes unidentified remains. Missing after 110 handed-over bodies. 33 Army heli flights that day. Do not add CN.",
-        "ne": "110 lash katyo. Army heli 33. CN najodnu.",
-        "hi": "110 shav kate. Army heli 33. CN na joden."
+        "zh": "含未识别遗体。失踪已扣移交家属遗体。直升机当日33架次。勿与中方相加。",
+        "en": "Includes unidentified remains. Missing after handed-over bodies. 33 Army heli flights that day. Do not add CN.",
+        "ne": "Lash katyo. Army heli 33. CN najodnu.",
+        "hi": "Shav kate. Army heli 33. CN na joden."
       }
     },
     {
