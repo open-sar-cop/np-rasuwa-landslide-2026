@@ -1,28 +1,68 @@
 {
-  "snap": "2026-09-21T04:05:00Z",
+  "snap": "2026-09-21T11:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1411, "missing": 5875, "rescued": 13784 }
+    "np": { "dead": 1451, "missing": 5786, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0921-0405",
+      "id": "refresh-0921-1110",
       "src": "official",
-      "t": "2026-09-21T04:05:00Z",
-      "link": "https://github.com/open-sar-cop/np-rasuwa-landslide-2026",
+      "t": "2026-09-21T11:10:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2101676006826508692",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "21日04:05Z检索：中尼无新官方分项",
-        "en": "21 Sep 04:05Z: no newer official split",
-        "ne": "21 Sep 04:05Z: naya official split chain",
-        "hi": "21 Sep 04:05Z: naya official split nahi"
+        "zh": "21日11:10Z：尼方KPI改用NDRRMA 20日19:00NPT",
+        "en": "21 Sep 11:10Z: NP KPI now NDRRMA 20 Sep 19:00 NPT",
+        "ne": "21 Sep 11:10Z: NP KPI NDRRMA 20 Sep 19:00",
+        "hi": "21 Sep 11:10Z: NP KPI NDRRMA 20 Sep 19:00"
       },
       "body": {
-        "zh": "中方KPI仍9月5日18时43/519/2。应急部562为合计待核。尼方KPI仍用NDRRMA 19日19:00NPT 1411/5875/13784。尼警媒体20日11:00NPT遗体1436未改KPI。国门仍关，堰塞湖已排空。",
-        "en": "CN KPI still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP KPI remains NDRRMA 19 Sep 19:00 NPT 1411/5875/13784. Police 1436 bodies (media, 20 Sep 11:00 NPT) not used for KPI. Gate closed; lake drained.",
-        "ne": "CN 5 Sep 18:00 43/519/2. MEM 562 jog. NP NDRRMA 1411/5875/13784. Police 1436 KPI hoina. Gate band; tal khali.",
-        "hi": "CN 5 Sep 18:00 43/519/2. MEM 562 yog. NP NDRRMA 1411/5875/13784. Police 1436 KPI nahi. Gate band; jheel khali."
+        "zh": "中方分项仍9月5日18时43/519/2。应急部562为合计待核。尼方图示1451死、5786失联、13784获救。国门仍关，堰塞湖已排空。",
+        "en": "CN split still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP graphic 1451/5786/13784. Gate closed; lake drained.",
+        "ne": "CN 5 Sep 18:00 43/519/2. MEM 562 jog. NP 1451/5786/13784. Gate band; tal khali.",
+        "hi": "CN 5 Sep 18:00 43/519/2. MEM 562 yog. NP 1451/5786/13784. Gate band; jheel khali."
+      }
+    },
+    {
+      "id": "ndrrma-0920-1451",
+      "src": "official",
+      "t": "2026-09-20T13:15:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2101676006826508692",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 20日19:00NPT：1451死、5786失联、13784获救",
+        "en": "NDRRMA 20 Sep 19:00 NPT: 1451 dead, 5786 missing, 13784 rescued",
+        "ne": "NDRRMA 20 Sep 19:00: 1451/5786/13784",
+        "hi": "NDRRMA 20 Sep 19:00: 1451/5786/13784"
+      },
+      "body": {
+        "zh": "含未识别遗体。失踪已扣移交家属遗体110具。直升机当日33架次。勿与中方相加。",
+        "en": "Includes unidentified remains. Missing after 110 handed-over bodies. 33 Army heli flights that day. Do not add CN.",
+        "ne": "110 lash katyo. Army heli 33. CN najodnu.",
+        "hi": "110 shav kate. Army heli 33. CN na joden."
+      }
+    },
+    {
+      "id": "ndrrma-sitrep19",
+      "src": "official",
+      "t": "2026-09-20T18:31:10Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/437",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA SitRep #19（20日19:00NPT）",
+        "en": "NDRRMA SitRep #19 (20 Sep 19:00 NPT)",
+        "ne": "SitRep #19 (20 Sep 19:00)",
+        "hi": "SitRep #19 (20 Sep 19:00)"
+      },
+      "body": {
+        "zh": "官方X 20日18:31Z发布#19。KPI取同日图1451/5786/13784。",
+        "en": "Official X posted #19 at 20 Sep 18:31Z. KPI from same-day graphic 1451/5786/13784.",
+        "ne": "X ma #19. KPI graphic 1451/5786/13784.",
+        "hi": "X par #19. KPI graphic 1451/5786/13784."
       }
     },
     {
@@ -33,56 +73,16 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "尼警（媒体引述）20日11:00NPT：已发现遗体1436具",
+        "zh": "尼警（媒体）20日11:00NPT：发现遗体1436具",
         "en": "Nepal Police via media 20 Sep 11:00 NPT: 1436 bodies recovered",
         "ne": "Nepal Police 20 Sep 11:00: 1436 lash",
         "hi": "Nepal Police 20 Sep 11:00: 1436 shav"
       },
       "body": {
-        "zh": "拉苏瓦223、努瓦科特203、达丁72、奇旺365等。失踪4655为警方案。KPI仍用NDRRMA 1411/5875以免混口径。",
-        "en": "Rasuwa 223, Nuwakot 203, Dhading 72, Chitwan 365. Police missing 4655. KPI kept on NDRRMA 1411/5875 to avoid mixing definitions.",
-        "ne": "Rasuwa 223, Nuwakot 203. Police missing 4655. KPI NDRRMA nai.",
-        "hi": "Rasuwa 223, Nuwakot 203. Police missing 4655. KPI NDRRMA hi."
-      }
-    },
-    {
-      "id": "ndrrma-sitrep29",
-      "src": "official",
-      "t": "2026-09-19T16:25:03Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/434",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA SitRep #29（19日19:00NPT）",
-        "en": "NDRRMA SitRep #29 (19 Sep 19:00 NPT)",
-        "ne": "SitRep #29 (19 Sep 19:00)",
-        "hi": "SitRep #29 (19 Sep 19:00)"
-      },
-      "body": {
-        "zh": "官方X于19日16:25Z发布#29。KPI用同日图1411/5875/13784。",
-        "en": "Official X posted #29 19 Sep 16:25Z. KPI from same-day graphic 1411/5875/13784.",
-        "ne": "X ma #29. KPI graphic 1411/5875/13784.",
-        "hi": "X par #29. KPI graphic 1411/5875/13784."
-      }
-    },
-    {
-      "id": "ndrrma-0919-1411",
-      "src": "official",
-      "t": "2026-09-19T13:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2101328860180820219",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 19日19:00NPT：1411死、5875失联、13784获救",
-        "en": "NDRRMA 19 Sep 19:00 NPT: 1411 dead, 5875 missing, 13784 rescued",
-        "ne": "NDRRMA 19 Sep 19:00: 1411/5875/13784",
-        "hi": "NDRRMA 19 Sep 19:00: 1411/5875/13784"
-      },
-      "body": {
-        "zh": "遗体含残肢；失踪已扣已识别遗体110具。勿与中方相加。国门仍关。",
-        "en": "Remains include unidentified parts; missing after 110 IDed bodies. Do not add CN. Gate closed.",
-        "ne": "110 IDed bodies katyo. CN najodnu. Gate band.",
-        "hi": "110 IDed bodies kate. CN na joden. Gate band."
+        "zh": "拉苏瓦223等。晚于该时的NDRRMA图已至1451，KPI用NDRRMA。",
+        "en": "Rasuwa 223 etc. Later NDRRMA graphic is 1451; KPI uses NDRRMA.",
+        "ne": "Rasuwa 223. Pachhi NDRRMA 1451. KPI NDRRMA.",
+        "hi": "Rasuwa 223. Baad NDRRMA 1451. KPI NDRRMA."
       }
     },
     {
@@ -236,28 +236,6 @@
         "ne": "Rasuwa flood extent/damage.",
         "hi": "Rasuwa flood extent/damage."
       }
-    },
-    {
-      "id": "xinhua-return-0908",
-      "src": "official",
-      "t": "2026-09-08T10:00:00Z",
-      "link": "https://gna.org.gh/2026/09/evacuated-residents-returning-home-after-mudslide-hits-border-port-in-chinas-xizang/",
-      "img": null,
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "Gyirong town",
-      "title": {
-        "zh": "吉隆镇撤离居民返家",
-        "en": "Gyirong Town evacuees returning",
-        "ne": "Gyirong basinda farkidai",
-        "hi": "Gyirong nivasi laut rahe"
-      },
-      "body": {
-        "zh": "444人已返家，55人准备返回。国门仍关。",
-        "en": "444 returned; 55 preparing. Gate still closed.",
-        "ne": "444 farkie; 55 tayari. Gate band.",
-        "hi": "444 laute; 55 taiyar. Gate band."
-      }
     }
   ],
   "roads": [
@@ -388,16 +366,29 @@
   },
   "xPosts": [
     {
-      "id": "x-np-sitrep29",
+      "id": "x-np-sitrep19",
       "user": "@NDRRMA_Nepal",
-      "t": "2026-09-19T16:25:03Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2101346844295286939",
+      "t": "2026-09-20T18:31:10Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2101740969448370366",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA发布SitRep #29（19日19:00NPT）",
-        "en": "NDRRMA published SitRep #29 (19 Sep 19:00 NPT)",
-        "ne": "SitRep #29 published",
-        "hi": "SitRep #29 published"
+        "zh": "NDRRMA发布SitRep #19（20日19:00NPT）",
+        "en": "NDRRMA published SitRep #19 (20 Sep 19:00 NPT)",
+        "ne": "SitRep #19 published",
+        "hi": "SitRep #19 published"
+      }
+    },
+    {
+      "id": "x-np-0920-kpi",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-20T14:13:01Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2101676006826508692",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：20日19:00 1451死、5786失联、13784获救",
+        "en": "NDRRMA: 20 Sep 19:00 1451 dead, 5786 missing, 13784 rescued",
+        "ne": "NDRRMA: 20 Sep 19:00 1451/5786/13784",
+        "hi": "NDRRMA: 20 Sep 19:00 1451/5786/13784"
       }
     },
     {
@@ -469,21 +460,6 @@
         "en": "Xinhua: as of 5 Sep 18:00 43 dead 519 missing; 261 foreign",
         "ne": "Xinhua: 5 Sep 18:00 43/519; 261 foreign",
         "hi": "Xinhua: 5 Sep 18:00 43/519; 261 videshi"
-      }
-    },
-    {
-      "id": "x-xh-0902-g216",
-      "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "G216",
-      "text": {
-        "zh": "新华：2日10时G216通往口岸核心基本抢通",
-        "en": "Xinhua: G216 to port core basically restored 2 Sep 10:00",
-        "ne": "Xinhua: G216 core 2 Sep 10:00 khulyo",
-        "hi": "Xinhua: G216 core 2 Sep 10:00 khula"
       }
     },
     {
