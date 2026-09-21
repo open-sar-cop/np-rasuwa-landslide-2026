@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-21T21:16:00Z",
+  "snap": "2026-09-21T22:04:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5786, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0921-2116",
+      "id": "refresh-0921-2204",
       "src": "official",
-      "t": "2026-09-21T21:16:00Z",
+      "t": "2026-09-21T22:04:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2101676006826508692",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "21日21:16Z：无更新官方分项KPI",
-        "en": "21 Sep 21:16Z: no newer official split KPI",
-        "ne": "21 Sep 21:16Z: naya official split KPI chain",
-        "hi": "21 Sep 21:16Z: naya official split KPI nahi"
+        "zh": "21日22:04Z：无更新官方分项KPI",
+        "en": "21 Sep 22:04Z: no newer official split KPI",
+        "ne": "21 Sep 22:04Z: naya official split KPI chain",
+        "hi": "21 Sep 22:04Z: naya official split KPI nahi"
       },
       "body": {
         "zh": "中方仍9月5日18时43死519失联2获救。应急部562为合计待核。尼方仍NDRRMA 20日19:00NPT 1451/5786/13784。21日无NDRRMA新KPI帖。国门关闭，堰塞湖已排空。",
@@ -379,6 +379,19 @@
       }
     },
     {
+      "id": "x-np-sitrep19",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-20T18:31:10Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2101740969448370366",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA SitRep #19：20日19:00NPT",
+        "en": "NDRRMA SitRep #19: 20 Sep 19:00 NPT",
+        "ne": "NDRRMA SitRep #19: 20 Sep 19:00",
+        "hi": "NDRRMA SitRep #19: 20 Sep 19:00"
+      }
+    },
+    {
       "id": "x-np-0919-kpi",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-19T15:13:35Z",
@@ -447,21 +460,6 @@
         "en": "Xinhua: foreign media visit Gyirong Port",
         "ne": "Xinhua: bideshi media Gyirong Port",
         "hi": "Xinhua: videshi media Gyirong Port"
-      }
-    },
-    {
-      "id": "x-xh-0906-kpi",
-      "user": "@XHNews",
-      "t": "2026-09-06T14:41:30Z",
-      "link": "https://x.com/XHNews/status/2096609742487691562",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：截至5日18时43死519失联，外籍261人",
-        "en": "Xinhua: as of 5 Sep 18:00 43 dead 519 missing; 261 foreign",
-        "ne": "Xinhua: 5 Sep 18:00 43/519; 261 foreign",
-        "hi": "Xinhua: 5 Sep 18:00 43/519; 261 videshi"
       }
     },
     {
