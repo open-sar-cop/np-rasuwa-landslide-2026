@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-22T12:05:00Z",
+  "snap": "2026-09-22T13:09:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5786, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0922-1205",
+      "id": "refresh-0922-1309",
       "src": "official",
-      "t": "2026-09-22T12:05:00Z",
-      "link": "https://www.ratopati.com/lang-url/593735/en",
+      "t": "2026-09-22T13:09:00Z",
+      "link": "https://english.dainikjagranmpcg.com/international/nepal-forms-15-member-panel-to-study-rasuwa-flood-disaster/article-32338",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "22日12:05Z：KPI无新官方分项",
-        "en": "22 Sep 12:05Z: no newer official split KPI",
-        "ne": "22 Sep 12:05Z: naya official split KPI chain",
-        "hi": "22 Sep 12:05Z: naya official split KPI nahi"
+        "zh": "22日13:09Z：无更新官方伤亡分项",
+        "en": "22 Sep 13:09Z: no newer official casualty split",
+        "ne": "22 Sep 13:09Z: naya official casualty split chain",
+        "hi": "22 Sep 13:09Z: naya official casualty split nahi"
       },
       "body": {
-        "zh": "Ratopati转述NDRRMA仍1451死、5786失联（含636外籍）、20929安保人员。中方分项仍9月5日18时43/519/2。国门关闭，堰塞湖已排空。",
-        "en": "Ratopati citing NDRRMA still 1451 dead, 5786 missing (636 foreign), 20929 security. CN split still 5 Sep 18:00 43/519/2. Gate closed; lake drained.",
-        "ne": "NDRRMA 1451/5786 (636 bideshi). CN 43/519/2. Gate band; tal khali.",
-        "hi": "NDRRMA 1451/5786 (636 videshi). CN 43/519/2. Gate band; jheel khali."
+        "zh": "尼众议院设15人特委会。KPI仍NDRRMA 20日1451/5786/13784；中方9月5日18时43/519/2。国门关闭，堰塞湖已排空。",
+        "en": "HoR formed 15-member panel. KPI still NDRRMA 20 Sep 1451/5786/13784; CN 5 Sep 18:00 43/519/2. Gate closed; lake drained.",
+        "ne": "15 sadasya samiti. KPI 1451/5786/13784; CN 43/519/2. Gate band; tal khali.",
+        "hi": "15 sadasya samiti. KPI 1451/5786/13784; CN 43/519/2. Gate band; jheel khali."
       }
     },
     {
@@ -59,10 +59,10 @@
         "hi": "NDRRMA 20 Sep 19:00: 1451/5786/13784"
       },
       "body": {
-        "zh": "含未识别遗体。失踪已扣移交家属遗体。直升机当日33架次。勿与中方相加。",
-        "en": "Includes unidentified remains. Missing after handed-over bodies. 33 Army heli flights that day. Do not add CN.",
-        "ne": "Lash katyo. Army heli 33. CN najodnu.",
-        "hi": "Shav kate. Army heli 33. CN na joden."
+        "zh": "含未识别遗体。失踪已扣移交家属遗体。勿与中方相加。",
+        "en": "Includes unidentified remains. Missing after handed-over bodies. Do not add CN.",
+        "ne": "Lash katyo. CN najodnu.",
+        "hi": "Shav kate. CN na joden."
       }
     },
     {
@@ -211,10 +211,10 @@
         "hi": "UNOSAT: Rasuwa ~20 sq km"
       },
       "body": {
-        "zh": "Sentinel-2/Planet 26-27日影像。无更新测绘产品。",
-        "en": "Sentinel-2/Planet 26-27 Aug. No newer mapped product found.",
-        "ne": "26-27 Aug imagery. Naya map chain.",
-        "hi": "26-27 Aug imagery. Naya map nahi."
+        "zh": "Sentinel-2/Planet 26-27日影像。无更新测绘产品。Copernicus EMSR927。",
+        "en": "Sentinel-2/Planet 26-27 Aug. No newer mapped product. Copernicus EMSR927.",
+        "ne": "26-27 Aug imagery. Naya map chain. EMSR927.",
+        "hi": "26-27 Aug imagery. Naya map nahi. EMSR927."
       }
     }
   ],
