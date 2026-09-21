@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-21T16:07:00Z",
+  "snap": "2026-09-21T17:14:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5786, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0921-1607",
+      "id": "refresh-0921-1714",
       "src": "official",
-      "t": "2026-09-21T16:07:00Z",
+      "t": "2026-09-21T17:14:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2101740969448370366",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "21日16:07Z：无更新官方分项KPI",
-        "en": "21 Sep 16:07Z: no newer official split KPI",
-        "ne": "21 Sep 16:07Z: naya official split KPI chain",
-        "hi": "21 Sep 16:07Z: naya official split KPI nahi"
+        "zh": "21日17:14Z：无更新官方分项KPI",
+        "en": "21 Sep 17:14Z: no newer official split KPI",
+        "ne": "21 Sep 17:14Z: naya official split KPI chain",
+        "hi": "21 Sep 17:14Z: naya official split KPI nahi"
       },
       "body": {
-        "zh": "中方仍9月5日18时43死519失联2获救。应急部562为合计待核。尼方仍NDRRMA 20日19:00NPT 1451/5786/13784。国门关闭，堰塞湖已排空。",
-        "en": "CN split still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP still NDRRMA 20 Sep 19:00 NPT 1451/5786/13784. Gate closed; lake drained.",
-        "ne": "CN 5 Sep 18:00 43/519/2. MEM 562 jog. NP 1451/5786/13784. Gate band; tal khali.",
-        "hi": "CN 5 Sep 18:00 43/519/2. MEM 562 yog. NP 1451/5786/13784. Gate band; jheel khali."
+        "zh": "中方仍9月5日18时43死519失联2获救。应急部562为合计待核。尼方仍NDRRMA 20日19:00NPT 1451/5786/13784。21日无新SitRep。国门关闭，堰塞湖已排空。",
+        "en": "CN split still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP still NDRRMA 20 Sep 19:00 NPT 1451/5786/13784. No 21 Sep SitRep. Gate closed; lake drained.",
+        "ne": "CN 5 Sep 18:00 43/519/2. MEM 562 jog. NP 1451/5786/13784. 21 Sep SitRep chain. Gate band; tal khali.",
+        "hi": "CN 5 Sep 18:00 43/519/2. MEM 562 yog. NP 1451/5786/13784. 21 Sep SitRep nahi. Gate band; jheel khali."
       }
     },
     {
