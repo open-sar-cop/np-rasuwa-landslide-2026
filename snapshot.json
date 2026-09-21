@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-21T17:06:00Z",
+  "snap": "2026-09-21T19:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5786, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0921-1706",
+      "id": "refresh-0921-1910",
       "src": "official",
-      "t": "2026-09-21T17:06:00Z",
+      "t": "2026-09-21T19:10:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2101676006826508692",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "21日17:06Z：无更新官方分项KPI",
-        "en": "21 Sep 17:06Z: no newer official split KPI",
-        "ne": "21 Sep 17:06Z: naya official split KPI chain",
-        "hi": "21 Sep 17:06Z: naya official split KPI nahi"
+        "zh": "21日19:10Z：无更新官方分项KPI",
+        "en": "21 Sep 19:10Z: no newer official split KPI",
+        "ne": "21 Sep 19:10Z: naya official split KPI chain",
+        "hi": "21 Sep 19:10Z: naya official split KPI nahi"
       },
       "body": {
         "zh": "中方仍9月5日18时43死519失联2获救。应急部562为合计待核。尼方仍NDRRMA 20日19:00NPT 1451/5786/13784。21日无NDRRMA新帖。国门关闭，堰塞湖已排空。",
