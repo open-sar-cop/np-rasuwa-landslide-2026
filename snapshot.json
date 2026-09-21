@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-21T17:14:00Z",
+  "snap": "2026-09-21T17:06:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5786, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0921-1714",
+      "id": "refresh-0921-1706",
       "src": "official",
-      "t": "2026-09-21T17:14:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2101740969448370366",
+      "t": "2026-09-21T17:06:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2101676006826508692",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "21日17:14Z：无更新官方分项KPI",
-        "en": "21 Sep 17:14Z: no newer official split KPI",
-        "ne": "21 Sep 17:14Z: naya official split KPI chain",
-        "hi": "21 Sep 17:14Z: naya official split KPI nahi"
+        "zh": "21日17:06Z：无更新官方分项KPI",
+        "en": "21 Sep 17:06Z: no newer official split KPI",
+        "ne": "21 Sep 17:06Z: naya official split KPI chain",
+        "hi": "21 Sep 17:06Z: naya official split KPI nahi"
       },
       "body": {
-        "zh": "中方仍9月5日18时43死519失联2获救。应急部562为合计待核。尼方仍NDRRMA 20日19:00NPT 1451/5786/13784。21日无新SitRep。国门关闭，堰塞湖已排空。",
-        "en": "CN split still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP still NDRRMA 20 Sep 19:00 NPT 1451/5786/13784. No 21 Sep SitRep. Gate closed; lake drained.",
-        "ne": "CN 5 Sep 18:00 43/519/2. MEM 562 jog. NP 1451/5786/13784. 21 Sep SitRep chain. Gate band; tal khali.",
-        "hi": "CN 5 Sep 18:00 43/519/2. MEM 562 yog. NP 1451/5786/13784. 21 Sep SitRep nahi. Gate band; jheel khali."
+        "zh": "中方仍9月5日18时43死519失联2获救。应急部562为合计待核。尼方仍NDRRMA 20日19:00NPT 1451/5786/13784。21日无NDRRMA新帖。国门关闭，堰塞湖已排空。",
+        "en": "CN split still 5 Sep 18:00 43/519/2. MEM 562 combined under review. NP still NDRRMA 20 Sep 19:00 NPT 1451/5786/13784. No 21 Sep NDRRMA post. Gate closed; lake drained.",
+        "ne": "CN 5 Sep 18:00 43/519/2. MEM 562 jog. NP 1451/5786/13784. 21 Sep NDRRMA post chain. Gate band; tal khali.",
+        "hi": "CN 5 Sep 18:00 43/519/2. MEM 562 yog. NP 1451/5786/13784. 21 Sep NDRRMA post nahi. Gate band; jheel khali."
       }
     },
     {
@@ -366,19 +366,6 @@
   },
   "xPosts": [
     {
-      "id": "x-np-sitrep19",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-20T18:31:10Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2101740969448370366",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA发布SitRep #19（20日19:00NPT）",
-        "en": "NDRRMA published SitRep #19 (20 Sep 19:00 NPT)",
-        "ne": "SitRep #19 published",
-        "hi": "SitRep #19 published"
-      }
-    },
-    {
       "id": "x-np-0920-kpi",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-20T14:13:01Z",
@@ -402,6 +389,21 @@
         "en": "NDRRMA: 19 Sep 19:00 1411 dead, 5875 missing, 13784 rescued",
         "ne": "NDRRMA: 19 Sep 19:00 1411/5875/13784",
         "hi": "NDRRMA: 19 Sep 19:00 1411/5875/13784"
+      }
+    },
+    {
+      "id": "x-xh-g216",
+      "user": "@XHNews",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "G216",
+      "text": {
+        "zh": "新华：G216通往口岸核心2日10时基本抢通",
+        "en": "Xinhua: G216 to port core restored 2 Sep 10:00",
+        "ne": "Xinhua: G216 core 2 Sep 10:00 khulyo",
+        "hi": "Xinhua: G216 core 2 Sep 10:00 khula"
       }
     },
     {
