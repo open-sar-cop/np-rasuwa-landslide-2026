@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-23T00:05:00Z",
+  "snap": "2026-09-23T01:25:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5745, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0923-0005",
+      "id": "refresh-0923-0125",
       "src": "official",
-      "t": "2026-09-23T00:05:00Z",
+      "t": "2026-09-23T01:25:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2102191861595283718",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "23日00:05Z刷新：无新官方分项",
-        "en": "23 Sep 00:05Z refresh: no newer official split",
-        "ne": "23 Sep 00:05Z: naya official split chain",
-        "hi": "23 Sep 00:05Z: naya official split nahi"
+        "zh": "23日01:25Z刷新：无新官方分项",
+        "en": "23 Sep 01:25Z refresh: no newer official split",
+        "ne": "23 Sep 01:25Z: naya official split chain",
+        "hi": "23 Sep 01:25Z: naya official split nahi"
       },
       "body": {
         "zh": "NDRRMA最新仍为SitRep#20/图1451/5745/13784（截21日19:00NPT），X无#21图。中方仍9月5日18时43/519/2。国门关，堰塞湖已排空。",
