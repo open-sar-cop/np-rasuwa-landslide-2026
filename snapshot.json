@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-22T21:23:00Z",
+  "snap": "2026-09-22T21:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5745, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0922-2123",
+      "id": "refresh-0922-2110",
       "src": "official",
-      "t": "2026-09-22T21:23:00Z",
+      "t": "2026-09-22T21:10:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2102191861595283718",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "22日21:23Z刷新：无新官方分项",
-        "en": "22 Sep 21:23Z refresh: no newer official split",
-        "ne": "22 Sep 21:23Z: naya split chain",
-        "hi": "22 Sep 21:23Z: naya split nahi"
+        "zh": "22日21:10Z刷新：无新官方分项",
+        "en": "22 Sep 21:10Z refresh: no newer official split",
+        "ne": "22 Sep 21:10Z: naya split chain",
+        "hi": "22 Sep 21:10Z: naya split nahi"
       },
       "body": {
-        "zh": "尼方仍SitRep#20图1451/5745/13784。中方仍9月5日18时43/519/2。国门关，堰塞湖已排空。",
-        "en": "NP still SitRep#20 graphic 1451/5745/13784. CN still 5 Sep 18:00 43/519/2. Gate closed; lake drained.",
+        "zh": "尼方仍SitRep#20图1451/5745/13784，未见22日19:00NPT新图。中方仍9月5日18时43/519/2。国门关，堰塞湖已排空。",
+        "en": "NP still SitRep#20 graphic 1451/5745/13784; no 22 Sep 19:00 NPT graphic. CN still 5 Sep 18:00 43/519/2. Gate closed; lake drained.",
         "ne": "NP 1451/5745/13784. CN 43/519/2. Gate band; tal khali.",
         "hi": "NP 1451/5745/13784. CN 43/519/2. Gate band; jheel khali."
       }
