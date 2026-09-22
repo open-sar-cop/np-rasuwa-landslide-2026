@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-23T01:25:00Z",
+  "snap": "2026-09-23T02:42:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5745, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0923-0125",
+      "id": "refresh-0923-0242",
       "src": "official",
-      "t": "2026-09-23T01:25:00Z",
+      "t": "2026-09-23T02:42:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2102191861595283718",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "23日01:25Z刷新：无新官方分项",
-        "en": "23 Sep 01:25Z refresh: no newer official split",
-        "ne": "23 Sep 01:25Z: naya official split chain",
-        "hi": "23 Sep 01:25Z: naya official split nahi"
+        "zh": "23日02:42Z刷新：无新官方分项",
+        "en": "23 Sep 02:42Z refresh: no newer official split",
+        "ne": "23 Sep 02:42Z: naya official split chain",
+        "hi": "23 Sep 02:42Z: naya official split nahi"
       },
       "body": {
-        "zh": "NDRRMA最新仍为SitRep#20/图1451/5745/13784（截21日19:00NPT），X无#21图。中方仍9月5日18时43/519/2。国门关，堰塞湖已排空。",
-        "en": "NDRRMA still SitRep#20 graphic 1451/5745/13784 as of 21 Sep 19:00 NPT; no #21 graphic. CN still 5 Sep 18:00 43/519/2. Gate closed; lake drained.",
+        "zh": "NDRRMA仍为SitRep#20图1451/5745/13784（21日19:00NPT）。中方仍9月5日18时43/519/2；应急部8月合计562待核。国门关，堰塞湖已排空。",
+        "en": "NDRRMA still SitRep#20 graphic 1451/5745/13784 as of 21 Sep 19:00 NPT. CN still 5 Sep 18:00 43/519/2; MEM Aug combined 562 unverified. Gate closed; lake drained.",
         "ne": "NP 1451/5745/13784 (21 Sep 19:00). CN 43/519/2. Gate band; tal khali.",
         "hi": "NP 1451/5745/13784 (21 Sep 19:00). CN 43/519/2. Gate band; jheel khali."
       }
@@ -63,26 +63,6 @@
         "en": "Official X posted #20 at 22 Sep 00:22Z. KPI from same-day graphic 1451/5745/13784.",
         "ne": "X ma #20. KPI 1451/5745/13784.",
         "hi": "X par #20. KPI 1451/5745/13784."
-      }
-    },
-    {
-      "id": "ratopati-0922",
-      "src": "official",
-      "t": "2026-09-22T08:06:00Z",
-      "link": "https://www.ratopati.com/lang-url/593735/en",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "Ratopati引NDRRMA：1451死、5786失联（媒体未跟21日下调）",
-        "en": "Ratopati citing NDRRMA: 1451 dead, 5786 missing (media not on 21 Sep revision)",
-        "ne": "Ratopati: 1451/5786 (21 Sep revision hoina)",
-        "hi": "Ratopati: 1451/5786 (21 Sep revision nahi)"
-      },
-      "body": {
-        "zh": "安置中心1661人。Rasuwagadhi/Langtang/Chilime搜救结束。KPI仍以官方图5745为准。",
-        "en": "1661 in holding centres. SAR done Rasuwagadhi/Langtang/Chilime. KPI remains official graphic 5745.",
-        "ne": "1661 holding. SAR sakiyo Rasuwagadhi/Langtang/Chilime. KPI 5745.",
-        "hi": "1661 holding. SAR pura Rasuwagadhi/Langtang/Chilime. KPI 5745."
       }
     },
     {
