@@ -1,48 +1,48 @@
 {
-  "snap": "2026-09-22T18:05:00Z",
+  "snap": "2026-09-22T19:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1451, "missing": 5786, "rescued": 13784 }
+    "np": { "dead": 1451, "missing": 5745, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0922-1805",
+      "id": "ndrrma-0921-5745",
       "src": "official",
-      "t": "2026-09-22T18:05:00Z",
-      "link": "https://www.ratopati.com/lang-url/593735/en",
+      "t": "2026-09-21T13:15:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2102044061901418585",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "22日18:05Z：官方伤亡分项无更新",
-        "en": "22 Sep 18:05Z: no newer official casualty split",
-        "ne": "22 Sep 18:05Z: naya official split chain",
-        "hi": "22 Sep 18:05Z: naya official split nahi"
+        "zh": "NDRRMA 21日19:00NPT：1451死、5745失联、13784获救",
+        "en": "NDRRMA 21 Sep 19:00 NPT: 1451 dead, 5745 missing, 13784 rescued",
+        "ne": "NDRRMA 21 Sep 19:00: 1451/5745/13784",
+        "hi": "NDRRMA 21 Sep 19:00: 1451/5745/13784"
       },
       "body": {
-        "zh": "NDRRMA/Ratopati仍1451死、5786失联、13784获救（636外籍失联）。中方分项仍9月5日18时43/519/2。应急部8月合计562死亡失踪未拆分。国门关闭，堰塞湖已排空。美使馆仍勿前往Rasuwagadhi–Timure。",
-        "en": "NDRRMA/Ratopati still 1451 dead, 5786 missing, 13784 rescued (636 foreign missing). CN split still 5 Sep 18:00 43/519/2. MEM Aug 562 combined, no split. Gate closed; lake drained. US Embassy still do-not-travel Rasuwagadhi–Timure.",
-        "ne": "NDRRMA 1451/5786/13784 (636 videshi). CN 43/519/2. Gate band; tal khali.",
-        "hi": "NDRRMA 1451/5786/13784 (636 videshi). CN 43/519/2. Gate band; jheel khali."
+        "zh": "官方图。失踪已扣移交遗体112具。636外籍失联。勿与中方相加。",
+        "en": "Official graphic. Missing after 112 handed-over bodies deducted. 636 foreign missing. Do not add CN.",
+        "ne": "Graphic. 112 lash katyo. 636 videshi. CN najodnu.",
+        "hi": "Graphic. 112 shav kate. 636 videshi. CN na joden."
       }
     },
     {
-      "id": "ndrrma-0921-review",
+      "id": "ndrrma-sitrep20",
       "src": "official",
-      "t": "2026-09-21T08:11:29Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2101947411749060956",
+      "t": "2026-09-22T00:22:51Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/440",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "NDRRMA 21日：与75县核验失联名单",
-        "en": "NDRRMA 21 Sep: virtual review of missing lists with 75 districts",
-        "ne": "NDRRMA 21 Sep: 75 jilla missing suchi",
-        "hi": "NDRRMA 21 Sep: 75 zila missing suchi"
+        "zh": "NDRRMA SitRep #20（21日19:00NPT）",
+        "en": "NDRRMA SitRep #20 (21 Sep 19:00 NPT)",
+        "ne": "SitRep #20 (21 Sep 19:00)",
+        "hi": "SitRep #20 (21 Sep 19:00)"
       },
       "body": {
-        "zh": "未发布新的死/失联/获救分项数字。KPI仍用20日SitRep #19。",
-        "en": "No new dead/missing/rescued split. KPI remains SitRep #19.",
-        "ne": "Naya split chain. KPI SitRep #19.",
-        "hi": "Naya split nahi. KPI SitRep #19."
+        "zh": "官方X 22日00:22Z发布#20。KPI取同日图1451/5745/13784。直升机当日11架次。",
+        "en": "Official X posted #20 at 22 Sep 00:22Z. KPI from same-day graphic 1451/5745/13784. 11 NA flights that day.",
+        "ne": "X ma #20. KPI 1451/5745/13784. 11 heli.",
+        "hi": "X par #20. KPI 1451/5745/13784. 11 heli."
       }
     },
     {
@@ -59,30 +59,10 @@
         "hi": "NDRRMA 20 Sep 19:00: 1451/5786/13784"
       },
       "body": {
-        "zh": "含未识别遗体。失踪已扣移交家属遗体。勿与中方相加。",
-        "en": "Includes unidentified remains. Missing after handed-over bodies. Do not add CN.",
-        "ne": "Lash katyo. CN najodnu.",
-        "hi": "Shav kate. CN na joden."
-      }
-    },
-    {
-      "id": "ndrrma-sitrep19",
-      "src": "official",
-      "t": "2026-09-20T18:31:10Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/437",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA SitRep #19（20日19:00NPT）",
-        "en": "NDRRMA SitRep #19 (20 Sep 19:00 NPT)",
-        "ne": "SitRep #19 (20 Sep 19:00)",
-        "hi": "SitRep #19 (20 Sep 19:00)"
-      },
-      "body": {
-        "zh": "官方X 20日18:31Z发布#19。KPI取同日图1451/5786/13784。",
-        "en": "Official X posted #19 at 20 Sep 18:31Z. KPI from same-day graphic 1451/5786/13784.",
-        "ne": "X ma #19. KPI graphic 1451/5786/13784.",
-        "hi": "X par #19. KPI graphic 1451/5786/13784."
+        "zh": "前一日分项。失联已于21日下调至5745。",
+        "en": "Prior-day split. Missing revised to 5745 on 21 Sep.",
+        "ne": "Aghillo din. Missing 21 Sep 5745.",
+        "hi": "Pichhla din. Missing 21 Sep 5745."
       }
     },
     {
@@ -123,10 +103,10 @@
         "hi": "5 Sep 18:00: CN 43/519/2"
       },
       "body": {
-        "zh": "指挥部分项最新。261名外籍失联（23国）。",
-        "en": "Latest CN split. 261 foreign missing (23 countries).",
-        "ne": "CN split. 261 foreign, 23 desh.",
-        "hi": "CN split. 261 videshi, 23 desh."
+        "zh": "指挥部分项最新。261名外籍失联（23国）。本轮无新拆分。",
+        "en": "Latest CN split. 261 foreign missing (23 countries). No newer split this run.",
+        "ne": "CN split. 261 foreign, 23 desh. Naya split chain.",
+        "hi": "CN split. 261 videshi, 23 desh. Naya split nahi."
       }
     },
     {
@@ -174,10 +154,10 @@
       }
     },
     {
-      "id": "usemb-0906",
+      "id": "usemb-0908",
       "src": "official",
-      "t": "2026-09-06T11:40:00Z",
-      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-monsoon-risk-and-road-closures/",
+      "t": "2026-09-08T12:29:00Z",
+      "link": "https://np.usembassy.gov/natural-disaster-alert-road-disruptions-and-continued-flood-and-landslide-risk/",
       "img": null,
       "lat": 28.248,
       "lng": 85.356,
@@ -189,10 +169,10 @@
         "hi": "US Embassy: Rasuwagadhi–Timure–Syafrubesi na jayen"
       },
       "body": {
-        "zh": "Level 4。本轮无更新使馆道路通报。",
-        "en": "Level 4. No newer embassy road notice this run.",
-        "ne": "Level 4. Yo run naya suchana chain.",
-        "hi": "Level 4. Is run nai suchna nahi."
+        "zh": "Level 4。8日通报仍有效；本轮无更新使馆道路通报。",
+        "en": "Level 4. 8 Sep notice still in force; no newer embassy road notice this run.",
+        "ne": "Level 4. 8 Sep suchana; yo run naya chain.",
+        "hi": "Level 4. 8 Sep suchna; is run nai nahi."
       }
     },
     {
@@ -205,16 +185,36 @@
       "lng": 85.356,
       "geo": "Timure",
       "title": {
-        "zh": "UNOSAT：拉苏瓦约20km2泥石流范围",
-        "en": "UNOSAT: ~20 km2 mud/rockflow in Rasuwa",
-        "ne": "UNOSAT: Rasuwa ~20 sq km",
-        "hi": "UNOSAT: Rasuwa ~20 sq km"
+        "zh": "UNOSAT：拉苏瓦泥石流范围测绘",
+        "en": "UNOSAT: Rasuwa mud/rockflow extent",
+        "ne": "UNOSAT: Rasuwa baha map",
+        "hi": "UNOSAT: Rasuwa baha map"
       },
       "body": {
         "zh": "Sentinel-2/Planet 26-27日影像。无更新测绘产品。Copernicus EMSR927。",
         "en": "Sentinel-2/Planet 26-27 Aug. No newer mapped product. Copernicus EMSR927.",
         "ne": "26-27 Aug imagery. Naya map chain. EMSR927.",
         "hi": "26-27 Aug imagery. Naya map nahi. EMSR927."
+      }
+    },
+    {
+      "id": "refresh-0922-1920",
+      "src": "official",
+      "t": "2026-09-22T19:20:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2102191861595283718",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "22日19:20Z刷新：尼方失联下调至5745",
+        "en": "22 Sep 19:20Z refresh: NP missing revised to 5745",
+        "ne": "22 Sep 19:20Z: NP missing 5745",
+        "hi": "22 Sep 19:20Z: NP missing 5745"
+      },
+      "body": {
+        "zh": "中方分项仍9月5日18时43/519/2。国门关闭，堰塞湖已排空。美使馆仍勿前往Rasuwagadhi–Timure。",
+        "en": "CN split still 5 Sep 18:00 43/519/2. Gate closed; lake drained. US Embassy still do-not-travel Rasuwagadhi–Timure.",
+        "ne": "CN 43/519/2. Gate band; tal khali.",
+        "hi": "CN 43/519/2. Gate band; jheel khali."
       }
     }
   ],
@@ -346,16 +346,29 @@
   },
   "xPosts": [
     {
-      "id": "x-np-0921-missing",
+      "id": "x-np-sitrep20",
       "user": "@NDRRMA_Nepal",
-      "t": "2026-09-21T08:11:29Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2101947411749060956",
+      "t": "2026-09-22T00:22:51Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2102191861595283718",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA：与75县核验失联名单，无新KPI",
-        "en": "NDRRMA: 75-district missing-list review; no new KPI",
-        "ne": "NDRRMA: 75 jilla missing; naya KPI chain",
-        "hi": "NDRRMA: 75 zila missing; naya KPI nahi"
+        "zh": "NDRRMA SitRep #20：21日19:00NPT",
+        "en": "NDRRMA SitRep #20: 21 Sep 19:00 NPT",
+        "ne": "NDRRMA SitRep #20: 21 Sep 19:00",
+        "hi": "NDRRMA SitRep #20: 21 Sep 19:00"
+      }
+    },
+    {
+      "id": "x-np-0921-kpi",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-21T14:35:33Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2102044061901418585",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：21日19:00 1451死、5745失联、13784获救",
+        "en": "NDRRMA: 21 Sep 19:00 1451 dead, 5745 missing, 13784 rescued",
+        "ne": "NDRRMA: 21 Sep 19:00 1451/5745/13784",
+        "hi": "NDRRMA: 21 Sep 19:00 1451/5745/13784"
       }
     },
     {
@@ -438,21 +451,6 @@
         "en": "Xinhua: Gyirong Port SAR progress briefing",
         "ne": "Xinhua: Gyirong Port SAR prgati",
         "hi": "Xinhua: Gyirong Port SAR pragati"
-      }
-    },
-    {
-      "id": "x-xh-0905-drone",
-      "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：边检民警无人机航拍吉隆口岸灾后现场",
-        "en": "Xinhua: immigration police drone footage of Gyirong Port",
-        "ne": "Xinhua: Gyirong Port drone footage",
-        "hi": "Xinhua: Gyirong Port drone footage"
       }
     },
     {
