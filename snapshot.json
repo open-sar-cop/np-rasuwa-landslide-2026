@@ -1,10 +1,30 @@
 {
-  "snap": "2026-09-22T20:20:00Z",
+  "snap": "2026-09-22T21:23:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5745, "rescued": 13784 }
   },
   "published": [
+    {
+      "id": "refresh-0922-2123",
+      "src": "official",
+      "t": "2026-09-22T21:23:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2102191861595283718",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "22日21:23Z刷新：无新官方分项",
+        "en": "22 Sep 21:23Z refresh: no newer official split",
+        "ne": "22 Sep 21:23Z: naya split chain",
+        "hi": "22 Sep 21:23Z: naya split nahi"
+      },
+      "body": {
+        "zh": "尼方仍SitRep#20图1451/5745/13784。中方仍9月5日18时43/519/2。国门关，堰塞湖已排空。",
+        "en": "NP still SitRep#20 graphic 1451/5745/13784. CN still 5 Sep 18:00 43/519/2. Gate closed; lake drained.",
+        "ne": "NP 1451/5745/13784. CN 43/519/2. Gate band; tal khali.",
+        "hi": "NP 1451/5745/13784. CN 43/519/2. Gate band; jheel khali."
+      }
+    },
     {
       "id": "ndrrma-0921-5745",
       "src": "official",
@@ -215,26 +235,6 @@
         "en": "Sentinel-2/Planet 26-27 Aug. No newer mapped product. Copernicus EMSR927.",
         "ne": "26-27 Aug imagery. Naya map chain. EMSR927.",
         "hi": "26-27 Aug imagery. Naya map nahi. EMSR927."
-      }
-    },
-    {
-      "id": "refresh-0922-2020",
-      "src": "official",
-      "t": "2026-09-22T20:20:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2102191861595283718",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "22日20:20Z刷新：尼方1451/5745/13784",
-        "en": "22 Sep 20:20Z refresh: NP 1451/5745/13784",
-        "ne": "22 Sep 20:20Z: NP 1451/5745/13784",
-        "hi": "22 Sep 20:20Z: NP 1451/5745/13784"
-      },
-      "body": {
-        "zh": "中方分项仍9月5日18时43/519/2。国门关闭，堰塞湖已排空。美使馆仍勿前往Rasuwagadhi–Timure。",
-        "en": "CN split still 5 Sep 18:00 43/519/2. Gate closed; lake drained. US Embassy still do-not-travel Rasuwagadhi–Timure.",
-        "ne": "CN 43/519/2. Gate band; tal khali.",
-        "hi": "CN 43/519/2. Gate band; jheel khali."
       }
     }
   ],
