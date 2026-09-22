@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-22T16:20:00Z",
+  "snap": "2026-09-22T17:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5786, "rescued": 13784 }
   },
   "published": [
     {
-      "id": "refresh-0922-1620",
+      "id": "refresh-0922-1705",
       "src": "official",
-      "t": "2026-09-22T16:20:00Z",
-      "link": "https://english.ratopati.com/story/80208",
+      "t": "2026-09-22T17:05:00Z",
+      "link": "https://www.ratopati.com/lang-url/593735/en",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "22日16:20Z：无更新官方伤亡分项",
-        "en": "22 Sep 16:20Z: no newer official casualty split",
-        "ne": "22 Sep 16:20Z: naya official casualty split chain",
-        "hi": "22 Sep 16:20Z: naya official casualty split nahi"
+        "zh": "22日17:05Z：官方伤亡分项无更新",
+        "en": "22 Sep 17:05Z: no newer official casualty split",
+        "ne": "22 Sep 17:05Z: naya official split chain",
+        "hi": "22 Sep 17:05Z: naya official split nahi"
       },
       "body": {
-        "zh": "Ratopati/NDRRMA仍1451死、5786失联、13784获救（636外籍失联）。中方仍9月5日18时43/519/2。应急部8月合计562死亡失踪未拆分。国门关闭，堰塞湖已排空。",
-        "en": "Ratopati/NDRRMA still 1451 dead, 5786 missing, 13784 rescued (636 foreign missing). CN still 5 Sep 18:00 43/519/2. MEM Aug 562 combined, no split. Gate closed; lake drained.",
+        "zh": "Ratopati/NDRRMA仍1451死、5786失联、13784获救（636外籍失联）。中方分项仍9月5日18时43/519/2。应急部8月合计562死亡失踪未拆分。国门关闭，堰塞湖已排空。",
+        "en": "Ratopati/NDRRMA still 1451 dead, 5786 missing, 13784 rescued (636 foreign missing). CN split still 5 Sep 18:00 43/519/2. MEM Aug 562 combined, no split. Gate closed; lake drained.",
         "ne": "NDRRMA 1451/5786/13784 (636 videshi). CN 43/519/2. Gate band; tal khali.",
         "hi": "NDRRMA 1451/5786/13784 (636 videshi). CN 43/519/2. Gate band; jheel khali."
       }
