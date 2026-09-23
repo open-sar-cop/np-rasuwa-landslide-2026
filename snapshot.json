@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-23T22:24:00Z",
+  "snap": "2026-09-23T23:22:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5705, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "refresh-0923-2224",
+      "id": "refresh-0923-2322",
       "src": "official",
-      "t": "2026-09-23T22:24:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2102412633223872765",
+      "t": "2026-09-23T23:22:00Z",
+      "link": "https://go.ifrc.org/emergencies/8073/overview",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "23日22:24Z：无更新官方分项",
-        "en": "23 Sep 22:24Z: no newer official split",
-        "ne": "23 Sep 22:24Z: naya official split chain",
-        "hi": "23 Sep 22:24Z: naya official split nahi"
+        "zh": "23日23:22Z：无更新官方分项",
+        "en": "23 Sep 23:22Z: no newer official split",
+        "ne": "23 Sep 23:22Z: naya official split chain",
+        "hi": "23 Sep 23:22Z: naya official split nahi"
       },
       "body": {
-        "zh": "NDRRMA仍22日19:00NPT图1451/5705/13795；中方仍9月5日18时43/519/2。国门关；G216仅救援；堰塞湖已排空。",
-        "en": "NDRRMA still 22 Sep 19:00 NPT graphic 1451/5705/13795. CN still 5 Sep 18:00 43/519/2. Gate closed; G216 SAR only; lake drained.",
-        "ne": "NDRRMA 22 Sep 19:00 1451/5705/13795. CN 43/519/2. Gate band; G216 uddhar matra; tal khali.",
-        "hi": "NDRRMA 22 Sep 19:00 1451/5705/13795. CN 43/519/2. Gate band; G216 kewal SAR; jheel khali."
+        "zh": "IFRC GO 23日仍列NP 1451死/5705失联。NDRRMA图仍22日19:00NPT 1451/5705/13795。中方仍9月5日18时43/519/2。国门关；G216仅救援；堰塞湖已排空。",
+        "en": "IFRC GO 23 Sep still NP 1451 dead / 5705 missing. NDRRMA graphic still 22 Sep 19:00 NPT 1451/5705/13795. CN still 5 Sep 18:00 43/519/2. Gate closed; G216 SAR only; lake drained.",
+        "ne": "IFRC GO 23 Sep: NP 1451/5705. NDRRMA 22 Sep 19:00 1451/5705/13795. CN 43/519/2. Gate band; G216 uddhar matra; tal khali.",
+        "hi": "IFRC GO 23 Sep: NP 1451/5705. NDRRMA 22 Sep 19:00 1451/5705/13795. CN 43/519/2. Gate band; G216 kewal SAR; jheel khali."
       }
     },
     {
