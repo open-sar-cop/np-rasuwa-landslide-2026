@@ -1,28 +1,50 @@
 {
-  "snap": "2026-09-23T23:22:00Z",
+  "snap": "2026-09-23T23:14:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1451, "missing": 5705, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "refresh-0923-2322",
+      "id": "refresh-0923-2314",
       "src": "official",
-      "t": "2026-09-23T23:22:00Z",
-      "link": "https://go.ifrc.org/emergencies/8073/overview",
+      "t": "2026-09-23T23:14:00Z",
+      "link": "https://english.nepalnews.com/s/nation/floods-block-pasang-lhamu-highway-bp-highway-and-tokha-chhahare-road-operate-under-time-limits/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "23日23:22Z：无更新官方分项",
-        "en": "23 Sep 23:22Z: no newer official split",
-        "ne": "23 Sep 23:22Z: naya official split chain",
-        "hi": "23 Sep 23:22Z: naya official split nahi"
+        "zh": "23日23:14Z：无新官方伤亡分项",
+        "en": "23 Sep 23:14Z: no newer official casualty split",
+        "ne": "23 Sep 23:14Z: naya casualty split chain",
+        "hi": "23 Sep 23:14Z: naya casualty split nahi"
       },
       "body": {
-        "zh": "IFRC GO 23日仍列NP 1451死/5705失联。NDRRMA图仍22日19:00NPT 1451/5705/13795。中方仍9月5日18时43/519/2。国门关；G216仅救援；堰塞湖已排空。",
-        "en": "IFRC GO 23 Sep still NP 1451 dead / 5705 missing. NDRRMA graphic still 22 Sep 19:00 NPT 1451/5705/13795. CN still 5 Sep 18:00 43/519/2. Gate closed; G216 SAR only; lake drained.",
-        "ne": "IFRC GO 23 Sep: NP 1451/5705. NDRRMA 22 Sep 19:00 1451/5705/13795. CN 43/519/2. Gate band; G216 uddhar matra; tal khali.",
-        "hi": "IFRC GO 23 Sep: NP 1451/5705. NDRRMA 22 Sep 19:00 1451/5705/13795. CN 43/519/2. Gate band; G216 kewal SAR; jheel khali."
+        "zh": "中方仍9月5日18时43死519失联2获救。尼方仍NDRRMA 22日19:00NPT 1451/5705/13795。尼警23日：帕桑拉姆公路中断。国门关；G216仅救援；堰塞湖已排空。",
+        "en": "CN still 5 Sep 18:00 43/519/2. NP still NDRRMA 22 Sep 19:00 NPT 1451/5705/13795. Nepal Police 23 Sep: Pasang Lhamu Highway disrupted. Gate closed; G216 SAR only; lake drained.",
+        "ne": "CN 43/519/2. NDRRMA 22 Sep 19:00 1451/5705/13795. Police: Pasang Lhamu band. Gate band; G216 uddhar; tal khali.",
+        "hi": "CN 43/519/2. NDRRMA 22 Sep 19:00 1451/5705/13795. Police: Pasang Lhamu band. Gate band; G216 SAR; jheel khali."
+      }
+    },
+    {
+      "id": "np-police-0923-road",
+      "src": "official",
+      "t": "2026-09-23T03:59:00Z",
+      "link": "https://english.nepalnews.com/s/nation/floods-block-pasang-lhamu-highway-bp-highway-and-tokha-chhahare-road-operate-under-time-limits/",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Timure",
+      "title": {
+        "zh": "尼警23日：帕桑拉姆公路中断",
+        "en": "Nepal Police 23 Sep: Pasang Lhamu Highway blocked",
+        "ne": "Nepal Police 23 Sep: Pasang Lhamu Highway band",
+        "hi": "Nepal Police 23 Sep: Pasang Lhamu Highway band"
+      },
+      "body": {
+        "zh": "特里舒利–贝特拉瓦蒂河岸路段冲毁。通往Syafrubesi有单车道土路。Rasuwagadhi通道仍严重损毁。",
+        "en": "Trishuli–Betrawati riverbank washed out. Single-lane dirt detour toward Syafrubesi. Rasuwagadhi access still badly damaged.",
+        "ne": "Trishuli–Betrawati bato bagiyo. Syafrubesi ek-lane mati. Rasuwagadhi bigreko.",
+        "hi": "Trishuli–Betrawati sadak bahi. Syafrubesi ek-lane mitti. Rasuwagadhi kshatigrast."
       }
     },
     {
@@ -63,26 +85,6 @@
         "en": "Official X posted #21 at 22 Sep 16:35Z. KPI from same-day graphic 1451/5705/13795.",
         "ne": "X ma #21. KPI 1451/5705/13795.",
         "hi": "X par #21. KPI 1451/5705/13795."
-      }
-    },
-    {
-      "id": "ndrrma-0921-5745",
-      "src": "official",
-      "t": "2026-09-21T13:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2102044061901418585",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 21日19:00NPT：1451死、5745失联、13784获救",
-        "en": "NDRRMA 21 Sep 19:00 NPT: 1451 dead, 5745 missing, 13784 rescued",
-        "ne": "NDRRMA 21 Sep 19:00: 1451/5745/13784",
-        "hi": "NDRRMA 21 Sep 19:00: 1451/5745/13784"
-      },
-      "body": {
-        "zh": "前一日分项。失联已于22日下调至5705，获救上调至13795。",
-        "en": "Prior-day split. Missing revised to 5705 and rescued to 13795 on 22 Sep.",
-        "ne": "Aghillo din. Missing 22 Sep 5705; rescued 13795.",
-        "hi": "Pichhla din. Missing 22 Sep 5705; rescued 13795."
       }
     },
     {
@@ -189,10 +191,10 @@
         "hi": "US Embassy: Rasuwagadhi–Timure–Syafrubesi na jayen"
       },
       "body": {
-        "zh": "Level 4。8日通报仍有效；本轮无更新使馆道路通报。",
-        "en": "Level 4. 8 Sep notice still in force; no newer embassy road notice this run.",
-        "ne": "Level 4. 8 Sep suchana; yo run naya chain.",
-        "hi": "Level 4. 8 Sep suchna; is run nai nahi."
+        "zh": "Level 4。8日通报仍有效；本轮无更新使馆伤亡数字。",
+        "en": "Level 4. 8 Sep notice still in force; no newer embassy casualty figures.",
+        "ne": "Level 4. 8 Sep suchana; casualty naya chain.",
+        "hi": "Level 4. 8 Sep suchna; casualty nai nahi."
       }
     },
     {
@@ -267,10 +269,10 @@
         "hi": "Rasuwagadhi–Timure"
       },
       "detail": {
-        "zh": "美使馆勿前往；边境通道关闭",
-        "en": "US Embassy do-not-travel; crossing closed",
-        "ne": "Yatra nagar; simana band",
-        "hi": "Yatra na karen; seema band"
+        "zh": "美使馆勿前往；帕桑拉姆公路中断；边境通道关闭",
+        "en": "US Embassy do-not-travel; Pasang Lhamu blocked; crossing closed",
+        "ne": "Yatra nagar; Pasang Lhamu band; simana band",
+        "hi": "Yatra na karen; Pasang Lhamu band; seema band"
       }
     }
   ],
