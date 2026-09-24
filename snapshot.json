@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-25T03:15:00Z",
+  "snap": "2026-09-25T04:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5644, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "scan-0925-0315",
+      "id": "scan-0925-0410",
       "src": "official",
-      "t": "2026-09-25T03:15:00Z",
+      "t": "2026-09-25T04:10:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2103072481263407238",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "25日03:15UTC扫描：无新官方死失踪分项",
-        "en": "25 Sep 03:15UTC scan: no newer official casualty split",
-        "ne": "25 Sep 03:15UTC: naya official split chain",
-        "hi": "25 Sep 03:15UTC: naya official split nahi"
+        "zh": "25日04:10UTC扫描：无新官方死失踪分项",
+        "en": "25 Sep 04:10UTC scan: no newer official casualty split",
+        "ne": "25 Sep 04:10UTC: naya official split chain",
+        "hi": "25 Sep 04:10UTC: naya official split nahi"
       },
       "body": {
-        "zh": "新华/应急部无新拆分。MEM 18日仅口岸562死亡失踪合计。KPI仍用中方5日18时43/519/2、尼方23日19:00NPT 1453/5644/13795。国门关闭；堰塞湖已排空。NDRRMA今日为季风SitRep 2272，非Rasuwa伤亡更新。",
-        "en": "No new Xinhua/MEM split. MEM 18 Sep only combined 562 dead+missing at port. KPI still CN 5 Sep 18:00 43/519/2 and NP 23 Sep 19:00 NPT 1453/5644/13795. Gate closed; lake drained. Today's NDRRMA SitRep 2272 is monsoon bulletin, not Rasuwa casualty update.",
-        "ne": "Xinhua/MEM naya split chain. MEM 18 Sep 562 jog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; tal khali. Aaja SitRep 2272 monsoon ho, Rasuwa casualty hoina.",
-        "hi": "Xinhua/MEM naya split nahi. MEM 18 Sep 562 yog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; jheel khali. Aaj SitRep 2272 monsoon hai, Rasuwa casualty nahi."
+        "zh": "新华/应急部无新拆分。MEM 18日仅口岸562死亡失踪合计。KPI仍用中方5日18时43/519/2、尼方23日19:00NPT 1453/5644/13795。国门关闭；堰塞湖已排空。NDRRMA 24日SitRep 2272为全国季风日报，非Rasuwa伤亡更新。",
+        "en": "No new Xinhua/MEM split. MEM 18 Sep only combined 562 dead+missing at port. KPI still CN 5 Sep 18:00 43/519/2 and NP 23 Sep 19:00 NPT 1453/5644/13795. Gate closed; lake drained. NDRRMA 24 Sep SitRep 2272 is national monsoon bulletin, not Rasuwa casualty update.",
+        "ne": "Xinhua/MEM naya split chain. MEM 18 Sep 562 jog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; tal khali. SitRep 2272 monsoon ho, Rasuwa casualty hoina.",
+        "hi": "Xinhua/MEM naya split nahi. MEM 18 Sep 562 yog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; jheel khali. SitRep 2272 monsoon hai, Rasuwa casualty nahi."
       }
     },
     {
@@ -379,6 +379,19 @@
       }
     },
     {
+      "id": "x-np-0924-monsoon",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-24T11:08:57Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103079235552493688",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：季风提醒（非伤亡分项）",
+        "en": "NDRRMA: monsoon caution video (not casualty split)",
+        "ne": "NDRRMA: monsoon satarkata (casualty hoina)",
+        "hi": "NDRRMA: monsoon savdhani (casualty nahi)"
+      }
+    },
+    {
       "id": "x-np-0924-river",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-24T04:49:10Z",
@@ -443,19 +456,6 @@
         "en": "CCTV+: as of 5 Sep 18:00 Gyirong Port 43 dead, 519 missing",
         "ne": "CCTV+: 5 Sep 18:00 Gyirong 43/519",
         "hi": "CCTV+: 5 Sep 18:00 Gyirong 43/519"
-      }
-    },
-    {
-      "id": "x-xh-cma",
-      "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华：国家气候中心向尼方滚动提供气候监测预报支援救援",
-        "en": "Xinhua: CMA rolling climate products to Nepal for relief",
-        "ne": "Xinhua: CMA Nepal lai mausam sahayog",
-        "hi": "Xinhua: CMA Nepal ko mausam sahayata"
       }
     },
     {
