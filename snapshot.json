@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-24T22:10:00Z",
+  "snap": "2026-09-24T23:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5644, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "scan-0924-2210",
+      "id": "scan-0924-2310",
       "src": "official",
-      "t": "2026-09-24T22:10:00Z",
+      "t": "2026-09-24T23:10:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2102983660916081080",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "24日22:10UTC扫描：无新官方死失踪分项",
-        "en": "24 Sep 22:10UTC scan: no newer official casualty split",
-        "ne": "24 Sep 22:10UTC: naya official split chain",
-        "hi": "24 Sep 22:10UTC: naya official split nahi"
+        "zh": "24日23:10UTC扫描：无新官方死失踪分项",
+        "en": "24 Sep 23:10UTC scan: no newer official casualty split",
+        "ne": "24 Sep 23:10UTC: naya official split chain",
+        "hi": "24 Sep 23:10UTC: naya official split nahi"
       },
       "body": {
         "zh": "新华/应急部无新拆分。MEM 18日仅口岸562死亡失踪合计。KPI仍用中方5日18时43/519/2、尼方23日19:00NPT 1453/5644/13795。国门关闭；堰塞湖已排空。NDRRMA今日仅降雨与河道水位预警。无新SitRep。",
