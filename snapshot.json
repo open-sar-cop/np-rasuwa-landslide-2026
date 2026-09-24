@@ -1,28 +1,48 @@
 {
-  "snap": "2026-09-25T02:10:00Z",
+  "snap": "2026-09-25T03:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5644, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "scan-0925-0210",
+      "id": "scan-0925-0315",
       "src": "official",
-      "t": "2026-09-25T02:10:00Z",
-      "link": "https://www.zaobao.com.sg/news/china/story20260918-9699028",
+      "t": "2026-09-25T03:15:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103072481263407238",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "25日02:10UTC扫描：无新官方死失踪分项",
-        "en": "25 Sep 02:10UTC scan: no newer official casualty split",
-        "ne": "25 Sep 02:10UTC: naya official split chain",
-        "hi": "25 Sep 02:10UTC: naya official split nahi"
+        "zh": "25日03:15UTC扫描：无新官方死失踪分项",
+        "en": "25 Sep 03:15UTC scan: no newer official casualty split",
+        "ne": "25 Sep 03:15UTC: naya official split chain",
+        "hi": "25 Sep 03:15UTC: naya official split nahi"
       },
       "body": {
-        "zh": "新华/应急部无新拆分。MEM 18日仅口岸562死亡失踪合计。KPI仍用中方5日18时43/519/2、尼方23日19:00NPT 1453/5644/13795。国门关闭；堰塞湖已排空。无新SitRep。",
-        "en": "No new Xinhua/MEM split. MEM 18 Sep only combined 562 dead+missing at port. KPI still CN 5 Sep 18:00 43/519/2 and NP 23 Sep 19:00 NPT 1453/5644/13795. Gate closed; lake drained. No new SitRep.",
-        "ne": "Xinhua/MEM naya split chain. MEM 18 Sep 562 jog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; tal khali. Naya SitRep chain.",
-        "hi": "Xinhua/MEM naya split nahi. MEM 18 Sep 562 yog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; jheel khali. Naya SitRep nahi."
+        "zh": "新华/应急部无新拆分。MEM 18日仅口岸562死亡失踪合计。KPI仍用中方5日18时43/519/2、尼方23日19:00NPT 1453/5644/13795。国门关闭；堰塞湖已排空。NDRRMA今日为季风SitRep 2272，非Rasuwa伤亡更新。",
+        "en": "No new Xinhua/MEM split. MEM 18 Sep only combined 562 dead+missing at port. KPI still CN 5 Sep 18:00 43/519/2 and NP 23 Sep 19:00 NPT 1453/5644/13795. Gate closed; lake drained. Today's NDRRMA SitRep 2272 is monsoon bulletin, not Rasuwa casualty update.",
+        "ne": "Xinhua/MEM naya split chain. MEM 18 Sep 562 jog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; tal khali. Aaja SitRep 2272 monsoon ho, Rasuwa casualty hoina.",
+        "hi": "Xinhua/MEM naya split nahi. MEM 18 Sep 562 yog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; jheel khali. Aaj SitRep 2272 monsoon hai, Rasuwa casualty nahi."
+      }
+    },
+    {
+      "id": "ndrrma-0924-sitrep2272",
+      "src": "official",
+      "t": "2026-09-24T10:42:07Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103072481263407238",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 8阿斯温：每日SitRep 2272",
+        "en": "NDRRMA 8 Ashwin: daily SitRep 2272",
+        "ne": "NDRRMA 8 Ashoj: SitRep 2272",
+        "hi": "NDRRMA 8 Ashwin: SitRep 2272"
+      },
+      "body": {
+        "zh": "全国灾害日报。非Rasuwa伤亡分项。",
+        "en": "National daily disaster bulletin. Not a Rasuwa casualty split.",
+        "ne": "Rastriya dainik bulletin. Rasuwa casualty hoina.",
+        "hi": "Rashtriya daily bulletin. Rasuwa casualty nahi."
       }
     },
     {
@@ -43,26 +63,6 @@
         "en": "Isolated heavy rain. Not a casualty update. Stay alert.",
         "ne": "Kahin bhari barsa. Casualty hoina. Satark rahanu.",
         "hi": "Kahi bhari barish. Casualty nahi. Savdhan rahen."
-      }
-    },
-    {
-      "id": "ndrrma-0924-rain",
-      "src": "official",
-      "t": "2026-09-24T03:40:42Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2102966429490495874",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA：近12小时大部有雨，局部大雨",
-        "en": "NDRRMA: rain in most areas last 12h; isolated heavy",
-        "ne": "NDRRMA: 12 ghanta dherai thau barsa",
-        "hi": "NDRRMA: 12 ghante zyadatar barish"
-      },
-      "body": {
-        "zh": "转发DHM未来四日天气图。非伤亡更新。",
-        "en": "Via DHM four-day map. Not a casualty update.",
-        "ne": "DHM 4-din naksā. Casualty hoina.",
-        "hi": "DHM 4-din naksha. Casualty nahi."
       }
     },
     {
@@ -366,6 +366,19 @@
   },
   "xPosts": [
     {
+      "id": "x-np-0924-2272",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-24T10:42:07Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103072481263407238",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：8阿斯温每日SitRep 2272（非Rasuwa伤亡）",
+        "en": "NDRRMA: 8 Ashwin daily SitRep 2272 (not Rasuwa casualties)",
+        "ne": "NDRRMA: 8 Ashoj SitRep 2272 (Rasuwa casualty hoina)",
+        "hi": "NDRRMA: 8 Ashwin SitRep 2272 (Rasuwa casualty nahi)"
+      }
+    },
+    {
       "id": "x-np-0924-river",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-24T04:49:10Z",
@@ -458,21 +471,6 @@
         "en": "Xinhua: G216 to port core restored 2 Sep 10:00",
         "ne": "Xinhua: G216 core 2 Sep 10:00 khulyo",
         "hi": "Xinhua: G216 core 2 Sep 10:00 khula"
-      }
-    },
-    {
-      "id": "x-xh-0905-drone",
-      "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：边检民警无人机记录吉隆口岸灾后现场",
-        "en": "Xinhua: immigration police drone footage near Gyirong Port",
-        "ne": "Xinhua: Gyirong Port drone",
-        "hi": "Xinhua: Gyirong Port drone"
       }
     }
   ]
