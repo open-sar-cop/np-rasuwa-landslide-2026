@@ -1,10 +1,30 @@
 {
-  "snap": "2026-09-25T12:05:00Z",
+  "snap": "2026-09-25T13:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
+    {
+      "id": "ndrrma-0925-nochg",
+      "src": "official",
+      "t": "2026-09-25T13:10:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103156263404372217",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "25日13:10UTC：无新官方分项",
+        "en": "25 Sep 13:10 UTC: no new official split",
+        "ne": "25 Sep 13:10 UTC: naya official split chain",
+        "hi": "25 Sep 13:10 UTC: naya official split nahi"
+      },
+      "body": {
+        "zh": "NDRRMA最新仍为24日19:00NPT图。中方仍用5日18时43/519/2。",
+        "en": "Latest NDRRMA remains 24 Sep 19:00 NPT graphic. CN still 5 Sep 18:00 43/519/2.",
+        "ne": "NDRRMA 24 Sep 19:00. CN 5 Sep 18:00 43/519/2.",
+        "hi": "NDRRMA 24 Sep 19:00. CN 5 Sep 18:00 43/519/2."
+      }
+    },
     {
       "id": "ndrrma-0924-sitrep23",
       "src": "official",
@@ -19,8 +39,8 @@
         "hi": "NDRRMA SitRep #23: 24 Sep 19:00"
       },
       "body": {
-        "zh": "官方状况报告链接。伤亡与同日19:00图一致：1453/5550/13795。",
-        "en": "Official sitrep link. Casualties match 19:00 graphic: 1453/5550/13795.",
+        "zh": "官方状况报告。伤亡与同日19:00图一致：1453/5550/13795。",
+        "en": "Official sitrep. Casualties match 19:00 graphic: 1453/5550/13795.",
         "ne": "Sitrep. Graphic sanga milcha: 1453/5550/13795.",
         "hi": "Sitrep. Graphic se match: 1453/5550/13795."
       }
@@ -39,50 +59,10 @@
         "hi": "NDRRMA 24 Sep 19:00: 1453/5550/13795"
       },
       "body": {
-        "zh": "官方图。失踪已扣移交遗体112具。636外籍失联。勿与中方相加。中方无新拆分。",
-        "en": "Official graphic. Missing after 112 handed-over bodies deducted. 636 foreign missing. Do not add CN. No new CN split.",
-        "ne": "Graphic. 112 lash katyo. 636 videshi. CN najodnu. CN naya split chain.",
-        "hi": "Graphic. 112 shav kate. 636 videshi. CN na joden. CN naya split nahi."
-      }
-    },
-    {
-      "id": "ndrrma-0924-sitrep2272",
-      "src": "official",
-      "t": "2026-09-24T10:42:07Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103072481263407238",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 8阿斯温：每日SitRep 2272",
-        "en": "NDRRMA 8 Ashwin: daily SitRep 2272",
-        "ne": "NDRRMA 8 Ashoj: SitRep 2272",
-        "hi": "NDRRMA 8 Ashwin: SitRep 2272"
-      },
-      "body": {
-        "zh": "全国灾害日报。非Rasuwa伤亡分项。",
-        "en": "National daily disaster bulletin. Not a Rasuwa casualty split.",
-        "ne": "Rastriya dainik bulletin. Rasuwa casualty hoina.",
-        "hi": "Rashtriya daily bulletin. Rasuwa casualty nahi."
-      }
-    },
-    {
-      "id": "ndrrma-0923-1453",
-      "src": "official",
-      "t": "2026-09-23T13:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2102764680796393770",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 23日19:00NPT：1453死、5644失联、13795获救",
-        "en": "NDRRMA 23 Sep 19:00 NPT: 1453 dead, 5644 missing, 13795 rescued",
-        "ne": "NDRRMA 23 Sep 19:00: 1453/5644/13795",
-        "hi": "NDRRMA 23 Sep 19:00: 1453/5644/13795"
-      },
-      "body": {
-        "zh": "前一日官方图。24日图失踪下调至5550。",
-        "en": "Prior official graphic. 24 Sep graphic revised missing to 5550.",
-        "ne": "Aghillo graphic. 24 Sep missing 5550.",
-        "hi": "Pichhla graphic. 24 Sep missing 5550."
+        "zh": "官方图。失踪已扣移交遗体。636外籍失联。勿与中方相加。",
+        "en": "Official graphic. Missing after handed-over bodies deducted. 636 foreign missing. Do not add CN.",
+        "ne": "Graphic. Lash katyo. 636 videshi. CN najodnu.",
+        "hi": "Graphic. Shav kate. 636 videshi. CN na joden."
       }
     },
     {
@@ -123,10 +103,10 @@
         "hi": "MEM: Gyirong 562 dead+missing (yog)"
       },
       "body": {
-        "zh": "正在进一步核查。未拆分死/失联。勿把562当新增分项。KPI仍用5日43/519/2。",
-        "en": "Still under verification. No split. Do not treat 562 as a new split. KPI remains 5 Sep 43/519/2.",
-        "ne": "Jaanch jari. Split chain. 562 naya hoina. KPI 43/519/2.",
-        "hi": "Jaanch jari. Split nahi. 562 naya nahi. KPI 43/519/2."
+        "zh": "正在进一步核查。未拆分死/失联。KPI仍用5日43/519/2。",
+        "en": "Still under verification. No split. KPI remains 5 Sep 43/519/2.",
+        "ne": "Jaanch jari. Split chain. KPI 43/519/2.",
+        "hi": "Jaanch jari. Split nahi. KPI 43/519/2."
       }
     },
     {
@@ -398,32 +378,6 @@
       }
     },
     {
-      "id": "x-np-0924-river",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-24T04:49:10Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2102983660916081080",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA：近12小时大部降雨，部分河道水位显著上涨",
-        "en": "NDRRMA: rain last 12h; some river levels rose sharply",
-        "ne": "NDRRMA: 12 ghanta barsa; kehi nadi badyo",
-        "hi": "NDRRMA: 12 ghante barish; kuch nadi uchi"
-      }
-    },
-    {
-      "id": "x-np-sitrep22",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-23T17:10:44Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2102807890415513766",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA SitRep #22：23日19:00NPT",
-        "en": "NDRRMA SitRep #22: 23 Sep 19:00 NPT",
-        "ne": "NDRRMA SitRep #22: 23 Sep 19:00",
-        "hi": "NDRRMA SitRep #22: 23 Sep 19:00"
-      }
-    },
-    {
       "id": "x-cctv-0905-kpi",
       "user": "@CCTV_Plus",
       "t": "2026-09-07T02:35:18Z",
@@ -451,6 +405,36 @@
         "en": "Xinhua: G216 to port core restored 2 Sep 10:00",
         "ne": "Xinhua: G216 core 2 Sep 10:00 khulyo",
         "hi": "Xinhua: G216 core 2 Sep 10:00 khula"
+      }
+    },
+    {
+      "id": "x-xh-drone",
+      "user": "@XHNews",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华：口岸灾后无人机画面",
+        "en": "Xinhua: drone footage near Gyirong Port after slide",
+        "ne": "Xinhua: Gyirong drone footage",
+        "hi": "Xinhua: Gyirong drone footage"
+      }
+    },
+    {
+      "id": "x-xh-roadhard",
+      "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.3,
+      "lng": 85.368,
+      "geo": "G216",
+      "text": {
+        "zh": "新华：G216抢通两小时推进不足5米",
+        "en": "Xinhua: G216 advance under 5 m in two hours",
+        "ne": "Xinhua: G216 dui ghanta 5 m bhanda kam",
+        "hi": "Xinhua: G216 do ghante 5 m se kam"
       }
     }
   ]
