@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-24T22:05:00Z",
+  "snap": "2026-09-24T22:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5644, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "scan-0924-2205",
+      "id": "scan-0924-2210",
       "src": "official",
-      "t": "2026-09-24T22:05:00Z",
+      "t": "2026-09-24T22:10:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2102983660916081080",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "24日22:05UTC扫描：无新官方死失踪分项",
-        "en": "24 Sep 22:05UTC scan: no newer official casualty split",
-        "ne": "24 Sep 22:05UTC: naya official split chain",
-        "hi": "24 Sep 22:05UTC: naya official split nahi"
+        "zh": "24日22:10UTC扫描：无新官方死失踪分项",
+        "en": "24 Sep 22:10UTC scan: no newer official casualty split",
+        "ne": "24 Sep 22:10UTC: naya official split chain",
+        "hi": "24 Sep 22:10UTC: naya official split nahi"
       },
       "body": {
-        "zh": "新华/应急部无新拆分。MEM 18日仅口岸562死亡失踪合计。KPI仍用中方5日18时43/519/2、尼方23日19:00NPT 1453/5644/13795。国门关闭；堰塞湖已排空。NDRRMA今日仅降雨与河道水位预警。",
-        "en": "No new Xinhua/MEM split. MEM 18 Sep only combined 562 dead+missing at port. KPI still CN 5 Sep 18:00 43/519/2 and NP 23 Sep 19:00 NPT 1453/5644/13795. Gate closed; lake drained. NDRRMA today: rain and river-level alert only.",
-        "ne": "Xinhua/MEM naya split chain. MEM 18 Sep 562 jog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; tal khali. Aaja barsa/nadi matra.",
-        "hi": "Xinhua/MEM naya split nahi. MEM 18 Sep 562 yog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; jheel khali. Aaj barish/nadi hi."
+        "zh": "新华/应急部无新拆分。MEM 18日仅口岸562死亡失踪合计。KPI仍用中方5日18时43/519/2、尼方23日19:00NPT 1453/5644/13795。国门关闭；堰塞湖已排空。NDRRMA今日仅降雨与河道水位预警。无新SitRep。",
+        "en": "No new Xinhua/MEM split. MEM 18 Sep only combined 562 dead+missing at port. KPI still CN 5 Sep 18:00 43/519/2 and NP 23 Sep 19:00 NPT 1453/5644/13795. Gate closed; lake drained. NDRRMA today: rain and river-level alert only. No new SitRep.",
+        "ne": "Xinhua/MEM naya split chain. MEM 18 Sep 562 jog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; tal khali. Aaja barsa/nadi matra. Naya SitRep chain.",
+        "hi": "Xinhua/MEM naya split nahi. MEM 18 Sep 562 yog. KPI CN 43/519/2, NP 1453/5644/13795. Gate band; jheel khali. Aaj barish/nadi hi. Naya SitRep nahi."
       }
     },
     {
@@ -99,10 +99,10 @@
         "hi": "SitRep #22 (23 Sep 19:00)"
       },
       "body": {
-        "zh": "官方X发布#22。KPI取同日图1453/5644/13795。",
-        "en": "Official X posted #22. KPI from same-day graphic 1453/5644/13795.",
-        "ne": "X ma #22. KPI 1453/5644/13795.",
-        "hi": "X par #22. KPI 1453/5644/13795."
+        "zh": "官方X发布#22。KPI取同日图1453/5644/13795。本轮无#23。",
+        "en": "Official X posted #22. KPI from same-day graphic 1453/5644/13795. No #23 this run.",
+        "ne": "X ma #22. KPI 1453/5644/13795. #23 chain.",
+        "hi": "X par #22. KPI 1453/5644/13795. #23 nahi."
       }
     },
     {
