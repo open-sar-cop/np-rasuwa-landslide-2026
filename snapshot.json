@@ -1,15 +1,35 @@
 {
-  "snap": "2026-09-25T05:10:00Z",
+  "snap": "2026-09-25T12:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
+      "id": "ndrrma-0924-sitrep23",
+      "src": "official",
+      "t": "2026-09-24T16:15:02Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103156263404372217",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA SitRep #23：24日19:00NPT",
+        "en": "NDRRMA SitRep #23: 24 Sep 19:00 NPT",
+        "ne": "NDRRMA SitRep #23: 24 Sep 19:00",
+        "hi": "NDRRMA SitRep #23: 24 Sep 19:00"
+      },
+      "body": {
+        "zh": "官方状况报告链接。伤亡与同日19:00图一致：1453/5550/13795。",
+        "en": "Official sitrep link. Casualties match 19:00 graphic: 1453/5550/13795.",
+        "ne": "Sitrep. Graphic sanga milcha: 1453/5550/13795.",
+        "hi": "Sitrep. Graphic se match: 1453/5550/13795."
+      }
+    },
+    {
       "id": "ndrrma-0924-1900",
       "src": "official",
       "t": "2026-09-24T13:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103138899434639646",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103142592833843617",
       "img": null,
       "geo": "unknown",
       "title": {
@@ -43,26 +63,6 @@
         "en": "National daily disaster bulletin. Not a Rasuwa casualty split.",
         "ne": "Rastriya dainik bulletin. Rasuwa casualty hoina.",
         "hi": "Rashtriya daily bulletin. Rasuwa casualty nahi."
-      }
-    },
-    {
-      "id": "ndrrma-0924-river",
-      "src": "official",
-      "t": "2026-09-24T04:49:10Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2102983660916081080",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA：近12小时大部有雨，部分河道水位显著上涨",
-        "en": "NDRRMA: rain last 12h; some river levels rose sharply",
-        "ne": "NDRRMA: 12 ghanta barsa; kehi nadi badyo",
-        "hi": "NDRRMA: 12 ghante barish; kuch nadiyan uchi"
-      },
-      "body": {
-        "zh": "局部大雨。非伤亡更新。请戒备。",
-        "en": "Isolated heavy rain. Not a casualty update. Stay alert.",
-        "ne": "Kahin bhari barsa. Casualty hoina. Satark rahanu.",
-        "hi": "Kahi bhari barish. Casualty nahi. Savdhan rahen."
       }
     },
     {
@@ -346,16 +346,29 @@
   },
   "xPosts": [
     {
-      "id": "x-np-0924-kpi",
+      "id": "x-np-0924-sitrep23",
       "user": "@NDRRMA_Nepal",
-      "t": "2026-09-24T15:06:02Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103138899434639646",
+      "t": "2026-09-24T16:15:02Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103156263404372217",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA：24日19:00 1453死、5550失联、13795获救",
-        "en": "NDRRMA: 24 Sep 19:00 1453 dead, 5550 missing, 13795 rescued",
-        "ne": "NDRRMA: 24 Sep 19:00 1453/5550/13795",
-        "hi": "NDRRMA: 24 Sep 19:00 1453/5550/13795"
+        "zh": "NDRRMA SitRep #23：24日19:00NPT",
+        "en": "NDRRMA SitRep #23: 24 Sep 19:00 NPT",
+        "ne": "NDRRMA SitRep #23: 24 Sep 19:00",
+        "hi": "NDRRMA SitRep #23: 24 Sep 19:00"
+      }
+    },
+    {
+      "id": "x-np-0924-en-graphic",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-24T15:20:43Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103142592833843617",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA英文图：24日19:00 1453死、5550失联、13795获救",
+        "en": "NDRRMA EN graphic: 24 Sep 19:00 1453 dead, 5550 missing, 13795 rescued",
+        "ne": "NDRRMA EN graphic: 24 Sep 19:00 1453/5550/13795",
+        "hi": "NDRRMA EN graphic: 24 Sep 19:00 1453/5550/13795"
       }
     },
     {
@@ -408,19 +421,6 @@
         "en": "NDRRMA SitRep #22: 23 Sep 19:00 NPT",
         "ne": "NDRRMA SitRep #22: 23 Sep 19:00",
         "hi": "NDRRMA SitRep #22: 23 Sep 19:00"
-      }
-    },
-    {
-      "id": "x-np-0923-kpi",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-23T14:19:02Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2102764680796393770",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA：23日19:00 1453死、5644失联、13795获救",
-        "en": "NDRRMA: 23 Sep 19:00 1453 dead, 5644 missing, 13795 rescued",
-        "ne": "NDRRMA: 23 Sep 19:00 1453/5644/13795",
-        "hi": "NDRRMA: 23 Sep 19:00 1453/5644/13795"
       }
     },
     {
