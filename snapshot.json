@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-25T13:10:00Z",
+  "snap": "2026-09-25T13:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "ndrrma-0925-nochg",
+      "id": "ndrrma-0925-1315",
       "src": "official",
-      "t": "2026-09-25T13:10:00Z",
+      "t": "2026-09-25T13:15:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2103156263404372217",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "25日13:10UTC：无新官方分项",
-        "en": "25 Sep 13:10 UTC: no new official split",
-        "ne": "25 Sep 13:10 UTC: naya official split chain",
-        "hi": "25 Sep 13:10 UTC: naya official split nahi"
+        "zh": "25日13:15UTC：无新官方分项",
+        "en": "25 Sep 13:15 UTC: no new official split",
+        "ne": "25 Sep 13:15 UTC: naya official split chain",
+        "hi": "25 Sep 13:15 UTC: naya official split nahi"
       },
       "body": {
-        "zh": "NDRRMA最新仍为24日19:00NPT图。中方仍用5日18时43/519/2。",
-        "en": "Latest NDRRMA remains 24 Sep 19:00 NPT graphic. CN still 5 Sep 18:00 43/519/2.",
-        "ne": "NDRRMA 24 Sep 19:00. CN 5 Sep 18:00 43/519/2.",
-        "hi": "NDRRMA 24 Sep 19:00. CN 5 Sep 18:00 43/519/2."
+        "zh": "NDRRMA最新仍为24日19:00NPT图。中方仍用5日18时43/519/2。应急部8月合计562死亡失踪未拆分。",
+        "en": "Latest NDRRMA remains 24 Sep 19:00 NPT graphic. CN still 5 Sep 18:00 43/519/2. MEM Aug combined 562 no split.",
+        "ne": "NDRRMA 24 Sep 19:00. CN 5 Sep 18:00 43/519/2. MEM 562 jog, split chain.",
+        "hi": "NDRRMA 24 Sep 19:00. CN 5 Sep 18:00 43/519/2. MEM 562 yog, split nahi."
       }
     },
     {
@@ -365,19 +365,6 @@
       }
     },
     {
-      "id": "x-np-0924-2272",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-24T10:42:07Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103072481263407238",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA：8阿斯温每日SitRep 2272（非Rasuwa伤亡）",
-        "en": "NDRRMA: 8 Ashwin daily SitRep 2272 (not Rasuwa casualties)",
-        "ne": "NDRRMA: 8 Ashoj SitRep 2272 (Rasuwa casualty hoina)",
-        "hi": "NDRRMA: 8 Ashwin SitRep 2272 (Rasuwa casualty nahi)"
-      }
-    },
-    {
       "id": "x-cctv-0905-kpi",
       "user": "@CCTV_Plus",
       "t": "2026-09-07T02:35:18Z",
@@ -435,6 +422,21 @@
         "en": "Xinhua: G216 advance under 5 m in two hours",
         "ne": "Xinhua: G216 dui ghanta 5 m bhanda kam",
         "hi": "Xinhua: G216 do ghante 5 m se kam"
+      }
+    },
+    {
+      "id": "x-xh-foreign",
+      "user": "@XHNews",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华：口岸失联外籍261人、23国",
+        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted",
+        "ne": "Xinhua: 261 videshi, 23 desh",
+        "hi": "Xinhua: 261 videshi, 23 desh"
       }
     }
   ]
