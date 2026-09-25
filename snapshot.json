@@ -1,28 +1,48 @@
 {
-  "snap": "2026-09-25T18:10:00Z",
+  "snap": "2026-09-25T19:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0925-1810",
+      "id": "poll-0925-1910",
       "src": "official",
-      "t": "2026-09-25T18:10:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103348799527874656",
+      "t": "2026-09-25T19:10:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103361876503728431",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "25日18:10UTC：无新官方伤亡分项",
-        "en": "25 Sep 18:10 UTC: no new official casualty split",
-        "ne": "25 Sep 18:10 UTC: naya official split chain",
-        "hi": "25 Sep 18:10 UTC: naya official split nahi"
+        "zh": "25日19:10UTC：无新官方伤亡分项",
+        "en": "25 Sep 19:10 UTC: no new official casualty split",
+        "ne": "25 Sep 19:10 UTC: naya official split chain",
+        "hi": "25 Sep 19:10 UTC: naya official split nahi"
       },
       "body": {
-        "zh": "NDRRMA仍为24日19:00NPT：1453/5550/13795。中方仍用5日18时43/519/2。新华：堰塞湖已排空。今日NDRRMA为公路封闭与暴雨预警，无新SitRep。",
-        "en": "NDRRMA still 24 Sep 19:00 NPT: 1453/5550/13795. CN still 5 Sep 18:00 43/519/2. Xinhua: barrier lake drained. Today NDRRMA road-closure and rain alerts; no new SitRep.",
+        "zh": "NDRRMA伤亡仍为24日19:00NPT：1453/5550/13795。中方仍用5日18时43/519/2。新华：堰塞湖已排空。今日NDRRMA为公路封闭、暴雨与河流预警，无新SitRep。",
+        "en": "NDRRMA still 24 Sep 19:00 NPT: 1453/5550/13795. CN still 5 Sep 18:00 43/519/2. Xinhua: barrier lake drained. Today NDRRMA road-closure and flood/rain alerts; no new SitRep.",
         "ne": "NDRRMA 24 Sep 19:00: 1453/5550/13795. CN 5 Sep 18:00 43/519/2. Bandh tal khali. Aaja SitRep chain.",
         "hi": "NDRRMA 24 Sep 19:00: 1453/5550/13795. CN 5 Sep 18:00 43/519/2. Bandh jheel khali. Aaj SitRep nahi."
+      }
+    },
+    {
+      "id": "ndrrma-0925-sms",
+      "src": "official",
+      "t": "2026-09-25T05:52:04Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103361876503728431",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA：Tinau河水位过警戒",
+        "en": "NDRRMA: Tinau river above caution level",
+        "ne": "NDRRMA: Tinau nadi satarkata mathi",
+        "hi": "NDRRMA: Tinau nadi satarkata upar"
+      },
+      "body": {
+        "zh": "布特瓦尔站水位过警戒且上升，河岸低地保持高度戒备至后天早晨。非Rasuwa伤亡更新。",
+        "en": "Butwal gauge above caution and rising; riverside lowlands stay on high alert until morning after next. Not a Rasuwa casualty update.",
+        "ne": "Butwal satarkata mathi; kinara hocha bhumi. Rasuwa casualty hoina.",
+        "hi": "Butwal satarkata upar; kinara nicha. Rasuwa casualty nahi."
       }
     },
     {
@@ -346,6 +366,19 @@
   },
   "xPosts": [
     {
+      "id": "x-np-0925-sms",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-25T05:52:04Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103361876503728431",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：Tinau河水位过警戒",
+        "en": "NDRRMA: Tinau river above caution level",
+        "ne": "NDRRMA: Tinau nadi satarkata mathi",
+        "hi": "NDRRMA: Tinau nadi satarkata upar"
+      }
+    },
+    {
       "id": "x-np-0925-roads",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-25T05:00:06Z",
@@ -440,21 +473,6 @@
         "en": "Xinhua: drone footage near Gyirong Port after slide",
         "ne": "Xinhua: Gyirong drone footage",
         "hi": "Xinhua: Gyirong drone footage"
-      }
-    },
-    {
-      "id": "x-xh-foreign",
-      "user": "@XHNews",
-      "t": "2026-08-30T05:20:42Z",
-      "link": "https://x.com/XHNews/status/2093931897667907999",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：口岸失联外籍261人、23国",
-        "en": "Xinhua: 261 foreign nationals from 23 countries unaccounted",
-        "ne": "Xinhua: 261 videshi, 23 desh",
-        "hi": "Xinhua: 261 videshi, 23 desh"
       }
     }
   ]
