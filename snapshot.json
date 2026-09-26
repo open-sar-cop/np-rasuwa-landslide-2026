@@ -1,25 +1,25 @@
 {
-  "snap": "2026-09-27T04:12:00Z",
+  "snap": "2026-09-27T05:12:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-0412",
+      "id": "poll-0927-0512",
       "src": "official",
-      "t": "2026-09-27T04:12:00Z",
+      "t": "2026-09-27T05:12:00Z",
       "link": "https://nrcs.org/highlight/9",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日04:12UTC：无更新官方伤亡分项",
-        "en": "27 Sep 04:12 UTC: no newer official casualty split",
-        "ne": "27 Sep 04:12 UTC: naya official casualty chaina",
-        "hi": "27 Sep 04:12 UTC: naya official casualty nahi"
+        "zh": "27日05:12UTC：无更新官方伤亡分项",
+        "en": "27 Sep 05:12 UTC: no newer official casualty split",
+        "ne": "27 Sep 05:12 UTC: naya official casualty chaina",
+        "hi": "27 Sep 05:12 UTC: naya official casualty nahi"
       },
       "body": {
-        "zh": "检索新华/应急部、NDRRMA/NRCS、ReliefWeb、美使馆及@XHNews。KPI仍中43死519失联2获救（5日18时分项）；应急部8月报562死失联合计未分项。尼1453/5550/13795（NDRRMA 24日19:00NPT，NRCS转述）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "zh": "检索新华/应急部、NDRRMA/NRCS、ReliefWeb、美使馆及@XHNews。KPI仍中43死519失联2获救（5日18时分项）；应急部赴8月报562死失联合计未分项。尼1453/5550/13795（NDRRMA 24日19:00NPT，NRCS转述）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
         "en": "Checked Xinhua/MEM, NDRRMA/NRCS, ReliefWeb, US Embassy, @XHNews. KPI still CN 43/519/2 (5 Sep 18:00 split). MEM Aug 562 dead+missing combined is not a split. NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
         "ne": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Tal khali.",
         "hi": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Jheel khali."
