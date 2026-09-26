@@ -1,28 +1,50 @@
 {
-  "snap": "2026-09-27T12:08:00Z",
+  "snap": "2026-09-27T13:12:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-1208",
+      "id": "poll-0927-1312",
       "src": "official",
-      "t": "2026-09-27T12:08:00Z",
-      "link": "https://paper.people.com.cn/rmrb/pc/content/202609/07/content_30179404.html",
+      "t": "2026-09-27T13:12:00Z",
+      "link": "https://www.mem.gov.cn/xw/yjglbgzdt/202609/t20260918_716876.shtml",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日12:08UTC：无更新官方伤亡分项",
-        "en": "27 Sep 12:08 UTC: no newer official casualty split",
-        "ne": "27 Sep 12:08 UTC: naya official casualty chaina",
-        "hi": "27 Sep 12:08 UTC: naya official casualty nahi"
+        "zh": "27日13:12UTC：无更新官方伤亡分项",
+        "en": "27 Sep 13:12 UTC: no newer official casualty split",
+        "ne": "27 Sep 13:12 UTC: naya official casualty chaina",
+        "hi": "27 Sep 13:12 UTC: naya official casualty nahi"
       },
       "body": {
-        "zh": "检索新华/人民日报/应急、NDRRMA/NRCS、ReliefWeb/UNOSAT、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时指挥部分项）。尼1453/5550/13795（NDRRMA 24日19:00NPT，NRCS转述）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
-        "en": "Checked Xinhua/People's Daily/MEM, NDRRMA/NRCS, ReliefWeb/UNOSAT, US Embassy, @XHNews. CN KPI still 43/519/2 (5 Sep 18:00 HQ split). NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
-        "ne": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Tal khali.",
-        "hi": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Jheel khali."
+        "zh": "检索新华/应急部、NDRRMA/NRCS、ReliefWeb/UNOSAT、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时分项）。应急部18日称口岸562人死亡失踪合计、正在核查，未给新分项。尼1453/5550/13795（NDRRMA 24日19:00NPT）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "en": "Checked Xinhua/MEM, NDRRMA/NRCS, ReliefWeb/UNOSAT, US Embassy, @XHNews. CN KPI still 43/519/2 (5 Sep 18:00 split). MEM 18 Sep: 562 dead+missing combined, still verifying; no new split. NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
+        "ne": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5550/13795. Gate band. Tal khali.",
+        "hi": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5550/13795. Gate band. Jheel khali."
+      }
+    },
+    {
+      "id": "mem-0918-562",
+      "src": "official",
+      "t": "2026-09-18T03:58:00Z",
+      "link": "https://www.mem.gov.cn/xw/yjglbgzdt/202609/t20260918_716876.shtml",
+      "img": null,
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "title": {
+        "zh": "应急部8月灾情：吉隆口岸562人死亡失踪，正在核查",
+        "en": "MEM Aug bulletin: Gyirong Port 562 dead+missing, still verifying",
+        "ne": "MEM: Gyirong 562 dead+missing, jaanch jari",
+        "hi": "MEM: Gyirong 562 dead+missing, jaanch jari"
+      },
+      "body": {
+        "zh": "未公布死/失联分项。COP KPI仍用5日18时43/519/2。",
+        "en": "No dead/missing split. COP KPI remains 5 Sep 18:00 43/519/2.",
+        "ne": "Split chaina. KPI 43/519/2 nai.",
+        "hi": "Split nahi. KPI 43/519/2 hi."
       }
     },
     {
@@ -159,7 +181,7 @@
       "id": "unosat-emsr927",
       "src": "official",
       "t": "2026-08-27T12:00:00Z",
-      "link": "https://data.humdata.org/dataset/?vocab_Topics=flooding",
+      "link": "https://mapping.emergency.copernicus.eu/activations/EMSR927/",
       "img": null,
       "lat": 28.248,
       "lng": 85.356,
@@ -349,18 +371,18 @@
       }
     },
     {
-      "id": "x-xh-0907-media",
+      "id": "x-xh-0905-drone",
       "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：国际媒体团访吉隆口岸灾区",
-        "en": "Xinhua: foreign press visit to mudslide-hit Gyirong Port",
-        "ne": "Xinhua: videshi press Gyirong",
-        "hi": "Xinhua: videshi press Gyirong"
+        "zh": "新华：边检民警灾后无人机航拍口岸一带",
+        "en": "Xinhua: immigration officer drone footage near Gyirong Port",
+        "ne": "Xinhua: Gyirong drone footage",
+        "hi": "Xinhua: Gyirong drone footage"
       }
     },
     {
