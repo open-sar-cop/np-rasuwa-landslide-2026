@@ -1,50 +1,28 @@
 {
-  "snap": "2026-09-27T01:05:00Z",
+  "snap": "2026-09-27T01:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-0105",
+      "id": "poll-0927-0110",
       "src": "official",
-      "t": "2026-09-27T01:05:00Z",
-      "link": "https://nrcs.org/highlight/9",
+      "t": "2026-09-27T01:10:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日01:05UTC：无新官方伤亡分项",
-        "en": "27 Sep 01:05 UTC: no new official casualty split",
-        "ne": "27 Sep 01:05 UTC: naya official casualty chaina",
-        "hi": "27 Sep 01:05 UTC: naya official casualty nahi"
+        "zh": "27日01:10UTC：无更新官方伤亡分项",
+        "en": "27 Sep 01:10 UTC: no newer official casualty split",
+        "ne": "27 Sep 01:10 UTC: naya official casualty chaina",
+        "hi": "27 Sep 01:10 UTC: naya official casualty nahi"
       },
       "body": {
-        "zh": "检索新华/gov.cn、应急部8月灾情、NDRRMA/NRCS、ReliefWeb、美使馆及@XHNews @CCTV_Plus。KPI仍为中43/519/2（5日18时）；尼1453/5550/13795（NDRRMA 24日19:00NPT，NRCS转述）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
-        "en": "Checked Xinhua/gov.cn, MEM Aug bulletin, NDRRMA/NRCS, ReliefWeb, US Embassy, @XHNews @CCTV_Plus. KPI still CN 43/519/2 (5 Sep 18:00); NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
+        "zh": "检索新华/gov.cn、NDRRMA/NRCS、ReliefWeb/UNOSAT/EMSR927、美使馆及@XHNews。KPI仍中43/519/2（5日18时）；尼1453/5550/13795（NDRRMA 24日19:00NPT）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "en": "Checked Xinhua/gov.cn, NDRRMA/NRCS, ReliefWeb/UNOSAT/EMSR927, US Embassy, @XHNews. KPI still CN 43/519/2 (5 Sep 18:00); NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
         "ne": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Tal khali.",
         "hi": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Jheel khali."
-      }
-    },
-    {
-      "id": "mem-0818-562",
-      "src": "official",
-      "t": "2026-09-18T10:00:00Z",
-      "link": "https://www.zaobao.com.sg/news/china/story20260918-9699028",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "title": {
-        "zh": "应急部8月灾情：吉隆口岸死亡失踪合计562人待核",
-        "en": "MEM Aug bulletin: Gyirong Port 562 dead+missing, still verifying",
-        "ne": "MEM Aug: Gyirong 562 dead+missing, check jari",
-        "hi": "MEM Aug: Gyirong 562 dead+missing, jaanch jari"
-      },
-      "body": {
-        "zh": "未给死/失联分项，不改43/519。与5日指挥部分项一致合计。",
-        "en": "No dead/missing split; keep 43/519. Matches 5 Sep HQ sum.",
-        "ne": "Split chaina; 43/519 rakhne. 5 Sep jog milcha.",
-        "hi": "Split nahi; 43/519 rakhen. 5 Sep yog milta."
       }
     },
     {
@@ -61,52 +39,10 @@
         "hi": "NRCS/NDRRMA: 1453/5550/13795"
       },
       "body": {
-        "zh": "安置中心1107人。勿与中方相加。",
-        "en": "1107 in holding centres. Do not add CN figures.",
+        "zh": "安置中心约1107人。勿与中方相加。",
+        "en": "About 1107 in holding centres. Do not add CN figures.",
         "ne": "1107 shelter. CN najodnu.",
         "hi": "1107 shelter. CN na joden."
-      }
-    },
-    {
-      "id": "ndrrma-0925-traffic",
-      "src": "official",
-      "t": "2026-09-25T13:08:32Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103471718069367019",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA：按风险色分区交通管控",
-        "en": "NDRRMA: district traffic controls by risk color",
-        "ne": "NDRRMA: jokhim rang anusar sadak niyantran",
-        "hi": "NDRRMA: jokhim rang anusar sadak niyantran"
-      },
-      "body": {
-        "zh": "红区全停；橙区夜间停、昼间由区指挥部决定；黄区警惕。非口岸通关变化。",
-        "en": "Red=full stop; orange=night stop, daytime per district CP; yellow=caution. Not a port-crossing change.",
-        "ne": "Rato=purna band; suntala=rat band; pahelo=satark. Port hoina.",
-        "hi": "Lal=purna band; narangi=raat band; peela=satark. Port nahi."
-      }
-    },
-    {
-      "id": "usemb-level4",
-      "src": "official",
-      "t": "2026-08-31T04:21:00Z",
-      "link": "https://np.usembassy.gov/travel-advisory-nepal-august-2026/",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Timure",
-      "title": {
-        "zh": "美使馆：Rasuwagadhi–Timure–Syafrubesi仍Level 4",
-        "en": "US Embassy: Rasuwagadhi–Timure–Syafrubesi still Level 4",
-        "ne": "US Embassy: Rasuwagadhi Level 4",
-        "hi": "US Embassy: Rasuwagadhi Level 4"
-      },
-      "body": {
-        "zh": "因灾损、交通通信中断及次生风险，勿前往中尼口岸一带。",
-        "en": "Do not travel to the Nepal-China crossing area due to damage and secondary risk.",
-        "ne": "Simana chetra najaau.",
-        "hi": "Seema kshetra na jayen."
       }
     },
     {
@@ -135,7 +71,7 @@
       "id": "xinhua-kpi-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://www.chinadailyhk.com/hk/article/639130",
+      "link": "https://news.cgtn.com/news/2026-09-06/Over-2-500-rescuers-deployed-to-mudslide-hit-border-port-in-Xizang-1QdNo93XuV2/p.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -154,47 +90,91 @@
       }
     },
     {
-      "id": "xinhua-lake-0905",
+      "id": "xinhua-lake-0908",
       "src": "official",
-      "t": "2026-09-05T13:36:00Z",
-      "link": "https://english.news.cn/20260905/9514cc986816469cabbe0a858d04197e/c.html",
+      "t": "2026-09-08T15:48:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
       "geo": "barrier lake",
       "title": {
-        "zh": "吉隆口岸上游堰塞湖已排空",
-        "en": "Barrier lake above Gyirong Port fully drained",
-        "ne": "Gyirong mathiko bandh tal khali",
-        "hi": "Gyirong upar bandh jheel khali"
+        "zh": "新华：堰塞湖险情基本消除，444人返乡",
+        "en": "Xinhua: barrier-lake threat largely gone; 444 returned home",
+        "ne": "Xinhua: tal khatara kam; 444 ghar pheri",
+        "hi": "Xinhua: jheel khatra kam; 444 ghar laute"
       },
       "body": {
-        "zh": "河道恢复过流，险情基本消除，防新堵。",
-        "en": "Channel normal; hazard largely gone; watch new blockages.",
-        "ne": "Nadi samanya; naya avarodh hernu.",
-        "hi": "Nadi samanya; naya avarodh dekhen."
+        "zh": "口岸上游堰塞湖已排空，河道恢复过流。",
+        "en": "Lake above port drained; river flow resumed.",
+        "ne": "Tal khali; nadi bahyo.",
+        "hi": "Jheel khali; nadi bahi."
+      }
+    },
+    {
+      "id": "usemb-level4",
+      "src": "official",
+      "t": "2026-08-31T04:21:00Z",
+      "link": "https://np.usembassy.gov/travel-advisory-nepal-august-2026/",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Timure",
+      "title": {
+        "zh": "美使馆：Rasuwagadhi–Timure–Syafrubesi仍Level 4",
+        "en": "US Embassy: Rasuwagadhi–Timure–Syafrubesi still Level 4",
+        "ne": "US Embassy: Rasuwagadhi Level 4",
+        "hi": "US Embassy: Rasuwagadhi Level 4"
+      },
+      "body": {
+        "zh": "因灾损、交通通信中断及次生风险，勿前往中尼口岸一带。",
+        "en": "Do not travel to the Nepal-China crossing area due to damage and secondary risk.",
+        "ne": "Simana chetra najaau.",
+        "hi": "Seema kshetra na jayen."
       }
     },
     {
       "id": "xinhua-g216-0902",
       "src": "official",
       "t": "2026-09-02T02:00:00Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "link": "https://news.cgtn.com/news/2026-09-02/Key-highway-reopens-amid-all-out-Xizang-mudslide-rescue-effort-1Q6mUuWPC5G/p.html",
       "img": null,
       "lat": 28.3,
       "lng": 85.368,
       "geo": "G216",
       "title": {
-        "zh": "G216通往口岸核心2日10时基本抢通",
-        "en": "G216 to port core basically restored 2 Sep 10:00",
-        "ne": "G216 core 2 Sep 10:00 khulyo",
-        "hi": "G216 core 2 Sep 10:00 khula"
+        "zh": "G216通往口岸核心2日上午基本抢通",
+        "en": "G216 to port core basically restored 2 Sep morning",
+        "ne": "G216 core 2 Sep bihan khulyo",
+        "hi": "G216 core 2 Sep subah khula"
       },
       "body": {
         "zh": "供救援通行，非口岸开关。",
         "en": "SAR access only; not a customs reopening.",
         "ne": "Uddhar matra; bhansar hoina.",
         "hi": "Kewal SAR; customs nahi."
+      }
+    },
+    {
+      "id": "unosat-emsr927",
+      "src": "official",
+      "t": "2026-08-27T12:00:00Z",
+      "link": "https://data.humdata.org/dataset/?vocab_Topics=flooding",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Timure",
+      "title": {
+        "zh": "UNOSAT/EMSR927：泥石流范围已制图",
+        "en": "UNOSAT/EMSR927: mudflow footprint mapped",
+        "ne": "UNOSAT/EMSR927: pailo naksa",
+        "hi": "UNOSAT/EMSR927: paila naksha"
+      },
+      "body": {
+        "zh": "Rasuwa–Nuwakot约37平方公里受影响；非伤亡源。",
+        "en": "About 37 km2 affected in Rasuwa–Nuwakot; not a casualty source.",
+        "ne": "Karib 37 km2; casualty hoina.",
+        "hi": "Lagbhag 37 km2; casualty nahi."
       }
     }
   ],
@@ -229,8 +209,8 @@
         "hi": "G216 rajmarg"
       },
       "detail": {
-        "zh": "2日10时核心段基本抢通，仅救援通行",
-        "en": "Core basically open 2 Sep 10:00; SAR only",
+        "zh": "2日上午核心段基本抢通，仅救援通行",
+        "en": "Core basically open 2 Sep morning; SAR only",
         "ne": "Core lagbhag khula; uddhar matra",
         "hi": "Core lagbhag khula; kewal SAR"
       }
@@ -326,42 +306,61 @@
   },
   "xPosts": [
     {
-      "id": "x-np-0926-sr2274",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-26T08:52:42Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103769720424141120",
+      "id": "x-xh-0910-cma",
+      "user": "@XHNews",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA日报SitRep 2274：10阿斯溧",
-        "en": "NDRRMA daily SitRep 2274: 10 Ashwin",
-        "ne": "NDRRMA dainik SitRep 2274: 10 Ashoj",
-        "hi": "NDRRMA daily SitRep 2274: 10 Ashwin"
+        "zh": "新华：国家气候中心向尼泊尔滚动提供监测预报",
+        "en": "Xinhua: CMA rolling climate products to Nepal for relief",
+        "ne": "Xinhua: CMA Nepal lai mausam sahayog",
+        "hi": "Xinhua: CMA Nepal ko mausam sahayog"
       }
     },
     {
-      "id": "x-np-0925-sr24",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-25T16:15:53Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103518864281858248",
-      "geo": "unknown",
+      "id": "x-xh-0909",
+      "user": "@XHNews",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "NDRRMA SitRep #24：25日19:00NPT",
-        "en": "NDRRMA SitRep #24: 25 Sep 19:00 NPT",
-        "ne": "NDRRMA SitRep #24: 25 Sep 19:00",
-        "hi": "NDRRMA SitRep #24: 25 Sep 19:00"
+        "zh": "新华：吉隆口岸救援进展综述",
+        "en": "Xinhua: Gyirong Port rescue progress recap",
+        "ne": "Xinhua: Gyirong uddhar prabidhi",
+        "hi": "Xinhua: Gyirong uddhar pragati"
       }
     },
     {
-      "id": "x-np-0925-traffic",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-25T13:08:32Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103471718069367019",
-      "geo": "unknown",
+      "id": "x-xh-0908",
+      "user": "@XHNews",
+      "t": "2026-09-08T04:59:52Z",
+      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "NDRRMA：按风险色分区交通管控",
-        "en": "NDRRMA: district traffic controls by risk color",
-        "ne": "NDRRMA: jokhim rang anusar sadak",
-        "hi": "NDRRMA: jokhim rang anusar sadak"
+        "zh": "新华：吉隆口岸全出救援最新进展",
+        "en": "Xinhua: latest all-out rescue progress at Gyirong Port",
+        "ne": "Xinhua: Gyirong uddhar naya pragati",
+        "hi": "Xinhua: Gyirong uddhar naya pragati"
+      }
+    },
+    {
+      "id": "x-xh-0907-media",
+      "user": "@XHNews",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华：国际媒体团访吉隆口岸灾区",
+        "en": "Xinhua: foreign press visit to mudslide-hit Gyirong Port",
+        "ne": "Xinhua: videshi press Gyirong",
+        "hi": "Xinhua: videshi press Gyirong"
       }
     },
     {
@@ -390,21 +389,6 @@
         "en": "Xinhua: G216 to port core restored 2 Sep 10:00",
         "ne": "Xinhua: G216 core 2 Sep 10:00 khulyo",
         "hi": "Xinhua: G216 core 2 Sep 10:00 khula"
-      }
-    },
-    {
-      "id": "x-xh-drone",
-      "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：边检民警无人机记录口岸受灾后现场",
-        "en": "Xinhua: immigration police drone footage near Gyirong Port",
-        "ne": "Xinhua: Gyirong drone footage",
-        "hi": "Xinhua: Gyirong drone footage"
       }
     },
     {
