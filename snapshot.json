@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-27T01:10:00Z",
+  "snap": "2026-09-27T03:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-0110",
+      "id": "poll-0927-0305",
       "src": "official",
-      "t": "2026-09-27T01:10:00Z",
+      "t": "2026-09-27T03:05:00Z",
       "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日01:10UTC：无更新官方伤亡分项",
-        "en": "27 Sep 01:10 UTC: no newer official casualty split",
-        "ne": "27 Sep 01:10 UTC: naya official casualty chaina",
-        "hi": "27 Sep 01:10 UTC: naya official casualty nahi"
+        "zh": "27日03:05UTC：无更新官方伤亡分项",
+        "en": "27 Sep 03:05 UTC: no newer official casualty split",
+        "ne": "27 Sep 03:05 UTC: naya official casualty chaina",
+        "hi": "27 Sep 03:05 UTC: naya official casualty nahi"
       },
       "body": {
-        "zh": "检索新华/gov.cn、NDRRMA/NRCS、ReliefWeb/UNOSAT/EMSR927、美使馆及@XHNews。KPI仍中43/519/2（5日18时）；尼1453/5550/13795（NDRRMA 24日19:00NPT）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
-        "en": "Checked Xinhua/gov.cn, NDRRMA/NRCS, ReliefWeb/UNOSAT/EMSR927, US Embassy, @XHNews. KPI still CN 43/519/2 (5 Sep 18:00); NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
+        "zh": "检索新华/应急部、NDRRMA/NRCS、ReliefWeb、美使馆及@XHNews。KPI仍中43死519失联2获救（5日18时分项）；应急部8月报吉隆口岸562死失联合计未分项，不改KPI。尼1453/5550/13795（NDRRMA 24日19:00NPT）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "en": "Checked Xinhua/MEM, NDRRMA/NRCS, ReliefWeb, US Embassy, @XHNews. KPI still CN 43/519/2 (5 Sep 18:00 split). MEM Aug note 562 dead+missing combined is not a split. NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
         "ne": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Tal khali.",
         "hi": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Jheel khali."
       }
