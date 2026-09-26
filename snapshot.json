@@ -1,48 +1,50 @@
 {
-  "snap": "2026-09-26T23:10:00Z",
+  "snap": "2026-09-27T00:05:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0926-2310",
+      "id": "poll-0927-0005",
       "src": "official",
-      "t": "2026-09-26T23:10:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103769720424141120",
+      "t": "2026-09-27T00:05:00Z",
+      "link": "https://www.zaobao.com.sg/news/china/story20260918-9699028",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "26日23:10UTC：无新官方伤亡分项",
-        "en": "26 Sep 23:10 UTC: no new official casualty split",
-        "ne": "26 Sep 23:10 UTC: naya official casualty chaina",
-        "hi": "26 Sep 23:10 UTC: naya official casualty nahi"
+        "zh": "27日00:05UTC：无新官方伤亡分项",
+        "en": "27 Sep 00:05 UTC: no new official casualty split",
+        "ne": "27 Sep 00:05 UTC: naya official casualty chaina",
+        "hi": "27 Sep 00:05 UTC: naya official casualty nahi"
       },
       "body": {
-        "zh": "检索新华/gov.cn、NDRRMA/尼警、ReliefWeb、美使馆及@XHNews @CCTV_Plus。KPI仍为中43/519/2（5日18时）；尼1453/5550/13795（NDRRMA 24日19:00NPT）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
-        "en": "Checked Xinhua/gov.cn, NDRRMA/Police, ReliefWeb, US Embassy, @XHNews @CCTV_Plus. KPI still CN 43/519/2 (5 Sep 18:00); NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
+        "zh": "检索新华/gov.cn、应急部8月灾情、NDRRMA/NRCS、ReliefWeb、美使馆及@XHNews @CCTV_Plus。KPI仍为中43/519/2（5日18时）；尼1453/5550/13795（NDRRMA 24日19:00NPT）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "en": "Checked Xinhua/gov.cn, MEM Aug bulletin, NDRRMA/NRCS, ReliefWeb, US Embassy, @XHNews @CCTV_Plus. KPI still CN 43/519/2 (5 Sep 18:00); NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
         "ne": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Tal khali.",
         "hi": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Jheel khali."
       }
     },
     {
-      "id": "ndrrma-0926-sitrep2274",
+      "id": "mem-0818-562",
       "src": "official",
-      "t": "2026-09-26T08:52:42Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103769720424141120",
+      "t": "2026-09-18T10:00:00Z",
+      "link": "https://www.zaobao.com.sg/news/china/story20260918-9699028",
       "img": null,
-      "geo": "unknown",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "title": {
-        "zh": "NDRRMA日报SitRep 2274：10阿斯溧",
-        "en": "NDRRMA daily SitRep 2274: 10 Ashwin",
-        "ne": "NDRRMA dainik SitRep 2274: 10 Ashoj",
-        "hi": "NDRRMA daily SitRep 2274: 10 Ashwin"
+        "zh": "应急部8月灾情：吉隆口岸死亡失踪合计562人待核",
+        "en": "MEM Aug bulletin: Gyirong Port 562 dead+missing, still verifying",
+        "ne": "MEM Aug: Gyirong 562 dead+missing, check jari",
+        "hi": "MEM Aug: Gyirong 562 dead+missing, jaanch jari"
       },
       "body": {
-        "zh": "全国日报已发。公开文未给出新的Rasuwa分项伤亡，不改KPI。",
-        "en": "National daily posted. No new Rasuwa casualty split parsed; KPI unchanged.",
-        "ne": "Dainik sitrep. Naya Rasuwa sankhya parse bhayena; KPI same.",
-        "hi": "Daily sitrep. Naya Rasuwa ank parse nahi; KPI same."
+        "zh": "未给死/失联分项，不改43/519。与5日指挥部分项一致合计。",
+        "en": "No dead/missing split; keep 43/519. Matches 5 Sep HQ sum.",
+        "ne": "Split chaina; 43/519 rakhne. 5 Sep jog milcha.",
+        "hi": "Split nahi; 43/519 rakhen. 5 Sep yog milta."
       }
     },
     {
@@ -63,26 +65,6 @@
         "en": "1107 in holding centres. Do not add CN figures.",
         "ne": "1107 shelter. CN najodnu.",
         "hi": "1107 shelter. CN na joden."
-      }
-    },
-    {
-      "id": "ndrrma-0925-sitrep24",
-      "src": "official",
-      "t": "2026-09-25T13:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103518864281858248",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA SitRep #24：25日19:00NPT",
-        "en": "NDRRMA SitRep #24: 25 Sep 19:00 NPT",
-        "ne": "NDRRMA SitRep #24: 25 Sep 19:00",
-        "hi": "NDRRMA SitRep #24: 25 Sep 19:00"
-      },
-      "body": {
-        "zh": "官方状况报告已发。公开页未解析出新伤亡数字，不改KPI。",
-        "en": "Official sitrep posted. No new casualty figures parsed; KPI unchanged.",
-        "ne": "Sitrep link. Naya sankhya parse bhayena; KPI same.",
-        "hi": "Sitrep link. Naya ank parse nahi; KPI same."
       }
     },
     {
@@ -153,7 +135,7 @@
       "id": "xinhua-kpi-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://news.cgtn.com/news/2026-09-06/news-1QdEQOcze9O/p.html",
+      "link": "https://www.chinadailyhk.com/hk/article/639130",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -174,8 +156,8 @@
     {
       "id": "xinhua-lake-0905",
       "src": "official",
-      "t": "2026-09-05T13:49:00Z",
-      "link": "https://news.cgtn.com/news/2026-09-01/Barrier-lake-above-mudslide-hit-Xizang-port-fully-drained-1Q5h1f3Vm6I/p.html",
+      "t": "2026-09-05T13:36:00Z",
+      "link": "https://english.news.cn/20260905/9514cc986816469cabbe0a858d04197e/c.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -370,19 +352,6 @@
       }
     },
     {
-      "id": "x-np-0925-sr35np",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-25T16:09:38Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103517292089008201",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA尼文状况报告#35（9阿斯溧19:00）",
-        "en": "NDRRMA NP sitrep #35 (9 Ashwin 19:00)",
-        "ne": "NDRRMA NP #35 (9 Ashoj 19:00)",
-        "hi": "NDRRMA NP #35 (9 Ashwin 19:00)"
-      }
-    },
-    {
       "id": "x-np-0925-traffic",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-25T13:08:32Z",
@@ -409,19 +378,6 @@
       }
     },
     {
-      "id": "x-xh-cma",
-      "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华：国家气候中心向尼泊尔滚动提供监测预报",
-        "en": "Xinhua: CMA rolling climate products to Nepal",
-        "ne": "Xinhua: CMA Nepal lai mausam",
-        "hi": "Xinhua: CMA Nepal ko mausam"
-      }
-    },
-    {
       "id": "x-xh-g216",
       "user": "@XHNews",
       "t": "2026-09-02T06:35:21Z",
@@ -437,6 +393,21 @@
       }
     },
     {
+      "id": "x-xh-drone",
+      "user": "@XHNews",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华：边检民警无人机记录口岸受灾后现场",
+        "en": "Xinhua: immigration police drone footage near Gyirong Port",
+        "ne": "Xinhua: Gyirong drone footage",
+        "hi": "Xinhua: Gyirong drone footage"
+      }
+    },
+    {
       "id": "x-cctv-0905-kpi",
       "user": "@CCTV_Plus",
       "t": "2026-09-07T02:35:18Z",
@@ -449,6 +420,19 @@
         "en": "CCTV+: as of 5 Sep 18:00 Gyirong Port 43 dead, 519 missing",
         "ne": "CCTV+: 5 Sep 18:00 Gyirong 43/519",
         "hi": "CCTV+: 5 Sep 18:00 Gyirong 43/519"
+      }
+    },
+    {
+      "id": "x-xh-foreign",
+      "user": "@XHNews",
+      "t": "2026-08-30T05:20:42Z",
+      "link": "https://x.com/XHNews/status/2093931897667907999",
+      "geo": "unknown",
+      "text": {
+        "zh": "新华：口岸失联外籍261人、23国",
+        "en": "Xinhua: 261 foreign nationals unaccounted, 23 countries",
+        "ne": "Xinhua: 261 videshi, 23 desh",
+        "hi": "Xinhua: 261 videshi, 23 desh"
       }
     }
   ]
