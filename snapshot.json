@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-27T05:12:00Z",
+  "snap": "2026-09-27T12:08:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-0512",
+      "id": "poll-0927-1208",
       "src": "official",
-      "t": "2026-09-27T05:12:00Z",
-      "link": "https://nrcs.org/highlight/9",
+      "t": "2026-09-27T12:08:00Z",
+      "link": "https://paper.people.com.cn/rmrb/pc/content/202609/07/content_30179404.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日05:12UTC：无更新官方伤亡分项",
-        "en": "27 Sep 05:12 UTC: no newer official casualty split",
-        "ne": "27 Sep 05:12 UTC: naya official casualty chaina",
-        "hi": "27 Sep 05:12 UTC: naya official casualty nahi"
+        "zh": "27日12:08UTC：无更新官方伤亡分项",
+        "en": "27 Sep 12:08 UTC: no newer official casualty split",
+        "ne": "27 Sep 12:08 UTC: naya official casualty chaina",
+        "hi": "27 Sep 12:08 UTC: naya official casualty nahi"
       },
       "body": {
-        "zh": "检索新华/应急部、NDRRMA/NRCS、ReliefWeb、美使馆及@XHNews。KPI仍中43死519失联2获救（5日18时分项）；应急部赴8月报562死失联合计未分项。尼1453/5550/13795（NDRRMA 24日19:00NPT，NRCS转述）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
-        "en": "Checked Xinhua/MEM, NDRRMA/NRCS, ReliefWeb, US Embassy, @XHNews. KPI still CN 43/519/2 (5 Sep 18:00 split). MEM Aug 562 dead+missing combined is not a split. NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
+        "zh": "检索新华/人民日报/应急、NDRRMA/NRCS、ReliefWeb/UNOSAT、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时指挥部分项）。尼1453/5550/13795（NDRRMA 24日19:00NPT，NRCS转述）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "en": "Checked Xinhua/People's Daily/MEM, NDRRMA/NRCS, ReliefWeb/UNOSAT, US Embassy, @XHNews. CN KPI still 43/519/2 (5 Sep 18:00 HQ split). NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
         "ne": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Tal khali.",
         "hi": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Jheel khali."
       }
@@ -71,7 +71,7 @@
       "id": "xinhua-kpi-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://news.cgtn.com/news/2026-09-06/Over-2-500-rescuers-deployed-to-mudslide-hit-border-port-in-Xizang-1QdNo93XuV2/p.html",
+      "link": "https://paper.people.com.cn/rmrb/pc/content/202609/07/content_30179404.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
