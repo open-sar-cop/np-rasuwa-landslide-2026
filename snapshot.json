@@ -1,28 +1,48 @@
 {
-  "snap": "2026-09-26T22:03:00Z",
+  "snap": "2026-09-26T23:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0926-2203",
+      "id": "poll-0926-2310",
       "src": "official",
-      "t": "2026-09-26T22:03:00Z",
-      "link": "https://nrcs.org/highlight/9",
+      "t": "2026-09-26T23:10:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103769720424141120",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "26日22:03UTC：无新官方伤亡分项",
-        "en": "26 Sep 22:03 UTC: no new official casualty split",
-        "ne": "26 Sep 22:03 UTC: naya official casualty chaina",
-        "hi": "26 Sep 22:03 UTC: naya official casualty nahi"
+        "zh": "26日23:10UTC：无新官方伤亡分项",
+        "en": "26 Sep 23:10 UTC: no new official casualty split",
+        "ne": "26 Sep 23:10 UTC: naya official casualty chaina",
+        "hi": "26 Sep 23:10 UTC: naya official casualty nahi"
       },
       "body": {
-        "zh": "检索新华/gov.cn/日喀则、NDRRMA/尼警/BIPAD、ReliefWeb/UNOSAT、美使馆及@XHNews @CCTV_Plus。KPI仍为中43/519/2（5日18时）；尼1453/5550/13795（NDRRMA 24日19:00NPT，红十字25日转述）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
-        "en": "Checked Xinhua/gov.cn/Xigaze, NDRRMA/Police/BIPAD, ReliefWeb/UNOSAT, US Embassy, @XHNews @CCTV_Plus. KPI still CN 43/519/2 (5 Sep 18:00); NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT; NRCS 25 Sep). Gate closed. Lake drained. G216 SAR only.",
+        "zh": "检索新华/gov.cn、NDRRMA/尼警、ReliefWeb、美使馆及@XHNews @CCTV_Plus。KPI仍为中43/519/2（5日18时）；尼1453/5550/13795（NDRRMA 24日19:00NPT）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "en": "Checked Xinhua/gov.cn, NDRRMA/Police, ReliefWeb, US Embassy, @XHNews @CCTV_Plus. KPI still CN 43/519/2 (5 Sep 18:00); NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
         "ne": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Tal khali.",
         "hi": "Xinhua/NDRRMA check. KPI CN 43/519/2; NP 1453/5550/13795. Gate band. Jheel khali."
+      }
+    },
+    {
+      "id": "ndrrma-0926-sitrep2274",
+      "src": "official",
+      "t": "2026-09-26T08:52:42Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103769720424141120",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA日报SitRep 2274：10阿斯溧",
+        "en": "NDRRMA daily SitRep 2274: 10 Ashwin",
+        "ne": "NDRRMA dainik SitRep 2274: 10 Ashoj",
+        "hi": "NDRRMA daily SitRep 2274: 10 Ashwin"
+      },
+      "body": {
+        "zh": "全国日报已发。公开文未给出新的Rasuwa分项伤亡，不改KPI。",
+        "en": "National daily posted. No new Rasuwa casualty split parsed; KPI unchanged.",
+        "ne": "Dainik sitrep. Naya Rasuwa sankhya parse bhayena; KPI same.",
+        "hi": "Daily sitrep. Naya Rasuwa ank parse nahi; KPI same."
       }
     },
     {
@@ -130,32 +150,10 @@
       }
     },
     {
-      "id": "np-lamsal-0925",
-      "src": "official",
-      "t": "2026-09-25T11:28:00Z",
-      "link": "https://farsightnepal.com/news/nepal-seeks-chinese-support-to-restore-key-rasuwa-trade-route/",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Timure",
-      "title": {
-        "zh": "尼方请中方协助恢复Rasuwagadhi通道",
-        "en": "Nepal asks China to help restore Rasuwagadhi route",
-        "ne": "Nepal le China sanga Rasuwagadhi sadak magyo",
-        "hi": "Nepal ne China se Rasuwagadhi sadak manga"
-      },
-      "body": {
-        "zh": "基础设施部长会晤中国大使：口岸仍无直接公路通达。",
-        "en": "Infrastructure minister met Chinese ambassador: no direct road to the crossing yet.",
-        "ne": "Sidha sadak abhai chaina.",
-        "hi": "Seedha sadak abhi nahi."
-      }
-    },
-    {
       "id": "xinhua-kpi-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://english.news.cn/20260906/9d6b43e142f14071b4ab7ac72ec8f543/c.html",
+      "link": "https://news.cgtn.com/news/2026-09-06/news-1QdEQOcze9O/p.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -177,7 +175,7 @@
       "id": "xinhua-lake-0905",
       "src": "official",
       "t": "2026-09-05T13:49:00Z",
-      "link": "https://english.news.cn/20260905/9514cc986816469cabbe0a858d04197e/c.html",
+      "link": "https://news.cgtn.com/news/2026-09-01/Barrier-lake-above-mudslide-hit-Xizang-port-fully-drained-1Q5h1f3Vm6I/p.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -346,6 +344,19 @@
   },
   "xPosts": [
     {
+      "id": "x-np-0926-sr2274",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-26T08:52:42Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103769720424141120",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA日报SitRep 2274：10阿斯溧",
+        "en": "NDRRMA daily SitRep 2274: 10 Ashwin",
+        "ne": "NDRRMA dainik SitRep 2274: 10 Ashoj",
+        "hi": "NDRRMA daily SitRep 2274: 10 Ashwin"
+      }
+    },
+    {
       "id": "x-np-0925-sr24",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-25T16:15:53Z",
@@ -382,19 +393,6 @@
         "en": "NDRRMA: district traffic controls by risk color",
         "ne": "NDRRMA: jokhim rang anusar sadak",
         "hi": "NDRRMA: jokhim rang anusar sadak"
-      }
-    },
-    {
-      "id": "x-np-0925-wx",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-25T11:38:39Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103449097172881700",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA：气象预警至12阿斯溧",
-        "en": "NDRRMA: weather warning through 12 Ashwin",
-        "ne": "NDRRMA: mausam 12 Ashoj",
-        "hi": "NDRRMA: mausam 12 Ashwin"
       }
     },
     {
