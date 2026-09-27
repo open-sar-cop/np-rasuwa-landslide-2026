@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-27T16:07:00Z",
+  "snap": "2026-09-27T17:07:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-1607",
+      "id": "poll-0927-1707",
       "src": "official",
-      "t": "2026-09-27T16:07:00Z",
-      "link": "https://www.mem.gov.cn/xw/yjglbgzdt/202609/t20260918_716876.shtml",
+      "t": "2026-09-27T17:07:00Z",
+      "link": "https://nrcs.org/highlight/9",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日16:07UTC：无更新官方伤亡分项",
-        "en": "27 Sep 16:07 UTC: no newer official casualty split",
-        "ne": "27 Sep 16:07 UTC: naya official casualty chaina",
-        "hi": "27 Sep 16:07 UTC: naya official casualty nahi"
+        "zh": "27日17:07UTC：无更新官方伤亡分项",
+        "en": "27 Sep 17:07 UTC: no newer official casualty split",
+        "ne": "27 Sep 17:07 UTC: naya official casualty chaina",
+        "hi": "27 Sep 17:07 UTC: naya official casualty nahi"
       },
       "body": {
-        "zh": "检索新华/应急部、NDRRMA/NRCS、ReliefWeb、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时分项）。应急部18日称口岸562人死亡失踪合计、正在核查，未给新分项。尼1453/5550/13795（NDRRMA 24日19:00NPT）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
-        "en": "Checked Xinhua/MEM, NDRRMA/NRCS, ReliefWeb, US Embassy, @XHNews. CN KPI still 43/519/2 (5 Sep 18:00 split). MEM 18 Sep: 562 dead+missing combined, still verifying; no new split. NP 1453/5550/13795 (NDRRMA 24 Sep 19:00 NPT). Gate closed. Lake drained. G216 SAR only.",
-        "ne": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5550/13795. Gate band. Tal khali.",
-        "hi": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5550/13795. Gate band. Jheel khali."
+        "zh": "复检新华/应急部、NDRRMA/NRCS、ReliefWeb、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时分项）。应急部18日称口岸562人死亡失踪合计、正在核查。尼1453/5550/13795（NDRRMA/NRCS）。口岸关闭。堰塞湖已排空。G216仅救援通行。尼侧Syaphrubesi–Rasuwagadhi仍无直达公路。",
+        "en": "Rechecked Xinhua/MEM, NDRRMA/NRCS, ReliefWeb, US Embassy, @XHNews. CN KPI still 43/519/2 (5 Sep 18:00 split). MEM 18 Sep: 562 dead+missing combined, still verifying. NP 1453/5550/13795 (NDRRMA/NRCS). Gate closed. Lake drained. G216 SAR only. NP Syaphrubesi–Rasuwagadhi still no through road.",
+        "ne": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5550/13795. Gate band. Tal khali. Syaphrubesi–Rasuwagadhi sidha sadak chaina.",
+        "hi": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5550/13795. Gate band. Jheel khali. Syaphrubesi–Rasuwagadhi seedha sadak nahi."
       }
     },
     {
@@ -249,10 +249,10 @@
         "hi": "Rasuwagadhi–Timure"
       },
       "detail": {
-        "zh": "美使馆勿前往；边境通道仍无直达公路",
-        "en": "US Embassy do-not-travel; no direct road to crossing",
-        "ne": "Yatra nagar; sidha sadak chaina",
-        "hi": "Yatra na karen; seedha sadak nahi"
+        "zh": "美使馆勿前往；Syaphrubesi至口岸仍无直达公路",
+        "en": "US Embassy do-not-travel; no through road Syaphrubesi to crossing",
+        "ne": "Yatra nagar; Syaphrubesi–simana sidha sadak chaina",
+        "hi": "Yatra na karen; Syaphrubesi–seema seedha sadak nahi"
       }
     }
   ],
