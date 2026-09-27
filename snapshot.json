@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-27T21:15:00Z",
+  "snap": "2026-09-27T22:07:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-2115",
+      "id": "poll-0927-2207",
       "src": "official",
-      "t": "2026-09-27T21:15:00Z",
+      "t": "2026-09-27T22:07:00Z",
       "link": "https://www.business-standard.com/world-news/nepal-floods-1-453-dead-nearly-5-300-still-missing-a-month-after-disaster-126092600500_1.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日21:15UTC：中方无新分项；尼方仍1453/5285/13795",
-        "en": "27 Sep 21:15 UTC: no new CN split; NP still 1453/5285/13795",
-        "ne": "27 Sep 21:15 UTC: CN naya split chaina; NP 1453/5285/13795",
-        "hi": "27 Sep 21:15 UTC: CN naya split nahi; NP 1453/5285/13795"
+        "zh": "27日22:07UTC：中方无新分项；尼方仍1453/5285/13795",
+        "en": "27 Sep 22:07 UTC: no new CN split; NP still 1453/5285/13795",
+        "ne": "27 Sep 22:07 UTC: CN naya split chaina; NP 1453/5285/13795",
+        "hi": "27 Sep 22:07 UTC: CN naya split nahi; NP 1453/5285/13795"
       },
       "body": {
-        "zh": "复检新华/应急部、NDRRMA/PTI、ReliefWeb/UNOSAT/EMSR927、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时）。应急部18日称口岸562人死亡失踪合计、正在核查。PTI引NDRRMA（26日）：1453死、5285失联、13795获救。口岸关闭。堰塞湖已排空。G216仅救援通行。",
-        "en": "Rechecked Xinhua/MEM, NDRRMA/PTI, ReliefWeb/UNOSAT/EMSR927, US Embassy, @XHNews. CN KPI still 43/519/2 (5 Sep 18:00). MEM 18 Sep: 562 dead+missing combined, verifying. PTI citing NDRRMA 26 Sep: 1453/5285/13795. Gate closed. Lake drained. G216 SAR only.",
+        "zh": "复检新华/应急部、NDRRMA/PTI/NRCS、ReliefWeb/UNOSAT/EMSR927、美使馆及@XHNews @CCTV_Plus。中方KPI仍43死519失联2获救（5日18时）。应急部18日称口岸562人死亡失踪合计、正在核查。PTI引NDRRMA（26日）：1453死、5285失联、13795获救。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "en": "Rechecked Xinhua/MEM, NDRRMA/PTI/NRCS, ReliefWeb/UNOSAT/EMSR927, US Embassy, @XHNews @CCTV_Plus. CN KPI still 43/519/2 (5 Sep 18:00). MEM 18 Sep: 562 dead+missing combined, verifying. PTI citing NDRRMA 26 Sep: 1453/5285/13795. Gate closed. Lake drained. G216 SAR only.",
         "ne": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5285/13795. Gate band. Tal khali. G216 uddhar matra.",
         "hi": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5285/13795. Gate band. Jheel khali. G216 kewal SAR."
       }
@@ -339,6 +339,21 @@
       }
     },
     {
+      "id": "x-cctv-0910",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "Gyirong town",
+      "text": {
+        "zh": "CCTV+：留在吉隆镇的尼籍工人继续作业",
+        "en": "CCTV+: Nepali workers remaining in Gyirong Town continue work",
+        "ne": "CCTV+: Gyirong Town Nepali kamdar kaam jari",
+        "hi": "CCTV+: Gyirong Town Nepali kamgar kaam jari"
+      }
+    },
+    {
       "id": "x-xh-0909",
       "user": "@XHNews",
       "t": "2026-09-09T09:10:51Z",
@@ -366,21 +381,6 @@
         "en": "Xinhua: latest all-out rescue progress at Gyirong Port",
         "ne": "Xinhua: Gyirong uddhar naya pragati",
         "hi": "Xinhua: Gyirong uddhar naya pragati"
-      }
-    },
-    {
-      "id": "x-xh-0905-drone",
-      "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：边检民警灾后无人机航拍口岸一带",
-        "en": "Xinhua: immigration officer drone footage near Gyirong Port",
-        "ne": "Xinhua: Gyirong drone footage",
-        "hi": "Xinhua: Gyirong drone footage"
       }
     },
     {
