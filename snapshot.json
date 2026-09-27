@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-27T20:15:00Z",
+  "snap": "2026-09-27T21:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-2015",
+      "id": "poll-0927-2115",
       "src": "official",
-      "t": "2026-09-27T20:15:00Z",
+      "t": "2026-09-27T21:15:00Z",
       "link": "https://www.business-standard.com/world-news/nepal-floods-1-453-dead-nearly-5-300-still-missing-a-month-after-disaster-126092600500_1.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日20:15UTC：中方无新分项；尼方仍1453/5285/13795",
-        "en": "27 Sep 20:15 UTC: no new CN split; NP still 1453/5285/13795",
-        "ne": "27 Sep 20:15 UTC: CN naya split chaina; NP 1453/5285/13795",
-        "hi": "27 Sep 20:15 UTC: CN naya split nahi; NP 1453/5285/13795"
+        "zh": "27日21:15UTC：中方无新分项；尼方仍1453/5285/13795",
+        "en": "27 Sep 21:15 UTC: no new CN split; NP still 1453/5285/13795",
+        "ne": "27 Sep 21:15 UTC: CN naya split chaina; NP 1453/5285/13795",
+        "hi": "27 Sep 21:15 UTC: CN naya split nahi; NP 1453/5285/13795"
       },
       "body": {
         "zh": "复检新华/应急部、NDRRMA/PTI、ReliefWeb/UNOSAT/EMSR927、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时）。应急部18日称口岸562人死亡失踪合计、正在核查。PTI引NDRRMA（26日）：1453死、5285失联、13795获救。口岸关闭。堰塞湖已排空。G216仅救援通行。",
