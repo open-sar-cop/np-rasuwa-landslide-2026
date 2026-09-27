@@ -1,28 +1,48 @@
 {
-  "snap": "2026-09-27T18:07:00Z",
+  "snap": "2026-09-27T19:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
-    "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
+    "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-1807",
+      "id": "poll-0927-1910",
       "src": "official",
-      "t": "2026-09-27T18:07:00Z",
-      "link": "https://nrcs.org/highlight/9",
+      "t": "2026-09-27T19:10:00Z",
+      "link": "https://www.business-standard.com/world-news/nepal-floods-1-453-dead-nearly-5-300-still-missing-a-month-after-disaster-126092600500_1.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日18:07UTC：无更新官方伤亡分项",
-        "en": "27 Sep 18:07 UTC: no newer official casualty split",
-        "ne": "27 Sep 18:07 UTC: naya official casualty chaina",
-        "hi": "27 Sep 18:07 UTC: naya official casualty nahi"
+        "zh": "27日19:10UTC：中方分项无新简报；尼方缺失下调",
+        "en": "27 Sep 19:10 UTC: no new CN split; NP missing revised down",
+        "ne": "27 Sep 19:10 UTC: CN naya split chaina; NP missing ghateko",
+        "hi": "27 Sep 19:10 UTC: CN naya split nahi; NP missing ghataya"
       },
       "body": {
-        "zh": "复检新华/应急部、NDRRMA/NRCS、ReliefWeb、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时分项）。应急部18日称口岸562人死亡失踪合计、正在核查。尼1453/5550/13795（NDRRMA/NRCS）。口岸关闭。堰塞湖已排空。G216仅救援通行。尼侧Syaphrubesi–Rasuwagadhi仍无直达公路。",
-        "en": "Rechecked Xinhua/MEM, NDRRMA/NRCS, ReliefWeb, US Embassy, @XHNews. CN KPI still 43/519/2 (5 Sep 18:00 split). MEM 18 Sep: 562 dead+missing combined, still verifying. NP 1453/5550/13795 (NDRRMA/NRCS). Gate closed. Lake drained. G216 SAR only. NP Syaphrubesi–Rasuwagadhi still no through road.",
-        "ne": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5550/13795. Gate band. Tal khali. Syaphrubesi–Rasuwagadhi sidha sadak chaina.",
-        "hi": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5550/13795. Gate band. Jheel khali. Syaphrubesi–Rasuwagadhi seedha sadak nahi."
+        "zh": "复检新华/应急部、NDRRMA/PTI、ReliefWeb、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时）。应急部18日称口岸562人死亡失踪合计、正在核查。PTI引NDRRMA（26日）：1453死、5285失联、13795获救。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "en": "Rechecked Xinhua/MEM, NDRRMA/PTI, ReliefWeb, US Embassy, @XHNews. CN KPI still 43/519/2 (5 Sep 18:00). MEM 18 Sep: 562 dead+missing combined, verifying. PTI citing NDRRMA 26 Sep: 1453/5285/13795. Gate closed. Lake drained. G216 SAR only.",
+        "ne": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5285/13795. Gate band. Tal khali. G216 uddhar matra.",
+        "hi": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5285/13795. Gate band. Jheel khali. G216 kewal SAR."
+      }
+    },
+    {
+      "id": "pti-ndrrma-0926",
+      "src": "official",
+      "t": "2026-09-26T09:31:00Z",
+      "link": "https://www.business-standard.com/world-news/nepal-floods-1-453-dead-nearly-5-300-still-missing-a-month-after-disaster-126092600500_1.html",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "PTI引NDRRMA：1453死、5285失联、13795获救",
+        "en": "PTI citing NDRRMA: 1453 dead, 5285 missing, 13795 rescued",
+        "ne": "PTI/NDRRMA: 1453/5285/13795",
+        "hi": "PTI/NDRRMA: 1453/5285/13795"
+      },
+      "body": {
+        "zh": "约1113人在21个安置中心。112具遗体已移交家属。勿与中方相加。",
+        "en": "About 1113 in 21 holding centres. 112 bodies handed to families. Do not add CN.",
+        "ne": "1113 shelter, 21 kendra. 112 deha parivar. CN najodnu.",
+        "hi": "1113 shelter, 21 kendra. 112 deh parivar. CN na joden."
       }
     },
     {
@@ -55,38 +75,16 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "红十字会转述NDRRMA：1453死5550失联13795获救",
-        "en": "NRCS citing NDRRMA: 1453 dead, 5550 missing, 13795 rescued",
-        "ne": "NRCS/NDRRMA: 1453/5550/13795",
-        "hi": "NRCS/NDRRMA: 1453/5550/13795"
+        "zh": "红十字会此前转述NDRRMA：1453/5550/13795",
+        "en": "NRCS earlier citing NDRRMA: 1453/5550/13795",
+        "ne": "NRCS/NDRRMA pahile: 1453/5550/13795",
+        "hi": "NRCS/NDRRMA pahle: 1453/5550/13795"
       },
       "body": {
-        "zh": "安置中心约1107人。勿与中方相加。",
-        "en": "About 1107 in holding centres. Do not add CN figures.",
-        "ne": "1107 shelter. CN najodnu.",
-        "hi": "1107 shelter. CN na joden."
-      }
-    },
-    {
-      "id": "ndrrma-0924-1900",
-      "src": "official",
-      "t": "2026-09-24T13:15:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103142592833843617",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Timure",
-      "title": {
-        "zh": "NDRRMA 24日19:00NPT：1453死、5550失联、13795获救",
-        "en": "NDRRMA 24 Sep 19:00 NPT: 1453 dead, 5550 missing, 13795 rescued",
-        "ne": "NDRRMA 24 Sep 19:00: 1453/5550/13795",
-        "hi": "NDRRMA 24 Sep 19:00: 1453/5550/13795"
-      },
-      "body": {
-        "zh": "官方图。636外籍失联。勿与中方相加。",
-        "en": "Official graphic. 636 foreign missing. Do not add CN.",
-        "ne": "Graphic. 636 videshi. CN najodnu.",
-        "hi": "Graphic. 636 videshi. CN na joden."
+        "zh": "已被26日PTI/NDRRMA缺失5285覆盖。勿与中方相加。",
+        "en": "Superseded on missing by 26 Sep PTI/NDRRMA 5285. Do not add CN.",
+        "ne": "Missing 5285 le replace. CN najodnu.",
+        "hi": "Missing 5285 se replace. CN na joden."
       }
     },
     {
