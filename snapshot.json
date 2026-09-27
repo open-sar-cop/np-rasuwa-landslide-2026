@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-27T23:07:00Z",
+  "snap": "2026-09-27T23:12:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-2307",
+      "id": "poll-0927-2312",
       "src": "official",
-      "t": "2026-09-27T23:07:00Z",
-      "link": "https://nset.org.np/disaster/rasuwa-flood/",
+      "t": "2026-09-27T23:12:00Z",
+      "link": "https://english.news.cn/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日23:07UTC：中方无新分项；尼方仍1453/5285/13795",
-        "en": "27 Sep 23:07 UTC: no new CN split; NP still 1453/5285/13795",
-        "ne": "27 Sep 23:07 UTC: CN naya split chaina; NP 1453/5285/13795",
-        "hi": "27 Sep 23:07 UTC: CN naya split nahi; NP 1453/5285/13795"
+        "zh": "27日23:12UTC：中方无新分项；尼方仍1453/5285/13795",
+        "en": "27 Sep 23:12 UTC: no new CN split; NP still 1453/5285/13795",
+        "ne": "27 Sep 23:12 UTC: CN naya split chaina; NP 1453/5285/13795",
+        "hi": "27 Sep 23:12 UTC: CN naya split nahi; NP 1453/5285/13795"
       },
       "body": {
-        "zh": "复检新华/人民网/应急部、NDRRMA/NSET、ReliefWeb/UNOSAT/EMSR927、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时）。应急部18日称口岸562人死亡失踪合计、正在核查。NSET转NDRRMA（26日）：1453死、5285失联、13795获救。口岸关闭。堰塞湖已排空。G216仅救援通行。",
-        "en": "Rechecked Xinhua/MEM, NDRRMA/NSET, ReliefWeb/UNOSAT/EMSR927, US Embassy, @XHNews. CN KPI still 43/519/2 (5 Sep 18:00). MEM 18 Sep: 562 dead+missing combined, verifying. NSET citing NDRRMA 26 Sep: 1453/5285/13795. Gate closed. Lake drained. G216 SAR only.",
+        "zh": "复检新华/人民网/应急部、NDRRMA PDF/NSET、ReliefWeb/UNOSAT/EMSR927、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时）。应急部18日称口岸562人死亡失踪合计、正在核查。PTI引NDRRMA（26日）：1453死、5285失联、13795获救。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "en": "Rechecked Xinhua/MEM, NDRRMA PDFs, ReliefWeb/UNOSAT/EMSR927, US Embassy, @XHNews. CN KPI still 43/519/2 (5 Sep 18:00). MEM 18 Sep: 562 dead+missing combined, verifying. PTI citing NDRRMA 26 Sep: 1453/5285/13795. Gate closed. Lake drained. G216 SAR only.",
         "ne": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5285/13795. Gate band. Tal khali. G216 uddhar matra.",
         "hi": "Xinhua/MEM/NDRRMA check. KPI CN 43/519/2; MEM 562 combined. NP 1453/5285/13795. Gate band. Jheel khali. G216 kewal SAR."
       }
