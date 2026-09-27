@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-27T15:09:00Z",
+  "snap": "2026-09-27T16:07:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5550, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0927-1509",
+      "id": "poll-0927-1607",
       "src": "official",
-      "t": "2026-09-27T15:09:00Z",
+      "t": "2026-09-27T16:07:00Z",
       "link": "https://www.mem.gov.cn/xw/yjglbgzdt/202609/t20260918_716876.shtml",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "27日15:09UTC：无更新官方伤亡分项",
-        "en": "27 Sep 15:09 UTC: no newer official casualty split",
-        "ne": "27 Sep 15:09 UTC: naya official casualty chaina",
-        "hi": "27 Sep 15:09 UTC: naya official casualty nahi"
+        "zh": "27日16:07UTC：无更新官方伤亡分项",
+        "en": "27 Sep 16:07 UTC: no newer official casualty split",
+        "ne": "27 Sep 16:07 UTC: naya official casualty chaina",
+        "hi": "27 Sep 16:07 UTC: naya official casualty nahi"
       },
       "body": {
         "zh": "检索新华/应急部、NDRRMA/NRCS、ReliefWeb、美使馆及@XHNews。中方KPI仍43死519失联2获救（5日18时分项）。应急部18日称口岸562人死亡失踪合计、正在核查，未给新分项。尼1453/5550/13795（NDRRMA 24日19:00NPT）。口岸关闭。堰塞湖已排空。G216仅救援通行。",
