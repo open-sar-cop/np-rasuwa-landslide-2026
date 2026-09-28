@@ -1,26 +1,26 @@
 {
-  "snap": "2026-09-28T13:07:00Z",
+  "snap": "2026-09-28T14:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0928-1307",
+      "id": "poll-0928-1415",
       "src": "official",
-      "t": "2026-09-28T13:07:00Z",
+      "t": "2026-09-28T14:15:00Z",
       "link": "https://english.news.cn/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "28日13:07UTC：中方仍43/519/2；尼方仍1453/5285/13795",
-        "en": "28 Sep 13:07 UTC: CN still 43/519/2; NP still 1453/5285/13795",
-        "ne": "28 Sep 13:07 UTC: CN 43/519/2; NP 1453/5285/13795",
-        "hi": "28 Sep 13:07 UTC: CN 43/519/2; NP 1453/5285/13795"
+        "zh": "28日14:15UTC：中方仍43/519/2；尼方仍1453/5285/13795",
+        "en": "28 Sep 14:15 UTC: CN still 43/519/2; NP still 1453/5285/13795",
+        "ne": "28 Sep 14:15 UTC: CN 43/519/2; NP 1453/5285/13795",
+        "hi": "28 Sep 14:15 UTC: CN 43/519/2; NP 1453/5285/13795"
       },
       "body": {
-        "zh": "复检新华/人民网、CGTN堰塞湖、NDRRMA/PTI/UN SitRep9、ReliefWeb/UNOSAT/EMSR927、美使馆及@XHNews。中方分项仍截至5日18时43死519失联2获救。应急部8月合计562正在核查、无新分项。PTI引NDRRMA（26日）1453死5285失联13795获救。口岸关闭。堰塞湖已排空。G216仅救援通行。",
-        "en": "Rechecked Xinhua/People's Daily, CGTN lake, NDRRMA/PTI/UN SitRep9, ReliefWeb/UNOSAT/EMSR927, US Embassy, @XHNews. CN split still 5 Sep 18:00 43/519/2. MEM Aug combined 562 verifying, no new split. PTI citing NDRRMA 26 Sep: 1453/5285/13795. Gate closed. Lake drained. G216 SAR only.",
+        "zh": "复检新华/应急部、CGTN堰塞湖、NDRRMA/PTI、ReliefWeb/UNOSAT/EMSR927、美使馆及@XHNews。中方分项仍截至5日18时43死519失联2获救。应急部8月合计562正在核查、无新分项。PTI引NDRRMA（26日）1453死5285失联13795获救。口岸关闭。堰塞湖已排空。G216仅救援通行。",
+        "en": "Rechecked Xinhua/MEM, CGTN lake, NDRRMA/PTI, ReliefWeb/UNOSAT/EMSR927, US Embassy, @XHNews. CN split still 5 Sep 18:00 43/519/2. MEM Aug combined 562 verifying, no new split. PTI citing NDRRMA 26 Sep: 1453/5285/13795. Gate closed. Lake drained. G216 SAR only.",
         "ne": "Xinhua/NDRRMA/UN check. KPI CN 43/519/2; NP 1453/5285/13795. Gate band. Tal khali. G216 uddhar matra.",
         "hi": "Xinhua/NDRRMA/UN check. KPI CN 43/519/2; NP 1453/5285/13795. Gate band. Jheel khali. G216 kewal SAR."
       }
