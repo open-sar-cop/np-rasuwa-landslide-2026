@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-29T04:10:00Z",
+  "snap": "2026-09-29T05:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0929-0410",
+      "id": "poll-0929-0510",
       "src": "official",
-      "t": "2026-09-29T04:10:00Z",
+      "t": "2026-09-29T05:10:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/450",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "29日04:10UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
-        "en": "29 Sep 04:10 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
-        "ne": "29 Sep 04:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
-        "hi": "29 Sep 04:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
+        "zh": "29日05:10UTC复检：中方仍43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
+        "en": "29 Sep 05:10 UTC recheck: CN still 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
+        "ne": "29 Sep 05:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
+        "hi": "29 Sep 05:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "无新新华分项。堰塞湖已排空。G216仅救援。口岸关闭。尼警分项不改主KPI。勿与中方相加。",
-        "en": "No new Xinhua split. Lake drained. G216 SAR-only. Gate closed. Police split not used for main KPI. Do not add CN.",
-        "ne": "Naya Xinhua chaina. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
-        "hi": "Naya Xinhua nahi. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
+        "zh": "无新新华伤亡分项。堰塞湖已排空。G216仅救援。口岸关闭。尼警28日1454/4718不改主KPI。勿与中方相加。",
+        "en": "No new Xinhua casualty split. Lake drained. G216 SAR-only. Gate closed. Police 28 Sep 1454/4718 not used as main KPI. Do not add CN.",
+        "ne": "Naya Xinhua chaina. Tal khali. G216 uddhar matra. Gate band. Police 1454/4718 mukhya KPI hoina. CN najodnu.",
+        "hi": "Naya Xinhua nahi. Jheel khali. G216 kewal SAR. Gate band. Police 1454/4718 mukhya KPI nahi. CN na joden."
       }
     },
     {
