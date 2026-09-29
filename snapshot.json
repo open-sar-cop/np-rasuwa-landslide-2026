@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-30T02:10:00Z",
+  "snap": "2026-09-30T03:12:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0930-0210",
+      "id": "poll-0930-0312",
       "src": "official",
-      "t": "2026-09-30T02:10:00Z",
+      "t": "2026-09-30T03:12:00Z",
       "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "30日02:10UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
-        "en": "30 Sep 02:10 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
-        "ne": "30 Sep 02:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
-        "hi": "30 Sep 02:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
+        "zh": "30日03:12UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
+        "en": "30 Sep 03:12 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
+        "ne": "30 Sep 03:12 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
+        "hi": "30 Sep 03:12 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "新华无新伤亡分项。应急部8月综述562死失联合计与43+519一致，仍在核查。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
-        "en": "No new Xinhua split. MEM Aug combined 562 matches 43+519, still verifying. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
-        "ne": "Naya Xinhua split chaina. MEM 562 = 43+519. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
-        "hi": "Naya Xinhua split nahi. MEM 562 = 43+519. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
+        "zh": "新华无新伤亡分项。警28日1454/4718未改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
+        "en": "No new Xinhua split. Police 28 Sep 1454/4718 does not replace main KPI. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
+        "ne": "Naya Xinhua split chaina. Police 1454/4718. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
+        "hi": "Naya Xinhua split nahi. Police 1454/4718. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
       }
     },
     {
