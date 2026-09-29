@@ -1,10 +1,30 @@
 {
-  "snap": "2026-09-30T04:08:00Z",
+  "snap": "2026-09-30T11:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
+    {
+      "id": "poll-0930-1110",
+      "src": "official",
+      "t": "2026-09-30T11:10:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "30日11:10UTC复检：中方仍43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
+        "en": "30 Sep 11:10 UTC recheck: CN still 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
+        "ne": "30 Sep 11:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
+        "hi": "30 Sep 11:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
+      },
+      "body": {
+        "zh": "新华无新伤亡分项。应急部8月合计仍写口岸562死失联待核。警28日1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
+        "en": "No new Xinhua split. MEM Aug note still 562 dead+missing pending verify. Police 28 Sep 1454/4718 does not replace main KPI. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
+        "ne": "Naya Xinhua split chaina. MEM 562 verify. Police 1454/4718. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
+        "hi": "Naya Xinhua split nahi. MEM 562 verify. Police 1454/4718. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
+      }
+    },
     {
       "id": "poll-0930-0408",
       "src": "official",
