@@ -1,28 +1,48 @@
 {
-  "snap": "2026-09-29T19:07:00Z",
+  "snap": "2026-09-29T20:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0929-1907",
+      "id": "poll-0929-2010",
       "src": "official",
-      "t": "2026-09-29T19:07:00Z",
+      "t": "2026-09-29T20:10:00Z",
       "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "29日19:07UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
-        "en": "29 Sep 19:07 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
-        "ne": "29 Sep 19:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
-        "hi": "29 Sep 19:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
+        "zh": "29日20:10UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
+        "en": "29 Sep 20:10 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
+        "ne": "29 Sep 20:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
+        "hi": "29 Sep 20:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "无新新华分项。口岸43死519失联2获救维持。堰塞湖已排空。G216仅救援。口岸关闭。尼警28日1454/4718不改主KPI。勿与中方相加。",
-        "en": "No new Xinhua split. Keep 43/519/2. Lake drained. G216 SAR-only. Gate closed. Police 28 Sep 1454/4718 not main KPI. Do not add CN.",
-        "ne": "Naya Xinhua split chaina. 43/519/2. Tal khali. G216 uddhar matra. Gate band. Police 1454/4718 mukhya KPI hoina. CN najodnu.",
-        "hi": "Naya Xinhua split nahi. 43/519/2. Jheel khali. G216 kewal SAR. Gate band. Police 1454/4718 mukhya KPI nahi. CN na joden."
+        "zh": "无新新华分项。口岸43死519失联2获救维持。应急部8月汇总562死失联合计非分项。堰塞湖已排空。G216仅救援。口岸关闭。NDRRMA今日SitRep#451为另场强降雨，非Rasuwa KPI。勿与中方相加。",
+        "en": "No new Xinhua split. Keep 43/519/2. MEM Aug total 562 dead+missing is combined, not a split. Lake drained. G216 SAR-only. Gate closed. NDRRMA SitRep#451 is other rain, not Rasuwa KPI. Do not add CN.",
+        "ne": "Naya Xinhua split chaina. 43/519/2. Tal khali. G216 uddhar matra. Gate band. SitRep#451 arko barsa ho, Rasuwa KPI hoina. CN najodnu.",
+        "hi": "Naya Xinhua split nahi. 43/519/2. Jheel khali. G216 kewal SAR. Gate band. SitRep#451 anya barish, Rasuwa KPI nahi. CN na joden."
+      }
+    },
+    {
+      "id": "ndrrma-sitrep451-0929",
+      "src": "official",
+      "t": "2026-09-29T04:33:06Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/451",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA SitRep#451：另场强降雨，非Rasuwa专项",
+        "en": "NDRRMA SitRep#451: separate heavy-rain report, not Rasuwa split",
+        "ne": "NDRRMA SitRep#451: arko barsa, Rasuwa split hoina",
+        "hi": "NDRRMA SitRep#451: anya barish, Rasuwa split nahi"
+      },
+      "body": {
+        "zh": "29日发布2083年阿斯温8–11日强降雨SitRep#1。不改Rasuwa主KPI 1453/5285/13795。",
+        "en": "Posted 29 Sep for Ashoj 8–11 heavy rain. Does not change Rasuwa KPI 1453/5285/13795.",
+        "ne": "Ashoj 8–11 barsa. Rasuwa KPI 1453/5285/13795 yathavat.",
+        "hi": "Ashoj 8–11 barish. Rasuwa KPI 1453/5285/13795 same."
       }
     },
     {
@@ -344,6 +364,19 @@
   },
   "xPosts": [
     {
+      "id": "x-np-0929-sitrep451",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-29T04:33:06Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2104791554393337861",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA SitRep#451：另场强降雨，非Rasuwa专项",
+        "en": "NDRRMA SitRep#451: other heavy rain, not Rasuwa split",
+        "ne": "NDRRMA SitRep#451: arko barsa, Rasuwa hoina",
+        "hi": "NDRRMA SitRep#451: anya barish, Rasuwa nahi"
+      }
+    },
+    {
       "id": "x-np-0928-daily",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-28T11:51:32Z",
@@ -354,19 +387,6 @@
         "en": "NDRRMA 28 Sep daily SitRep 2276 posted; no new Rasuwa split",
         "ne": "NDRRMA 28 Sep daily SitRep 2276; Rasuwa naya split chaina",
         "hi": "NDRRMA 28 Sep daily SitRep 2276; Rasuwa naya split nahi"
-      }
-    },
-    {
-      "id": "x-np-0927-daily",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-27T11:53:58Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2104177728115421600",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA 27日日报SitRep 2275已发，无新Rasuwa分项",
-        "en": "NDRRMA 27 Sep daily SitRep 2275 posted; no new Rasuwa split",
-        "ne": "NDRRMA 27 Sep daily SitRep 2275; Rasuwa naya split chaina",
-        "hi": "NDRRMA 27 Sep daily SitRep 2275; Rasuwa naya split nahi"
       }
     },
     {
