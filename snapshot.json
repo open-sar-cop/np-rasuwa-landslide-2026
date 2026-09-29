@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-29T20:10:00Z",
+  "snap": "2026-09-29T21:07:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0929-2010",
+      "id": "poll-0929-2107",
       "src": "official",
-      "t": "2026-09-29T20:10:00Z",
+      "t": "2026-09-29T21:07:00Z",
       "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "29日20:10UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
-        "en": "29 Sep 20:10 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
-        "ne": "29 Sep 20:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
-        "hi": "29 Sep 20:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
+        "zh": "29日21:07UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
+        "en": "29 Sep 21:07 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
+        "ne": "29 Sep 21:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
+        "hi": "29 Sep 21:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "无新新华分项。口岸43死519失联2获救维持。应急部8月汇总562死失联合计非分项。堰塞湖已排空。G216仅救援。口岸关闭。NDRRMA今日SitRep#451为另场强降雨，非Rasuwa KPI。勿与中方相加。",
-        "en": "No new Xinhua split. Keep 43/519/2. MEM Aug total 562 dead+missing is combined, not a split. Lake drained. G216 SAR-only. Gate closed. NDRRMA SitRep#451 is other rain, not Rasuwa KPI. Do not add CN.",
-        "ne": "Naya Xinhua split chaina. 43/519/2. Tal khali. G216 uddhar matra. Gate band. SitRep#451 arko barsa ho, Rasuwa KPI hoina. CN najodnu.",
-        "hi": "Naya Xinhua split nahi. 43/519/2. Jheel khali. G216 kewal SAR. Gate band. SitRep#451 anya barish, Rasuwa KPI nahi. CN na joden."
+        "zh": "无新新华分项。口岸43死519失联2获救维持。堰塞湖已排空。G216仅救援。口岸关闭。警28日1454/4718为辅源。勿与中方相加。",
+        "en": "No new Xinhua split. Keep 43/519/2. Lake drained. G216 SAR-only. Gate closed. Police 28 Sep 1454/4718 is secondary. Do not add CN.",
+        "ne": "Naya Xinhua split chaina. 43/519/2. Tal khali. G216 uddhar matra. Gate band. Police 1454/4718 sahayak. CN najodnu.",
+        "hi": "Naya Xinhua split nahi. 43/519/2. Jheel khali. G216 kewal SAR. Gate band. Police 1454/4718 secondary. CN na joden."
       }
     },
     {
@@ -471,36 +471,6 @@
         "en": "Xinhua: latest all-out rescue progress at Gyirong Port",
         "ne": "Xinhua: Gyirong uddhar naya pragati",
         "hi": "Xinhua: Gyirong uddhar naya pragati"
-      }
-    },
-    {
-      "id": "x-xh-g216",
-      "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "G216",
-      "text": {
-        "zh": "新华：G216通往口岸核心2日10时基本抢通",
-        "en": "Xinhua: G216 to port core restored 2 Sep 10:00",
-        "ne": "Xinhua: G216 core 2 Sep 10:00 khulyo",
-        "hi": "Xinhua: G216 core 2 Sep 10:00 khula"
-      }
-    },
-    {
-      "id": "x-cctv-0905-kpi",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-07T02:35:18Z",
-      "link": "https://x.com/CCTV_Plus/status/2096789374872801595",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "CCTV+：截至5日18时吉隆口岸43死519失联",
-        "en": "CCTV+: as of 5 Sep 18:00 Gyirong Port 43 dead, 519 missing",
-        "ne": "CCTV+: 5 Sep 18:00 Gyirong 43/519",
-        "hi": "CCTV+: 5 Sep 18:00 Gyirong 43/519"
       }
     }
   ]
