@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-30T01:08:00Z",
+  "snap": "2026-09-30T02:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0930-0108",
+      "id": "poll-0930-0210",
       "src": "official",
-      "t": "2026-09-30T01:08:00Z",
+      "t": "2026-09-30T02:10:00Z",
       "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "30日01:08UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
-        "en": "30 Sep 01:08 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
-        "ne": "30 Sep 01:08 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
-        "hi": "30 Sep 01:08 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
+        "zh": "30日02:10UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
+        "en": "30 Sep 02:10 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
+        "ne": "30 Sep 02:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
+        "hi": "30 Sep 02:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "新华无新伤亡分项。口岸43死519失联2获救维持。堰塞湖已排空。G216仅救援。口岸关闭。警28日1454/4718为辅源。勿与中方相加。",
-        "en": "No new Xinhua casualty split. Keep 43/519/2. Lake drained. G216 SAR-only. Gate closed. Police 28 Sep 1454/4718 is secondary. Do not add CN.",
-        "ne": "Naya Xinhua casualty split chaina. 43/519/2. Tal khali. G216 uddhar matra. Gate band. Police 1454/4718 sahayak. CN najodnu.",
-        "hi": "Naya Xinhua casualty split nahi. 43/519/2. Jheel khali. G216 kewal SAR. Gate band. Police 1454/4718 secondary. CN na joden."
+        "zh": "新华无新伤亡分项。应急部8月综述562死失联合计与43+519一致，仍在核查。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
+        "en": "No new Xinhua split. MEM Aug combined 562 matches 43+519, still verifying. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
+        "ne": "Naya Xinhua split chaina. MEM 562 = 43+519. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
+        "hi": "Naya Xinhua split nahi. MEM 562 = 43+519. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
       }
     },
     {
@@ -459,18 +459,18 @@
       }
     },
     {
-      "id": "x-xh-0908",
+      "id": "x-xh-0905-drone",
       "user": "@XHNews",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：吉隆口岸全出救援最新进展",
-        "en": "Xinhua: latest all-out rescue progress at Gyirong Port",
-        "ne": "Xinhua: Gyirong uddhar naya pragati",
-        "hi": "Xinhua: Gyirong uddhar naya pragati"
+        "zh": "新华：边检民警灾后无人机航拍口岸一带",
+        "en": "Xinhua: immigration police drone footage near Gyirong Port after mudslide",
+        "ne": "Xinhua: Gyirong Port drone footage",
+        "hi": "Xinhua: Gyirong Port drone footage"
       }
     }
   ]
