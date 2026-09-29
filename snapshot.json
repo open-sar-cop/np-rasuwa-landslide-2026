@@ -1,22 +1,22 @@
 {
-  "snap": "2026-09-29T21:07:00Z",
+  "snap": "2026-09-29T22:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0929-2107",
+      "id": "poll-0929-2210",
       "src": "official",
-      "t": "2026-09-29T21:07:00Z",
+      "t": "2026-09-29T22:10:00Z",
       "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "29日21:07UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
-        "en": "29 Sep 21:07 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
-        "ne": "29 Sep 21:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
-        "hi": "29 Sep 21:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
+        "zh": "29日22:10UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
+        "en": "29 Sep 22:10 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
+        "ne": "29 Sep 22:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
+        "hi": "29 Sep 22:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
       },
       "body": {
         "zh": "无新新华分项。口岸43死519失联2获救维持。堰塞湖已排空。G216仅救援。口岸关闭。警28日1454/4718为辅源。勿与中方相加。",
