@@ -1,28 +1,28 @@
 {
-  "snap": "2026-09-29T14:07:00Z",
+  "snap": "2026-09-29T15:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-0929-1407",
+      "id": "poll-0929-1510",
       "src": "official",
-      "t": "2026-09-29T14:07:00Z",
-      "link": "https://ndrrma.gov.np/np/daily-bulletin/2321",
+      "t": "2026-09-29T15:10:00Z",
+      "link": "https://news.cgtn.com/news/2026-09-06/news-1QdEQOcze9O/p.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "29日14:07UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
-        "en": "29 Sep 14:07 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
-        "ne": "29 Sep 14:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
-        "hi": "29 Sep 14:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
+        "zh": "29日15:10UTC复检：中方43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
+        "en": "29 Sep 15:10 UTC recheck: CN 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
+        "ne": "29 Sep 15:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
+        "hi": "29 Sep 15:10 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "无新新华分项。应急部8月合计口岸562死失联未拆分，不改43/519。堰塞湖已排空。G216仅救援。口岸关闭。尼警28日1454/4718不改主KPI。勿与中方相加。",
-        "en": "No new Xinhua split. MEM Aug combined 562 dead-missing at port is not a split; keep 43/519. Lake drained. G216 SAR-only. Gate closed. Police 28 Sep 1454/4718 not main KPI. Do not add CN.",
-        "ne": "Naya Xinhua split chaina. MEM 562 split hoina. Tal khali. G216 uddhar matra. Gate band. Police 1454/4718 mukhya KPI hoina. CN najodnu.",
-        "hi": "Naya Xinhua split nahi. MEM 562 split nahi. Jheel khali. G216 kewal SAR. Gate band. Police 1454/4718 mukhya KPI nahi. CN na joden."
+        "zh": "无新新华分项。口岸43死519失联2获救维持。堰塞湖已排空。G216仅救援。口岸关闭。尼警28日1454/4718不改主KPI。勿与中方相加。",
+        "en": "No new Xinhua split. Keep 43/519/2. Lake drained. G216 SAR-only. Gate closed. Police 28 Sep 1454/4718 not main KPI. Do not add CN.",
+        "ne": "Naya Xinhua split chaina. 43/519/2. Tal khali. G216 uddhar matra. Gate band. Police 1454/4718 mukhya KPI hoina. CN najodnu.",
+        "hi": "Naya Xinhua split nahi. 43/519/2. Jheel khali. G216 kewal SAR. Gate band. Police 1454/4718 mukhya KPI nahi. CN na joden."
       }
     },
     {
