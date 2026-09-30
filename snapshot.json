@@ -1,10 +1,30 @@
 {
-  "snap": "2026-09-30T15:07:00Z",
+  "snap": "2026-09-30T16:07:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
+    {
+      "id": "poll-0930-1607",
+      "src": "official",
+      "t": "2026-09-30T16:07:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "30日16:07UTC复检：中方仍43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
+        "en": "30 Sep 16:07 UTC recheck: CN still 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
+        "ne": "30 Sep 16:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
+        "hi": "30 Sep 16:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
+      },
+      "body": {
+        "zh": "新华无5日18时后分项更新。警28日1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
+        "en": "No new Xinhua split after 5 Sep 18:00. Police 28 Sep 1454/4718 does not replace main KPI. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
+        "ne": "Naya Xinhua split chaina. Police 1454/4718. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
+        "hi": "Naya Xinhua split nahi. Police 1454/4718. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
+      }
+    },
     {
       "id": "poll-0930-1507",
       "src": "official",
@@ -19,28 +39,8 @@
         "hi": "30 Sep 15:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "新华/日报无5日18时分项无更新。警28旡1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
+        "zh": "新华/日报无5日18时分项无更新。警28日1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
         "en": "No new Xinhua split after 5 Sep 18:00. Police 28 Sep 1454/4718 does not replace main KPI. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
-        "ne": "Naya Xinhua split chaina. Police 1454/4718. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
-        "hi": "Naya Xinhua split nahi. Police 1454/4718. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
-      }
-    },
-    {
-      "id": "poll-0930-1407",
-      "src": "official",
-      "t": "2026-09-30T14:07:00Z",
-      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "30日14:07UTC复检：中方仍43/519/2；尼方主KPI仍NDRRMA 1453/5285/13795",
-        "en": "30 Sep 14:07 UTC recheck: CN still 43/519/2; NP KPI still NDRRMA 1453/5285/13795",
-        "ne": "30 Sep 14:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795",
-        "hi": "30 Sep 14:07 UTC: CN 43/519/2; NP KPI NDRRMA 1453/5285/13795"
-      },
-      "body": {
-        "zh": "新华/日报无更新伤亡分项。警28旡1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
-        "en": "No new Xinhua split. Police 28 Sep 1454/4718 does not replace main KPI. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
         "ne": "Naya Xinhua split chaina. Police 1454/4718. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
         "hi": "Naya Xinhua split nahi. Police 1454/4718. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
       }
@@ -73,7 +73,7 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "尼泊尔警28旡11:00：1454死、4718失联",
+        "zh": "尼泊尔警28日11:00：1454死、4718失联",
         "en": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
         "ne": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
         "hi": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing"
@@ -211,28 +211,6 @@
         "en": "SAR access only; not a customs reopening.",
         "ne": "Uddhar matra; bhansar hoina.",
         "hi": "Kewal SAR; customs nahi."
-      }
-    },
-    {
-      "id": "unosat-emsr927",
-      "src": "official",
-      "t": "2026-08-27T12:00:00Z",
-      "link": "https://mapping.emergency.copernicus.eu/activations/EMSR927/",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Timure",
-      "title": {
-        "zh": "UNOSAT/EMSR927：泥石流范围已制图",
-        "en": "UNOSAT/EMSR927: mudflow footprint mapped",
-        "ne": "UNOSAT/EMSR927: pailo naksa",
-        "hi": "UNOSAT/EMSR927: paila naksha"
-      },
-      "body": {
-        "zh": "Rasuwa–Nuwakot约37平方公里受影响；非伤亡源。",
-        "en": "About 37 km2 affected in Rasuwa–Nuwakot; not a casualty source.",
-        "ne": "Karib 37 km2; casualty hoina.",
-        "hi": "Lagbhag 37 km2; casualty nahi."
       }
     }
   ],
