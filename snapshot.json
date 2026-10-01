@@ -1,22 +1,22 @@
 {
-  "snap": "2026-10-01T21:08:00Z",
+  "snap": "2026-10-01T23:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1001-2108",
+      "id": "poll-1001-2310",
       "src": "official",
-      "t": "2026-10-01T21:08:00Z",
+      "t": "2026-10-01T23:10:00Z",
       "link": "https://en.people.cn/n3/2026/0911/c90000-20498567.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "1日21:08UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "01 Oct 21:08 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "01 Oct 21:08 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "01 Oct 21:08 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "1日23:10UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "01 Oct 23:10 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "01 Oct 23:10 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "01 Oct 23:10 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
         "zh": "新华分项仍截至5日18时。应急部8月合计数562死失踪待核不改分项。警方28日1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
