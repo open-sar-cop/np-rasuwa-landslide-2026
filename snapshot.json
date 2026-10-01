@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-02T00:18:00Z",
+  "snap": "2026-10-01T13:15:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-0018",
+      "id": "poll-1001-1315",
       "src": "official",
-      "t": "2026-10-02T00:18:00Z",
-      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
+      "t": "2026-10-01T13:15:00Z",
+      "link": "https://www.globaltimes.cn/page/202609/1369925.shtml",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "2日00:18UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "02 Oct 00:18 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "02 Oct 00:18 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "02 Oct 00:18 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "1日13:15UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "1 Oct 13:15 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "1 Oct 13:15 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "1 Oct 13:15 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "新华分项仍截至5日18时。外交9月24日仍读261名外籍失联，未改总数。警方28日1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
-        "en": "No new Xinhua split after 5 Sep 18:00. MFA 24 Sep still cites 261 foreign missing. Police 28 Sep 1454/4718 not main KPI. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
-        "ne": "Naya Xinhua split chaina. MFA 261 foreign. Police 1454/4718. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
-        "hi": "Naya Xinhua split nahi. MFA 261 videshi. Police 1454/4718. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
+        "zh": "中方仍为指挥部截至9月5日18时：43死、519失联、2人获救。尼方仍用NDRRMA约9月26日：1453死、5285失联、13795获救。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
+        "en": "CN still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. NP still NDRRMA around 26 Sep: 1453 dead, 5285 missing, 13795 rescued. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
+        "ne": "CN 5 Sep 18:00: 43/519/2. NP NDRRMA ~26 Sep: 1453/5285/13795. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
+        "hi": "CN 5 Sep 18:00: 43/519/2. NP NDRRMA ~26 Sep: 1453/5285/13795. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
       }
     },
     {
@@ -225,7 +225,7 @@
         "hi": "G216 rajmarg"
       },
       "detail": {
-        "zh": "2日上午核心段基本抢通，仅救援通行",
+        "zh": "9月2日上午核心段基本抢通，仅救援通行",
         "en": "Core basically open 2 Sep morning; SAR only",
         "ne": "Core lagbhag khula; uddhar matra",
         "hi": "Core lagbhag khula; kewal SAR"
