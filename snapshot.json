@@ -1,28 +1,48 @@
 {
-  "snap": "2026-10-01T13:15:00Z",
+  "snap": "2026-10-01T14:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1001-1315",
+      "id": "poll-1001-1410",
       "src": "official",
-      "t": "2026-10-01T13:15:00Z",
-      "link": "https://www.globaltimes.cn/page/202609/1369925.shtml",
+      "t": "2026-10-01T14:10:00Z",
+      "link": "https://ndrrma.gov.np/np/daily-bulletin/2324",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "1日13:15UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "1 Oct 13:15 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "1 Oct 13:15 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "1 Oct 13:15 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "1日14:10UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "1 Oct 14:10 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "1 Oct 14:10 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "1 Oct 14:10 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "中方仍为指挥部截至9月5日18时：43死、519失联、2人获救。尼方仍用NDRRMA约9月26日：1453死、5285失联、13795获救。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
-        "en": "CN still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. NP still NDRRMA around 26 Sep: 1453 dead, 5285 missing, 13795 rescued. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
-        "ne": "CN 5 Sep 18:00: 43/519/2. NP NDRRMA ~26 Sep: 1453/5285/13795. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
-        "hi": "CN 5 Sep 18:00: 43/519/2. NP NDRRMA ~26 Sep: 1453/5285/13795. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
+        "zh": "中方仍为指挥部截至9月5日18时：43死、519失联、2人获救。应急管理部9月17日仅562人死亡失踪合计、仍在核查，未替代分项。尼方仍用NDRRMA约9月26日：1453死、5285失联、13795获救。今日SitRep 2279为日报，无Rasuwa新分项。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
+        "en": "CN still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead-and-missing still under verification, not a new split. NP still NDRRMA around 26 Sep: 1453 dead, 5285 missing, 13795 rescued. SitRep 2279 is a daily bulletin, no Rasuwa split. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
+        "ne": "CN 5 Sep 18:00: 43/519/2. MEM 562 jodai abba pani herdai. NP NDRRMA ~26 Sep: 1453/5285/13795. SitRep 2279 daily, Rasuwa split chaina. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
+        "hi": "CN 5 Sep 18:00: 43/519/2. MEM 562 jod ab bhi jaanch mein. NP NDRRMA ~26 Sep: 1453/5285/13795. SitRep 2279 daily, Rasuwa split nahi. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
+      }
+    },
+    {
+      "id": "ndrrma-daily-2279",
+      "src": "official",
+      "t": "2026-10-01T06:44:43Z",
+      "link": "https://ndrrma.gov.np/np/daily-bulletin/2324",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA日报SitRep 2279已发，无Rasuwa新分项",
+        "en": "NDRRMA daily SitRep 2279 posted; no new Rasuwa split",
+        "ne": "NDRRMA daily SitRep 2279; Rasuwa naya split chaina",
+        "hi": "NDRRMA daily SitRep 2279; Rasuwa naya split nahi"
+      },
+      "body": {
+        "zh": "15阿斯温日报。不改主KPI 1453/5285/13795。",
+        "en": "Ashoj 15 daily bulletin. Does not change KPI 1453/5285/13795.",
+        "ne": "Ashoj 15 daily. KPI 1453/5285/13795 yathavat.",
+        "hi": "Ashoj 15 daily. KPI 1453/5285/13795 same."
       }
     },
     {
@@ -45,26 +65,6 @@
         "en": "Main alignment eroded; single-lane unpaved via Tokha–Chhare–Bidur to Dhunche–Syaphrubesi. Not a border reopening.",
         "ne": "Mul sadak katyo; Tokha–Bidur baato. Simana khuleko hoina.",
         "hi": "Mul sadak kati; Tokha–Bidur rasta. Seema khuli nahi."
-      }
-    },
-    {
-      "id": "ndrrma-sitrep451-0929",
-      "src": "official",
-      "t": "2026-09-29T04:33:06Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/451",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA SitRep#451：另场强降雨，非Rasuwa专项",
-        "en": "NDRRMA SitRep#451: separate heavy-rain report, not Rasuwa split",
-        "ne": "NDRRMA SitRep#451: arko barsa, Rasuwa split hoina",
-        "hi": "NDRRMA SitRep#451: anya barish, Rasuwa split nahi"
-      },
-      "body": {
-        "zh": "29日发2083年阿斯温11日强降雨SitRep#1。不改Rasuwa主KPI 1453/5285/13795。",
-        "en": "Posted 29 Sep for Ashoj 8–11 heavy rain. Does not change Rasuwa KPI 1453/5285/13795.",
-        "ne": "Ashoj 8–11 barsa. Rasuwa KPI 1453/5285/13795 yathavat.",
-        "hi": "Ashoj 8–11 barish. Rasuwa KPI 1453/5285/13795 same."
       }
     },
     {
@@ -108,23 +108,25 @@
       }
     },
     {
-      "id": "mfa-0924-261",
+      "id": "mem-0917-562",
       "src": "official",
-      "t": "2026-09-24T07:36:00Z",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34140489",
+      "t": "2026-09-17T12:00:00Z",
+      "link": "https://www.zaobao.com.sg/news/china/story20260918-9699028",
       "img": null,
-      "geo": "unknown",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "title": {
-        "zh": "外交9月24日：外籍失联仍为261人",
-        "en": "MFA 24 Sep: 261 foreign nationals still missing",
-        "ne": "MFA 24 Sep: 261 foreign harai",
-        "hi": "MFA 24 Sep: 261 videshi lapata"
+        "zh": "应急管理部：吉隆口岸562人死亡失踪，仍在核查",
+        "en": "MEM: 562 dead and missing at Gyirong Port, still being verified",
+        "ne": "MEM: Gyirong 562 death-missing, herdai",
+        "hi": "MEM: Gyirong 562 death-missing, jaanch jari"
       },
       "body": {
-        "zh": "郭嘉昆：已向有关国使馆通报。未更新中方43/519/2分项。",
-        "en": "Guo Jiakun: embassies notified. CN 43/519/2 split not updated.",
-        "ne": "Dootawas lai suchana. CN split yathavat.",
-        "hi": "Dootawas ko soochana. CN split same."
+        "zh": "8月自然灾害情况合计，不替代指挥部9月5日18时分项43/519/2。",
+        "en": "August natural-disaster total. Does not replace the 5 Sep 18:00 split 43/519/2.",
+        "ne": "August jodai. 5 Sep split 43/519/2 badaldaina.",
+        "hi": "August jod. 5 Sep split 43/519/2 nahi badalta."
       }
     },
     {
@@ -187,10 +189,10 @@
         "hi": "US Embassy: Rasuwagadhi Level 4"
       },
       "body": {
-        "zh": "因灾损、交通通信中断及次生风险，勿前往中尼口岸一带。",
-        "en": "Do not travel to the Nepal-China crossing area due to damage and secondary risk.",
-        "ne": "Simana chetra najaau.",
-        "hi": "Seema kshetra na jayen."
+        "zh": "因灾损、交通通信中断及次生风险，勿前往中尼口岸一带。未见新公路通告。",
+        "en": "Do not travel to the Nepal-China crossing area. No newer road notice found.",
+        "ne": "Simana chetra najaau. Naya road notice chaina.",
+        "hi": "Seema kshetra na jayen. Naya road notice nahi."
       }
     }
   ],
@@ -322,6 +324,19 @@
   },
   "xPosts": [
     {
+      "id": "x-np-1001-2279",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-10-01T06:44:43Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105549451280752746",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA日报SitRep 2279已发，无Rasuwa新分项",
+        "en": "NDRRMA daily SitRep 2279 posted; no new Rasuwa split",
+        "ne": "NDRRMA SitRep 2279; Rasuwa naya split chaina",
+        "hi": "NDRRMA SitRep 2279; Rasuwa naya split nahi"
+      }
+    },
+    {
       "id": "x-np-0926-sitrep25",
       "user": "@NDRRMA_Nepal",
       "t": "2026-09-26T16:42:51Z",
@@ -345,19 +360,6 @@
         "en": "NDRRMA SitRep#451: other heavy rain, not Rasuwa split",
         "ne": "NDRRMA SitRep#451: arko barsa, Rasuwa hoina",
         "hi": "NDRRMA SitRep#451: anya barish, Rasuwa nahi"
-      }
-    },
-    {
-      "id": "x-np-0928-daily",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-28T11:51:32Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2104539503147041186",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA 28日日报SitRep 2276已发，无新Rasuwa分项",
-        "en": "NDRRMA 28 Sep daily SitRep 2276 posted; no new Rasuwa split",
-        "ne": "NDRRMA 28 Sep daily SitRep 2276; Rasuwa naya split chaina",
-        "hi": "NDRRMA 28 Sep daily SitRep 2276; Rasuwa naya split nahi"
       }
     },
     {
