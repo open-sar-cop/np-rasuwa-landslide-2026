@@ -1,26 +1,26 @@
 {
-  "snap": "2026-10-01T14:10:00Z",
+  "snap": "2026-10-01T15:07:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1001-1410",
+      "id": "poll-1001-1507",
       "src": "official",
-      "t": "2026-10-01T14:10:00Z",
+      "t": "2026-10-01T15:07:00Z",
       "link": "https://ndrrma.gov.np/np/daily-bulletin/2324",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "1日14:10UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "1 Oct 14:10 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "1 Oct 14:10 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "1 Oct 14:10 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "1日15:07UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "1 Oct 15:07 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "1 Oct 15:07 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "1 Oct 15:07 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "中方仍为指挥部截至9月5日18时：43死、519失联、2人获救。应急管理部9月17日仅562人死亡失踪合计、仍在核查，未替代分项。尼方仍用NDRRMA约9月26日：1453死、5285失联、13795获救。今日SitRep 2279为日报，无Rasuwa新分项。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
-        "en": "CN still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead-and-missing still under verification, not a new split. NP still NDRRMA around 26 Sep: 1453 dead, 5285 missing, 13795 rescued. SitRep 2279 is a daily bulletin, no Rasuwa split. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
+        "zh": "新华、人民日报仍为9月5日18时指挥部：43死、519失联、2人获救。应急管理部9月17日562人合计仍在核查，未替代分项。尼方仍用NDRRMA约9月26日：1453死、5285失联、13795获救。SitRep 2279日报无Rasuwa新分项。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
+        "en": "Xinhua/People's Daily still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead-and-missing still under verification, not a new split. NP still NDRRMA around 26 Sep: 1453 dead, 5285 missing, 13795 rescued. SitRep 2279 daily bulletin has no Rasuwa split. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
         "ne": "CN 5 Sep 18:00: 43/519/2. MEM 562 jodai abba pani herdai. NP NDRRMA ~26 Sep: 1453/5285/13795. SitRep 2279 daily, Rasuwa split chaina. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
         "hi": "CN 5 Sep 18:00: 43/519/2. MEM 562 jod ab bhi jaanch mein. NP NDRRMA ~26 Sep: 1453/5285/13795. SitRep 2279 daily, Rasuwa split nahi. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
       }
