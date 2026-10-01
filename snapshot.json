@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-02T00:07:00Z",
+  "snap": "2026-10-02T00:18:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-0007",
+      "id": "poll-1002-0018",
       "src": "official",
-      "t": "2026-10-02T00:07:00Z",
-      "link": "https://en.people.cn/n3/2026/0911/c90000-20498567.html",
+      "t": "2026-10-02T00:18:00Z",
+      "link": "https://english.news.cn/20260908/01ce64f8f7844b658b65ee2585fac1f2/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "2日00:07UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "02 Oct 00:07 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "02 Oct 00:07 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "02 Oct 00:07 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "2日00:18UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "02 Oct 00:18 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "02 Oct 00:18 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "02 Oct 00:18 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "新华分项仍截至5日18时。应急部8月合计数562死失踪待核不改分项。警方28日1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
-        "en": "No new Xinhua split after 5 Sep 18:00. MEM Aug 562 combined unverified. Police 28 Sep 1454/4718 not main KPI. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
-        "ne": "Naya Xinhua split chaina. Police 1454/4718. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
-        "hi": "Naya Xinhua split nahi. Police 1454/4718. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
+        "zh": "新华分项仍截至5日18时。外交9月24日仍读261名外籍失联，未改总数。警方28日1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
+        "en": "No new Xinhua split after 5 Sep 18:00. MFA 24 Sep still cites 261 foreign missing. Police 28 Sep 1454/4718 not main KPI. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
+        "ne": "Naya Xinhua split chaina. MFA 261 foreign. Police 1454/4718. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
+        "hi": "Naya Xinhua split nahi. MFA 261 videshi. Police 1454/4718. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
       }
     },
     {
@@ -78,7 +78,7 @@
         "zh": "尼泊尔警28日11:00：1454死、4718失联",
         "en": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
         "ne": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
-        "hi": "Nepal Police 28 Sep 28 Sep 11:00: 1454 dead, 4718 missing"
+        "hi": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing"
       },
       "body": {
         "zh": "分县遗体统计已发；1334具已处置。未公布获救总数。安置1283人。COP主KPI仍用NDRRMA 1453/5285/13795。勿与中方相加。",
@@ -105,6 +105,26 @@
         "en": "About 1113 in 21 holding centres. 112 bodies handed to families. Do not add CN.",
         "ne": "1113 shelter, 21 kendra. 112 deha parivar. CN najodnu.",
         "hi": "1113 shelter, 21 kendra. 112 deh parivar. CN na joden."
+      }
+    },
+    {
+      "id": "mfa-0924-261",
+      "src": "official",
+      "t": "2026-09-24T07:36:00Z",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34140489",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "外交9月24日：外籍失联仍为261人",
+        "en": "MFA 24 Sep: 261 foreign nationals still missing",
+        "ne": "MFA 24 Sep: 261 foreign harai",
+        "hi": "MFA 24 Sep: 261 videshi lapata"
+      },
+      "body": {
+        "zh": "郭嘉昆：已向有关国使馆通报。未更新中方43/519/2分项。",
+        "en": "Guo Jiakun: embassies notified. CN 43/519/2 split not updated.",
+        "ne": "Dootawas lai suchana. CN split yathavat.",
+        "hi": "Dootawas ko soochana. CN split same."
       }
     },
     {
@@ -171,28 +191,6 @@
         "en": "Do not travel to the Nepal-China crossing area due to damage and secondary risk.",
         "ne": "Simana chetra najaau.",
         "hi": "Seema kshetra na jayen."
-      }
-    },
-    {
-      "id": "xinhua-g216-0902",
-      "src": "official",
-      "t": "2026-09-02T02:00:00Z",
-      "link": "https://news.cgtn.com/news/2026-09-02/Key-highway-reopens-amid-all-out-Xizang-mudslide-rescue-effort-1Q6mUuWPC5G/p.html",
-      "img": null,
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "G216",
-      "title": {
-        "zh": "G216通往口岸核心2日上午基本抢通",
-        "en": "G216 to port core basically restored 2 Sep morning",
-        "ne": "G216 core 2 Sep bihan khulyo",
-        "hi": "G216 core 2 Sep subah khula"
-      },
-      "body": {
-        "zh": "供救援通行，非口岸开关。",
-        "en": "SAR access only; not a customs reopening.",
-        "ne": "Uddhar matra; bhansar hoina.",
-        "hi": "Kewal SAR; customs nahi."
       }
     }
   ],
