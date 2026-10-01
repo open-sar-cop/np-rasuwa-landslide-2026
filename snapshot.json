@@ -1,22 +1,22 @@
 {
-  "snap": "2026-10-01T23:10:00Z",
+  "snap": "2026-10-02T00:07:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1001-2310",
+      "id": "poll-1002-0007",
       "src": "official",
-      "t": "2026-10-01T23:10:00Z",
+      "t": "2026-10-02T00:07:00Z",
       "link": "https://en.people.cn/n3/2026/0911/c90000-20498567.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "1日23:10UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "01 Oct 23:10 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "01 Oct 23:10 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "01 Oct 23:10 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "2日00:07UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "02 Oct 00:07 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "02 Oct 00:07 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "02 Oct 00:07 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
         "zh": "新华分项仍截至5日18时。应急部8月合计数562死失踪待核不改分项。警方28日1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
@@ -78,7 +78,7 @@
         "zh": "尼泊尔警28日11:00：1454死、4718失联",
         "en": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
         "ne": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
-        "hi": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing"
+        "hi": "Nepal Police 28 Sep 28 Sep 11:00: 1454 dead, 4718 missing"
       },
       "body": {
         "zh": "分县遗体统计已发；1334具已处置。未公布获救总数。安置1283人。COP主KPI仍用NDRRMA 1453/5285/13795。勿与中方相加。",
@@ -404,18 +404,18 @@
       }
     },
     {
-      "id": "x-xh-0905-drone",
-      "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "id": "x-cctv-0907-43",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-07T02:35:18Z",
+      "link": "https://x.com/CCTV_Plus/status/2096789374872801595",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：边检民警无人机拍摄口岸泥石流后现场",
-        "en": "Xinhua: immigration officer drone footage near Gyirong Port",
-        "ne": "Xinhua: Gyirong Port drone",
-        "hi": "Xinhua: Gyirong Port drone"
+        "zh": "CCTV+：截至9月5日18时，43人遇难、519人失联",
+        "en": "CCTV+: 43 dead, 519 missing as of 5 Sep 18:00",
+        "ne": "CCTV+: 5 Sep 18:00 43/519",
+        "hi": "CCTV+: 5 Sep 18:00 43/519"
       }
     },
     {
