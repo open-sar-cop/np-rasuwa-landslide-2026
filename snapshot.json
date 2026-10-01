@@ -1,25 +1,25 @@
 {
-  "snap": "2026-10-01T19:10:00Z",
+  "snap": "2026-10-01T21:07:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1001-1910",
+      "id": "poll-1001-2107",
       "src": "official",
-      "t": "2026-10-01T19:10:00Z",
-      "link": "https://china.cnr.cn/news/20260907/t20260907_527806632.shtml",
+      "t": "2026-10-01T21:07:00Z",
+      "link": "https://www.news.cn/politics/20260830/2836a8cf298047d1ac6c0d95186d2f13/c.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "1日19:10UTC复检：中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "01 Oct 19:10 UTC: CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "01 Oct 19:10 UTC: CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "01 Oct 19:10 UTC: CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "1日21:07UTC复检：中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "01 Oct 21:07 UTC: CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "01 Oct 21:07 UTC: CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "01 Oct 21:07 UTC: CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "新华分项仍截至5日18时。应急部8月562死失踪待核不改分项。警28日1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
+        "zh": "新华分项仍截至5日18时。应急部8月合计数562死失踪待核不改分项。警28日1454/4718不改主KPI。堰塞湖已排空。G216仅救援。口岸关闭。勿与中方相加。",
         "en": "No new Xinhua split after 5 Sep 18:00. MEM Aug 562 combined unverified. Police 28 Sep 1454/4718 not main KPI. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
         "ne": "Naya Xinhua split chaina. Police 1454/4718. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
         "hi": "Naya Xinhua split nahi. Police 1454/4718. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
