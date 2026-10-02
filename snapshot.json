@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-02T04:07:52Z",
+  "snap": "2026-10-02T05:09:33Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-0407",
+      "id": "poll-1002-0509",
       "src": "official",
-      "t": "2026-10-02T04:07:52Z",
+      "t": "2026-10-02T05:09:33Z",
       "link": "https://ndrrma.gov.np/np/situation-report/450",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "2日04:07UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "2 Oct 04:07 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "2 Oct 04:07 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "2 Oct 04:07 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "2日05:09UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "2 Oct 05:09 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "2 Oct 05:09 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "2 Oct 05:09 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "新华/人民日报仍为9月5日18时指挥部：43死、519失联、2人获救。应急管理部9月17日合计562死亡失踪，不替代分项。尼方主KPI仍用NDRRMA 9月26日19时报#25：1453死、5285失联、13795获救。26日后无Bhotekoshi新报。堰塞湖已排空。G216仅救援。口岸关闭。美使馆仍为9月3日勿前往Rasuwagadhi–Timure。勿与中方相加。",
-        "en": "Xinhua/People's Daily still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead-missing does not replace the split. NP main KPI remains NDRRMA 26 Sep 19:00 report #25: 1453 dead, 5285 missing, 13795 rescued. No Bhotekoshi report after 26 Sep. Lake drained. G216 SAR-only. Gate closed. US Embassy still 3 Sep do-not-travel Rasuwagadhi-Timure. Do not add CN.",
-        "ne": "CN 5 Sep 18:00: 43/519/2. MEM 562 jodai, split hoina. NP NDRRMA 26 Sep #25: 1453/5285/13795. Pachi naya report chaina. Tal khali. G216 uddhar matra. Gate band. US Embassy 3 Sep Rasuwagadhi-Timure najaau. CN najodnu.",
-        "hi": "CN 5 Sep 18:00: 43/519/2. MEM 562 jod, split nahi. NP NDRRMA 26 Sep #25: 1453/5285/13795. Baad naya report nahi. Jheel khali. G216 kewal SAR. Gate band. US Embassy 3 Sep Rasuwagadhi-Timure mat jaen. CN na joden."
+        "zh": "新华/人民日报仍为9月5日18时指挥部：43死、519失联、2人获救。外交部9月24日仍只确认261名外籍失联。尼方主KPI仍用NDRRMA 9月26日19时报#25：1453死、5285失联、13795获救。26日后无Bhotekoshi新报。堰塞湖已排空。G216仅救援。口岸关闭。美使馆仍为9月3日勿前往Rasuwagadhi–Timure。勿与中方相加。",
+        "en": "Xinhua/People's Daily still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still only confirms 261 foreign missing. NP main KPI remains NDRRMA 26 Sep 19:00 report #25: 1453 dead, 5285 missing, 13795 rescued. No Bhotekoshi report after 26 Sep. Lake drained. G216 SAR-only. Gate closed. US Embassy still 3 Sep do-not-travel Rasuwagadhi-Timure. Do not add CN.",
+        "ne": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 foreign missing. NP NDRRMA 26 Sep #25: 1453/5285/13795. Pachi naya report chaina. Tal khali. G216 uddhar matra. Gate band. US Embassy 3 Sep Rasuwagadhi-Timure najaau. CN najodnu.",
+        "hi": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 videshi missing. NP NDRRMA 26 Sep #25: 1453/5285/13795. Baad naya report nahi. Jheel khali. G216 kewal SAR. Gate band. US Embassy 3 Sep Rasuwagadhi-Timure mat jaen. CN na joden."
       }
     },
     {
