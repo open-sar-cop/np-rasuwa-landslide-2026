@@ -1,28 +1,48 @@
 {
-  "snap": "2026-10-02T05:09:33Z",
+  "snap": "2026-10-02T06:12:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-0509",
+      "id": "poll-1002-0612",
       "src": "official",
-      "t": "2026-10-02T05:09:33Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/450",
+      "t": "2026-10-02T06:12:00Z",
+      "link": "https://english.pardafas.com/bhotekoshi-trishuli-flood-search-and-rescue-concludes-as-recovery-phase-begins-ndrrma-moves-to-verify-missing-persons/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "2日05:09UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "2 Oct 05:09 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "2 Oct 05:09 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "2 Oct 05:09 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "2日06:12UTC复检：无新分项死亡；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "2 Oct 06:12 UTC recheck: no new death split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "2 Oct 06:12 UTC: naya death split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "2 Oct 06:12 UTC: naya death split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "新华/人民日报仍为9月5日18时指挥部：43死、519失联、2人获救。外交部9月24日仍只确认261名外籍失联。尼方主KPI仍用NDRRMA 9月26日19时报#25：1453死、5285失联、13795获救。26日后无Bhotekoshi新报。堰塞湖已排空。G216仅救援。口岸关闭。美使馆仍为9月3日勿前往Rasuwagadhi–Timure。勿与中方相加。",
-        "en": "Xinhua/People's Daily still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still only confirms 261 foreign missing. NP main KPI remains NDRRMA 26 Sep 19:00 report #25: 1453 dead, 5285 missing, 13795 rescued. No Bhotekoshi report after 26 Sep. Lake drained. G216 SAR-only. Gate closed. US Embassy still 3 Sep do-not-travel Rasuwagadhi-Timure. Do not add CN.",
-        "ne": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 foreign missing. NP NDRRMA 26 Sep #25: 1453/5285/13795. Pachi naya report chaina. Tal khali. G216 uddhar matra. Gate band. US Embassy 3 Sep Rasuwagadhi-Timure najaau. CN najodnu.",
-        "hi": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 videshi missing. NP NDRRMA 26 Sep #25: 1453/5285/13795. Baad naya report nahi. Jheel khali. G216 kewal SAR. Gate band. US Embassy 3 Sep Rasuwagadhi-Timure mat jaen. CN na joden."
+        "zh": "新华/人民日报仍为9月5日18时指挥部：43死、519失联、2人获救。外交部9月24日仍只确认261名外籍失联。尼方主KPI仍用NDRRMA 9月26日19时报#25：1453死、5285失联、13795获救。10月1日转恢复阶段但未发新人数。堰塞湖已排空。口岸关闭。勿与中方相加。",
+        "en": "Xinhua/People's Daily still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still only confirms 261 foreign missing. NP main KPI remains NDRRMA 26 Sep 19:00 report #25: 1453 dead, 5285 missing, 13795 rescued. 1 Oct recovery phase gave no new headcount. Lake drained. Gate closed. Do not add CN.",
+        "ne": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 foreign missing. NP NDRRMA 26 Sep #25: 1453/5285/13795. 1 Oct recovery, naya ank chaina. Tal khali. Gate band. CN najodnu.",
+        "hi": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 videshi missing. NP NDRRMA 26 Sep #25: 1453/5285/13795. 1 Oct recovery, naya ank nahi. Jheel khali. Gate band. CN na joden."
+      }
+    },
+    {
+      "id": "ndrrma-1001-recovery",
+      "src": "official",
+      "t": "2026-10-01T12:00:00Z",
+      "link": "https://english.pardafas.com/bhotekoshi-trishuli-flood-search-and-rescue-concludes-as-recovery-phase-begins-ndrrma-moves-to-verify-missing-persons/",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 10月1日：搜救结束，转入恢复并核查失联",
+        "en": "NDRRMA 1 Oct: SAR ended; recovery and missing-person verification begin",
+        "ne": "NDRRMA 1 Oct: khoj sakiyo; punarsthapana ra missing verification",
+        "hi": "NDRRMA 1 Oct: SAR khatam; recovery aur missing satyapan"
+      },
+      "body": {
+        "zh": "执行主任Upreti称已无生还可能，转搜寻遗体与核查失联。未公布新死亡/失联/获救分项，不替代#25。",
+        "en": "Chief Upreti said no survivors expected; move to body recovery and missing verification. No new dead/missing/rescued split; does not replace report #25.",
+        "ne": "Upreti: bacheko sambhav chaina. Naya split chaina; #25 badaldaina.",
+        "hi": "Upreti: bache hone ki sambhavna nahi. Naya split nahi; #25 nahi badalta."
       }
     },
     {
@@ -105,28 +125,6 @@
         "en": "Spokesperson gave no new death split; does not replace 5 Sep 18:00 figures.",
         "ne": "Naya death split chaina; 5 Sep ank badaldaina.",
         "hi": "Naya death split nahi; 5 Sep ank nahi badalta."
-      }
-    },
-    {
-      "id": "mem-0917-562",
-      "src": "official",
-      "t": "2026-09-17T12:00:00Z",
-      "link": "https://www.zaobao.com.sg/news/china/story20260918-9699028",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "title": {
-        "zh": "应急管理部：吉隆口岸562人死亡失踪，仍在核查",
-        "en": "MEM: 562 dead and missing at Gyirong Port, still being verified",
-        "ne": "MEM: Gyirong 562 death-missing, herdai",
-        "hi": "MEM: Gyirong 562 death-missing, jaanch jari"
-      },
-      "body": {
-        "zh": "8月自然灾害情况合计，不替代指挥部9月5日18时分项43/519/2。",
-        "en": "August natural-disaster total. Does not replace the 5 Sep 18:00 split 43/519/2.",
-        "ne": "August jodai. 5 Sep split 43/519/2 badaldaina.",
-        "hi": "August jod. 5 Sep split 43/519/2 nahi badalta."
       }
     },
     {
@@ -245,10 +243,10 @@
         "hi": "Rasuwagadhi–Timure"
       },
       "detail": {
-        "zh": "美使馆9月3日勿前往；北部Rasuwa仍限行",
-        "en": "US Embassy 3 Sep do-not-travel; northern Rasuwa still restricted",
-        "ne": "US Embassy 3 Sep yatra nagar; uttar Rasuwa band",
-        "hi": "US Embassy 3 Sep yatra na karen; uttari Rasuwa band"
+        "zh": "美使馆8月31日勿前往；北部Rasuwa仍限行",
+        "en": "US advisory 31 Aug do-not-travel; northern Rasuwa still restricted",
+        "ne": "US 31 Aug yatra nagar; uttar Rasuwa band",
+        "hi": "US 31 Aug yatra na karen; uttari Rasuwa band"
       }
     }
   ],
@@ -265,10 +263,10 @@
         "hi": "Agrav SAR"
       },
       "detail": {
-        "zh": "口岸核心分区搜救持续。无实时GNSS。",
-        "en": "Zonal search at port core. No live GNSS.",
-        "ne": "Core khoj jari. Live GNSS chaina.",
-        "hi": "Core khoj jari. Live GNSS nahi."
+        "zh": "尼方10月1日转恢复与遗体搜寻。中方口岸核心无新通报。无实时GNSS。",
+        "en": "Nepal moved to recovery and body search 1 Oct. No new CN port-core update. No live GNSS.",
+        "ne": "Nepal 1 Oct punarsthapana. CN naya update chaina. Live GNSS chaina.",
+        "hi": "Nepal 1 Oct recovery. CN naya update nahi. Live GNSS nahi."
       }
     }
   ],
@@ -305,10 +303,10 @@
         "hi": "Port core"
       },
       "detail": {
-        "zh": "堆积厚，分区搜救中",
-        "en": "Thick deposit; zonal search ongoing",
-        "ne": "Thupro; khoj jari",
-        "hi": "Jamaav; khoj jari"
+        "zh": "堆积厚；中方分区搜寻无新数字；尼方已转恢复",
+        "en": "Thick deposit; no new CN count; Nepal in recovery",
+        "ne": "Thupro; CN naya ank chaina; Nepal recovery",
+        "hi": "Jamaav; CN naya ank nahi; Nepal recovery"
       }
     }
   ],
