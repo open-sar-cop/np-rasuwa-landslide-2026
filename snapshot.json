@@ -1,28 +1,48 @@
 {
-  "snap": "2026-10-02T13:15:30Z",
+  "snap": "2026-10-02T14:12:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-1315",
+      "id": "poll-1002-1412",
       "src": "official",
-      "t": "2026-10-02T13:15:30Z",
-      "link": "https://china.cnr.cn/news/20260907/t20260907_527806632.shtml",
+      "t": "2026-10-02T14:12:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105985479619514823",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10月2日13:15UTC复检：无新分项；中方43/519/2；尼方NDRRMA #25 1453/5285/13795",
-        "en": "2 Oct 13:15 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
-        "ne": "2 Oct 13:15 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
-        "hi": "2 Oct 13:15 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"
+        "zh": "10月2日14:12UTC复检：无新分项；中方43/519/2；尼方NDRRMA #25 1453/5285/13795",
+        "en": "2 Oct 14:12 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
+        "ne": "2 Oct 14:12 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
+        "hi": "2 Oct 14:12 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"
       },
       "body": {
-        "zh": "指挥部/央广网仍为9月5日18时：43死、519失联、2人获救。应急管理部9月17日合计562人死亡失踪，与分项一致。NDRRMA 10月2日SitRep 2280未列Bhotekoshi新伤亡，主KPI仍用9月26日19:00报#25。堰塞湖已排空。口岸关闭。勿与中方相加。",
-        "en": "Command centre/CNR still 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead/missing matches that split. NDRRMA 2 Oct SitRep 2280 lists no new Bhotekoshi casualties; main KPI stays 26 Sep 19:00 report #25. Lake drained. Gate closed. Do not add CN.",
-        "ne": "CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 milcha. SitRep 2280 ma Bhotekoshi naya casualty chaina. COP KPI NDRRMA #25. Tal khali. Gate band. CN najodnu.",
-        "hi": "CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 milta hai. SitRep 2280 mein Bhotekoshi naya casualty nahi. COP KPI NDRRMA #25. Jheel khali. Gate band. CN na joden."
+        "zh": "NDRRMA 11:37UTC仅为人员调任祝贺，未列Bhotekoshi伤亡。SitRep 2280仍无新分项。中方指挥部仍为9月5日18时：43死、519失联、2人获救。应急管理部9月17日合计562人死亡失踪，与分项一致。堰塞湖已排空。口岸关闭。勿与中方相加。",
+        "en": "NDRRMA 11:37 UTC was a staff-transfer note only; no Bhotekoshi casualties. SitRep 2280 still has no new split. CN command centre remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead/missing matches that split. Lake drained. Gate closed. Do not add CN.",
+        "ne": "NDRRMA 11:37 UTC saruwa matra. SitRep 2280 ma naya split chaina. CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 milcha. Tal khali. Gate band. CN najodnu.",
+        "hi": "NDRRMA 11:37 UTC transfer matra. SitRep 2280 mein naya split nahi. CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 milta hai. Jheel khali. Gate band. CN na joden."
+      }
+    },
+    {
+      "id": "ndrrma-1002-transfer",
+      "src": "official",
+      "t": "2026-10-02T11:37:20Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105985479619514823",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 10月2日11:37UTC：人员调任祝贺，无伤亡",
+        "en": "NDRRMA 2 Oct 11:37 UTC: staff transfer note, no casualties",
+        "ne": "NDRRMA 2 Oct 11:37 UTC: saruwa, casualty chaina",
+        "hi": "NDRRMA 2 Oct 11:37 UTC: transfer, casualty nahi"
+      },
+      "body": {
+        "zh": "祝贺副秘书调任罗尔帕首席区官，未更新死亡/失联/获救，不替代#25。",
+        "en": "Congratulates a joint secretary posted as Rolpa CDO. No dead/missing/rescued. Does not replace report #25.",
+        "ne": "Upasachiv Rolpa CDO. Naya split chaina; #25 badaldaina.",
+        "hi": "Upasachiv Rolpa CDO. Naya split nahi; #25 nahi badalta."
       }
     },
     {
@@ -86,46 +106,6 @@
       }
     },
     {
-      "id": "np-police-0928-1454",
-      "src": "official",
-      "t": "2026-09-28T05:15:00Z",
-      "link": "https://english.nepalnews.com/s/nation/death-toll-from-rasuwa-flood-reaches-1454/",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "尼泊尔警察28日11:00：1454死、4718失联",
-        "en": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
-        "ne": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
-        "hi": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing"
-      },
-      "body": {
-        "zh": "分县遗体统计已发；1334具已处置。未公布获救总数。安置1283人。COP主KPI仍用NDRRMA 1453/5285/13795。勿与中方相加。",
-        "en": "District body counts posted; 1334 bodies managed. No rescued total. 1283 in shelters. COP main KPI remains NDRRMA 1453/5285/13795. Do not add CN.",
-        "ne": "Jilla hisab; 1334 deha. Rescued total chaina. 1283 shelter. COP KPI NDRRMA. CN najodnu.",
-        "hi": "Zila hisab; 1334 deh. Rescued total nahi. 1283 shelter. COP KPI NDRRMA. CN na joden."
-      }
-    },
-    {
-      "id": "lagani-0930-1454",
-      "src": "official",
-      "t": "2026-09-30T15:39:00Z",
-      "link": "https://laganinews.com/en/2026/09/30/bhotekoshi-floods-verification-of-missing-people-and-construction-of-temporary-shelters-begins-2/",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "9月30日报道：已找到1454具遗体，失联5285",
-        "en": "30 Sep report: 1454 bodies recovered, 5285 missing",
-        "ne": "30 Sep: 1454 deha, 5285 missing",
-        "hi": "30 Sep: 1454 deh, 5285 missing"
-      },
-      "body": {
-        "zh": "仅识别112具。未给出新获救总数，不替代NDRRMA获救13795。DNA样本约3685份检测中。",
-        "en": "Only 112 identified. No new rescued total; does not replace NDRRMA 13795 rescued. About 3685 DNA samples in testing.",
-        "ne": "112 chiniyo. Naya rescued chaina. DNA lagbhag 3685.",
-        "hi": "112 pehchane. Naya rescued nahi. DNA lagbhag 3685."
-      }
-    },
-    {
       "id": "rrn-0926-baseline",
       "src": "official",
       "t": "2026-09-26T13:15:00Z",
@@ -133,38 +113,16 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "RRN引NDRRMA：9月26日后无Bhotekoshi新基线",
-        "en": "RRN citing NDRRMA: no Bhotekoshi baseline after 26 Sep",
-        "ne": "RRN/NDRRMA: 26 Sep pachi Bhotekoshi naya baseline chaina",
-        "hi": "RRN/NDRRMA: 26 Sep ke baad Bhotekoshi naya baseline nahi"
+        "zh": "RRN引NDRRMA #25：1453死、5285失联",
+        "en": "RRN citing NDRRMA #25: 1453 dead, 5285 missing",
+        "ne": "RRN/NDRRMA #25: 1453 dead, 5285 missing",
+        "hi": "RRN/NDRRMA #25: 1453 dead, 5285 missing"
       },
       "body": {
-        "zh": "1453死、5285失联；21个安置点约1109人（Rasuwa 805）。25–28日强降雨专报未列Rasuwa新伤亡。",
-        "en": "1453 dead, 5285 missing; about 1109 in 21 centres (805 Rasuwa). 25-28 Sep rain report lists no new Rasuwa casualties.",
-        "ne": "1453/5285; 1109 shelter (Rasuwa 805). 25-28 barsa, Rasuwa naya casualty chaina.",
-        "hi": "1453/5285; 1109 shelter (Rasuwa 805). 25-28 barish, Rasuwa naya casualty nahi."
-      }
-    },
-    {
-      "id": "mfa-0924-261",
-      "src": "official",
-      "t": "2026-09-24T07:36:00Z",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34140489",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "title": {
-        "zh": "外交部9月24日：261名外籍失联已通报",
-        "en": "MFA 24 Sep: 261 foreign nationals missing, notified",
-        "ne": "MFA 24 Sep: 261 foreign missing, suchana",
-        "hi": "MFA 24 Sep: 261 videshi missing, suchna"
-      },
-      "body": {
-        "zh": "发言人未给出新的死亡分项，不替代指挥部9月5日18时数字。",
-        "en": "Spokesperson gave no new death split; does not replace 5 Sep 18:00 figures.",
-        "ne": "Naya death split chaina; 5 Sep ank badaldaina.",
-        "hi": "Naya death split nahi; 5 Sep ank nahi badalta."
+        "zh": "9月26日19:00报。获救13795。21个安置点约1109人（Rasuwa 805）。此后无更新基线。",
+        "en": "Report of 26 Sep 19:00. Rescued 13795. About 1109 in 21 centres (805 Rasuwa). No later baseline.",
+        "ne": "26 Sep 19:00. Rescued 13795. 1109 shelter (Rasuwa 805). Pachi baseline chaina.",
+        "hi": "26 Sep 19:00. Rescued 13795. 1109 shelter (Rasuwa 805). Baad baseline nahi."
       }
     },
     {
@@ -210,6 +168,28 @@
         "ne": "Tal khali; nadi bahyo. 444 ghar pheri.",
         "hi": "Jheel khali; nadi bahi. 444 ghar laute."
       }
+    },
+    {
+      "id": "g216-0920",
+      "src": "official",
+      "t": "2026-09-20T04:00:00Z",
+      "link": "https://player-travel.com/zh/jilong-mudslide-travel-safety-2026",
+      "img": null,
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "title": {
+        "zh": "9月20日路网：G216吉隆镇至国门仍双向管制",
+        "en": "20 Sep road notice: G216 Gyirong Town to gate still both-way controlled",
+        "ne": "20 Sep: G216 Gyirong Town dekhi gate duitai tira niyantran",
+        "hi": "20 Sep: G216 Gyirong Town se gate dono or niyantrit"
+      },
+      "body": {
+        "zh": "交通运输厅路网：K3500+200至K3525+850自8月26日起管制，解除待定。抢通仅供救援，非社会车辆通关。",
+        "en": "Transport dept: K3500+200 to K3525+850 controlled since 26 Aug; lift time unset. Cleared for rescue only, not public crossing.",
+        "ne": "K3500+200–K3525+850 niyantran. Uddhar matra, sadharan yatayat hoina.",
+        "hi": "K3500+200–K3525+850 niyantran. Sirf rescue, sarkari crossing nahi."
+      }
     }
   ],
   "roads": [
@@ -243,10 +223,10 @@
         "hi": "G216 rajmarg"
       },
       "detail": {
-        "zh": "核心段救援通行；非通关",
-        "en": "Core open for SAR only; not a reopening",
-        "ne": "Core uddhar matra; simana hoina",
-        "hi": "Core kewal SAR; seema nahi"
+        "zh": "9月20日仍双向管制；核心段仅救援通行",
+        "en": "Still both-way controlled as of 20 Sep; core for SAR only",
+        "ne": "20 Sep samma niyantran; core uddhar matra",
+        "hi": "20 Sep tak niyantran; core kewal SAR"
       }
     },
     {
@@ -340,16 +320,16 @@
   },
   "xPosts": [
     {
-      "id": "x-ndrrma-1002-2280",
+      "id": "x-ndrrma-1002-transfer",
       "user": "@NDRRMA_Nepal",
-      "t": "2026-10-02T07:16:37Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2105919867539095924",
+      "t": "2026-10-02T11:37:20Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105985479619514823",
       "geo": "unknown",
       "text": {
-        "zh": "NDRRMA：10月2日日报 SitRep 2280，未列Bhotekoshi新伤亡",
-        "en": "NDRRMA: 2 Oct SitRep 2280; no new Bhotekoshi casualty line",
-        "ne": "NDRRMA: SitRep 2280; Bhotekoshi naya casualty chaina",
-        "hi": "NDRRMA: SitRep 2280; Bhotekoshi naya casualty nahi"
+        "zh": "NDRRMA：祝贺副秘书调任罗尔帕，未列Bhotekoshi新伤亡",
+        "en": "NDRRMA: staff transfer to Rolpa; no new Bhotekoshi casualty line",
+        "ne": "NDRRMA: Rolpa saruwa; Bhotekoshi naya casualty chaina",
+        "hi": "NDRRMA: Rolpa transfer; Bhotekoshi naya casualty nahi"
       }
     },
     {
@@ -363,6 +343,19 @@
         "en": "NDRRMA: do not ignore early warnings; no new casualty line",
         "ne": "NDRRMA: purvasuchana bewastha nagarau; naya casualty chaina",
         "hi": "NDRRMA: purv-soochna ignore na karen; naya casualty nahi"
+      }
+    },
+    {
+      "id": "x-ndrrma-1002-2280",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-10-02T07:16:37Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105919867539095924",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：10月2日日报 SitRep 2280，未列Bhotekoshi新伤亡",
+        "en": "NDRRMA: 2 Oct SitRep 2280; no new Bhotekoshi casualty line",
+        "ne": "NDRRMA: SitRep 2280; Bhotekoshi naya casualty chaina",
+        "hi": "NDRRMA: SitRep 2280; Bhotekoshi naya casualty nahi"
       }
     },
     {
@@ -434,21 +427,6 @@
         "en": "CCTV+: volunteers serve free meals in Gyirong County",
         "ne": "CCTV+: Gyirong ma volunteer bhojan",
         "hi": "CCTV+: Gyirong mein volunteer bhojan"
-      }
-    },
-    {
-      "id": "x-xh-0908",
-      "user": "@XHNews",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "新华：吉隆口岸泥石流搜救最新进展",
-        "en": "Xinhua: latest progress on Gyirong Port mudslide rescue",
-        "ne": "Xinhua: Gyirong Port uddhar naya pragati",
-        "hi": "Xinhua: Gyirong Port uddhar naya pragati"
       }
     }
   ]
