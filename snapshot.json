@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-02T21:12:00Z",
+  "snap": "2026-10-02T22:08:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-2112",
+      "id": "poll-1002-2208",
       "src": "official",
-      "t": "2026-10-02T21:12:00Z",
-      "link": "https://english.pardafas.com/bhotekoshi-trishuli-flood-search-and-rescue-concludes-as-recovery-phase-begins-ndrrma-moves-to-verify-missing-persons/",
+      "t": "2026-10-02T22:08:00Z",
+      "link": "https://english.nepalnews.com/s/nation/death-toll-from-rasuwa-flood-reaches-1454/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "2日21:12UTC复检：无新分项死亡；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "2 Oct 21:12 UTC recheck: no new death split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "2 Oct 21:12 UTC: naya death split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "2 Oct 21:12 UTC: naya death split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "2日22:08UTC复检：无新分项死亡；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "2 Oct 22:08 UTC recheck: no new death split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "2 Oct 22:08 UTC: naya death split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "2 Oct 22:08 UTC: naya death split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "新华/人民日报仍为9月5日18时指挥部：43死、519失联、2人获救。外交部9月24日仍只确认261名外籍失联。尼方主KPI仍用NDRRMA 9月26日19时报#25：1453死、5285失联、13795获救。10月1日转恢复未发新人数。堰塞湖已排空。口岸关闭。勿与中方相加。",
-        "en": "Xinhua/People's Daily still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still only confirms 261 foreign missing. NP main KPI remains NDRRMA 26 Sep 19:00 report #25: 1453 dead, 5285 missing, 13795 rescued. 1 Oct recovery phase gave no new headcount. Lake drained. Gate closed. Do not add CN.",
-        "ne": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 foreign missing. NP NDRRMA 26 Sep #25: 1453/5285/13795. 1 Oct recovery, naya ank chaina. Tal khali. Gate band. CN najodnu.",
-        "hi": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 videshi missing. NP NDRRMA 26 Sep #25: 1453/5285/13795. 1 Oct recovery, naya ank nahi. Jheel khali. Gate band. CN na joden."
+        "zh": "新华网与指挥部仍为9月5日18时：43死、519失联、2人获救。外交部9月24日仍只确认261名外籍失联。尼泊尔警察9月28日11:00为1454死、4718失联，无获救总数。主KPI仍用NDRRMA 9月26日19:00报#25。堰塞湖已排空。口岸关闭。勿与中方相加。",
+        "en": "Xinhua and the command centre remain 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still only confirms 261 foreign missing. Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing, no rescued total. Main KPI stays NDRRMA 26 Sep 19:00 report #25. Lake drained. Gate closed. Do not add CN.",
+        "ne": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 foreign missing. Nepal Police 28 Sep: 1454/4718, rescued chaina. COP KPI NDRRMA #25 1453/5285/13795. Tal khali. Gate band. CN najodnu.",
+        "hi": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 videshi missing. Nepal Police 28 Sep: 1454/4718, rescued nahi. COP KPI NDRRMA #25 1453/5285/13795. Jheel khali. Gate band. CN na joden."
       }
     },
     {
@@ -53,7 +53,7 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "尼泊尔警28日11:00：1454死、4718失联",
+        "zh": "尼泊尔警察28日11:00：1454死、4718失联",
         "en": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
         "ne": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
         "hi": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing"
