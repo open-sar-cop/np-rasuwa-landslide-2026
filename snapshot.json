@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-02T14:12:00Z",
+  "snap": "2026-10-02T15:12:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-1412",
+      "id": "poll-1002-1512",
       "src": "official",
-      "t": "2026-10-02T14:12:00Z",
+      "t": "2026-10-02T15:12:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2105985479619514823",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10月2日14:12UTC复检：无新分项；中方43/519/2；尼方NDRRMA #25 1453/5285/13795",
-        "en": "2 Oct 14:12 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
-        "ne": "2 Oct 14:12 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
-        "hi": "2 Oct 14:12 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"
+        "zh": "10月2日15:12UTC复检：无新分项；中方43/519/2；尼方NDRRMA #25 1453/5285/13795",
+        "en": "2 Oct 15:12 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
+        "ne": "2 Oct 15:12 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
+        "hi": "2 Oct 15:12 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"
       },
       "body": {
-        "zh": "NDRRMA 11:37UTC仅为人员调任祝贺，未列Bhotekoshi伤亡。SitRep 2280仍无新分项。中方指挥部仍为9月5日18时：43死、519失联、2人获救。应急管理部9月17日合计562人死亡失踪，与分项一致。堰塞湖已排空。口岸关闭。勿与中方相加。",
-        "en": "NDRRMA 11:37 UTC was a staff-transfer note only; no Bhotekoshi casualties. SitRep 2280 still has no new split. CN command centre remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead/missing matches that split. Lake drained. Gate closed. Do not add CN.",
-        "ne": "NDRRMA 11:37 UTC saruwa matra. SitRep 2280 ma naya split chaina. CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 milcha. Tal khali. Gate band. CN najodnu.",
-        "hi": "NDRRMA 11:37 UTC transfer matra. SitRep 2280 mein naya split nahi. CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 milta hai. Jheel khali. Gate band. CN na joden."
+        "zh": "NDRRMA今日最新11:37UTC仅人员调任，SitRep 2280无Bhotekoshi新伤亡。中方仍为9月5日18时：43死、519失联、2人获救。堰塞湖已排空。口岸关闭。G216至9月20日仍管制。勿与中方相加。",
+        "en": "NDRRMA latest today 11:37 UTC is a staff note; SitRep 2280 has no new Bhotekoshi split. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. Lake drained. Gate closed. G216 still controlled as of 20 Sep. Do not add CN.",
+        "ne": "NDRRMA 11:37 UTC saruwa matra. SitRep 2280 ma naya split chaina. CN 5 Sep 18:00: 43/519/2. Tal khali. Gate band. G216 20 Sep niyantran. CN najodnu.",
+        "hi": "NDRRMA 11:37 UTC transfer matra. SitRep 2280 mein naya split nahi. CN 5 Sep 18:00: 43/519/2. Jheel khali. Gate band. G216 20 Sep niyantran. CN na joden."
       }
     },
     {
@@ -59,7 +59,7 @@
         "hi": "NDRRMA 2 Oct: SitRep 2280, Bhotekoshi naya split nahi"
       },
       "body": {
-        "zh": "公布为全国灾害日报链接，未更新死亡/失联/获救，不替代#25。",
+        "zh": "全国灾害日报链接，未更新死亡/失联/获救，不替代#25。",
         "en": "National daily bulletin link only; no updated dead/missing/rescued. Does not replace report #25.",
         "ne": "Rashtriya daily bulletin matra. Naya split chaina; #25 badaldaina.",
         "hi": "Rashtriya daily bulletin matra. Naya split nahi; #25 nahi badalta."
@@ -163,7 +163,7 @@
         "hi": "Xinhua: jheel khali; khatra lagbhag hata"
       },
       "body": {
-        "zh": "应急管理部称9月5日：口岸上游堰塞湖已排空，河道恢复过流。444人已返乡。",
+        "zh": "应急管理部9月5日：口岸上游堰塞湖已排空，河道恢复过流。444人已返乡。",
         "en": "Emergency department 5 Sep: lake above port drained, river flow resumed. 444 residents returned.",
         "ne": "Tal khali; nadi bahyo. 444 ghar pheri.",
         "hi": "Jheel khali; nadi bahi. 444 ghar laute."
@@ -175,9 +175,9 @@
       "t": "2026-09-20T04:00:00Z",
       "link": "https://player-travel.com/zh/jilong-mudslide-travel-safety-2026",
       "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
+      "lat": 28.390,
+      "lng": 85.325,
+      "geo": "Gyirong town",
       "title": {
         "zh": "9月20日路网：G216吉隆镇至国门仍双向管制",
         "en": "20 Sep road notice: G216 Gyirong Town to gate still both-way controlled",
@@ -214,8 +214,8 @@
     {
       "id": "g216",
       "status": "limited",
-      "lat": 28.3,
-      "lng": 85.368,
+      "lat": 28.390,
+      "lng": 85.325,
       "name": {
         "zh": "G216国道",
         "en": "G216 Highway",
