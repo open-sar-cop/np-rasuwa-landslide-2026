@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-02T12:16:36Z",
+  "snap": "2026-10-02T13:15:30Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-1216",
+      "id": "poll-1002-1315",
       "src": "official",
-      "t": "2026-10-02T12:16:36Z",
-      "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
+      "t": "2026-10-02T13:15:30Z",
+      "link": "https://china.cnr.cn/news/20260907/t20260907_527806632.shtml",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10月2日12:16UTC复检：无新分项；中方43/519/2；尼方NDRRMA #25 1453/5285/13795",
-        "en": "2 Oct 12:16 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
-        "ne": "2 Oct 12:16 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
-        "hi": "2 Oct 12:16 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"
+        "zh": "10月2日13:15UTC复检：无新分项；中方43/519/2；尼方NDRRMA #25 1453/5285/13795",
+        "en": "2 Oct 13:15 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
+        "ne": "2 Oct 13:15 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
+        "hi": "2 Oct 13:15 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"
       },
       "body": {
-        "zh": "新华社/指挥部仍为9月5日18时：43死、519失联、2人获救。应急管理部9月17日合计562人死亡失踪，与分项一致。外交部仍只确认261名外籍失联。NDRRMA 10月2日SitRep未列Bhotekoshi新伤亡，主KPI仍用9月26日19:00报#25。堰塞湖已排空。口岸关闭。勿与中方相加。",
-        "en": "Xinhua/command centre remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead/missing matches that split. MFA still only confirms 261 foreign missing. NDRRMA 2 Oct SitRep lists no new Bhotekoshi casualties; main KPI stays 26 Sep 19:00 report #25. Lake drained. Gate closed. Do not add CN.",
-        "ne": "CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 milcha. MFA: 261 foreign missing. SitRep ma Bhotekoshi naya casualty chaina. COP KPI NDRRMA #25. Tal khali. Gate band. CN najodnu.",
-        "hi": "CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 milta hai. MFA: 261 videshi missing. SitRep mein Bhotekoshi naya casualty nahi. COP KPI NDRRMA #25. Jheel khali. Gate band. CN na joden."
+        "zh": "指挥部/央广网仍为9月5日18时：43死、519失联、2人获救。应急管理部9月17日合计562人死亡失踪，与分项一致。NDRRMA 10月2日SitRep 2280未列Bhotekoshi新伤亡，主KPI仍用9月26日19:00报#25。堰塞湖已排空。口岸关闭。勿与中方相加。",
+        "en": "Command centre/CNR still 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead/missing matches that split. NDRRMA 2 Oct SitRep 2280 lists no new Bhotekoshi casualties; main KPI stays 26 Sep 19:00 report #25. Lake drained. Gate closed. Do not add CN.",
+        "ne": "CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 milcha. SitRep 2280 ma Bhotekoshi naya casualty chaina. COP KPI NDRRMA #25. Tal khali. Gate band. CN najodnu.",
+        "hi": "CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 milta hai. SitRep 2280 mein Bhotekoshi naya casualty nahi. COP KPI NDRRMA #25. Jheel khali. Gate band. CN na joden."
       }
     },
     {
@@ -340,19 +340,6 @@
   },
   "xPosts": [
     {
-      "id": "x-ndrrma-1002-ew",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-10-02T08:44:59Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2105942105302679976",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA：勿忽视灾害预警，未列新伤亡",
-        "en": "NDRRMA: do not ignore early warnings; no new casualty line",
-        "ne": "NDRRMA: purvasuchana bewastha nagarau; naya casualty chaina",
-        "hi": "NDRRMA: purv-soochna ignore na karen; naya casualty nahi"
-      }
-    },
-    {
       "id": "x-ndrrma-1002-2280",
       "user": "@NDRRMA_Nepal",
       "t": "2026-10-02T07:16:37Z",
@@ -363,6 +350,19 @@
         "en": "NDRRMA: 2 Oct SitRep 2280; no new Bhotekoshi casualty line",
         "ne": "NDRRMA: SitRep 2280; Bhotekoshi naya casualty chaina",
         "hi": "NDRRMA: SitRep 2280; Bhotekoshi naya casualty nahi"
+      }
+    },
+    {
+      "id": "x-ndrrma-1002-ew",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-10-02T08:44:59Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105942105302679976",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：勿忽视灾害预警，未列新伤亡",
+        "en": "NDRRMA: do not ignore early warnings; no new casualty line",
+        "ne": "NDRRMA: purvasuchana bewastha nagarau; naya casualty chaina",
+        "hi": "NDRRMA: purv-soochna ignore na karen; naya casualty nahi"
       }
     },
     {
@@ -437,18 +437,18 @@
       }
     },
     {
-      "id": "x-xh-lake",
+      "id": "x-xh-0908",
       "user": "@XHNews",
-      "t": "2026-09-05T13:49:30Z",
-      "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
-      "lat": 28.293,
-      "lng": 85.392,
-      "geo": "barrier lake",
+      "t": "2026-09-08T04:59:52Z",
+      "link": "https://x.com/XHNews/status/2097188145544798711",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "新华：吉隆口岸上游堰塞湖已排空，险情基本消除",
-        "en": "Xinhua: barrier lake above Gyirong Port drained; hazard largely eliminated",
-        "ne": "Xinhua: Gyirong mathi tal khali; khatara lagbhag hatyo",
-        "hi": "Xinhua: Gyirong ke upar jheel khali; khatra lagbhag hata"
+        "zh": "新华：吉隆口岸泥石流搜救最新进展",
+        "en": "Xinhua: latest progress on Gyirong Port mudslide rescue",
+        "ne": "Xinhua: Gyirong Port uddhar naya pragati",
+        "hi": "Xinhua: Gyirong Port uddhar naya pragati"
       }
     }
   ]
