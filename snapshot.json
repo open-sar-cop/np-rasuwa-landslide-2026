@@ -1,28 +1,48 @@
 {
-  "snap": "2026-10-02T22:08:00Z",
+  "snap": "2026-10-02T23:08:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-2208",
+      "id": "poll-1002-2308",
       "src": "official",
-      "t": "2026-10-02T22:08:00Z",
-      "link": "https://english.nepalnews.com/s/nation/death-toll-from-rasuwa-flood-reaches-1454/",
+      "t": "2026-10-02T23:08:00Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105919867539095924",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "2日22:08UTC复检：无新分项死亡；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "2 Oct 22:08 UTC recheck: no new death split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "2 Oct 22:08 UTC: naya death split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "2 Oct 22:08 UTC: naya death split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "2日23:08UTC复检：无新分项死亡；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "2 Oct 23:08 UTC recheck: no new death split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "2 Oct 23:08 UTC: naya death split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "2 Oct 23:08 UTC: naya death split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "新华网与指挥部仍为9月5日18时：43死、519失联、2人获救。外交部9月24日仍只确认261名外籍失联。尼泊尔警察9月28日11:00为1454死、4718失联，无获救总数。主KPI仍用NDRRMA 9月26日19:00报#25。堰塞湖已排空。口岸关闭。勿与中方相加。",
-        "en": "Xinhua and the command centre remain 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still only confirms 261 foreign missing. Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing, no rescued total. Main KPI stays NDRRMA 26 Sep 19:00 report #25. Lake drained. Gate closed. Do not add CN.",
-        "ne": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 foreign missing. Nepal Police 28 Sep: 1454/4718, rescued chaina. COP KPI NDRRMA #25 1453/5285/13795. Tal khali. Gate band. CN najodnu.",
-        "hi": "CN 5 Sep 18:00: 43/519/2. MFA 24 Sep: 261 videshi missing. Nepal Police 28 Sep: 1454/4718, rescued nahi. COP KPI NDRRMA #25 1453/5285/13795. Jheel khali. Gate band. CN na joden."
+        "zh": "指挥部仍为9月5日18时：43死、519失联、2人获救。应急管理部9月17日合计562人死亡失踪，与分项一致。外交部9月24日仍只确认261名外籍失联。NDRRMA 10月2日SitRep 2280未列Bhotekoshi新伤亡。主KPI仍用NDRRMA 9月26日19:00报#25。堰塞湖已排空。口岸关闭。勿与中方相加。",
+        "en": "Command centre remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead/missing matches that split. MFA 24 Sep still only confirms 261 foreign missing. NDRRMA SitRep 2280 on 2 Oct lists no new Bhotekoshi casualties. Main KPI stays NDRRMA 26 Sep 19:00 report #25. Lake drained. Gate closed. Do not add CN.",
+        "ne": "CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 combined milcha. MFA 24 Sep: 261 foreign missing. SitRep 2280 ma Bhotekoshi naya casualty chaina. COP KPI NDRRMA #25 1453/5285/13795. Tal khali. Gate band. CN najodnu.",
+        "hi": "CN 5 Sep 18:00: 43/519/2. MEM 17 Sep 562 combined milta hai. MFA 24 Sep: 261 videshi missing. SitRep 2280 mein Bhotekoshi naya casualty nahi. COP KPI NDRRMA #25 1453/5285/13795. Jheel khali. Gate band. CN na joden."
+      }
+    },
+    {
+      "id": "ndrrma-1002-sitrep2280",
+      "src": "official",
+      "t": "2026-10-02T07:16:37Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105919867539095924",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 10月2日：日报SitRep 2280，无Bhotekoshi新分项",
+        "en": "NDRRMA 2 Oct: daily SitRep 2280, no new Bhotekoshi split",
+        "ne": "NDRRMA 2 Oct: SitRep 2280, Bhotekoshi naya split chaina",
+        "hi": "NDRRMA 2 Oct: SitRep 2280, Bhotekoshi naya split nahi"
+      },
+      "body": {
+        "zh": "公布为全国灾害日报链接，未更新死亡/失联/获救，不替代#25。",
+        "en": "National daily bulletin link only; no updated dead/missing/rescued. Does not replace report #25.",
+        "ne": "Rashtriya daily bulletin matra. Naya split chaina; #25 badaldaina.",
+        "hi": "Rashtriya daily bulletin matra. Naya split nahi; #25 nahi badalta."
       }
     },
     {
@@ -170,28 +190,6 @@
         "ne": "Tal khali; nadi bahyo. 444 ghar pheri.",
         "hi": "Jheel khali; nadi bahi. 444 ghar laute."
       }
-    },
-    {
-      "id": "g216-0902",
-      "src": "official",
-      "t": "2026-09-02T04:00:00Z",
-      "link": "http://tibet.cn/cn/jszg/202609/t20260902_8042182.html",
-      "img": null,
-      "lat": 28.3,
-      "lng": 85.368,
-      "geo": "G216",
-      "title": {
-        "zh": "G216至口岸核心9月2日10时基本抢通",
-        "en": "G216 to port core basically restored 2 Sep 10:00",
-        "ne": "G216 core 2 Sep 10:00 khulyo",
-        "hi": "G216 core 2 Sep 10:00 khula"
-      },
-      "body": {
-        "zh": "仅救援通行，非通关。尼泊尔侧帕桑拉姆公路Rasuwa段仍全阻。",
-        "en": "SAR traffic only, not a border reopening. Pasang Lhamu in Rasuwa still fully blocked.",
-        "ne": "Uddhar matra, simana hoina. Pasang Lhamu Rasuwa block.",
-        "hi": "Kewal SAR, seema nahi. Pasang Lhamu Rasuwa block."
-      }
     }
   ],
   "roads": [
@@ -215,7 +213,7 @@
     },
     {
       "id": "g216",
-      "status": "open",
+      "status": "limited",
       "lat": 28.3,
       "lng": 85.368,
       "name": {
@@ -225,10 +223,10 @@
         "hi": "G216 rajmarg"
       },
       "detail": {
-        "zh": "9月2日上午核心段基本抢通，仅救援通行",
-        "en": "Core basically open 2 Sep morning; SAR only",
-        "ne": "Core lagbhag khula; uddhar matra",
-        "hi": "Core lagbhag khula; kewal SAR"
+        "zh": "核心段救援通行；9月20日仍双向管制，非通关",
+        "en": "Core open for SAR; 20 Sep still two-way control, not a reopening",
+        "ne": "Core uddhar matra; 20 Sep dui-tarfa niyantran, simana hoina",
+        "hi": "Core kewal SAR; 20 Sep do-tarfa niyantran, seema nahi"
       }
     },
     {
@@ -321,6 +319,19 @@
     }
   },
   "xPosts": [
+    {
+      "id": "x-ndrrma-1002-2280",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-10-02T07:16:37Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105919867539095924",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：16阿索日报 SitRep 2280，未列Bhotekoshi新伤亡",
+        "en": "NDRRMA: 2 Oct SitRep 2280; no new Bhotekoshi casualty line",
+        "ne": "NDRRMA: SitRep 2280; Bhotekoshi naya casualty chaina",
+        "hi": "NDRRMA: SitRep 2280; Bhotekoshi naya casualty nahi"
+      }
+    },
     {
       "id": "x-ndrrma-0926-25",
       "user": "@NDRRMA_Nepal",
