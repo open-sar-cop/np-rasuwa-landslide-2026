@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-01T23:12:00Z",
+  "snap": "2026-10-02T00:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1001-2312",
+      "id": "poll-1002-0810",
       "src": "official",
-      "t": "2026-10-01T23:12:00Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/450",
+      "t": "2026-10-02T00:10:00Z",
+      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "2\u65e507:12CST\u590d\u68c0\uff1a\u65e0\u65b0\u5206\u9879\uff1b\u4e2d\u65b943/519/2\uff1b\u5c3c\u65b9NDRRMA 1453/5285/13795",
-        "en": "2 Oct 07:12 CST recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "2 Oct 07:12 CST: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "2 Oct 07:12 CST: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "2日08:10CST复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "2 Oct 08:10 CST recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "2 Oct 08:10 CST: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "2 Oct 08:10 CST: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
-        "zh": "\u65b0\u534e\u3001\u4eba\u6c11\u65e5\u62a5\u4ecd\u4e3a9\u67085\u65e518\u65f6\u6307\u6325\u90e8\uff1a43\u6b7b\u3001519\u5931\u8054\u30012\u4eba\u83b7\u6551\u3002\u5916\u4ea4\u90e89\u670824\u65e5\u4ecd\u79f0261\u540d\u5916\u7c4d\u5931\u8054\uff0c\u672a\u66ff\u4ee3\u5206\u9879\u3002\u5c3c\u65b9\u4ecd\u7528NDRRMA\u7ea69\u670826\u65e5\uff1a1453\u6b7b\u30015285\u5931\u8054\u300113795\u83b7\u6551\u3002SitRep#25\u4e3a\u6700\u65b0\u4e13\u62a5\u3002\u5830\u585e\u6e56\u5df2\u6392\u7a7a\u3002G216\u4ec5\u6551\u63f4\u3002\u53e3\u5cb8\u5173\u95ed\u3002\u52ff\u4e0e\u4e2d\u65b9\u76f8\u52a0\u3002",
-        "en": "Xinhua/People's Daily still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still 261 foreign missing, not a new split. NP still NDRRMA around 26 Sep: 1453 dead, 5285 missing, 13795 rescued. SitRep#25 is latest dedicated report. Lake drained. G216 SAR-only. Gate closed. Do not add CN.",
-        "ne": "CN 5 Sep 18:00: 43/519/2. MFA 261 foreign missing. NP NDRRMA ~26 Sep: 1453/5285/13795. SitRep#25 antim. Tal khali. G216 uddhar matra. Gate band. CN najodnu.",
-        "hi": "CN 5 Sep 18:00: 43/519/2. MFA 261 videshi missing. NP NDRRMA ~26 Sep: 1453/5285/13795. SitRep#25 antim. Jheel khali. G216 kewal SAR. Gate band. CN na joden."
+        "zh": "新华/人民日报仍为9月5日18时指挥部：43死、519失联、2人获救。应急管理部9月17日合计562人死亡失踪，不替代分项。外交部9月24日仍为261名外籍失联。尼方主KPI仍用NDRRMA约9月26日：1453死、5285失联、13795获救。警28日与30日报道1454具遗体，未替代获救总数。堰塞湖已排空。G216仅救援。口岸关闭。本轮无新美使馆公路通告。勿与中方相加。",
+        "en": "Xinhua/People's Daily still command-centre as of 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 does not replace the split. MFA 24 Sep still 261 foreign missing. NP main KPI remains NDRRMA around 26 Sep: 1453 dead, 5285 missing, 13795 rescued. Police 28 Sep and 30 Sep reports cite 1454 bodies, no new rescued total. Lake drained. G216 SAR-only. Gate closed. No new US Embassy road notice this run. Do not add CN.",
+        "ne": "CN 5 Sep 18:00: 43/519/2. MEM 562 jodai, split hoina. MFA 261. NP NDRRMA ~26 Sep: 1453/5285/13795. Police 1454 deha, rescued naya chaina. Tal khali. G216 uddhar matra. Gate band. Naya US road notice chaina. CN najodnu.",
+        "hi": "CN 5 Sep 18:00: 43/519/2. MEM 562 jod, split nahi. MFA 261. NP NDRRMA ~26 Sep: 1453/5285/13795. Police 1454 deh, rescued naya nahi. Jheel khali. G216 kewal SAR. Gate band. Naya US road notice nahi. CN na joden."
       }
     },
     {
@@ -33,16 +33,36 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "\u5c3c\u6cca\u5c14\u8b6628\u65e511:00\uff1a1454\u6b7b\u30014718\u5931\u8054",
+        "zh": "尼泊尔警28日11:00：1454死、4718失联",
         "en": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
         "ne": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing",
         "hi": "Nepal Police 28 Sep 11:00: 1454 dead, 4718 missing"
       },
       "body": {
-        "zh": "\u5206\u53bf\u9057\u4f53\u7edf\u8ba1\u5df2\u53d1\uff1b1334\u5177\u5df2\u5904\u7f6e\u3002\u672a\u516c\u5e03\u83b7\u6551\u603b\u6570\u3002\u5b89\u7f6e1283\u4eba\u3002COP\u4e3bKPI\u4ecd\u7528NDRRMA 1453/5285/13795\u3002\u52ff\u4e0e\u4e2d\u65b9\u76f8\u52a0\u3002",
+        "zh": "分县遗体统计已发；1334具已处置。未公布获救总数。安置1283人。COP主KPI仍用NDRRMA 1453/5285/13795。勿与中方相加。",
         "en": "District body counts posted; 1334 bodies managed. No rescued total. 1283 in shelters. COP main KPI remains NDRRMA 1453/5285/13795. Do not add CN.",
         "ne": "Jilla hisab; 1334 deha. Rescued total chaina. 1283 shelter. COP KPI NDRRMA. CN najodnu.",
         "hi": "Zila hisab; 1334 deh. Rescued total nahi. 1283 shelter. COP KPI NDRRMA. CN na joden."
+      }
+    },
+    {
+      "id": "lagani-0930-1454",
+      "src": "official",
+      "t": "2026-09-30T15:39:00Z",
+      "link": "https://laganinews.com/en/2026/09/30/bhotekoshi-floods-verification-of-missing-people-and-construction-of-temporary-shelters-begins-2/",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "9月30日报道：已找到1454具遗体，失联5285",
+        "en": "30 Sep report: 1454 bodies recovered, 5285 missing",
+        "ne": "30 Sep: 1454 deha, 5285 missing",
+        "hi": "30 Sep: 1454 deh, 5285 missing"
+      },
+      "body": {
+        "zh": "仅识别112具。未给出新获救总数，不替代NDRRMA获救13795。DNA样本约3685份检测中。",
+        "en": "Only 112 identified. No new rescued total; does not replace NDRRMA 13795 rescued. About 3685 DNA samples in testing.",
+        "ne": "112 chiniyo. Naya rescued chaina. DNA lagbhag 3685.",
+        "hi": "112 pehchane. Naya rescued nahi. DNA lagbhag 3685."
       }
     },
     {
@@ -53,13 +73,13 @@
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "RRN\u5f15NDRRMA\uff1a9\u670826\u65e5\u540e\u65e0Bhotekoshi\u65b0\u57fa\u7ebf",
+        "zh": "RRN引NDRRMA：9月26日后无Bhotekoshi新基线",
         "en": "RRN citing NDRRMA: no Bhotekoshi baseline after 26 Sep",
         "ne": "RRN/NDRRMA: 26 Sep pachi Bhotekoshi naya baseline chaina",
         "hi": "RRN/NDRRMA: 26 Sep ke baad Bhotekoshi naya baseline nahi"
       },
       "body": {
-        "zh": "1453\u6b7b\u30015285\u5931\u8054\uff1b21\u4e2a\u5b89\u7f6e\u70b9\u7ea61109\u4eba\uff08Rasuwa 805\uff09\u300225\u201328\u65e5\u5f3a\u964d\u96e8\u4e13\u62a5\u672a\u5217Rasuwa\u65b0\u4f24\u4ea1\u3002",
+        "zh": "1453死、5285失联；21个安置点约1109人（Rasuwa 805）。25–28日强降雨专报未列Rasuwa新伤亡。",
         "en": "1453 dead, 5285 missing; about 1109 in 21 centres (805 Rasuwa). 25-28 Sep rain report lists no new Rasuwa casualties.",
         "ne": "1453/5285; 1109 shelter (Rasuwa 805). 25-28 barsa, Rasuwa naya casualty chaina.",
         "hi": "1453/5285; 1109 shelter (Rasuwa 805). 25-28 barish, Rasuwa naya casualty nahi."
@@ -75,13 +95,13 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "\u5916\u4ea4\u90e89\u670824\u65e5\uff1a261\u540d\u5916\u7c4d\u5931\u8054\u5df2\u901a\u62a5",
+        "zh": "外交部9月24日：261名外籍失联已通报",
         "en": "MFA 24 Sep: 261 foreign nationals missing, notified",
         "ne": "MFA 24 Sep: 261 foreign missing, suchana",
         "hi": "MFA 24 Sep: 261 videshi missing, suchna"
       },
       "body": {
-        "zh": "\u53d1\u8a00\u4eba\u672a\u7ed9\u51fa\u65b0\u7684\u6b7b\u4ea1\u5206\u9879\uff0c\u4e0d\u66ff\u4ee3\u6307\u6325\u90e89\u67085\u65e518\u65f6\u6570\u5b57\u3002",
+        "zh": "发言人未给出新的死亡分项，不替代指挥部9月5日18时数字。",
         "en": "Spokesperson gave no new death split; does not replace 5 Sep 18:00 figures.",
         "ne": "Naya death split chaina; 5 Sep ank badaldaina.",
         "hi": "Naya death split nahi; 5 Sep ank nahi badalta."
@@ -97,13 +117,13 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "\u5e94\u6025\u7ba1\u7406\u90e8\uff1a\u5409\u9686\u53e3\u5cb8562\u4eba\u6b7b\u4ea1\u5931\u8e2a\uff0c\u4ecd\u5728\u6838\u67e5",
+        "zh": "应急管理部：吉隆口岸562人死亡失踪，仍在核查",
         "en": "MEM: 562 dead and missing at Gyirong Port, still being verified",
         "ne": "MEM: Gyirong 562 death-missing, herdai",
         "hi": "MEM: Gyirong 562 death-missing, jaanch jari"
       },
       "body": {
-        "zh": "8\u6708\u81ea\u7136\u707e\u5bb3\u60c5\u51b5\u5408\u8ba1\uff0c\u4e0d\u66ff\u4ee3\u6307\u6325\u90e89\u67085\u65e518\u65f6\u5206\u987943/519/2\u3002",
+        "zh": "8月自然灾害情况合计，不替代指挥部9月5日18时分项43/519/2。",
         "en": "August natural-disaster total. Does not replace the 5 Sep 18:00 split 43/519/2.",
         "ne": "August jodai. 5 Sep split 43/519/2 badaldaina.",
         "hi": "August jod. 5 Sep split 43/519/2 nahi badalta."
@@ -119,13 +139,13 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "\u622a\u81f39\u67085\u65e518\u65f6\uff1a\u4e2d\u65b943\u6b7b519\u5931\u80542\u83b7\u6551",
+        "zh": "截至9月5日18时：中方43死519失联2获救",
         "en": "As of 5 Sep 18:00: CN 43 dead, 519 missing, 2 rescued",
         "ne": "5 Sep 18:00: CN 43/519/2",
         "hi": "5 Sep 18:00: CN 43/519/2"
       },
       "body": {
-        "zh": "\u6307\u6325\u90e8\u5206\u9879\u6700\u65b0\u3002261\u540d\u5916\u7c4d\u5931\u8054\uff0823\u56fd\uff09\u3002",
+        "zh": "指挥部分项最新。261名外籍失联（23国）。",
         "en": "Latest CN split. 261 foreign missing (23 countries).",
         "ne": "CN split. 261 foreign, 23 desh.",
         "hi": "CN split. 261 videshi, 23 desh."
@@ -141,13 +161,13 @@
       "lng": 85.392,
       "geo": "barrier lake",
       "title": {
-        "zh": "\u65b0\u534e\uff1a\u5830\u585e\u6e56\u5df2\u6392\u7a7a\uff0c\u9669\u60c5\u57fa\u672c\u6d88\u9664",
+        "zh": "新华：堰塞湖已排空，险情基本消除",
         "en": "Xinhua: barrier lake drained; hazard largely eliminated",
         "ne": "Xinhua: tal khali; khatara lagbhag hatyo",
         "hi": "Xinhua: jheel khali; khatra lagbhag hata"
       },
       "body": {
-        "zh": "\u5e94\u6025\u7ba1\u7406\u90e8\u79f09\u67085\u65e5\uff1a\u53e3\u5cb8\u4e0a\u6e38\u5830\u585e\u6e56\u5df2\u6392\u7a7a\uff0c\u6cb3\u9053\u6062\u590d\u8fc7\u6d41\u3002444\u4eba\u5df2\u8fd4\u4e61\u3002",
+        "zh": "应急管理部称9月5日：口岸上游堰塞湖已排空，河道恢复过流。444人已返乡。",
         "en": "Emergency department 5 Sep: lake above port drained, river flow resumed. 444 residents returned.",
         "ne": "Tal khali; nadi bahyo. 444 ghar pheri.",
         "hi": "Jheel khali; nadi bahi. 444 ghar laute."
@@ -163,13 +183,13 @@
       "lng": 85.368,
       "geo": "G216",
       "title": {
-        "zh": "G216\u81f3\u53e3\u5cb8\u6838\u5fc39\u67082\u65e510\u65f6\u57fa\u672c\u62a2\u901a",
+        "zh": "G216至口岸核心9月2日10时基本抢通",
         "en": "G216 to port core basically restored 2 Sep 10:00",
         "ne": "G216 core 2 Sep 10:00 khulyo",
         "hi": "G216 core 2 Sep 10:00 khula"
       },
       "body": {
-        "zh": "\u4ec5\u6551\u63f4\u901a\u884c\uff0c\u975e\u901a\u5173\u3002\u5c3c\u6cca\u5c14\u4fa7\u5e15\u6851\u62c9\u59c6\u516c\u8defRasuwa\u6bb5\u4ecd\u5168\u963b\u3002",
+        "zh": "仅救援通行，非通关。尼泊尔侧帕桑拉姆公路Rasuwa段仍全阻。",
         "en": "SAR traffic only, not a border reopening. Pasang Lhamu in Rasuwa still fully blocked.",
         "ne": "Uddhar matra, simana hoina. Pasang Lhamu Rasuwa block.",
         "hi": "Kewal SAR, seema nahi. Pasang Lhamu Rasuwa block."
@@ -178,23 +198,23 @@
     {
       "id": "usemb-level4",
       "src": "official",
-      "t": "2026-08-31T04:21:00Z",
-      "link": "https://np.usembassy.gov/travel-advisory-nepal-august-2026/",
+      "t": "2026-09-03T09:45:00Z",
+      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-flood-and-landslide-risk-and-road-disruptions/",
       "img": null,
       "lat": 28.248,
       "lng": 85.356,
       "geo": "Timure",
       "title": {
-        "zh": "\u7f8e\u4f7f\u9986\uff1aRasuwagadhi\u2013Timure\u2013Syafrubesi\u4ecdLevel 4",
-        "en": "US Embassy: Rasuwagadhi\u2013Timure\u2013Syafrubesi still Level 4",
+        "zh": "美使馆：Rasuwagadhi–Timure–Syafrubesi仍Level 4",
+        "en": "US Embassy: Rasuwagadhi–Timure–Syafrubesi still Level 4",
         "ne": "US Embassy: Rasuwagadhi Level 4",
         "hi": "US Embassy: Rasuwagadhi Level 4"
       },
       "body": {
-        "zh": "\u56e0\u707e\u635f\u3001\u4ea4\u901a\u901a\u4fe1\u4e2d\u65ad\u53ca\u6b21\u751f\u98ce\u9669\uff0c\u52ff\u524d\u5f80\u4e2d\u5c3c\u53e3\u5cb8\u4e00\u5e26\u3002\u672c\u8f6e\u672a\u89c1\u65b0\u516c\u8def\u901a\u544a\u3002",
-        "en": "Do not travel to the Nepal-China crossing area. No newer road notice found this run.",
-        "ne": "Simana chetra najaau. Naya road notice chaina.",
-        "hi": "Seema kshetra na jayen. Naya road notice nahi."
+        "zh": "9月3日公路通告仍有效：Khalte段封闭，勿前往中尼口岸一带。本轮未见更新通告。",
+        "en": "3 Sep road notice still current: Khalte closed; do not travel to the crossing. No newer notice this run.",
+        "ne": "3 Sep notice: Khalte band. Naya notice chaina.",
+        "hi": "3 Sep notice: Khalte band. Naya notice nahi."
       }
     }
   ],
@@ -205,13 +225,13 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "name": {
-        "zh": "\u5409\u9686\u53e3\u5cb8\u56fd\u95e8",
+        "zh": "吉隆口岸国门",
         "en": "Gyirong Port gate",
         "ne": "Gyirong port gate",
         "hi": "Gyirong port gate"
       },
       "detail": {
-        "zh": "\u5efa\u7b51\u5937\u5e73\uff0c\u6d77\u5173\u5173\u95ed\uff0c\u65e0\u901a\u5173",
+        "zh": "建筑夷平，海关关闭，无通关",
         "en": "Buildings destroyed; customs closed; no crossing",
         "ne": "Bhawan dhwasta; bhansar band",
         "hi": "Bhawan nasht; customs band"
@@ -223,13 +243,13 @@
       "lat": 28.3,
       "lng": 85.368,
       "name": {
-        "zh": "G216\u56fd\u9053",
+        "zh": "G216国道",
         "en": "G216 Highway",
         "ne": "G216 rajmarga",
         "hi": "G216 rajmarg"
       },
       "detail": {
-        "zh": "9\u67082\u65e5\u4e0a\u5348\u6838\u5fc3\u6bb5\u57fa\u672c\u62a2\u901a\uff0c\u4ec5\u6551\u63f4\u901a\u884c",
+        "zh": "9月2日上午核心段基本抢通，仅救援通行",
         "en": "Core basically open 2 Sep morning; SAR only",
         "ne": "Core lagbhag khula; uddhar matra",
         "hi": "Core lagbhag khula; kewal SAR"
@@ -241,16 +261,16 @@
       "lat": 28.248,
       "lng": 85.356,
       "name": {
-        "zh": "Rasuwagadhi\u2013Timure",
-        "en": "Rasuwagadhi\u2013Timure",
-        "ne": "Rasuwagadhi\u2013Timure",
-        "hi": "Rasuwagadhi\u2013Timure"
+        "zh": "Rasuwagadhi–Timure",
+        "en": "Rasuwagadhi–Timure",
+        "ne": "Rasuwagadhi–Timure",
+        "hi": "Rasuwagadhi–Timure"
       },
       "detail": {
-        "zh": "\u7f8e\u4f7f\u9986\u52ff\u524d\u5f80\uff1b\u5e15\u6851\u62c9\u59c6\u516c\u8defRasuwa\u6bb5\u4ecd\u5168\u963b",
-        "en": "US Embassy do-not-travel; Pasang Lhamu in Rasuwa still fully blocked",
-        "ne": "Yatra nagar; Pasang Lhamu Rasuwa block",
-        "hi": "Yatra na karen; Pasang Lhamu Rasuwa block"
+        "zh": "美使馆勿前往；Khalte段仍封闭",
+        "en": "US Embassy do-not-travel; Khalte section still closed",
+        "ne": "Yatra nagar; Khalte band",
+        "hi": "Yatra na karen; Khalte band"
       }
     }
   ],
@@ -261,13 +281,13 @@
       "lat": 28.318,
       "lng": 85.36,
       "name": {
-        "zh": "\u524d\u65b9\u641c\u6551",
+        "zh": "前方搜救",
         "en": "Forward SAR",
         "ne": "Agra khoj",
         "hi": "Agrav SAR"
       },
       "detail": {
-        "zh": "\u53e3\u5cb8\u6838\u5fc3\u5206\u533a\u641c\u6551\u6301\u7eed\u3002\u65e0\u5b9e\u65f6GNSS\u3002",
+        "zh": "口岸核心分区搜救持续。无实时GNSS。",
         "en": "Zonal search at port core. No live GNSS.",
         "ne": "Core khoj jari. Live GNSS chaina.",
         "hi": "Core khoj jari. Live GNSS nahi."
@@ -282,13 +302,13 @@
       "lat": 28.282,
       "lng": 85.374,
       "name": {
-        "zh": "\u70ed\u7d22\u6751",
+        "zh": "热索村",
         "en": "Resuo",
         "ne": "Resuo",
         "hi": "Resuo"
       },
       "detail": {
-        "zh": "\u65e9\u671f\u641c\u6551\u7ed3\u675f\uff0c2\u4eba\u83b7\u6551",
+        "zh": "早期搜救结束，2人获救",
         "en": "Early SAR complete; 2 rescued",
         "ne": "Prarambhik uddhar sakiyo; 2 jana",
         "hi": "Prarambhik SAR pura; 2 bachaye"
@@ -301,13 +321,13 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "name": {
-        "zh": "\u53e3\u5cb8\u6838\u5fc3",
+        "zh": "口岸核心",
         "en": "Port core",
         "ne": "Port core",
         "hi": "Port core"
       },
       "detail": {
-        "zh": "\u5806\u79ef\u539a\uff0c\u5206\u533a\u641c\u6551\u4e2d",
+        "zh": "堆积厚，分区搜救中",
         "en": "Thick deposit; zonal search ongoing",
         "ne": "Thupro; khoj jari",
         "hi": "Jamaav; khoj jari"
@@ -318,7 +338,7 @@
     "lat": 28.293,
     "lng": 85.392,
     "status": {
-      "zh": "\u5830\u585e\u6e56\u5df2\u6392\u7a7a\uff0c\u6cb3\u9053\u6062\u590d\uff0c\u98ce\u9669\u57fa\u672c\u6d88\u9664\uff0c\u9632\u65b0\u5835",
+      "zh": "堰塞湖已排空，河道恢复，风险基本消除，防新堵",
       "en": "Lake fully drained; channel normal; watch new dams",
       "ne": "Tal khali; nadi samanya; naya bandh hernu",
       "hi": "Jheel khali; nadi samanya; naya bandh dekhen"
@@ -326,39 +346,13 @@
   },
   "xPosts": [
     {
-      "id": "x-np-0926-sitrep25",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-26T16:42:51Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103888038380405106",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA SitRep#25\uff1a26\u65e519:00\u641c\u6551\u6551\u6d4e\u7eed\u62a5\u5df2\u53d1",
-        "en": "NDRRMA SitRep#25 posted for 26 Sep 19:00",
-        "ne": "NDRRMA SitRep#25: 26 Sep 19:00",
-        "hi": "NDRRMA SitRep#25: 26 Sep 19:00"
-      }
-    },
-    {
-      "id": "x-np-0925-sitrep24",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-09-25T16:15:53Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2103518864281858248",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA SitRep#24\uff1a25\u65e519:00\u5df2\u53d1",
-        "en": "NDRRMA SitRep#24 posted for 25 Sep 19:00",
-        "ne": "NDRRMA SitRep#24: 25 Sep 19:00",
-        "hi": "NDRRMA SitRep#24: 25 Sep 19:00"
-      }
-    },
-    {
       "id": "x-xh-0910-cma",
       "user": "@XHNews",
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
       "geo": "unknown",
       "text": {
-        "zh": "\u65b0\u534e\uff1a\u56fd\u5bb6\u6c14\u5019\u4e2d\u5fc3\u5411\u5c3c\u6cca\u5c14\u6eda\u52a8\u63d0\u4f9b\u76d1\u6d4b\u9884\u62a5",
+        "zh": "新华：国家气候中心向尼泊尔滚动提供监测预报",
         "en": "Xinhua: CMA rolling climate products to Nepal for relief",
         "ne": "Xinhua: CMA Nepal lai mausam sahayog",
         "hi": "Xinhua: CMA Nepal ko mausam sahayog"
@@ -373,10 +367,23 @@
       "lng": 85.325,
       "geo": "Gyirong town",
       "text": {
-        "zh": "CCTV+\uff1a\u7559\u5728\u5409\u9686\u9547\u7684\u5c3c\u7c4d\u5de5\u4eba\u7ee7\u7eed\u4f5c\u4e1a",
+        "zh": "CCTV+：留在吉隆镇的尼籍工人继续作业",
         "en": "CCTV+: Nepali workers remaining in Gyirong Town continue work",
         "ne": "CCTV+: Gyirong Town Nepali kamdar kaam jari",
         "hi": "CCTV+: Gyirong Town Nepali kamgar kaam jari"
+      }
+    },
+    {
+      "id": "x-pd-0911",
+      "user": "@PDChina",
+      "t": "2026-09-11T00:00:01Z",
+      "link": "https://x.com/PDChina/status/2098199849758011623",
+      "geo": "unknown",
+      "text": {
+        "zh": "人民日报：国家气候中心向尼方提供滚动气候产品",
+        "en": "People's Daily: National Climate Center supplies rolling products to Nepal",
+        "ne": "PDChina: CMA Nepal lai rolling product",
+        "hi": "PDChina: CMA Nepal ko rolling product"
       }
     },
     {
@@ -388,7 +395,7 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "\u65b0\u534e\uff1a\u5409\u9686\u53e3\u5cb8\u6ce5\u77f3\u6d41\u641c\u6551\u8fdb\u5c55\u6c47\u603b",
+        "zh": "新华：吉隆口岸泥石流搜救进展汇总",
         "en": "Xinhua: update on Gyirong Port mudslide search and rescue",
         "ne": "Xinhua: Gyirong Port khoj pratibedan",
         "hi": "Xinhua: Gyirong Port khoj update"
@@ -403,23 +410,10 @@
       "lng": 85.325,
       "geo": "Gyirong town",
       "text": {
-        "zh": "CCTV+\uff1a\u5fd7\u613f\u8005\u5728\u5409\u9686\u53bf\u5411\u53d7\u707e\u7fa4\u4f17\u53d1\u653e\u514d\u8d39\u9910",
+        "zh": "CCTV+：志愿者在吉隆县向受灾群众发放免费餐",
         "en": "CCTV+: volunteers serve free meals in Gyirong County",
         "ne": "CCTV+: Gyirong ma volunteer bhojan",
         "hi": "CCTV+: Gyirong mein volunteer bhojan"
-      }
-    },
-    {
-      "id": "x-pd-0911",
-      "user": "@PDChina",
-      "t": "2026-09-11T00:00:01Z",
-      "link": "https://x.com/PDChina/status/2098199849758011623",
-      "geo": "unknown",
-      "text": {
-        "zh": "\u4eba\u6c11\u65e5\u62a5\uff1a\u56fd\u5bb6\u6c14\u5019\u4e2d\u5fc3\u5411\u5c3c\u63d0\u4f9b\u6eda\u52a8\u6c14\u5019\u4ea7\u54c1",
-        "en": "PDChina: National Climate Center rolling products for Nepal",
-        "ne": "PDChina: CMA Nepal lai mausam",
-        "hi": "PDChina: CMA Nepal ko mausam"
       }
     }
   ]
