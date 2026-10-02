@@ -1,22 +1,22 @@
 {
-  "snap": "2026-10-02T23:08:00Z",
+  "snap": "2026-10-03T00:09:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-2308",
+      "id": "poll-1003-0009",
       "src": "official",
-      "t": "2026-10-02T23:08:00Z",
+      "t": "2026-10-03T00:09:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2105919867539095924",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "2日23:08UTC复检：无新分项死亡；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "2 Oct 23:08 UTC recheck: no new death split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "2 Oct 23:08 UTC: naya death split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "2 Oct 23:08 UTC: naya death split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "3日00:09UTC复检：无新分项死亡；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "3 Oct 00:09 UTC recheck: no new death split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "3 Oct 00:09 UTC: naya death split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "3 Oct 00:09 UTC: naya death split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
         "zh": "指挥部仍为9月5日18时：43死、519失联、2人获救。应急管理部9月17日合计562人死亡失踪，与分项一致。外交部9月24日仍只确认261名外籍失联。NDRRMA 10月2日SitRep 2280未列Bhotekoshi新伤亡。主KPI仍用NDRRMA 9月26日19:00报#25。堰塞湖已排空。口岸关闭。勿与中方相加。",
@@ -43,6 +43,26 @@
         "en": "National daily bulletin link only; no updated dead/missing/rescued. Does not replace report #25.",
         "ne": "Rashtriya daily bulletin matra. Naya split chaina; #25 badaldaina.",
         "hi": "Rashtriya daily bulletin matra. Naya split nahi; #25 nahi badalta."
+      }
+    },
+    {
+      "id": "ndrrma-1002-ew",
+      "src": "official",
+      "t": "2026-10-02T08:44:59Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105942105302679976",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "NDRRMA 10月2日：提醒勿忽视灾害预警",
+        "en": "NDRRMA 2 Oct: do not ignore disaster early warnings",
+        "ne": "NDRRMA 2 Oct: purvasuchana bewastha nagarau",
+        "hi": "NDRRMA 2 Oct: apda purv-soochna ignore na karen"
+      },
+      "body": {
+        "zh": "仅为预警宣传，未列死亡/失联/获救，不替代#25。",
+        "en": "Early-warning message only; no dead/missing/rescued. Does not replace report #25.",
+        "ne": "Purvasuchana matra. Naya split chaina; #25 badaldaina.",
+        "hi": "Purv-soochna matra. Naya split nahi; #25 nahi badalta."
       }
     },
     {
@@ -320,6 +340,19 @@
   },
   "xPosts": [
     {
+      "id": "x-ndrrma-1002-ew",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-10-02T08:44:59Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2105942105302679976",
+      "geo": "unknown",
+      "text": {
+        "zh": "NDRRMA：勿忽视灾害预警，未列新伤亡",
+        "en": "NDRRMA: do not ignore early warnings; no new casualty line",
+        "ne": "NDRRMA: purvasuchana bewastha nagarau; naya casualty chaina",
+        "hi": "NDRRMA: purv-soochna ignore na karen; naya casualty nahi"
+      }
+    },
+    {
       "id": "x-ndrrma-1002-2280",
       "user": "@NDRRMA_Nepal",
       "t": "2026-10-02T07:16:37Z",
@@ -371,19 +404,6 @@
         "en": "CCTV+: Nepali workers remaining in Gyirong Town continue work",
         "ne": "CCTV+: Gyirong Town Nepali kamdar kaam jari",
         "hi": "CCTV+: Gyirong Town Nepali kamgar kaam jari"
-      }
-    },
-    {
-      "id": "x-pd-0911",
-      "user": "@PDChina",
-      "t": "2026-09-11T00:00:01Z",
-      "link": "https://x.com/PDChina/status/2098199849758011623",
-      "geo": "unknown",
-      "text": {
-        "zh": "人民日报：国家气候中心向尼方提供滚动气候产品",
-        "en": "People's Daily: National Climate Center supplies rolling products to Nepal",
-        "ne": "PDChina: CMA Nepal lai rolling product",
-        "hi": "PDChina: CMA Nepal ko rolling product"
       }
     },
     {
