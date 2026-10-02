@@ -1,22 +1,22 @@
 {
-  "snap": "2026-10-02T00:10:00Z",
+  "snap": "2026-10-02T14:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-0810",
+      "id": "poll-1002-1410",
       "src": "official",
-      "t": "2026-10-02T00:10:00Z",
+      "t": "2026-10-02T14:10:00Z",
       "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "2日08:10CST复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "2 Oct 08:10 CST recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "2 Oct 08:10 CST: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "2 Oct 08:10 CST: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "2日14:10UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "2 Oct 14:10 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "2 Oct 14:10 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "2 Oct 14:10 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
         "zh": "新华/人民日报仍为9月5日18时指挥部：43死、519失联、2人获救。应急管理部9月17日合计562人死亡失踪，不替代分项。外交部9月24日仍为261名外籍失联。尼方主KPI仍用NDRRMA约9月26日：1453死、5285失联、13795获救。警28日与30日报道1454具遗体，未替代获救总数。堰塞湖已排空。G216仅救援。口岸关闭。本轮无新美使馆公路通告。勿与中方相加。",
@@ -193,28 +193,6 @@
         "en": "SAR traffic only, not a border reopening. Pasang Lhamu in Rasuwa still fully blocked.",
         "ne": "Uddhar matra, simana hoina. Pasang Lhamu Rasuwa block.",
         "hi": "Kewal SAR, seema nahi. Pasang Lhamu Rasuwa block."
-      }
-    },
-    {
-      "id": "usemb-level4",
-      "src": "official",
-      "t": "2026-09-03T09:45:00Z",
-      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-flood-and-landslide-risk-and-road-disruptions/",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Timure",
-      "title": {
-        "zh": "美使馆：Rasuwagadhi–Timure–Syafrubesi仍Level 4",
-        "en": "US Embassy: Rasuwagadhi–Timure–Syafrubesi still Level 4",
-        "ne": "US Embassy: Rasuwagadhi Level 4",
-        "hi": "US Embassy: Rasuwagadhi Level 4"
-      },
-      "body": {
-        "zh": "9月3日公路通告仍有效：Khalte段封闭，勿前往中尼口岸一带。本轮未见更新通告。",
-        "en": "3 Sep road notice still current: Khalte closed; do not travel to the crossing. No newer notice this run.",
-        "ne": "3 Sep notice: Khalte band. Naya notice chaina.",
-        "hi": "3 Sep notice: Khalte band. Naya notice nahi."
       }
     }
   ],
