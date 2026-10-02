@@ -1,22 +1,22 @@
 {
-  "snap": "2026-10-02T16:07:00Z",
+  "snap": "2026-10-02T02:11:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-1607",
+      "id": "poll-1002-0211",
       "src": "official",
-      "t": "2026-10-02T16:07:00Z",
+      "t": "2026-10-02T02:11:00Z",
       "link": "https://paper.people.com.cn/rmrb/pc/content/202609/07/content_30179404.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "2日16:07UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
-        "en": "2 Oct 16:07 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "ne": "2 Oct 16:07 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
-        "hi": "2 Oct 16:07 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
+        "zh": "2日02:11UTC复检：无新分项；中方43/519/2；尼方NDRRMA 1453/5285/13795",
+        "en": "2 Oct 02:11 UTC recheck: no new split; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "ne": "2 Oct 02:11 UTC: naya split chaina; CN 43/519/2; NP NDRRMA 1453/5285/13795",
+        "hi": "2 Oct 02:11 UTC: naya split nahi; CN 43/519/2; NP NDRRMA 1453/5285/13795"
       },
       "body": {
         "zh": "新华/人民日报仍为9月5日18时指挥部：43死、519失联、2人获救。外交部9月24日仍为261名外籍失联。尼方主KPI仍用NDRRMA约9月26日：1453死、5285失联、13795获救。警方与30日报道仍为1454具遗体，未替代获救总数。堰塞湖已排空。G216仅救援。口岸关闭。本轮无新美使馆公路通告。勿与中方相加。",
