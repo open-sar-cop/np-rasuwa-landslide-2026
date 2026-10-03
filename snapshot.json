@@ -1,10 +1,20 @@
 {
-  "snap": "2026-10-03T05:08:00Z",
+  "snap": "2026-10-03T06:18:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1453, "missing": 5285, "rescued": 13795}
   },
   "published": [
+    {
+      "id": "poll-1003-0618",
+      "src": "official",
+      "t": "2026-10-03T06:18:00Z",
+      "link": "https://ndrrma.gov.np/np/situation-report/450",
+      "img": null,
+      "geo": "unknown",
+      "title": {"zh": "10月3日06:18UTC复检：无新分项；中方43/519/2；尼方#25 1453/5285/13795", "en": "3 Oct 06:18 UTC recheck: no new split; CN 43/519/2; NP #25 1453/5285/13795", "ne": "3 Oct 06:18 UTC: naya split chaina; CN 43/519/2; NP #25 1453/5285/13795", "hi": "3 Oct 06:18 UTC: naya split nahi; CN 43/519/2; NP #25 1453/5285/13795"},
+      "body": {"zh": "新华、gov.cn、日喀则简报与@XHNews/@CCTV_Plus无新吉隆伤亡帖。中方仍为9月5日18时：43死、519失联、2人获救。NDRRMA最新帖仍为9月26日#25，无更新SitRep。堰塞湖已排空。中方口岸关闭。Rising Nepal 10月2日：Syabrubesi–Rasuwagadhi周二下午轻车重开，夜间不建议。美使馆9月3日通告未更新。勿与中方相加。", "en": "No new Gyirong casualty post from Xinhua, gov.cn, Shigatse, @XHNews or @CCTV_Plus. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. Latest NDRRMA post is 26 Sep #25; no newer SitRep. Lake drained. CN gate closed. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi reopened Tuesday afternoon for light vehicles; no night travel. US Embassy 3 Sep notice not updated. Do not add CN.", "ne": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty chaina. CN 5 Sep 18:00: 43/519/2. NDRRMA antim #25 (26 Sep). Tal khali. CN gate band. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi halka sawari; rat yatra nahos. US Embassy 3 Sep naya chaina. CN najodnu.", "hi": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty nahi. CN 5 Sep 18:00: 43/519/2. NDRRMA antim #25 (26 Sep). Jheel khali. CN gate band. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi halka vahan; raat yatra nahin. US Embassy 3 Sep update nahi. CN na joden."}
+    },
     {
       "id": "poll-1003-0508",
       "src": "official",
@@ -12,18 +22,8 @@
       "link": "https://www.risingnepaldaily.com/news/49883",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月3日05:08UTC复检：伤亡无新分项；中方43/519/2；尼方#25 1453/5285/13795", "en": "3 Oct 05:08 UTC recheck: no new casualty split; CN 43/519/2; NP #25 1453/5285/13795", "ne": "3 Oct 05:08 UTC: naya casualty split chaina; CN 43/519/2; NP #25 1453/5285/13795", "hi": "3 Oct 05:08 UTC: naya casualty split nahi; CN 43/519/2; NP #25 1453/5285/13795"},
-      "body": {"zh": "新华、gov.cn、日喀则简报与@XHNews/@CCTV_Plus至今无新吉隆伤亡帖。中方仍为9月5日18时：43死、519失联、2人获救。外交9月24日仍称261名外籍失联。NDRRMA无新SitRep；10月1日已转恢复并核查失联。堰塞湖已排空。中方口岸关闭。Rising Nepal 10月2日：Syabrubesi–Rasuwagadhi周二下午重开轻车，夜间不建议。美使馆9月3日通告未更新。勿与中方相加。", "en": "No new Gyirong casualty post from Xinhua, gov.cn, Shigatse, @XHNews or @CCTV_Plus. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still 261 foreign missing. No new NDRRMA SitRep; 1 Oct recovery and verification. Lake drained. CN gate closed. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi reopened Tuesday afternoon for light vehicles; no night travel. US Embassy 3 Sep notice not updated. Do not add CN.", "ne": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty chaina. CN 5 Sep 18:00: 43/519/2. MFA 24 Sep 261 foreign. NDRRMA naya SitRep chaina; 1 Oct recovery. Tal khali. CN gate band. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi halka sawari; rat yatra nahos. US Embassy 3 Sep naya chaina. CN najodnu.", "hi": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty nahi. CN 5 Sep 18:00: 43/519/2. MFA 24 Sep 261 videshi. NDRRMA naya SitRep nahi; 1 Oct recovery. Jheel khali. CN gate band. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi halka vahan; raat yatra nahin. US Embassy 3 Sep update nahi. CN na joden."}
-    },
-    {
-      "id": "poll-1003-0407",
-      "src": "official",
-      "t": "2026-10-03T04:07:00Z",
-      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
-      "img": null,
-      "geo": "unknown",
-      "title": {"zh": "10月3日04:07UTC复检：无新分项", "en": "3 Oct 04:07 UTC recheck: no new split", "ne": "3 Oct 04:07 UTC: naya split chaina", "hi": "3 Oct 04:07 UTC: naya split nahi"},
-      "body": {"zh": "中方43/519/2，尼方#25 1453/5285/13795。", "en": "CN 43/519/2, NP #25 1453/5285/13795.", "ne": "CN 43/519/2, NP #25 1453/5285/13795.", "hi": "CN 43/519/2, NP #25 1453/5285/13795."}
+      "title": {"zh": "10月3日05:08UTC复检：伤亡无新分项", "en": "3 Oct 05:08 UTC recheck: no new casualty split", "ne": "3 Oct 05:08 UTC: naya casualty split chaina", "hi": "3 Oct 05:08 UTC: naya casualty split nahi"},
+      "body": {"zh": "中方43/519/2，尼方#25 1453/5285/13795。外交9月24日仍称261名外籍失联。", "en": "CN 43/519/2, NP #25 1453/5285/13795. MFA 24 Sep still 261 foreign missing.", "ne": "CN 43/519/2, NP #25 1453/5285/13795. MFA 24 Sep 261 foreign.", "hi": "CN 43/519/2, NP #25 1453/5285/13795. MFA 24 Sep 261 videshi."}
     },
     {
       "id": "np-road-1002",
@@ -166,6 +166,14 @@
     "status": {"zh": "堰塞湖已排空，河道恢复，风险基本消除，防新堵", "en": "Lake fully drained; channel normal; watch new dams", "ne": "Tal khali; nadi samanya; naya bandh hernu", "hi": "Jheel khali; nadi samanya; naya bandh dekhen"}
   },
   "xPosts": [
+    {
+      "id": "x-ndrrma-0926",
+      "user": "@NDRRMA_Nepal",
+      "t": "2026-09-26T16:42:51Z",
+      "link": "https://x.com/NDRRMA_Nepal/status/2103888038380405106",
+      "geo": "unknown",
+      "text": {"zh": "NDRRMA：9月26日19:00情况报告#25，无更新伤亡分项帖", "en": "NDRRMA: 26 Sep 19:00 Situation Report #25; no newer casualty split post", "ne": "NDRRMA: 26 Sep 19:00 report #25; naya casualty post chaina", "hi": "NDRRMA: 26 Sep 19:00 report #25; naya casualty post nahi"}
+    },
     {
       "id": "x-pd-0911",
       "user": "@PDChina",
