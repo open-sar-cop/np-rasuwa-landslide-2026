@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-03T01:10:00Z",
+  "snap": "2026-10-03T02:10:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1003-0110",
+      "id": "poll-1003-0210",
       "src": "official",
-      "t": "2026-10-03T01:10:00Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2105985479619514823",
+      "t": "2026-10-03T02:10:00Z",
+      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10\u67083\u65e501:10UTC\u590d\u68c0\uff1a\u65e0\u65b0\u5206\u9879\uff1b\u4e2d\u65b943/519/2\uff1b\u5c3c\u65b9NDRRMA #25 1453/5285/13795",
-        "en": "3 Oct 01:10 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
-        "ne": "3 Oct 01:10 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
-        "hi": "3 Oct 01:10 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"
+        "zh": "10\u67083\u65e502:10UTC\u590d\u68c0\uff1a\u65e0\u65b0\u5206\u9879\uff1b\u4e2d\u65b943/519/2\uff1b\u5c3c\u65b9NDRRMA #25 1453/5285/13795",
+        "en": "3 Oct 02:10 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
+        "ne": "3 Oct 02:10 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
+        "hi": "3 Oct 02:10 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"
       },
       "body": {
-        "zh": "NDRRMA\u6700\u65b0\u4ecd\u4e3a10\u67082\u65e511:37UTC\u4eba\u5458\u8c03\u4efb\uff0cSitRep 2280\u65e0Bhotekoshi\u65b0\u4f24\u4ea1\u3002\u65b0\u534e\u4e0eCCTV+\u65e0\u65b0\u5409\u9686\u4f24\u4ea1\u5e16\u3002\u4e2d\u65b9\u4ecd\u4e3a9\u67085\u65e518\u65f6\uff1a43\u6b7b\u3001519\u5931\u8054\u30012\u4eba\u83b7\u6551\u3002\u5830\u585e\u6e56\u5df2\u6392\u7a7a\u3002\u53e3\u5cb8\u5173\u95ed\u3002G216\u81f39\u670820\u65e5\u4ecd\u7ba1\u5236\u3002\u52ff\u4e0e\u4e2d\u65b9\u76f8\u52a0\u3002",
-        "en": "NDRRMA latest remains 2 Oct 11:37 UTC staff note; SitRep 2280 has no new Bhotekoshi split. No new Xinhua or CCTV+ Gyirong casualty post. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. Lake drained. Gate closed. G216 still controlled as of 20 Sep. Do not add CN.",
-        "ne": "NDRRMA antim 2 Oct 11:37 UTC saruwa matra. SitRep 2280 ma naya split chaina. Xinhua/CCTV+ naya casualty chaina. CN 5 Sep 18:00: 43/519/2. Tal khali. Gate band. G216 20 Sep niyantran. CN najodnu.",
-        "hi": "NDRRMA antim 2 Oct 11:37 UTC transfer matra. SitRep 2280 mein naya split nahi. Xinhua/CCTV+ naya casualty nahi. CN 5 Sep 18:00: 43/519/2. Jheel khali. Gate band. G216 20 Sep niyantran. CN na joden."
+        "zh": "\u65b0\u534e\u3001gov.cn\u3001\u65e5\u5580\u5219\u7b80\u62a5\u4e0e@XHNews/@CCTV_Plus\u65e0\u65b0\u5409\u9686\u4f24\u4ea1\u5e16\u3002\u4e2d\u65b9\u4ecd\u4e3a9\u67085\u65e518\u65f6\uff1a43\u6b7b\u3001519\u5931\u8054\u30012\u4eba\u83b7\u6551\u3002\u5916\u4ea49\u670824\u65e5\u4ecd\u79f0261\u540d\u5916\u7c4d\u5931\u8054\u3002NDRRMA\u65e0\u65b0SitRep\u5206\u9879\uff1b10\u67081\u65e5\u5df2\u8f6c\u6062\u590d\u5e76\u6838\u67e5\u5931\u8054\u3002\u5830\u585e\u6e56\u5df2\u6392\u7a7a\u3002\u53e3\u5cb8\u5173\u95ed\u3002G216\u81f39\u670820\u65e5\u4ecd\u7ba1\u5236\u3002\u52ff\u4e0e\u4e2d\u65b9\u76f8\u52a0\u3002",
+        "en": "No new Gyirong casualty post from Xinhua, gov.cn, Shigatse briefings, @XHNews or @CCTV_Plus. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still 261 foreign missing. No new NDRRMA split; 1 Oct recovery and missing verification. Lake drained. Gate closed. G216 still controlled as of 20 Sep. Do not add CN.",
+        "ne": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty chaina. CN 5 Sep 18:00: 43/519/2. MFA 24 Sep 261 foreign. NDRRMA naya split chaina; 1 Oct recovery. Tal khali. Gate band. G216 20 Sep niyantran. CN najodnu.",
+        "hi": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty nahi. CN 5 Sep 18:00: 43/519/2. MFA 24 Sep 261 videshi. NDRRMA naya split nahi; 1 Oct recovery. Jheel khali. Gate band. G216 20 Sep niyantran. CN na joden."
       }
     },
     {
@@ -43,46 +43,6 @@
         "en": "Congratulates a joint secretary posted as Rolpa CDO. No dead/missing/rescued. Does not replace report #25.",
         "ne": "Upasachiv Rolpa CDO. Naya split chaina; #25 badaldaina.",
         "hi": "Upasachiv Rolpa CDO. Naya split nahi; #25 nahi badalta."
-      }
-    },
-    {
-      "id": "ndrrma-1002-sitrep2280",
-      "src": "official",
-      "t": "2026-10-02T07:16:37Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2105919867539095924",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 10\u67082\u65e5\uff1a\u65e5\u62a5SitRep 2280\uff0c\u65e0Bhotekoshi\u65b0\u5206\u9879",
-        "en": "NDRRMA 2 Oct: daily SitRep 2280, no new Bhotekoshi split",
-        "ne": "NDRRMA 2 Oct: SitRep 2280, Bhotekoshi naya split chaina",
-        "hi": "NDRRMA 2 Oct: SitRep 2280, Bhotekoshi naya split nahi"
-      },
-      "body": {
-        "zh": "\u5168\u56fd\u707e\u5bb3\u65e5\u62a5\u94fe\u63a5\uff0c\u672a\u66f4\u65b0\u6b7b\u4ea1/\u5931\u8054/\u83b7\u6551\uff0c\u4e0d\u66ff\u4ee3#25\u3002",
-        "en": "National daily bulletin link only; no updated dead/missing/rescued. Does not replace report #25.",
-        "ne": "Rashtriya daily bulletin matra. Naya split chaina; #25 badaldaina.",
-        "hi": "Rashtriya daily bulletin matra. Naya split nahi; #25 nahi badalta."
-      }
-    },
-    {
-      "id": "ndrrma-1002-ew",
-      "src": "official",
-      "t": "2026-10-02T08:44:59Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2105942105302679976",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 10\u67082\u65e5\uff1a\u63d0\u9192\u52ff\u5ffd\u89c6\u707e\u5bb3\u9884\u8b66",
-        "en": "NDRRMA 2 Oct: do not ignore disaster early warnings",
-        "ne": "NDRRMA 2 Oct: purvasuchana bewastha nagarau",
-        "hi": "NDRRMA 2 Oct: apda purv-soochna ignore na karen"
-      },
-      "body": {
-        "zh": "\u4ec5\u4e3a\u9884\u8b66\u5ba3\u4f20\uff0c\u672a\u5217\u6b7b\u4ea1/\u5931\u8054/\u83b7\u6551\uff0c\u4e0d\u66ff\u4ee3#25\u3002",
-        "en": "Early-warning message only; no dead/missing/rescued. Does not replace report #25.",
-        "ne": "Purvasuchana matra. Naya split chaina; #25 badaldaina.",
-        "hi": "Purv-soochna matra. Naya split nahi; #25 nahi badalta."
       }
     },
     {
@@ -126,6 +86,26 @@
       }
     },
     {
+      "id": "mfa-0924-foreign",
+      "src": "official",
+      "t": "2026-09-24T08:00:00Z",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-24/doc-inisxhpf0456764.shtml",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "\u5916\u4ea49\u670824\u65e5\uff1a261\u540d\u5916\u7c4d\u5931\u8054\uff0c\u65e0\u65b0\u6b7b\u4ea1\u6570",
+        "en": "MFA 24 Sep: 261 foreign missing, no new death count",
+        "ne": "MFA 24 Sep: 261 foreign missing, naya death chaina",
+        "hi": "MFA 24 Sep: 261 videshi missing, naya death nahi"
+      },
+      "body": {
+        "zh": "\u53d1\u8a00\u4eba\u90ed\u5609\u6606\uff1a\u5df2\u901a\u62a5\u6709\u5173\u4f7f\u9986\u3002\u672a\u66f4\u65b0\u4e2d\u65b943/519/2\u5206\u9879\u3002",
+        "en": "Spokesperson Guo Jiakun: embassies notified. Does not update CN 43/519/2 split.",
+        "ne": "Guo Jiakun: embassy lai suchana. CN 43/519/2 badaldaina.",
+        "hi": "Guo Jiakun: embassy ko suchit. CN 43/519/2 nahi badalta."
+      }
+    },
+    {
       "id": "xinhua-kpi-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
@@ -141,10 +121,10 @@
         "hi": "5 Sep 18:00: CN 43/519/2"
       },
       "body": {
-        "zh": "\u6307\u6325\u90e8\u5206\u9879\u6700\u65b0\u3002261\u540d\u5916\u7c4d\u5931\u8054\uff0823\u56fd\uff09\u3002\u5916\u4ea49\u670824\u65e5\u4ecd\u786e\u8ba4261\u540d\u5916\u7c4d\u5931\u8054\uff0c\u672a\u7ed9\u65b0\u6b7b\u4ea1\u6570\u3002",
-        "en": "Latest CN split. 261 foreign missing (23 countries). MFA on 24 Sep still cited 261 foreign missing, no new death count.",
-        "ne": "CN split. 261 foreign, 23 desh. MFA 24 Sep pani 261, naya death chaina.",
-        "hi": "CN split. 261 videshi, 23 desh. MFA 24 Sep bhi 261, naya death nahi."
+        "zh": "\u6307\u6325\u90e8\u5206\u9879\u6700\u65b0\u3002261\u540d\u5916\u7c4d\u5931\u8054\uff0823\u56fd\uff09\u3002",
+        "en": "Latest CN split. 261 foreign missing (23 countries).",
+        "ne": "CN split. 261 foreign, 23 desh.",
+        "hi": "CN split. 261 videshi, 23 desh."
       }
     },
     {
@@ -355,45 +335,6 @@
       }
     },
     {
-      "id": "x-ndrrma-1002-ew",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-10-02T08:44:59Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2105942105302679976",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA\uff1a\u52ff\u5ffd\u89c6\u707e\u5bb3\u9884\u8b66\uff0c\u672a\u5217\u65b0\u4f24\u4ea1",
-        "en": "NDRRMA: do not ignore early warnings; no new casualty line",
-        "ne": "NDRRMA: purvasuchana bewastha nagarau; naya casualty chaina",
-        "hi": "NDRRMA: purv-soochna ignore na karen; naya casualty nahi"
-      }
-    },
-    {
-      "id": "x-ndrrma-1002-2280",
-      "user": "@NDRRMA_Nepal",
-      "t": "2026-10-02T07:16:37Z",
-      "link": "https://x.com/NDRRMA_Nepal/status/2105919867539095924",
-      "geo": "unknown",
-      "text": {
-        "zh": "NDRRMA\uff1a10\u67082\u65e5\u65e5\u62a5 SitRep 2280\uff0c\u672a\u5217Bhotekoshi\u65b0\u4f24\u4ea1",
-        "en": "NDRRMA: 2 Oct SitRep 2280; no new Bhotekoshi casualty line",
-        "ne": "NDRRMA: 2 Oct SitRep 2280; Bhotekoshi naya casualty chaina",
-        "hi": "NDRRMA: 2 Oct SitRep 2280; Bhotekoshi naya casualty nahi"
-      }
-    },
-    {
-      "id": "x-pdchina-0911",
-      "user": "@PDChina",
-      "t": "2026-09-11T00:00:01Z",
-      "link": "https://x.com/PDChina/status/2098199849758011623",
-      "geo": "unknown",
-      "text": {
-        "zh": "\u4eba\u6c11\u65e5\u62a5\uff1a\u56fd\u5bb6\u6c14\u5019\u4e2d\u5fc3\u5411\u5c3c\u6cca\u5c14\u63d0\u4f9b\u6eda\u52a8\u6c14\u5019\u4ea7\u54c1\uff0c\u652f\u6301\u5409\u9686\u2013Rasuwa\u53e3\u5cb8\u6ce5\u77f3\u6d41\u6551\u63f4",
-        "en": "PDChina: National Climate Center sending rolling forecasts to support Gyirong\u2013Rasuwa mudslide relief",
-        "ne": "PDChina: climate product Nepal lai; Gyirong\u2013Rasuwa uddhar",
-        "hi": "PDChina: climate product Nepal ko; Gyirong\u2013Rasuwa rahat"
-      }
-    },
-    {
       "id": "x-cctv-0910",
       "user": "@CCTV_Plus",
       "t": "2026-09-10T09:15:50Z",
@@ -402,10 +343,10 @@
       "lng": 85.325,
       "geo": "Gyirong town",
       "text": {
-        "zh": "CCTV+\uff1a\u7559\u5728\u5409\u9686\u9547\u7684\u5c3c\u6cca\u5c14\u5de5\u4eba\u6062\u590d\u5de5\u4f5c\uff0c\u671f\u5f85\u707e\u533a\u6062\u590d",
-        "en": "CCTV+: Nepali workers remaining in Gyirong Town are back at work and hope for recovery",
-        "ne": "CCTV+: Gyirong Town ma Nepali karmi kaam ma; punarsthapana aasha",
-        "hi": "CCTV+: Gyirong Town mein Nepali karmchari kaam par; recovery ki aasha"
+        "zh": "CCTV+\uff1a\u7559\u5728\u5409\u9686\u9547\u7684\u5c3c\u6cca\u5c14\u52a1\u5de5\u4eba\u5458\u6062\u590d\u751f\u4ea7\uff0c\u65e0\u65b0\u4f24\u4ea1\u6570",
+        "en": "CCTV+: Nepali workers remaining in Gyirong Town resume work; no new casualty count",
+        "ne": "CCTV+: Gyirong Town ma Nepali karmi; naya casualty chaina",
+        "hi": "CCTV+: Gyirong Town mein Nepali karmchari; naya casualty nahi"
       }
     },
     {
@@ -415,10 +356,10 @@
       "link": "https://x.com/XHNews/status/2097924965219905940",
       "geo": "unknown",
       "text": {
-        "zh": "\u65b0\u534e\uff1a\u56fd\u5bb6\u6c14\u5019\u4e2d\u5fc3\u5411\u5c3c\u6cca\u5c14\u63d0\u4f9b\u6eda\u52a8\u6c14\u5019\u4ea7\u54c1\uff0c\u652f\u6301\u5409\u9686\u2013Rasuwa\u53e3\u5cb8\u6ce5\u77f3\u6d41\u6551\u63f4",
-        "en": "XHNews: China climate center sending rolling forecasts to support Gyirong\u2013Rasuwa mudslide relief",
-        "ne": "XHNews: Chin climate product Nepal lai; Gyirong\u2013Rasuwa uddhar",
-        "hi": "XHNews: Chin climate product Nepal ko; Gyirong\u2013Rasuwa rahat"
+        "zh": "\u65b0\u534e\uff1a\u56fd\u5bb6\u6c14\u5019\u4e2d\u5fc3\u5411\u5c3c\u65b9\u63d0\u4f9b\u6eda\u52a8\u6c14\u5019\u4ea7\u54c1\u652f\u63f4\u6551\u63f4\uff0c\u65e0\u65b0\u4f24\u4ea1\u6570",
+        "en": "XHNews: National Climate Center sends rolling forecasts to Nepal; no new casualty count",
+        "ne": "XHNews: climate product Nepal lai; naya casualty chaina",
+        "hi": "XHNews: climate product Nepal ko; naya casualty nahi"
       }
     },
     {
@@ -430,10 +371,10 @@
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "\u65b0\u534e\uff1a8\u670826\u65e5\u9ad8\u4f4d\u51b0\u5d29\u89e6\u53d1\u94fe\u5f0f\u6ce5\u77f3\u6d41\u51b2\u51fb\u5409\u9686\u53e3\u5cb8\uff0c\u4f24\u4ea1\u91cd\u3001\u591a\u4eba\u5931\u8054",
-        "en": "XHNews: 26 Aug glacier-collapse chain mudslide hit Gyirong Port; heavy casualties, many missing",
-        "ne": "XHNews: 26 Aug glacier mudslide Gyirong Port; thulo casualty, dherai missing",
-        "hi": "XHNews: 26 Aug glacier mudslide Gyirong Port; badi casualty, kai missing"
+        "zh": "\u65b0\u534e\uff1a\u5409\u9686\u53e3\u5cb8\u6ce5\u77f3\u6d41\u6982\u51b5\uff0c\u672a\u5217\u65b0\u6b7b\u4ea1/\u5931\u8054\u5206\u9879",
+        "en": "XHNews: Gyirong Port mudslide recap; no new dead/missing split",
+        "ne": "XHNews: Gyirong Port recap; naya split chaina",
+        "hi": "XHNews: Gyirong Port recap; naya split nahi"
       }
     }
   ]
