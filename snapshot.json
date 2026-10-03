@@ -1,19 +1,19 @@
 {
-  "snap": "2026-10-03T12:13:00Z",
+  "snap": "2026-10-03T13:14:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1453, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1003-1213",
+      "id": "poll-1003-1314",
       "src": "official",
-      "t": "2026-10-03T12:13:00Z",
+      "t": "2026-10-03T13:14:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/450",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月3日12:13UTC复核：无新分项；中方43/519/2；尼方#25 1453/5285/13795", "en": "3 Oct 12:13 UTC recheck: no new split; CN 43/519/2; NP #25 1453/5285/13795", "ne": "3 Oct 12:13 UTC: naya split chaina; CN 43/519/2; NP #25 1453/5285/13795", "hi": "3 Oct 12:13 UTC: naya split nahi; CN 43/519/2; NP #25 1453/5285/13795"},
-      "body": {"zh": "新华、gov.cn、日喀则简报与@XHNews/@CCTV_Plus无新吉隆伤亡帖。中方仍为9月5日18时：43死、519失联、2人获救。NDRRMA最新仍为9月26日19:00 #25；RRN称至28日无新分项。堰塞湖已排空。中方口岸关闭。Rising Nepal 10月2日：Syabrubesi–Rasuwagadhi周事下午轻车重开。Samaya Post 10月3日：加尔奇—贝特拉瓦蒂一个月后重开。美使馆9月8日仍勿前往。", "en": "No new Gyirong casualty post from Xinhua, gov.cn, Shigatse, @XHNews or @CCTV_Plus. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. Latest NDRRMA is 26 Sep 19:00 #25; RRN says no newer split through 28 Sep. Lake drained. CN gate closed. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi reopened Tuesday afternoon for light vehicles. Samaya Post 3 Oct: Galchhi–Betrawati reopened after a month. US Embassy 8 Sep still do-not-travel.", "ne": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty chaina. CN 5 Sep 18:00: 43/519/2. NDRRMA antim #25 (26 Sep 19:00); RRN 28 Sep samma naya chaina. Tal khali. CN gate band. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi halka sawari. Samaya Post 3 Oct: Galchhi–Betrawati ek mahina pachi khulyo. US Embassy 8 Sep najau.", "hi": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty nahi. CN 5 Sep 18:00: 43/519/2. NDRRMA antim #25 (26 Sep 19:00); RRN 28 Sep tak naya nahi. Jheel khali. CN gate band. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi halka vahan. Samaya Post 3 Oct: Galchhi–Betrawati ek mahine baad khula. US Embassy 8 Sep na jaen."}
+      "title": {"zh": "10月3日13:14UTC复核：无新分项；中方43/519/2；尼方#25 1453/5285/13795", "en": "3 Oct 13:14 UTC recheck: no new split; CN 43/519/2; NP #25 1453/5285/13795", "ne": "3 Oct 13:14 UTC: naya split chaina; CN 43/519/2; NP #25 1453/5285/13795", "hi": "3 Oct 13:14 UTC: naya split nahi; CN 43/519/2; NP #25 1453/5285/13795"},
+      "body": {"zh": "新华、gov.cn、日喀则简报与@XHNews/@CCTV_Plus自12:13UTC无新吉隆伤亡帖。中方仍为9月5日18时：43死、519失联、2人获救。NDRRMA最新仍为9月26日19:00 #25。堰塞湖已排空。中方口岸关闭；G216仍管制。", "en": "No new Gyirong casualty post from Xinhua, gov.cn, Shigatse, @XHNews or @CCTV_Plus since 12:13 UTC. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. Latest NDRRMA is 26 Sep 19:00 #25. Lake drained. CN gate closed; G216 still controlled.", "ne": "Xinhua/gov.cn/@XHNews/@CCTV_Plus 12:13 UTC pachi naya casualty chaina. CN 5 Sep 18:00: 43/519/2. NDRRMA antim #25 (26 Sep 19:00). Tal khali. CN gate band; G216 niyantran.", "hi": "Xinhua/gov.cn/@XHNews/@CCTV_Plus 12:13 UTC ke baad naya casualty nahi. CN 5 Sep 18:00: 43/519/2. NDRRMA antim #25 (26 Sep 19:00). Jheel khali. CN gate band; G216 niyantran."}
     },
     {
       "id": "np-galchhi-1003",
