@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-02T23:10:00Z",
+  "snap": "2026-10-03T00:20:00Z",
   "kpi": {
     "cn": { "dead": 43, "missing": 519, "rescued": 2 },
     "np": { "dead": 1453, "missing": 5285, "rescued": 13795 }
   },
   "published": [
     {
-      "id": "poll-1002-2310",
+      "id": "poll-1003-0020",
       "src": "official",
-      "t": "2026-10-02T23:10:00Z",
+      "t": "2026-10-03T00:20:00Z",
       "link": "https://x.com/NDRRMA_Nepal/status/2105985479619514823",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10月2日23:10UTC复检：无新分项；中方43/519/2；尼方NDRRMA #25 1453/5285/13795",
-        "en": "2 Oct 23:10 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
-        "ne": "2 Oct 23:10 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
-        "hi": "2 Oct 23:10 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"
+        "zh": "10月3日00:20UTC复检：无新分项；中方43/519/2；尼方NDRRMA #25 1453/5285/13795",
+        "en": "3 Oct 00:20 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
+        "ne": "3 Oct 00:20 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795",
+        "hi": "3 Oct 00:20 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"
       },
       "body": {
-        "zh": "NDRRMA最新仍为10月2日11:37UTC人员调任，SitRep 2280无Bhotekoshi新伤亡。新华无新吉隆伤亡帖。中方仍为9月5日18时：43死、519失联、2人获救。堰塞湖已排空。口岸关闭。G216至9月20日仍管制。勿与中方相加。",
-        "en": "NDRRMA latest remains 2 Oct 11:37 UTC staff note; SitRep 2280 has no new Bhotekoshi split. No new Xinhua Gyirong casualty post. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. Lake drained. Gate closed. G216 still controlled as of 20 Sep. Do not add CN.",
-        "ne": "NDRRMA antim 2 Oct 11:37 UTC saruwa matra. SitRep 2280 ma naya split chaina. Xinhua naya casualty chaina. CN 5 Sep 18:00: 43/519/2. Tal khali. Gate band. G216 20 Sep niyantran. CN najodnu.",
-        "hi": "NDRRMA antim 2 Oct 11:37 UTC transfer matra. SitRep 2280 mein naya split nahi. Xinhua naya casualty nahi. CN 5 Sep 18:00: 43/519/2. Jheel khali. Gate band. G216 20 Sep niyantran. CN na joden."
+        "zh": "NDRRMA最新仍为10月2日11:37UTC人员调任，SitRep 2280无Bhotekoshi新伤亡。新华与CCTV+无新吉隆伤亡帖。中方仍为9月5日18时：43死、519失联、2人获救。堰塞湖已排空。口岸关闭。G216至9月20日仍管制。勿与中方相加。",
+        "en": "NDRRMA latest remains 2 Oct 11:37 UTC staff note; SitRep 2280 has no new Bhotekoshi split. No new Xinhua or CCTV+ Gyirong casualty post. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. Lake drained. Gate closed. G216 still controlled as of 20 Sep. Do not add CN.",
+        "ne": "NDRRMA antim 2 Oct 11:37 UTC saruwa matra. SitRep 2280 ma naya split chaina. Xinhua/CCTV+ naya casualty chaina. CN 5 Sep 18:00: 43/519/2. Tal khali. Gate band. G216 20 Sep niyantran. CN najodnu.",
+        "hi": "NDRRMA antim 2 Oct 11:37 UTC transfer matra. SitRep 2280 mein naya split nahi. Xinhua/CCTV+ naya casualty nahi. CN 5 Sep 18:00: 43/519/2. Jheel khali. Gate band. G216 20 Sep niyantran. CN na joden."
       }
     },
     {
@@ -378,6 +378,21 @@
         "en": "NDRRMA: 2 Oct SitRep 2280; no new Bhotekoshi casualty line",
         "ne": "NDRRMA: 2 Oct SitRep 2280; Bhotekoshi naya casualty chaina",
         "hi": "NDRRMA: 2 Oct SitRep 2280; Bhotekoshi naya casualty nahi"
+      }
+    },
+    {
+      "id": "x-cctv-0910",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "lat": 28.390,
+      "lng": 85.325,
+      "geo": "Gyirong town",
+      "text": {
+        "zh": "CCTV+：留在吉隆镇的尼泊尔工人恢复工作，期待灾区恢复",
+        "en": "CCTV+: Nepali workers remaining in Gyirong Town are back at work and hope for recovery",
+        "ne": "CCTV+: Gyirong Town ma Nepali karmi kaam ma; punarsthapana aasha",
+        "hi": "CCTV+: Gyirong Town mein Nepali karmchari kaam par; recovery ki aasha"
       }
     },
     {
