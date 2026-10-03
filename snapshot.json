@@ -1,10 +1,20 @@
 {
-  "snap": "2026-10-03T03:07:00Z",
+  "snap": "2026-10-03T04:07:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1453, "missing": 5285, "rescued": 13795}
   },
   "published": [
+    {
+      "id": "poll-1003-0407",
+      "src": "official",
+      "t": "2026-10-03T04:07:00Z",
+      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
+      "img": null,
+      "geo": "unknown",
+      "title": {"zh": "10月3日04:07UTC复检：无新分项；中方43/519/2；尼方NDRRMA #25 1453/5285/13795", "en": "3 Oct 04:07 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795", "ne": "3 Oct 04:07 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795", "hi": "3 Oct 04:07 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"},
+      "body": {"zh": "新华、gov.cn、日喀则简报与@XHNews/@CCTV_Plus至10月3日无新吉隆伤亡帖。中方仍为9月5日18时：43死、519失联、2人获救。外交9月24日仍称261名外籍失联。NDRRMA无新SitRep分项；10月1日已转恢复并核查失联。堰塞湖已排空。口岸关闭。G216至9月20日仍管制。勿与中方相加。", "en": "No new Gyirong casualty post from Xinhua, gov.cn, Shigatse briefings, @XHNews or @CCTV_Plus through 3 Oct. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still 261 foreign missing. No new NDRRMA split; 1 Oct recovery and missing verification. Lake drained. Gate closed. G216 still controlled as of 20 Sep. Do not add CN.", "ne": "Xinhua/gov.cn/@XHNews/@CCTV_Plus 3 Oct samma naya casualty chaina. CN 5 Sep 18:00: 43/519/2. MFA 24 Sep 261 foreign. NDRRMA naya split chaina; 1 Oct recovery. Tal khali. Gate band. G216 20 Sep niyantran. CN najodnu.", "hi": "Xinhua/gov.cn/@XHNews/@CCTV_Plus 3 Oct tak naya casualty nahi. CN 5 Sep 18:00: 43/519/2. MFA 24 Sep 261 videshi. NDRRMA naya split nahi; 1 Oct recovery. Jheel khali. Gate band. G216 20 Sep niyantran. CN na joden."}
+    },
     {
       "id": "poll-1003-0307",
       "src": "official",
@@ -12,8 +22,8 @@
       "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月3日03:07UTC复检：无新分项；中方43/519/2；尼方NDRRMA #25 1453/5285/13795", "en": "3 Oct 03:07 UTC recheck: no new split; CN 43/519/2; NP NDRRMA #25 1453/5285/13795", "ne": "3 Oct 03:07 UTC: naya split chaina; CN 43/519/2; NP NDRRMA #25 1453/5285/13795", "hi": "3 Oct 03:07 UTC: naya split nahi; CN 43/519/2; NP NDRRMA #25 1453/5285/13795"},
-      "body": {"zh": "新华、gov.cn、日喀则简报与@XHNews/@CCTV_Plus无新吉隆伤亡帖。中方仍为9月5日18时：43死、519失联、2人获救。外交9月24日仍称261名外籍失联。NDRRMA无新SitRep分项；10月1日已转恢复并核查失联。堰塞湖已排空。口岸关闭。G216至9月20日仍管制。勿与中方相加。", "en": "No new Gyirong casualty post from Xinhua, gov.cn, Shigatse briefings, @XHNews or @CCTV_Plus. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. MFA 24 Sep still 261 foreign missing. No new NDRRMA split; 1 Oct recovery and missing verification. Lake drained. Gate closed. G216 still controlled as of 20 Sep. Do not add CN.", "ne": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty chaina. CN 5 Sep 18:00: 43/519/2. MFA 24 Sep 261 foreign. NDRRMA naya split chaina; 1 Oct recovery. Tal khali. Gate band. G216 20 Sep niyantran. CN najodnu.", "hi": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty nahi. CN 5 Sep 18:00: 43/519/2. MFA 24 Sep 261 videshi. NDRRMA naya split nahi; 1 Oct recovery. Jheel khali. Gate band. G216 20 Sep niyantran. CN na joden."}
+      "title": {"zh": "10月3日03:07UTC复检：无新分项", "en": "3 Oct 03:07 UTC recheck: no new split", "ne": "3 Oct 03:07 UTC: naya split chaina", "hi": "3 Oct 03:07 UTC: naya split nahi"},
+      "body": {"zh": "上一轮同结论：中方43/519/2，尼方#25 1453/5285/13795。", "en": "Prior cycle same conclusion: CN 43/519/2, NP #25 1453/5285/13795.", "ne": "Aghillo cycle eutai: CN 43/519/2, NP #25 1453/5285/13795.", "hi": "Pichhla cycle wahi: CN 43/519/2, NP #25 1453/5285/13795."}
     },
     {
       "id": "ndrrma-1002-transfer",
@@ -161,6 +171,14 @@
       "link": "https://x.com/NDRRMA_Nepal/status/2105985479619514823",
       "geo": "unknown",
       "text": {"zh": "NDRRMA：祝贺副秘书调任罗尔帕，未列Bhotekoshi新伤亡", "en": "NDRRMA: staff transfer to Rolpa; no new Bhotekoshi casualty line", "ne": "NDRRMA: Rolpa saruwa; Bhotekoshi naya casualty chaina", "hi": "NDRRMA: Rolpa transfer; Bhotekoshi naya casualty nahi"}
+    },
+    {
+      "id": "x-pd-0911",
+      "user": "@PDChina",
+      "t": "2026-09-11T00:00:01Z",
+      "link": "https://x.com/PDChina/status/2098199849758011623",
+      "geo": "unknown",
+      "text": {"zh": "人民日报：国家气候中心向尼方提供滚动气候产品，无新伤亡数", "en": "PDChina: National Climate Center sends rolling forecasts to Nepal; no new casualty count", "ne": "PDChina: climate product Nepal lai; naya casualty chaina", "hi": "PDChina: climate product Nepal ko; naya casualty nahi"}
     },
     {
       "id": "x-cctv-0910",
