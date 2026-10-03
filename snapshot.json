@@ -1,29 +1,19 @@
 {
-  "snap": "2026-10-03T07:11:00Z",
+  "snap": "2026-10-03T08:08:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1453, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1003-0711",
+      "id": "poll-1003-0808",
       "src": "official",
-      "t": "2026-10-03T07:11:00Z",
+      "t": "2026-10-03T08:08:00Z",
       "link": "https://ndrrma.gov.np/np/situation-report/450",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月3日07:11UTC复检：无新分项；中方43/519/2；尼方#25 1453/5285/13795", "en": "3 Oct 07:11 UTC recheck: no new split; CN 43/519/2; NP #25 1453/5285/13795", "ne": "3 Oct 07:11 UTC: naya split chaina; CN 43/519/2; NP #25 1453/5285/13795", "hi": "3 Oct 07:11 UTC: naya split nahi; CN 43/519/2; NP #25 1453/5285/13795"},
+      "title": {"zh": "10月3日08:08UTC复检：无新分项；中方43/519/2；尼方#25 1453/5285/13795", "en": "3 Oct 08:08 UTC recheck: no new split; CN 43/519/2; NP #25 1453/5285/13795", "ne": "3 Oct 08:08 UTC: naya split chaina; CN 43/519/2; NP #25 1453/5285/13795", "hi": "3 Oct 08:08 UTC: naya split nahi; CN 43/519/2; NP #25 1453/5285/13795"},
       "body": {"zh": "新华、gov.cn、日喀则简报与@XHNews/@CCTV_Plus无新吉隆伤亡帖。中方仍为9月5日18时：43死、519失联、2人获救。NDRRMA最新仍为9月26日#25。堰塞湖已排空。中方口岸关闭。Rising Nepal 10月2日：Syabrubesi–Rasuwagadhi周二下午轻车重开，夜间不建议。美使馆9月8日仍勿前往该段。勿与中方相加。", "en": "No new Gyirong casualty post from Xinhua, gov.cn, Shigatse, @XHNews or @CCTV_Plus. CN remains 5 Sep 18:00: 43 dead, 519 missing, 2 rescued. Latest NDRRMA post is 26 Sep #25. Lake drained. CN gate closed. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi reopened Tuesday afternoon for light vehicles; no night travel. US Embassy 8 Sep still do-not-travel. Do not add CN.", "ne": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty chaina. CN 5 Sep 18:00: 43/519/2. NDRRMA antim #25 (26 Sep). Tal khali. CN gate band. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi halka sawari; rat yatra nahos. US Embassy 8 Sep najau. CN najodnu.", "hi": "Xinhua/gov.cn/@XHNews/@CCTV_Plus naya casualty nahi. CN 5 Sep 18:00: 43/519/2. NDRRMA antim #25 (26 Sep). Jheel khali. CN gate band. Rising Nepal 2 Oct: Syabrubesi–Rasuwagadhi halka vahan; raat yatra nahin. US Embassy 8 Sep na jaen. CN na joden."}
-    },
-    {
-      "id": "poll-1003-0618",
-      "src": "official",
-      "t": "2026-10-03T06:18:00Z",
-      "link": "https://ndrrma.gov.np/np/situation-report/450",
-      "img": null,
-      "geo": "unknown",
-      "title": {"zh": "10月3日06:18UTC复检：无新分项", "en": "3 Oct 06:18 UTC recheck: no new split", "ne": "3 Oct 06:18 UTC: naya split chaina", "hi": "3 Oct 06:18 UTC: naya split nahi"},
-      "body": {"zh": "中方43/519/2，尼方#25 1453/5285/13795。", "en": "CN 43/519/2, NP #25 1453/5285/13795.", "ne": "CN 43/519/2, NP #25 1453/5285/13795.", "hi": "CN 43/519/2, NP #25 1453/5285/13795."}
     },
     {
       "id": "np-road-1002",
