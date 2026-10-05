@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-05T11:10:14Z",
+  "snap": "2026-10-06T02:18:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4718, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1005-1110",
+      "id": "poll-1006-0218",
       "src": "official",
-      "t": "2026-10-05T11:10:14Z",
+      "t": "2026-10-06T02:18:00Z",
       "link": "https://english.pardafas.com/bhotekoshi-flood-death-toll-reaches-1457-in-rasuwa-and-downstream-districts/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10月5日11:10 UTC再核：伤亡与口岸状态未变",
-        "en": "5 Oct 11:10 UTC recheck: casualties and port status unchanged",
-        "ne": "5 Oct 11:10 UTC: casualty ra port status same",
-        "hi": "5 Oct 11:10 UTC: casualty aur port status same"
+        "zh": "10月6日02:18 UTC再核：伤亡与口岸状态未变",
+        "en": "6 Oct 02:18 UTC recheck: casualties and port status unchanged",
+        "ne": "6 Oct 02:18 UTC: casualty ra port status same",
+        "hi": "6 Oct 02:18 UTC: casualty aur port status same"
       },
       "body": {
-        "zh": "本轮再核新华社、指挥部通稿、gov.cn、@XHNews、@CCTV_Plus：中方仍为截至9月5日18时，43死、519失联、救出2人。epardafas 10月5日现文仍为周一5时遗体1457、失踪4718。获救仍用NDRRMA 9月26日13795。堰塞湖仍为新华社9月5日已排空。G216仍为交通厅9月28日双向管制。美使馆道路告示仍为9月3日。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。",
-        "en": "Recheck of Xinhua, command text, gov.cn, @XHNews and @CCTV_Plus: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. epardafas 5 Oct text still says 1457 bodies and 4718 missing as of Monday 05:00. Rescued stays the NDRRMA 26 Sep figure 13795. Barrier lake remains Xinhua 5 Sep drained. G216 remains 28 Sep two-way control. US Embassy road notice remains 3 Sep. No new UNOSAT/Copernicus EMS activation. No new team coordinates.",
-        "ne": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. epardafas 5 Oct: sombar 05:00 1457 sharir, 4718 harayeka. Uddar NDRRMA 26 Sep 13795. Tal Xinhua 5 Sep khali. G216 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS chaina. GNSS chaina.",
-        "hi": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. epardafas 5 Oct: somvar 05:00 1457 sharir, 4718 lapata. Uddhar NDRRMA 26 Sep 13795. Jheel Xinhua 5 Sep khali. G216 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS nahi. GNSS nahi."
+        "zh": "本轮再核新华社、指挥部通稿、gov.cn、@XHNews、@CCTV_Plus：中方仍为截至9月5日18时，43死、519失联、救出2人。10月1日后无新官方伤亡帖。epardafas 10月5日现文仍为周一5时遗体1457、失踪4718。获救仍用NDRRMA 9月26日13795。堰塞湖仍为新华社9月5日已排空。G216仍为交通厅9月28日双向管制。美使馆道路告示仍为9月3日。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。",
+        "en": "Recheck of Xinhua, command text, gov.cn, @XHNews and @CCTV_Plus: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. No official casualty post after 1 Oct. epardafas 5 Oct text still says 1457 bodies and 4718 missing as of Monday 05:00. Rescued stays the NDRRMA 26 Sep figure 13795. Barrier lake remains Xinhua 5 Sep drained. G216 remains 28 Sep two-way control. US Embassy road notice remains 3 Sep. No new UNOSAT/Copernicus EMS activation. No new team coordinates.",
+        "ne": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. 1 Oct pachi naya official casualty chaina. epardafas 5 Oct: sombar 05:00 1457 sharir, 4718 harayeka. Uddar NDRRMA 26 Sep 13795. Tal Xinhua 5 Sep khali. G216 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS chaina. GNSS chaina.",
+        "hi": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. 1 Oct ke baad naya official casualty nahi. epardafas 5 Oct: somvar 05:00 1457 sharir, 4718 lapata. Uddhar NDRRMA 26 Sep 13795. Jheel Xinhua 5 Sep khali. G216 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS nahi. GNSS nahi."
       }
     },
     {
