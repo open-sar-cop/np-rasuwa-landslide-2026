@@ -1,28 +1,48 @@
 {
-  "snap": "2026-10-06T02:18:00Z",
+  "snap": "2026-10-05T14:14:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4718, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1006-0218",
+      "id": "poll-1005-1414",
       "src": "official",
-      "t": "2026-10-06T02:18:00Z",
-      "link": "https://english.pardafas.com/bhotekoshi-flood-death-toll-reaches-1457-in-rasuwa-and-downstream-districts/",
+      "t": "2026-10-05T14:14:00Z",
+      "link": "https://english.pardafas.com/government-halts-search-operations-and-recommends-over-rs-559-billion-for-bhotekoshi-trishuli-flood-reconstruction/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10月6日02:18 UTC再核：伤亡与口岸状态未变",
-        "en": "6 Oct 02:18 UTC recheck: casualties and port status unchanged",
-        "ne": "6 Oct 02:18 UTC: casualty ra port status same",
-        "hi": "6 Oct 02:18 UTC: casualty aur port status same"
+        "zh": "10月5日14:14 UTC再核：伤亡未改，尼方理事会暂停大规模搜救",
+        "en": "5 Oct 14:14 UTC recheck: casualties unchanged; Nepal council pauses mass SAR",
+        "ne": "5 Oct 14:14 UTC: casualty same; NP council le thulo khoj rokeko",
+        "hi": "5 Oct 14:14 UTC: casualty same; NP council ne bada khoj roka"
       },
       "body": {
-        "zh": "本轮再核新华社、指挥部通稿、gov.cn、@XHNews、@CCTV_Plus：中方仍为截至9月5日18时，43死、519失联、救出2人。10月1日后无新官方伤亡帖。epardafas 10月5日现文仍为周一5时遗体1457、失踪4718。获救仍用NDRRMA 9月26日13795。堰塞湖仍为新华社9月5日已排空。G216仍为交通厅9月28日双向管制。美使馆道路告示仍为9月3日。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。",
-        "en": "Recheck of Xinhua, command text, gov.cn, @XHNews and @CCTV_Plus: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. No official casualty post after 1 Oct. epardafas 5 Oct text still says 1457 bodies and 4718 missing as of Monday 05:00. Rescued stays the NDRRMA 26 Sep figure 13795. Barrier lake remains Xinhua 5 Sep drained. G216 remains 28 Sep two-way control. US Embassy road notice remains 3 Sep. No new UNOSAT/Copernicus EMS activation. No new team coordinates.",
-        "ne": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. 1 Oct pachi naya official casualty chaina. epardafas 5 Oct: sombar 05:00 1457 sharir, 4718 harayeka. Uddar NDRRMA 26 Sep 13795. Tal Xinhua 5 Sep khali. G216 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS chaina. GNSS chaina.",
-        "hi": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. 1 Oct ke baad naya official casualty nahi. epardafas 5 Oct: somvar 05:00 1457 sharir, 4718 lapata. Uddhar NDRRMA 26 Sep 13795. Jheel Xinhua 5 Sep khali. G216 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS nahi. GNSS nahi."
+        "zh": "本轮再核新华社、指挥部通稿、gov.cn、@XHNews、@CCTV_Plus：中方仍为截至9月5日18时，43死、519失联、救出2人。epardafas现文仍为周一5时遗体1457、失踪4718。PTI今日写1455死、5285失踪、13795获救，与9月下旬旧口径相同，不替代周一遗体计数。获救仍用NDRRMA 9月26日13795。堰塞湖仍为新华社9月5日已排空。G216仍为交通厅9月28日双向管制。美使馆道路告示仍为9月3日。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。",
+        "en": "Recheck of Xinhua, command text, gov.cn, @XHNews and @CCTV_Plus: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. epardafas text still says 1457 bodies and 4718 missing as of Monday 05:00. PTI today writes 1455 dead, 5285 missing and 13795 rescued, matching late-September figures, so it does not replace the Monday body count. Rescued stays the NDRRMA 26 Sep figure 13795. Barrier lake remains Xinhua 5 Sep drained. G216 remains 28 Sep two-way control. US Embassy road notice remains 3 Sep. No new UNOSAT/Copernicus EMS activation. No new team coordinates.",
+        "ne": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. epardafas: sombar 05:00 1457 sharir, 4718 harayeka. PTI aja 1455/5285/13795 purano ank ho, Monday count badaldaina. Uddar NDRRMA 26 Sep 13795. Tal Xinhua 5 Sep khali. G216 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS chaina. GNSS chaina.",
+        "hi": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. epardafas: somvar 05:00 1457 sharir, 4718 lapata. PTI aaj 1455/5285/13795 purana ank hain, Monday count nahi badalte. Uddhar NDRRMA 26 Sep 13795. Jheel Xinhua 5 Sep khali. G216 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS nahi. GNSS nahi."
+      }
+    },
+    {
+      "id": "np-council-1005",
+      "src": "official",
+      "t": "2026-10-05T08:00:00Z",
+      "link": "https://english.pardafas.com/government-halts-search-operations-and-recommends-over-rs-559-billion-for-bhotekoshi-trishuli-flood-reconstruction/",
+      "img": null,
+      "geo": "unknown",
+      "title": {
+        "zh": "10月5日：国家减灾理事会暂停大规模搜救，建议重建预算约5592亿卢比",
+        "en": "5 Oct: national council pauses mass SAR, recommends about NPR 559.17bn",
+        "ne": "5 Oct: rastriya parishad le thulo khoj rokeko, NPR 559.17 arba sujhab",
+        "hi": "5 Oct: rashtriya parishad ne bada khoj roka, NPR 559.17 arb sujhav"
+      },
+      "body": {
+        "zh": "epardafas：总理沙阿主持第21次国家减灾理事会，决定博特科西—特里舒里洪水搜救除必要行动外暂停，转向重建。建议财政部批准504项计划约5591.7亿卢比。未公布新伤亡。无新队伍坐标。",
+        "en": "epardafas: PM Shah chaired the 21st national DRR council and decided to suspend Bhotekoshi-Trishuli SAR except essential work, shifting to reconstruction. It recommended Finance approve about NPR 559.17 billion for 504 plans. No new casualty figures. No new team coordinates.",
+        "ne": "epardafas: PM Shah ko 21st council le khoj rokeko, avashyak bahyek. Punarnirman NPR 559.17 arba. Naya casualty chaina. GNSS chaina.",
+        "hi": "epardafas: PM Shah ki 21st council ne khoj roka, zaroori chhodkar. Punarnirman NPR 559.17 arb. Naya casualty nahi. GNSS nahi."
       }
     },
     {
@@ -83,26 +103,6 @@
         "en": "CCTV 4 Oct: 50-plus researchers of the Himalaya 26 Aug emergency team left Chengdu for Nepal to trace the ice-rock avalanche and support Gyirong Port reconstruction. No new casualties, no field coordinates.",
         "ne": "CCTV 4 Oct: 50+ scientist Chengdu bata Nepal tira. Naya casualty chaina. GNSS chaina.",
         "hi": "CCTV 4 Oct: 50+ scientist Chengdu se Nepal ke liye. Naya casualty nahi. GNSS nahi."
-      }
-    },
-    {
-      "id": "np-ndrrma-1001",
-      "src": "official",
-      "t": "2026-10-01T12:00:00Z",
-      "link": "https://english.pardafas.com/bhotekoshi-trishuli-flood-search-and-rescue-concludes-as-recovery-phase-begins-ndrrma-moves-to-verify-missing-persons/",
-      "img": null,
-      "geo": "unknown",
-      "title": {
-        "zh": "NDRRMA 10月1日：搜救结束，转入失踪核查",
-        "en": "NDRRMA 1 Oct: SAR ended, missing verification starts",
-        "ne": "NDRRMA 1 Oct: khoj sakiyo, harayeka jaanch suru",
-        "hi": "NDRRMA 1 Oct: khoj khatam, lapata satyapan shuru"
-      },
-      "body": {
-        "zh": "epardafas引NDRRMA执行主任Upreti：10月1日记者会称博特科西—特里舒里水道搜救阶段结束，转入恢复与失踪人员核查。未公布新伤亡数字。无新队伍坐标。",
-        "en": "epardafas cites NDRRMA chief Upreti: 1 Oct press conference said Bhotekoshi-Trishuli SAR ended and recovery plus missing-person verification began. No new casualty figures. No new team coordinates.",
-        "ne": "epardafas/NDRRMA Upreti: 1 Oct khoj sakiyo, recovery ra harayeka jaanch suru. Naya casualty chaina. GNSS chaina.",
-        "hi": "epardafas/NDRRMA Upreti: 1 Oct khoj khatam, recovery aur lapata satyapan shuru. Naya casualty nahi. GNSS nahi."
       }
     },
     {
@@ -242,14 +242,16 @@
       }
     },
     {
-      "id": "falakhu",
-      "status": "limited",
-      "name": {"zh": "贝特拉瓦蒂法拉库河贝雷桥", "en": "Betravati Falakhu Bailey bridge", "ne": "Betravati Falakhu Bailey bridge", "hi": "Betravati Falakhu Bailey bridge"},
+      "id": "rasuwagadhi",
+      "status": "closed",
+      "lat": 28.248,
+      "lng": 85.356,
+      "name": {"zh": "Rasuwagadhi-Timure", "en": "Rasuwagadhi-Timure", "ne": "Rasuwagadhi-Timure", "hi": "Rasuwagadhi-Timure"},
       "detail": {
-        "zh": "Aarthik Abhiyan 10月5日：开始架贝雷桥，连接努瓦科特与拉苏瓦。非锚点，不标经纬度。",
-        "en": "Aarthik Abhiyan 5 Oct: Bailey bridge installation started, linking Nuwakot and Rasuwa. Not an anchor; no lat/lng.",
-        "ne": "5 Oct Bailey bridge suru. Anchor hoina; GNSS chaina.",
-        "hi": "5 Oct Bailey bridge shuru. Anchor nahi; GNSS nahi."
+        "zh": "美国驻尼使馆9月3日：正常通行未恢复，勿前往。本轮无新告示。",
+        "en": "US Embassy Nepal 3 Sep: normal access not restored; do not travel. No newer notice.",
+        "ne": "US Embassy 3 Sep: sadharan bato chaina; najau. Naya notice chaina.",
+        "hi": "US Embassy 3 Sep: normal rasta nahi; mat jao. Naya notice nahi."
       }
     }
   ],
@@ -270,12 +272,12 @@
     {
       "id": "np-sar",
       "status": "limited",
-      "name": {"zh": "尼方搜救转核查", "en": "NP SAR to verification", "ne": "NP khoj bata jaanch", "hi": "NP khoj se jaanch"},
+      "name": {"zh": "尼方搜救转重建", "en": "NP SAR to reconstruction", "ne": "NP khoj bata punarnirman", "hi": "NP khoj se punarnirman"},
       "detail": {
-        "zh": "NDRRMA 10月1日：搜救阶段结束，转入失踪核查。epardafas 10月5日仍部7975名警员处置遗体并寻找失踪者。无新队伍坐标，故不标经纬度。",
-        "en": "NDRRMA 1 Oct: SAR phase ended; missing-person verification underway. epardafas 5 Oct still lists 7975 police on remains and missing search. No new team GNSS, so no lat/lng.",
-        "ne": "NDRRMA 1 Oct: khoj sakiyo. epardafas 5 Oct: police 7975. Toli GNSS chaina.",
-        "hi": "NDRRMA 1 Oct: khoj khatam. epardafas 5 Oct: police 7975. Team GNSS nahi."
+        "zh": "10月5日国家减灾理事会：除必要行动外暂停大规模搜救。epardafas周一5时仍列7975名警员。无新队伍坐标，故不标经纬度。",
+        "en": "5 Oct national council: mass SAR paused except essential work. epardafas Monday 05:00 still lists 7975 police. No new team GNSS, so no lat/lng.",
+        "ne": "5 Oct council: thulo khoj rokeko. epardafas: police 7975. Toli GNSS chaina.",
+        "hi": "5 Oct council: bada khoj roka. epardafas: police 7975. Team GNSS nahi."
       }
     }
   ],
@@ -288,10 +290,10 @@
       "lng": 85.374,
       "name": {"zh": "热索/口岸核心区", "en": "Resuo / port core", "ne": "Resuo / port core", "hi": "Resuo / port core"},
       "detail": {
-        "zh": "9月5日指挥部：核心区搜寻与预防性消杀已全覆盖。",
-        "en": "5 Sep command: core-area search and preventive disinfection fully covered.",
-        "ne": "5 Sep command: core khoj ra disinfection cover.",
-        "hi": "5 Sep command: core khoj aur disinfection cover."
+        "zh": "9月5日指挥部：核心区搜寻与预防性消杀已全覆盖。救出2人。",
+        "en": "5 Sep command: core-area search and preventive disinfection fully covered. 2 rescued.",
+        "ne": "5 Sep command: core khoj ra disinfection cover. 2 uddar.",
+        "hi": "5 Sep command: core khoj aur disinfection cover. 2 uddhar."
       }
     },
     {
@@ -302,10 +304,10 @@
       "lng": 85.325,
       "name": {"zh": "吉隆镇安置", "en": "Gyirong town shelter", "ne": "Gyirong town shelter", "hi": "Gyirong town shelter"},
       "detail": {
-        "zh": "8月30日发布会：转移安置吉隆镇、萨勒乡5村499人。9月8日新华社称444人已返回。本轮无更新。",
-        "en": "30 Aug briefing: 499 relocated from Gyirong town and Sale. Xinhua 8 Sep: 444 returned after lake risk eased. No update this cycle.",
-        "ne": "30 Aug: 499 sthanantran. Xinhua 8 Sep: 444 firta. Yo cycle update chaina.",
-        "hi": "30 Aug: 499 sthanantran. Xinhua 8 Sep: 444 firta. Is cycle update nahi."
+        "zh": "8月30日发布会：转移安置吉隆镇、萨勒乡5村499人。本轮无更新。",
+        "en": "30 Aug briefing: 499 relocated from Gyirong town and Sale. No update this cycle.",
+        "ne": "30 Aug: Gyirong town ra Sale bata 499 sariyeko. Yo cycle update chaina.",
+        "hi": "30 Aug: Gyirong town aur Sale se 499 sthanantaran. Is cycle update nahi."
       }
     }
   ],
@@ -313,54 +315,56 @@
     "lat": 28.293,
     "lng": 85.392,
     "status": {
-      "zh": "新华社9月5日：堰塞湖已排空，河道恢复过流，险情基本解除。本轮无新通报。",
-      "en": "Xinhua 5 Sep: barrier lake drained, channel flowing, hazard largely eliminated. No newer bulletin.",
+      "zh": "新华社9月5日：口岸上方堰塞湖已排空，河道过流，险情基本解除。本轮无新通报。",
+      "en": "Xinhua 5 Sep: barrier lake above the port drained, channel flowing, hazard largely eliminated. No later bulletin.",
       "ne": "Xinhua 5 Sep: tal khali, nadi sadharan, jokhim hatyo. Naya bulletin chaina.",
       "hi": "Xinhua 5 Sep: jheel khali, nadi normal, khatra hat gaya. Naya bulletin nahi."
     }
   },
   "xPosts": [
     {
-      "id": "x-xh-0910",
+      "id": "x-xh-0905",
       "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
-      "text": {
-        "zh": "新华社：国家气候中心正向尼泊尔提供滚动气候监测与预报，支持吉隆—拉苏瓦口岸泥石流救援。无新伤亡数字。",
-        "en": "@XHNews: China's National Climate Center is sending rolling climate monitoring and forecasts to Nepal to support Gyirong-Rasuwa rescue. No new casualty figures.",
-        "ne": "@XHNews: China climate centre le Nepal lai forecast pathaudo. Naya casualty chaina.",
-        "hi": "@XHNews: China climate centre Nepal ko forecast bhej raha hai. Naya casualty nahi."
-      }
-    },
-    {
-      "id": "x-cctv-0910",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-10T09:15:50Z",
-      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "Gyirong town",
-      "text": {
-        "zh": "央视：部分尼泊尔务工人员仍留在吉隆镇并恢复工作，期待灾区恢复。无受害者可识别照片。",
-        "en": "@CCTV_Plus: some Nepali workers remain in Gyirong Town and have resumed work, hoping the area recovers. No victim-identifiable photo used.",
-        "ne": "@CCTV_Plus: kehi Nepali karmi Gyirong town ma kaam garira. Pidit photo chaina.",
-        "hi": "@CCTV_Plus: kuchh Nepali karmchari Gyirong town mein kaam kar rahe hain. Pidit photo nahi."
-      }
-    },
-    {
-      "id": "x-xh-0909",
-      "user": "@XHNews",
-      "t": "2026-09-09T09:10:51Z",
-      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "新华社9月9日：述评8月26日尼境冰岩崩引发泥石流冲击吉隆口岸，中方全力搜救。未给出超过9月5日的新伤亡。",
-        "en": "@XHNews 9 Sep: recap of the 26 Aug Nepal-side ice-rock avalanche that hit Gyirong Port and of Chinese SAR. No casualty figure later than 5 Sep.",
-        "ne": "@XHNews 9 Sep: 26 Aug ice-rock avalanche ra Gyirong Port. 5 Sep pachi naya casualty chaina.",
-        "hi": "@XHNews 9 Sep: 26 Aug ice-rock avalanche aur Gyirong Port. 5 Sep ke baad naya casualty nahi."
+        "zh": "新华社：移民警察肖富贵在8月26日泥石流后于吉隆口岸附近拍摄无人机画面。非伤亡通报。",
+        "en": "XHNews: immigration officer Xiao Fugui filmed drone footage near Gyirong Port after the 26 Aug mudslide. Not a casualty bulletin.",
+        "ne": "XHNews: Xiao Fugui le Gyirong Port najik drone khicheko. Casualty hoina.",
+        "hi": "XHNews: Xiao Fugui ne Gyirong Port ke paas drone footage. Casualty nahi."
+      }
+    },
+    {
+      "id": "x-xh-0904",
+      "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社：救援人员抢通通往吉隆口岸核心区道路，两小时不足5米。非伤亡通报。",
+        "en": "XHNews: rescuers reopened the route to the Gyirong Port core; under 5 metres in two hours. Not a casualty bulletin.",
+        "ne": "XHNews: core bato kholne; dui ghanta ma 5 m bhanda kam. Casualty hoina.",
+        "hi": "XHNews: core rasta kholna; do ghante mein 5 m se kam. Casualty nahi."
+      }
+    },
+    {
+      "id": "x-xh-0902",
+      "user": "@XHNews",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "新华社：9月2日10时，通往吉隆口岸核心区的G216通道基本抢通。非伤亡通报。",
+        "en": "XHNews: at 10:00 on 2 Sep, G216 access to the Gyirong Port core was basically restored. Not a casualty bulletin.",
+        "ne": "XHNews: 2 Sep 10:00 ma G216 core bato khulyo. Casualty hoina.",
+        "hi": "XHNews: 2 Sep 10:00 par G216 core rasta khula. Casualty nahi."
       }
     }
   ]
