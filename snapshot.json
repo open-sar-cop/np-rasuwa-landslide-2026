@@ -1,22 +1,22 @@
 {
-  "snap": "2026-10-05T09:10:00Z",
+  "snap": "2026-10-05T10:11:10Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4718, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1005-0910",
+      "id": "poll-1005-1011",
       "src": "official",
-      "t": "2026-10-05T09:10:00Z",
+      "t": "2026-10-05T10:11:10Z",
       "link": "https://english.pardafas.com/bhotekoshi-flood-death-toll-reaches-1457-in-rasuwa-and-downstream-districts/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10月5日09:10 UTC再核：伤亡与口岸状态未变",
-        "en": "5 Oct 09:10 UTC recheck: casualties and port status unchanged",
-        "ne": "5 Oct 09:10 UTC: casualty ra port status same",
-        "hi": "5 Oct 09:10 UTC: casualty aur port status same"
+        "zh": "10月5日10:11 UTC再核：伤亡与口岸状态未变",
+        "en": "5 Oct 10:11 UTC recheck: casualties and port status unchanged",
+        "ne": "5 Oct 10:11 UTC: casualty ra port status same",
+        "hi": "5 Oct 10:11 UTC: casualty aur port status same"
       },
       "body": {
         "zh": "本轮再核新华社、指挥部通稿、gov.cn、@XHNews、@CCTV_Plus：中方仍为截至9月5日18时，43死、519失联、救出2人。epardafas 10月5日现文仍为周一5时遗体1457、失踪4718。获救仍用NDRRMA 9月26日13795。堰塞湖仍为新华社9月5日已排空。G216仍为交通厅9月28日双向管制。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。",
@@ -307,55 +307,43 @@
         "ne": "30 Aug: 499 sthanantran. Xinhua 8 Sep: 444 firta. Yo cycle update chaina.",
         "hi": "30 Aug: 499 sthanantran. Xinhua 8 Sep: 444 wapas. Is cycle update nahi."
       }
-    },
-    {
-      "id": "np-holding",
-      "kind": "shelter",
-      "status": "active",
-      "name": {"zh": "尼方安置点", "en": "Nepal holding centres", "ne": "Nepal holding centres", "hi": "Nepal holding centres"},
-      "detail": {
-        "zh": "epardafas 10月5日：各区安置点现1226人。地点不明，不标经纬度。",
-        "en": "epardafas 5 Oct: 1226 people in holding centres across districts. Place unclear, no lat/lng.",
-        "ne": "epardafas 5 Oct: holding ma 1226. Thau spashta chaina.",
-        "hi": "epardafas 5 Oct: holding mein 1226. Sthan spasht nahi."
-      }
     }
   ],
   "hydro": {
     "lat": 28.293,
     "lng": 85.392,
     "status": {
-      "zh": "堰塞湖已排空，河道正常过流（新华社9月5日，本轮无更新）",
-      "en": "Barrier lake drained; channel flowing normally (Xinhua 5 Sep, no update this cycle)",
-      "ne": "Bandha tal khali; nadi sadharan (Xinhua 5 Sep, yo cycle update chaina)",
-      "hi": "Barrier lake khali; nadi normal (Xinhua 5 Sep, is cycle update nahi)"
+      "zh": "新华社9月5日：口岸上方堰塞湖已排空，河道恢复过流，险情基本解除。本轮无新通报。",
+      "en": "Xinhua 5 Sep: barrier lake above the port drained, channel flowing, hazard largely eliminated. No new bulletin this cycle.",
+      "ne": "Xinhua 5 Sep: bandha tal khali, nadi sadharan. Yo cycle naya bulletin chaina.",
+      "hi": "Xinhua 5 Sep: barrier lake khali, nadi normal. Is cycle naya bulletin nahi."
     }
   },
   "xPosts": [
     {
       "id": "x-xhnews-1005",
       "user": "@XHNews",
-      "t": "2026-10-05T09:01:52Z",
-      "link": "https://x.com/XHNews/status/2107033518966767677",
+      "t": "2026-10-05T10:11:10Z",
+      "link": "https://x.com/XHNews",
       "geo": "unknown",
       "text": {
-        "zh": "@XHNews 10月5日09:01 UTC最新帖为西班牙提前选举，非吉隆灾情。未见新伤亡。",
-        "en": "@XHNews latest post at 5 Oct 09:01 UTC is on a Spanish election, not Gyirong. No new casualties.",
-        "ne": "@XHNews 5 Oct 09:01 UTC Spain chunab, Gyirong hoina. Naya casualty chaina.",
-        "hi": "@XHNews 5 Oct 09:01 UTC Spain chunav, Gyirong nahi. Naya casualty nahi."
+        "zh": "本轮@XHNews吉隆相关最新仍为9月10日气候支持帖，无新伤亡。",
+        "en": "This cycle @XHNews latest Gyirong-related post remains 10 Sep climate support. No new casualties.",
+        "ne": "Yo cycle @XHNews Gyirong post 10 Sep climate nai. Naya casualty chaina.",
+        "hi": "Is cycle @XHNews Gyirong post 10 Sep climate hi. Naya casualty nahi."
       }
     },
     {
       "id": "x-cctv-1005",
       "user": "@CCTV_Plus",
-      "t": "2026-10-05T09:00:42Z",
-      "link": "https://x.com/CCTV_Plus/status/2107033224836960373",
+      "t": "2026-10-05T10:11:10Z",
+      "link": "https://x.com/CCTV_Plus",
       "geo": "unknown",
       "text": {
-        "zh": "@CCTV_Plus 10月5日09:00 UTC最新帖为冲绳抗议，非吉隆。未见新伤亡。",
-        "en": "@CCTV_Plus latest post at 5 Oct 09:00 UTC is an Okinawa protest, not Gyirong. No new casualties.",
-        "ne": "@CCTV_Plus 5 Oct 09:00 UTC Okinawa, Gyirong hoina. Naya casualty chaina.",
-        "hi": "@CCTV_Plus 5 Oct 09:00 UTC Okinawa, Gyirong nahi. Naya casualty nahi."
+        "zh": "本轮@CCTV_Plus吉隆相关最新仍为9月10日吉隆镇务工帖，无新伤亡。",
+        "en": "This cycle @CCTV_Plus latest Gyirong-related post remains 10 Sep workers in Gyirong town. No new casualties.",
+        "ne": "Yo cycle @CCTV_Plus Gyirong post 10 Sep karmiharu nai. Naya casualty chaina.",
+        "hi": "Is cycle @CCTV_Plus Gyirong post 10 Sep karmchari hi. Naya casualty nahi."
       }
     },
     {
@@ -384,6 +372,36 @@
         "en": "@CCTV_Plus 10 Sep: Nepali workers who stayed in disaster-hit Gyirong town are returning to work. No new casualty figures.",
         "ne": "@CCTV_Plus 10 Sep: Gyirong town ma Nepali karmiharu kaam ma pharke. Naya casualty chaina.",
         "hi": "@CCTV_Plus 10 Sep: Gyirong town mein Nepali karmchari kaam par laut rahe hain. Naya casualty nahi."
+      }
+    },
+    {
+      "id": "x-xhnews-0905",
+      "user": "@XHNews",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "@XHNews 9月5日：出入境民警肖福贵在吉隆口岸拍摄泥石流后无人机画面。未给新伤亡数字。",
+        "en": "@XHNews 5 Sep: immigration officer Xiao Fugui filmed drone footage near Gyirong Port after the mudslide. No new casualty figures.",
+        "ne": "@XHNews 5 Sep: Gyirong Port drone footage. Naya casualty chaina.",
+        "hi": "@XHNews 5 Sep: Gyirong Port drone footage. Naya casualty nahi."
+      }
+    },
+    {
+      "id": "x-xhnews-0902",
+      "user": "@XHNews",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "@XHNews 9月2日10时：G216抢修后口岸核心区道路基本恢复。未给新伤亡数字。",
+        "en": "@XHNews 2 Sep 10:00: road access to Gyirong Port core basically restored after G216 repair. No new casualty figures.",
+        "ne": "@XHNews 2 Sep: port core bato khulyo. Naya casualty chaina.",
+        "hi": "@XHNews 2 Sep: port core road khula. Naya casualty nahi."
       }
     }
   ]
