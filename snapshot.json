@@ -1,28 +1,28 @@
 {
-  "snap": "2026-10-05T10:11:10Z",
+  "snap": "2026-10-05T11:10:14Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4718, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1005-1011",
+      "id": "poll-1005-1110",
       "src": "official",
-      "t": "2026-10-05T10:11:10Z",
+      "t": "2026-10-05T11:10:14Z",
       "link": "https://english.pardafas.com/bhotekoshi-flood-death-toll-reaches-1457-in-rasuwa-and-downstream-districts/",
       "img": null,
       "geo": "unknown",
       "title": {
-        "zh": "10月5日10:11 UTC再核：伤亡与口岸状态未变",
-        "en": "5 Oct 10:11 UTC recheck: casualties and port status unchanged",
-        "ne": "5 Oct 10:11 UTC: casualty ra port status same",
-        "hi": "5 Oct 10:11 UTC: casualty aur port status same"
+        "zh": "10月5日11:10 UTC再核：伤亡与口岸状态未变",
+        "en": "5 Oct 11:10 UTC recheck: casualties and port status unchanged",
+        "ne": "5 Oct 11:10 UTC: casualty ra port status same",
+        "hi": "5 Oct 11:10 UTC: casualty aur port status same"
       },
       "body": {
-        "zh": "本轮再核新华社、指挥部通稿、gov.cn、@XHNews、@CCTV_Plus：中方仍为截至9月5日18时，43死、519失联、救出2人。epardafas 10月5日现文仍为周一5时遗体1457、失踪4718。获救仍用NDRRMA 9月26日13795。堰塞湖仍为新华社9月5日已排空。G216仍为交通厅9月28日双向管制。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。",
-        "en": "Recheck of Xinhua, command text, gov.cn, @XHNews and @CCTV_Plus: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. epardafas 5 Oct text still says 1457 bodies and 4718 missing as of Monday 05:00. Rescued stays the NDRRMA 26 Sep figure 13795. Barrier lake remains Xinhua 5 Sep drained. G216 remains 28 Sep two-way control. No new UNOSAT/Copernicus EMS activation. No new team coordinates.",
-        "ne": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. epardafas 5 Oct: sombar 05:00 1457 sharir, 4718 harayeka. Uddar NDRRMA 26 Sep 13795. Tal Xinhua 5 Sep khali. G216 28 Sep niyantran. Naya UNOSAT/Copernicus EMS chaina. GNSS chaina.",
-        "hi": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. epardafas 5 Oct: somvar 05:00 1457 sharir, 4718 lapata. Uddhar NDRRMA 26 Sep 13795. Jheel Xinhua 5 Sep khali. G216 28 Sep niyantran. Naya UNOSAT/Copernicus EMS nahi. GNSS nahi."
+        "zh": "本轮再核新华社、指挥部通稿、gov.cn、@XHNews、@CCTV_Plus：中方仍为截至9月5日18时，43死、519失联、救出2人。epardafas 10月5日现文仍为周一5时遗体1457、失踪4718。获救仍用NDRRMA 9月26日13795。堰塞湖仍为新华社9月5日已排空。G216仍为交通厅9月28日双向管制。美使馆道路告示仍为9月3日。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。",
+        "en": "Recheck of Xinhua, command text, gov.cn, @XHNews and @CCTV_Plus: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. epardafas 5 Oct text still says 1457 bodies and 4718 missing as of Monday 05:00. Rescued stays the NDRRMA 26 Sep figure 13795. Barrier lake remains Xinhua 5 Sep drained. G216 remains 28 Sep two-way control. US Embassy road notice remains 3 Sep. No new UNOSAT/Copernicus EMS activation. No new team coordinates.",
+        "ne": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. epardafas 5 Oct: sombar 05:00 1457 sharir, 4718 harayeka. Uddar NDRRMA 26 Sep 13795. Tal Xinhua 5 Sep khali. G216 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS chaina. GNSS chaina.",
+        "hi": "Xinhua/command/gov.cn/@XHNews/@CCTV_Plus: CN 5 Sep 18:00 43/519/2. epardafas 5 Oct: somvar 05:00 1457 sharir, 4718 lapata. Uddhar NDRRMA 26 Sep 13795. Jheel Xinhua 5 Sep khali. G216 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS nahi. GNSS nahi."
       }
     },
     {
@@ -173,7 +173,7 @@
       "id": "xinhua-lake-0905",
       "src": "official",
       "t": "2026-09-05T13:49:00Z",
-      "link": "https://www.news.cn/20260905/a891e4d1de094d43a8405d519400720f/c.html",
+      "link": "https://english.news.cn/20260905/98b80941905d41418414430cdba31280/c.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -305,7 +305,7 @@
         "zh": "8月30日发布会：转移安置吉隆镇、萨勒乡5村499人。9月8日新华社称444人已返回。本轮无更新。",
         "en": "30 Aug briefing: 499 relocated from Gyirong town and Sale. Xinhua 8 Sep: 444 returned after lake risk eased. No update this cycle.",
         "ne": "30 Aug: 499 sthanantran. Xinhua 8 Sep: 444 firta. Yo cycle update chaina.",
-        "hi": "30 Aug: 499 sthanantran. Xinhua 8 Sep: 444 wapas. Is cycle update nahi."
+        "hi": "30 Aug: 499 sthanantran. Xinhua 8 Sep: 444 firta. Is cycle update nahi."
       }
     }
   ],
@@ -313,50 +313,24 @@
     "lat": 28.293,
     "lng": 85.392,
     "status": {
-      "zh": "新华社9月5日：口岸上方堰塞湖已排空，河道恢复过流，险情基本解除。本轮无新通报。",
-      "en": "Xinhua 5 Sep: barrier lake above the port drained, channel flowing, hazard largely eliminated. No new bulletin this cycle.",
-      "ne": "Xinhua 5 Sep: bandha tal khali, nadi sadharan. Yo cycle naya bulletin chaina.",
-      "hi": "Xinhua 5 Sep: barrier lake khali, nadi normal. Is cycle naya bulletin nahi."
+      "zh": "新华社9月5日：堰塞湖已排空，河道恢复过流，险情基本解除。本轮无新通报。",
+      "en": "Xinhua 5 Sep: barrier lake drained, channel flowing, hazard largely eliminated. No newer bulletin.",
+      "ne": "Xinhua 5 Sep: tal khali, nadi sadharan, jokhim hatyo. Naya bulletin chaina.",
+      "hi": "Xinhua 5 Sep: jheel khali, nadi normal, khatra hat gaya. Naya bulletin nahi."
     }
   },
   "xPosts": [
     {
-      "id": "x-xhnews-1005",
-      "user": "@XHNews",
-      "t": "2026-10-05T10:11:10Z",
-      "link": "https://x.com/XHNews",
-      "geo": "unknown",
-      "text": {
-        "zh": "本轮@XHNews吉隆相关最新仍为9月10日气候支持帖，无新伤亡。",
-        "en": "This cycle @XHNews latest Gyirong-related post remains 10 Sep climate support. No new casualties.",
-        "ne": "Yo cycle @XHNews Gyirong post 10 Sep climate nai. Naya casualty chaina.",
-        "hi": "Is cycle @XHNews Gyirong post 10 Sep climate hi. Naya casualty nahi."
-      }
-    },
-    {
-      "id": "x-cctv-1005",
-      "user": "@CCTV_Plus",
-      "t": "2026-10-05T10:11:10Z",
-      "link": "https://x.com/CCTV_Plus",
-      "geo": "unknown",
-      "text": {
-        "zh": "本轮@CCTV_Plus吉隆相关最新仍为9月10日吉隆镇务工帖，无新伤亡。",
-        "en": "This cycle @CCTV_Plus latest Gyirong-related post remains 10 Sep workers in Gyirong town. No new casualties.",
-        "ne": "Yo cycle @CCTV_Plus Gyirong post 10 Sep karmiharu nai. Naya casualty chaina.",
-        "hi": "Is cycle @CCTV_Plus Gyirong post 10 Sep karmchari hi. Naya casualty nahi."
-      }
-    },
-    {
-      "id": "x-xhnews-0910",
+      "id": "x-xh-0910",
       "user": "@XHNews",
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
       "geo": "unknown",
       "text": {
-        "zh": "@XHNews 9月10日：国家气候中心向尼泊尔提供滚动气候监测与预报，支持吉隆—拉苏瓦口岸泥石流救援。无新伤亡。",
-        "en": "@XHNews 10 Sep: National Climate Center is providing Nepal rolling climate monitoring and forecasts for Gyirong-Rasuwa mudslide relief. No new casualties.",
-        "ne": "@XHNews 10 Sep: climate forecast Gyirong-Rasuwa uddar. Naya casualty chaina.",
-        "hi": "@XHNews 10 Sep: climate forecast Gyirong-Rasuwa relief. Naya casualty nahi."
+        "zh": "新华社：国家气候中心正向尼泊尔提供滚动气候监测与预报，支持吉隆—拉苏瓦口岸泥石流救援。无新伤亡数字。",
+        "en": "@XHNews: China's National Climate Center is sending rolling climate monitoring and forecasts to Nepal to support Gyirong-Rasuwa rescue. No new casualty figures.",
+        "ne": "@XHNews: China climate centre le Nepal lai forecast pathaudo. Naya casualty chaina.",
+        "hi": "@XHNews: China climate centre Nepal ko forecast bhej raha hai. Naya casualty nahi."
       }
     },
     {
@@ -368,40 +342,25 @@
       "lng": 85.325,
       "geo": "Gyirong town",
       "text": {
-        "zh": "@CCTV_Plus 9月10日：灾后留在吉隆镇的尼泊尔务工人员恢复工作。无新伤亡数字。",
-        "en": "@CCTV_Plus 10 Sep: Nepali workers who stayed in disaster-hit Gyirong town are returning to work. No new casualty figures.",
-        "ne": "@CCTV_Plus 10 Sep: Gyirong town ma Nepali karmiharu kaam ma pharke. Naya casualty chaina.",
-        "hi": "@CCTV_Plus 10 Sep: Gyirong town mein Nepali karmchari kaam par laut rahe hain. Naya casualty nahi."
+        "zh": "央视：部分尼泊尔务工人员仍留在吉隆镇并恢复工作，期待灾区恢复。无受害者可识别照片。",
+        "en": "@CCTV_Plus: some Nepali workers remain in Gyirong Town and have resumed work, hoping the area recovers. No victim-identifiable photo used.",
+        "ne": "@CCTV_Plus: kehi Nepali karmi Gyirong town ma kaam garira. Pidit photo chaina.",
+        "hi": "@CCTV_Plus: kuchh Nepali karmchari Gyirong town mein kaam kar rahe hain. Pidit photo nahi."
       }
     },
     {
-      "id": "x-xhnews-0905",
+      "id": "x-xh-0909",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "@XHNews 9月5日：出入境民警肖福贵在吉隆口岸拍摄泥石流后无人机画面。未给新伤亡数字。",
-        "en": "@XHNews 5 Sep: immigration officer Xiao Fugui filmed drone footage near Gyirong Port after the mudslide. No new casualty figures.",
-        "ne": "@XHNews 5 Sep: Gyirong Port drone footage. Naya casualty chaina.",
-        "hi": "@XHNews 5 Sep: Gyirong Port drone footage. Naya casualty nahi."
-      }
-    },
-    {
-      "id": "x-xhnews-0902",
-      "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "@XHNews 9月2日10时：G216抢修后口岸核心区道路基本恢复。未给新伤亡数字。",
-        "en": "@XHNews 2 Sep 10:00: road access to Gyirong Port core basically restored after G216 repair. No new casualty figures.",
-        "ne": "@XHNews 2 Sep: port core bato khulyo. Naya casualty chaina.",
-        "hi": "@XHNews 2 Sep: port core road khula. Naya casualty nahi."
+        "zh": "新华社9月9日：述评8月26日尼境冰岩崩引发泥石流冲击吉隆口岸，中方全力搜救。未给出超过9月5日的新伤亡。",
+        "en": "@XHNews 9 Sep: recap of the 26 Aug Nepal-side ice-rock avalanche that hit Gyirong Port and of Chinese SAR. No casualty figure later than 5 Sep.",
+        "ne": "@XHNews 9 Sep: 26 Aug ice-rock avalanche ra Gyirong Port. 5 Sep pachi naya casualty chaina.",
+        "hi": "@XHNews 9 Sep: 26 Aug ice-rock avalanche aur Gyirong Port. 5 Sep ke baad naya casualty nahi."
       }
     }
   ]
