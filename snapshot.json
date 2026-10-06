@@ -1,19 +1,19 @@
 {
-  "snap": "2026-10-06T23:07:00Z",
+  "snap": "2026-10-07T00:07:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1006-2307",
+      "id": "poll-1007-0007",
       "src": "official",
-      "t": "2026-10-06T23:07:00Z",
+      "t": "2026-10-07T00:07:00Z",
       "link": "https://thenepalweekly.com/govt-wraps-up-search-and-rescue-following-rasuwa-floods-to-focus-on-rehab-reconstruction/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月6日23:07 UTC再核：分项伤亡未更新", "en": "6 Oct 23:07 UTC recheck: split casualties unchanged", "ne": "6 Oct 23:07 UTC: हताहतको अङ्क उही", "hi": "6 Oct 23:07 UTC: हताहत अंक वही"},
-      "body": {"zh": "本轮再核新华社、人民日报与@XHNews：中方仍为截至9月5日18时，43死、519失联、救出2人。应急管理部9月17日合计562人死亡失踪、仍在核查，不替代分项。尼方仍用10月5日国家减灾理事会所引NDRRMA：1455死、5285失踪、13795获救。@XHNews相关帖最新仍为9月10日气象支持。堰塞湖仍为新华社9月5日已排空。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。", "en": "Recheck of Xinhua, People's Daily and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead and missing, still under verification, does not replace the split. NP stays the 5 Oct national council citing NDRRMA: 1455 dead, 5285 missing, 13795 rescued. Latest related @XHNews post is still 10 Sep on climate support. Barrier lake remains Xinhua 5 Sep drained. No new UNOSAT/Copernicus EMS activation. No new team coordinates.", "ne": "Xinhua/People's Daily/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MEM 17 Sep जोड 562, जाच बाँकी। NP 5 Oct NDRRMA: 1455/5285/13795। @XHNews पछिल्लो पोस्ट 10 Sep। ताल Xinhua 5 Sep खाली। नयाँ UNOSAT/Copernicus EMS छैन। GNSS छैन।", "hi": "Xinhua/People's Daily/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MEM 17 Sep जोड़ 562, सत्यापन बाकी। NP 5 Oct NDRRMA: 1455/5285/13795। @XHNews आखिरी पोस्ट 10 Sep। झील Xinhua 5 Sep खाली। नया UNOSAT/Copernicus EMS नहीं। GNSS नहीं।"}
+      "title": {"zh": "10月7日00:07 UTC再核：分项伤亡未更新", "en": "7 Oct 00:07 UTC recheck: split casualties unchanged", "ne": "7 Oct 00:07 UTC: हताहतको अङ्क उही", "hi": "7 Oct 00:07 UTC: हताहत अंक वही"},
+      "body": {"zh": "本轮再核新华社、人民日报与@XHNews：中方仍为截至9月5日18时，43死、519失联、救出2人。应急管理部9月17日合计562人死亡失踪、仍在核查，不替代分项。尼方仍用10月5日国家减灾理事会所引NDRRMA：1455死、5285失踪、13795获救。@XHNews相关帖最新仍为9月10日气象支持。堰塞湖仍为新华社9月5日已排空。Copernicus EMSR927与UNOSAT仍为8月27日影像，无新激活。无新队伍坐标。", "en": "Recheck of Xinhua, People's Daily and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead and missing, still under verification, does not replace the split. NP stays the 5 Oct national council citing NDRRMA: 1455 dead, 5285 missing, 13795 rescued. Latest related @XHNews post is still 10 Sep on climate support. Barrier lake remains Xinhua 5 Sep drained. Copernicus EMSR927 and UNOSAT remain 27 Aug imagery; no new activation. No new team coordinates.", "ne": "Xinhua/People's Daily/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MEM 17 Sep जोड 562, जाच बाँकी। NP 5 Oct NDRRMA: 1455/5285/13795। @XHNews पछिल्लो पोस्ट 10 Sep। ताल Xinhua 5 Sep खाली। Copernicus EMSR927/UNOSAT 27 Aug, नयाँ सक्रियता छैन। GNSS छैन।", "hi": "Xinhua/People's Daily/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MEM 17 Sep जोड़ 562, सत्यापन बाकी। NP 5 Oct NDRRMA: 1455/5285/13795। @XHNews आखिरी पोस्ट 10 Sep। झील Xinhua 5 Sep खाली। Copernicus EMSR927/UNOSAT 27 Aug, नई सक्रियता नहीं। GNSS नहीं।"}
     },
     {
       "id": "np-council-1005",
@@ -92,6 +92,18 @@
       "geo": "unknown",
       "title": {"zh": "应急管理部9月17日：562人死亡失踪仍在核查", "en": "MEM 17 Sep: 562 dead and missing, still verifying", "ne": "MEM 17 Sep: 562 मृत्यु/सम्पर्क विहीन, जाच बाँकी", "hi": "MEM 17 Sep: 562 मृत/लापता, सत्यापन बाकी"},
       "body": {"zh": "应急管理部：吉隆口岸562人死亡失踪，灾情正在进一步核查。此为合计口径，不替代9月5日18时分项。", "en": "MEM: 562 dead and missing at Gyirong Port, still under further verification. This is a combined figure and does not replace the 5 Sep 18:00 split.", "ne": "MEM: Gyirong Port 562 मृत्यु/सम्पर्क विहीन, जाच बाँकी। यो जोड अङ्क हो, 5 Sep अङ्क बदल्दैन।", "hi": "MEM: Gyirong Port 562 मृत/लापता, सत्यापन बाकी। यह जोड़ अंक है, 5 Sep अंक नहीं बदलता।"}
+    },
+    {
+      "id": "copernicus-0827",
+      "src": "official",
+      "t": "2026-08-27T12:00:00Z",
+      "link": "https://ihp-wins.unesco.org/dataset/?theme=http%3A%2F%2Finspire.ec.europa.eu%2Ftheme%2Fnz",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Timure",
+      "title": {"zh": "Copernicus EMSR927：8月27日Timure/Syapru Besi损毁分级", "en": "Copernicus EMSR927: 27 Aug Timure/Syapru Besi grading", "ne": "Copernicus EMSR927: 27 Aug Timure/Syapru Besi क्षति", "hi": "Copernicus EMSR927: 27 Aug Timure/Syapru Besi क्षति"},
+      "body": {"zh": "DG ECHO于8月26日请求激活。8月27日影像分级：Timure与Syapru Besi大部建筑损毁，Rasuwagadhi水电站大坝与Langtang Khola厂房标为损毁。本轮无新激活。", "en": "DG ECHO requested activation on 26 Aug. Grading from 27 Aug imagery: most buildings at Timure and Syapru Besi destroyed; Rasuwagadhi hydropower dam and Langtang Khola powerhouse graded destroyed. No new activation this cycle.", "ne": "DG ECHO 26 Aug सक्रियता। 27 Aug: Timure/Syapru Besi धेरै भवन ध्वस्त; Rasuwagadhi बाँध र Langtang Khola प्लान्ट ध्वस्त। नयाँ सक्रियता छैन।", "hi": "DG ECHO 26 Aug सक्रियता। 27 Aug: Timure/Syapru Besi अधिकतर भवन नष्ट; Rasuwagadhi बाँध और Langtang Khola प्लांट नष्ट। नई सक्रियता नहीं।"}
     }
   ],
   "roads": [
@@ -168,17 +180,27 @@
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
       "geo": "unknown",
-      "text": {"zh": "新华社：国家气候中心向尼泊尔提供滚动气候监测与预报，支持吉隆—拉苏瓦口岸泥石流救援。无新伤亡数字。", "en": "Xinhua: China's National Climate Center is providing Nepal rolling climate monitoring and forecasts to support rescue after the Gyirong-Rasuwa mudslide. No new casualty count.", "ne": "Xinhua: चीनको जलवायु केन्द्रले नेपाललाई पूर्वानुमान दिँदैछ। नयाँ हताहत अङ्क छैन।", "hi": "Xinhua: चीन का जलवायु केंद्र नेपाल को पूर्वानुमान दे रहा है। नया हताहत अंक नहीं।"}
+      "text": {"zh": "@XHNews 9月10日：国家气候中心向尼方提供滚动气候监测预报，支持吉隆—Rasuwa口岸泥石流救援。无新伤亡数字。", "en": "@XHNews 10 Sep: National Climate Center is providing rolling climate products to Nepal for Gyirong-Rasuwa mudslide relief. No new casualty figures.", "ne": "@XHNews 10 Sep: जलवायु केन्द्रले नेपाललाई निगरानी दिइरहेको। नयाँ हताहत अङ्क छैन।", "hi": "@XHNews 10 Sep: जलवायु केंद्र नेपाल को निगरानी दे रहा है। नया हताहत अंक नहीं।"}
     },
     {
-      "id": "x-xh-0909",
+      "id": "x-xh-0905",
       "user": "@XHNews",
-      "t": "2026-09-09T09:10:51Z",
-      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "text": {"zh": "新华社：8月26日尼泊尔高位冰川崩塌引发链式泥石流冲击吉隆口岸，伤亡重大、多人失联，中方已全力搜救。帖文未给更新分项数字。", "en": "Xinhua: a chain mudslide from a high-altitude glacier collapse in Nepal struck Gyirong Port on 26 Aug, with heavy casualties and many missing; Chinese rescuers launched all-out search. The post gives no updated split count.", "ne": "Xinhua: 26 Aug हिमनदी खसेर ग्यिरोङ पोर्टमा मडस्लाइड। अद्यावधिक अङ्क छैन।", "hi": "Xinhua: 26 Aug ग्लेशियर गिरकर ग्यिरोंग पोर्ट पर मडस्लाइड। अद्यतन अंक नहीं।"}
+      "text": {"zh": "@XHNews 9月5日：边检民警肖富贵在口岸附近拍摄灾后无人机画面。非伤亡通报。", "en": "@XHNews 5 Sep: immigration officer Xiao Fugui filmed drone footage near Gyirong Port after the mudslide. Not a casualty bulletin.", "ne": "@XHNews 5 Sep: पोर्ट नजिक ड्रोन फुटेज। हताहत बुलेटिन होइन।", "hi": "@XHNews 5 Sep: पोर्ट के पास ड्रोन फुटेज। हताहत बुलेटिन नहीं।"}
+    },
+    {
+      "id": "x-xh-0902",
+      "user": "@XHNews",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {"zh": "@XHNews 9月2日10时：G216抢修后通往吉隆口岸核心区的陆路通道基本打通。不等于口岸重开。", "en": "@XHNews 2 Sep 10:00: road access to the Gyirong Port core basically restored after G216 repairs. Not a port reopening.", "ne": "@XHNews 2 Sep 10:00: G216 पछि कोर बाटो मूलतः खुल्यो। पोर्ट खुलेको होइन।", "hi": "@XHNews 2 Sep 10:00: G216 के बाद कोर रास्ता मूलतः खुला। पोर्ट नहीं खुला।"}
     }
   ]
 }
