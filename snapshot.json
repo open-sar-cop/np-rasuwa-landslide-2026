@@ -1,19 +1,19 @@
 {
-  "snap": "2026-10-06T21:09:00Z",
+  "snap": "2026-10-06T22:10:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1006-2109",
+      "id": "poll-1006-2210",
       "src": "official",
-      "t": "2026-10-06T21:09:00Z",
-      "link": "https://thenepalweekly.com/govt-wraps-up-search-and-rescue-following-rasuwa-floods-to-focus-on-rehab-reconstruction/",
+      "t": "2026-10-06T22:10:00Z",
+      "link": "https://m.economictimes.com/news/international/world-news/nepal-wraps-up-rasuwa-flood-search-shifts-focus-to-rehabilitation-reconstruction/articleshow/134705852.cms",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月6日21:09 UTC再核：分项伤亡未更新", "en": "6 Oct 21:09 UTC recheck: split casualties unchanged", "ne": "6 Oct 21:09 UTC: हताहतको अङ्क उही", "hi": "6 Oct 21:09 UTC: हताहत अंक वही"},
-      "body": {"zh": "本轮再核新华社、gov.cn与@XHNews：中方仍为截至9月5日18时，43死、519失联、救出2人。应急管理部9月17日合计562人死亡失踪、仍在核查，不替代分项。尼方KPI仍用PTI及The Nepal Weekly引NDRRMA（10月5日理事会）：1455死、5285失踪、13795获救。@XHNews相关帖最新仍为9月5日无人机画面，无新伤亡数。堰塞湖仍为新华社9月5日已排空。交通厅路网仍为9月28日，G216双向管制。美使馆道路告示仍为9月3日。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。", "en": "Recheck of Xinhua, gov.cn and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead and missing, still under verification, does not replace the split. NP KPI stays PTI and The Nepal Weekly citing NDRRMA (5 Oct council): 1455 dead, 5285 missing, 13795 rescued. Latest related @XHNews post is still 5 Sep drone footage, with no new casualty count. Barrier lake remains Xinhua 5 Sep drained. Transport page remains 28 Sep with two-way control on G216. US Embassy road notice remains 3 Sep. No new UNOSAT/Copernicus EMS activation. No new team coordinates.", "ne": "Xinhua/gov.cn/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MEM 17 Sep जोड 562, जाँच बाँकी। NP KPI PTI/Nepal Weekly/NDRRMA 5 Oct: 1455/5285/13795। @XHNews पछिल्लो पोस्ट 5 Sep। ताल Xinhua 5 Sep खाली। G216 28 Sep नियन्त्रण। US Embassy 3 Sep। नयाँ UNOSAT/Copernicus EMS छैन। GNSS छैन।", "hi": "Xinhua/gov.cn/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MEM 17 Sep जोड़ 562, सत्यापन बाकी। NP KPI PTI/Nepal Weekly/NDRRMA 5 Oct: 1455/5285/13795। @XHNews आखिरी पोस्ट 5 Sep। झील Xinhua 5 Sep खाली। G216 28 Sep नियंत्रण। US Embassy 3 Sep। नया UNOSAT/Copernicus EMS नहीं। GNSS नहीं।"}
+      "title": {"zh": "10月6日22:10 UTC再核：分项伤亡未更新", "en": "6 Oct 22:10 UTC recheck: split casualties unchanged", "ne": "6 Oct 22:10 UTC: हताहतको अङ्क उही", "hi": "6 Oct 22:10 UTC: हताहत अंक वही"},
+      "body": {"zh": "本轮再核新华社、gov.cn、人民日报与@XHNews/@CCTV_Plus：中方仍为截至9月5日18时，43死、519失联、救出2人。应急管理部9月17日合计562人死亡失踪、仍在核查，不替代分项。尼方KPI仍用PTI、The Economic Times与The Nepal Weekly引NDRRMA（10月5日理事会）：1455死、5285失踪、13795获救。@XHNews相关帖最新仍为9月10日气象支持，无新伤亡数。堰塞湖仍为新华社9月5日已排空。交通厅路网仍为9月28日，G216双向管制。美使馆道路告示仍为9月3日。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。", "en": "Recheck of Xinhua, gov.cn, People's Daily and @XHNews/@CCTV_Plus: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead and missing, still under verification, does not replace the split. NP KPI stays PTI, The Economic Times and The Nepal Weekly citing NDRRMA (5 Oct council): 1455 dead, 5285 missing, 13795 rescued. Latest related @XHNews post is still 10 Sep on climate support, with no new casualty count. Barrier lake remains Xinhua 5 Sep drained. Transport page remains 28 Sep with two-way control on G216. US Embassy road notice remains 3 Sep. No new UNOSAT/Copernicus EMS activation. No new team coordinates.", "ne": "Xinhua/gov.cn/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MEM 17 Sep जोड 562, जाँच बाँकी। NP KPI PTI/Economic Times/Nepal Weekly/NDRRMA 5 Oct: 1455/5285/13795। @XHNews पछिल्लो पोस्ट 10 Sep। ताल Xinhua 5 Sep खाली। G216 28 Sep नियन्त्रण। US Embassy 3 Sep। नयाँ UNOSAT/Copernicus EMS छैन। GNSS छैन।", "hi": "Xinhua/gov.cn/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MEM 17 Sep जोड़ 562, सत्यापन बाकी। NP KPI PTI/Economic Times/Nepal Weekly/NDRRMA 5 Oct: 1455/5285/13795। @XHNews आखिरी पोस्ट 10 Sep। झील Xinhua 5 Sep खाली। G216 28 Sep नियंत्रण। US Embassy 3 Sep। नया UNOSAT/Copernicus EMS नहीं। GNSS नहीं।"}
     },
     {
       "id": "g216-jtt-0928",
@@ -153,50 +153,57 @@
       "detail": {"zh": "9月5日指挥部：核心区搜寻与预防性消杀已全覆盖。救出2人。", "en": "5 Sep command: core-area search and preventive disinfection fully covered. 2 rescued.", "ne": "5 Sep कमान्ड: कोर खोज र निसंक्रमण कभर। 2 उद्धार।", "hi": "5 Sep कमांड: कोर खोज और निसंक्रमण कवर। 2 उद्धार।"}
     },
     {
-      "id": "gyirong-town",
-      "kind": "shelter",
-      "status": "watch",
-      "lat": 28.39,
-      "lng": 85.325,
-      "name": {"zh": "吉隆镇安置点", "en": "Gyirong town shelter", "ne": "ग्यिरोङ टाउन आश्रय", "hi": "ग्यिरोंग टाउन आश्रय"},
-      "detail": {"zh": "新华社9月9日：堰塞湖险情基本解除后，转移的444名村民已返家。本轮无新安置数。", "en": "Xinhua 9 Sep: after the lake hazard was largely removed, 444 relocated villagers had returned home. No newer shelter count.", "ne": "Xinhua 9 Sep: 444 स्थानान्तरित घर फर्के। नयाँ आश्रय अङ्क छैन।", "hi": "Xinhua 9 Sep: 444 स्थानांतरित घर लौटे। नया आश्रय अंक नहीं।"}
+      "id": "gate-site",
+      "kind": "impact",
+      "status": "closed",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "name": {"zh": "吉隆口岸", "en": "Gyirong Port", "ne": "ग्यिरोङ पोर्ट", "hi": "ग्यिरोंग पोर्ट"},
+      "detail": {"zh": "约0.7平方公里、27处建筑被毁。通关未恢复。", "en": "About 0.7 sq km and 27 buildings destroyed. Clearance not restored.", "ne": "करिब 0.7 वर्ग किमी र 27 भवन ध्वस्त। क्लियरेन्स खुलेको छैन।", "hi": "लगभग 0.7 वर्ग किमी और 27 भवन ध्वस्त। क्लियरेंस नहीं।"}
+    },
+    {
+      "id": "timure",
+      "kind": "impact",
+      "status": "closed",
+      "lat": 28.248,
+      "lng": 85.356,
+      "name": {"zh": "Timure", "en": "Timure", "ne": "Timure", "hi": "Timure"},
+      "detail": {"zh": "美使馆9月3日：Rasuwagadhi-Timure正常通行未恢复。无新告示。", "en": "US Embassy 3 Sep: Rasuwagadhi-Timure normal access not restored. No newer notice.", "ne": "US Embassy 3 Sep: साधारण बाटो छैन। नयाँ नोटिस छैन।", "hi": "US Embassy 3 Sep: सामान्य रास्ता नहीं। नया नोटिस नहीं।"}
     }
   ],
   "hydro": {
     "lat": 28.293,
     "lng": 85.392,
-    "status": {"zh": "新华社9月5日：堰塞湖已排空，河道过流，险情基本解除。本轮无新通报。", "en": "Xinhua 5 Sep: barrier lake drained, channel flowing, hazard largely eliminated. No newer bulletin.", "ne": "Xinhua 5 Sep: ताल खाली, नदी बगिरहेको, जोखिम घट्यो। नयाँ बुलेटिन छैन।", "hi": "Xinhua 5 Sep: झील खाली, नदी बह रही, खतरा टल गया। नया बुलेटिन नहीं।"}
+    "status": {"zh": "新华社9月5日：口岸上方堰塞湖已排空，河道恢复过流，险情基本解除。本轮无新通报。", "en": "Xinhua 5 Sep: barrier lake above the port drained, channel flowing, hazard largely eliminated. No newer bulletin.", "ne": "Xinhua 5 Sep: ताल खाली, नदी बगेको, जोखिम घट्यो। नयाँ बुलेटिन छैन।", "hi": "Xinhua 5 Sep: झील खाली, नदी बह रही, खतरा टल गया। नया बुलेटिन नहीं।"}
   },
   "xPosts": [
     {
-      "id": "x2096160167708778634",
+      "id": "x-xh-0910",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月5日：移民警察肖福贵灾后不久在吉隆口岸附近拍摄无人机画面。未报新伤亡。", "en": "@XHNews 5 Sep: immigration officer Xiao Fugui filmed drone footage near Gyirong Port shortly after the mudslide. No new casualty count.", "ne": "@XHNews 5 Sep: Gyirong Port नजिक ड्रोन दृश्य। नयाँ हताहत अङ्क छैन।", "hi": "@XHNews 5 Sep: Gyirong Port के पास ड्रोन दृश्य। नया हताहत अंक नहीं।"}
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "geo": "unknown",
+      "text": {"zh": "@XHNews 9月10日：国家气候中心向尼泊尔提供滚动气候监测与预报，支持吉隆—Rasuwa口岸泥石流后救援。无新伤亡数。", "en": "@XHNews 10 Sep: National Climate Center is giving Nepal rolling climate monitoring and forecasts to support relief after the Gyirong-Rasuwa mudslide. No new casualty count.", "ne": "@XHNews 10 Sep: जलवायु केन्द्रले नेपाललाई जलवायु अनुगमन दिइरहेछ। नयाँ हताहत अङ्क छैन।", "hi": "@XHNews 10 Sep: जलवायु केंद्र नेपाल को जलवायु निगरानी दे रहा है। नया हताहत अंक नहीं।"}
     },
     {
-      "id": "x2095799206615347459",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月4日：救援人员清除无路、急流、不稳定边坡和巨石，抢通口岸核心区道路。未报新伤亡。", "en": "@XHNews 4 Sep: rescuers cleared no-road, fast water, unstable slopes and boulders to reopen the route to the port core. No new casualty count.", "ne": "@XHNews 4 Sep: कोर क्षेत्र बाटो खोल्ने काम। नयाँ हताहत अङ्क छैन।", "hi": "@XHNews 4 Sep: कोर क्षेत्र मार्ग खोलने का काम। नया हताहत अंक नहीं।"}
+      "id": "x-cctv-0910",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "Gyirong town",
+      "text": {"zh": "@CCTV_Plus 9月10日：灾后留在吉隆镇的尼泊尔工人继续工作，希望灾区尽快恢复。无伤亡更新。", "en": "@CCTV_Plus 10 Sep: Nepali workers who stayed in Gyirong Town are continuing work and hope the area recovers. No casualty update.", "ne": "@CCTV_Plus 10 Sep: ग्यिरोङ टाउनमा बसेका नेपाली कार्यकर्ता काम गरिरहेका छन्। हताहत अपडेट छैन।", "hi": "@CCTV_Plus 10 Sep: ग्यिरोंग टाउन में रुके नेपाली कार्यकर्ता काम जारी रखे हैं। हताहत अपडेट नहीं।"}
     },
     {
-      "id": "x2095483707511734465",
+      "id": "x-xh-0909",
       "user": "@XHNews",
-      "t": "2026-09-03T12:07:02Z",
-      "link": "https://x.com/XHNews/status/2095483707511734465",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月3日：口岸旁山体“中国我爱你”字样仍隐约可见，救援仍在进行。未报新伤亡。", "en": "@XHNews 3 Sep: the hillside characters beside the port remain faintly visible; rescue continues. No new casualty count.", "ne": "@XHNews 3 Sep: पोर्ट छेउ अक्षर अझै देखिन्छ। नयाँ हताहत अङ्क छैन।", "hi": "@XHNews 3 Sep: पोर्ट के पास अक्षर अभी दिखते हैं। नया हताहत अंक नहीं।"}
+      "text": {"zh": "@XHNews 9月9日：8月26日尼泊尔侧高位冰岩崩引发泥石流冲击吉隆口岸，造成重大伤亡失联，中方全力搜救。未给新分项数字。", "en": "@XHNews 9 Sep: the 26 Aug glacier-collapse mudslide from Nepal hit Gyirong Port, causing heavy casualties and missing persons; China launched all-out search. No new split figures.", "ne": "@XHNews 9 Sep: 26 Aug हिमस्खलन पछि लेखो ग्यिरोङ पोर्टमा पहिल्यो। नयाँ अङ्क छैन।", "hi": "@XHNews 9 Sep: 26 Aug ग्लेशियर टूटने ग्यिरोंग पोर्ट पर चोट की। नया अंक नहीं।"}
     }
   ]
 }
