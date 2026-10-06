@@ -1,18 +1,18 @@
 {
-  "snap": "2026-10-06T17:07:00Z",
+  "snap": "2026-10-06T18:07:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1006-1707",
+      "id": "poll-1006-1807",
       "src": "official",
-      "t": "2026-10-06T17:07:00Z",
+      "t": "2026-10-06T18:07:00Z",
       "link": "https://www.dailyexcelsior.com/nepal-wraps-up-rasuwa-flood-search-shifts-focus-to-rehabilitation-reconstruction/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月6日17:07 UTC再核：分项伤亡未更新", "en": "6 Oct 17:07 UTC recheck: split casualties unchanged", "ne": "6 Oct 17:07 UTC: casualty split same", "hi": "6 Oct 17:07 UTC: casualty split same"},
+      "title": {"zh": "10月6日18:07 UTC再核：分项伤亡未更新", "en": "6 Oct 18:07 UTC recheck: split casualties unchanged", "ne": "6 Oct 18:07 UTC: casualty split same", "hi": "6 Oct 18:07 UTC: casualty split same"},
       "body": {"zh": "本轮再核新华社、gov.cn与@XHNews：中方仍为截至9月5日18时，43死、519失联、救出2人。应急管理部9月17日合计562人死亡失踪、仍在核查，不替代分项。尼方KPI仍用PTI引10月5日NDRRMA：1455死、5285失踪、13795获救。@XHNews最新相关帖仍为9月10日气候支持，无新伤亡数。堰塞湖仍为新华社9月5日已排空。交通厅路网仍为9月28日，G216双向管制。美使馆道路告示仍为9月3日。无新UNOSAT/Copernicus EMS激活。无新队伍坐标。", "en": "Recheck of Xinhua, gov.cn and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead and missing, still under verification, does not replace the split. NP KPI stays the PTI-cited NDRRMA figures of 5 Oct: 1455 dead, 5285 missing, 13795 rescued. Latest related @XHNews post is still 10 Sep on climate support, with no new casualty count. Barrier lake remains Xinhua 5 Sep drained. Transport page remains 28 Sep with two-way control on G216. US Embassy road notice remains 3 Sep. No new UNOSAT/Copernicus EMS activation. No new team coordinates.", "ne": "Xinhua/gov.cn/@XHNews: CN 5 Sep 18:00 43/519/2. MEM 17 Sep 562 jod, verify baki. NP KPI PTI/NDRRMA 5 Oct: 1455/5285/13795. @XHNews pachillo post 10 Sep, naya casualty chaina. Tal Xinhua 5 Sep khali. G216 page 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS chaina. GNSS chaina.", "hi": "Xinhua/gov.cn/@XHNews: CN 5 Sep 18:00 43/519/2. MEM 17 Sep 562 jod, verification baaki. NP KPI PTI/NDRRMA 5 Oct: 1455/5285/13795. @XHNews aakhri post 10 Sep, naya casualty nahi. Jheel Xinhua 5 Sep khali. G216 page 28 Sep niyantran. US Embassy 3 Sep. Naya UNOSAT/Copernicus EMS nahi. GNSS nahi."}
     },
     {
@@ -203,27 +203,7 @@
       "lat": 28.39,
       "lng": 85.325,
       "geo": "Gyirong town",
-      "text": {"zh": "@CCTV_Plus 9月10日：部分尼泊尔务工人员灾后仍留在吉隆镇工作，希望灾区尽快恢复。未给伤亡数字。", "en": "@CCTV_Plus 10 Sep: some Nepali workers who stayed in Gyirong Town after the mudslide are back at work and hope the area recovers. No casualty figures.", "ne": "@CCTV_Plus 10 Sep: kehi Nepali karmi Gyirong Town ma kaam ma. Casualty ank chaina.", "hi": "@CCTV_Plus 10 Sep: kuchh Nepali karmchari Gyirong Town mein kaam par. Casualty ank nahi."}
-    },
-    {
-      "id": "x-cctv-0909",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-09T03:43:07Z",
-      "link": "https://x.com/CCTV_Plus/status/2097531220129353832",
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "Gyirong town",
-      "text": {"zh": "@CCTV_Plus 9月9日：志愿者在吉隆县向受灾居民和滞留尼泊尔公民发放免费餐食。未给伤亡数字。", "en": "@CCTV_Plus 9 Sep: volunteers in Gyirong County are handing out free meals to affected residents and stranded Nepali citizens. No casualty figures.", "ne": "@CCTV_Plus 9 Sep: volunteer le Gyirong ma bhojan baadirahe. Casualty ank chaina.", "hi": "@CCTV_Plus 9 Sep: volunteer Gyirong mein muft bhojan de rahe hain. Casualty ank nahi."}
-    },
-    {
-      "id": "x-xhnews-0908",
-      "user": "@XHNews",
-      "t": "2026-09-08T04:59:52Z",
-      "link": "https://x.com/XHNews/status/2097188145544798711",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月8日：再述吉隆口岸8·26泥石流与中方搜救进展，未给新分项伤亡。", "en": "@XHNews 8 Sep: recap of the 26 Aug Gyirong Port mudslide and Chinese search progress. No new split casualty figures.", "ne": "@XHNews 8 Sep: Gyirong Port mudslide recap. Naya split ank chaina.", "hi": "@XHNews 8 Sep: Gyirong Port mudslide recap. Naya split ank nahi."}
+      "text": {"zh": "@CCTV_Plus 9月10日：灾后留在吉隆镇的尼泊尔工人继续工作，希望灾区尽快恢复。未给新伤亡数。", "en": "@CCTV_Plus 10 Sep: Nepali workers who stayed in Gyirong Town continue work and hope the area recovers. No new casualty count.", "ne": "@CCTV_Plus 10 Sep: Gyirong Town ma Nepali karmi kaam garira. Naya casualty chaina.", "hi": "@CCTV_Plus 10 Sep: Gyirong Town mein Nepali karmchari kaam jaari. Naya casualty nahi."}
     }
   ]
 }
