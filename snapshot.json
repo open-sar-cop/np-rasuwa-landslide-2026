@@ -1,18 +1,18 @@
 {
-  "snap": "2026-10-07T03:14:00Z",
+  "snap": "2026-10-06T13:16:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1007-0314",
+      "id": "poll-1006-1316",
       "src": "official",
-      "t": "2026-10-07T03:14:00Z",
+      "t": "2026-10-06T13:16:00Z",
       "link": "https://thenepalweekly.com/govt-wraps-up-search-and-rescue-following-rasuwa-floods-to-focus-on-rehab-reconstruction/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月7日03:14 UTC再核：分项伤亡未更新", "en": "7 Oct 03:14 UTC recheck: split casualties unchanged", "ne": "7 Oct 03:14 UTC: हताहत अङ्क उही", "hi": "7 Oct 03:14 UTC: हताहत अंक वही"},
+      "title": {"zh": "10月6日13:16 UTC再核：分项伤亡未更新", "en": "6 Oct 13:16 UTC recheck: split casualties unchanged", "ne": "6 Oct 13:16 UTC: हताहत अङ्क उही", "hi": "6 Oct 13:16 UTC: हताहत अंक वही"},
       "body": {"zh": "本轮再核新华社、人民网与@XHNews/@CCTV_Plus：中方仍为指挥部截至9月5日18时，43死、519失联、救出2人。应急管理部9月17日合计562人死亡失踪、仍在核查，不替代分项。尼方仍用10月5日国家减灾理事会所引NDRRMA，10月6日The Nepal Weekly与PTI复述：1455死、5285失踪、13795获救；大规模搜救已结束。口岸与G216未见重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, People's Daily and @XHNews/@CCTV_Plus: CN remains the command figure as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead and missing, still under verification, does not replace the split. NP stays the 5 Oct national council citing NDRRMA, repeated 6 Oct by The Nepal Weekly and PTI: 1455 dead, 5285 missing, 13795 rescued; mass SAR ended. No reopening of the port or G216. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/People's Daily/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MEM 17 Sep जोड 562, जाँच बाँकी। NP 5 Oct NDRRMA, 6 Oct Nepal Weekly/PTI: 1455/5285/13795; ठूलो खोज रोकियो। पोर्ट/G216 खुलेन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua/People's Daily/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MEM 17 Sep जोड़ 562, सत्यापन बाकी। NP 5 Oct NDRRMA, 6 Oct Nepal Weekly/PTI: 1455/5285/13795; बड़ा खोज रुका। पोर्ट/G216 नहीं खुले। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
     },
     {
@@ -127,7 +127,7 @@
       "lat": 28.282,
       "lng": 85.374,
       "name": {"zh": "中方核心区搜救", "en": "CN core-area search", "ne": "चीन कोर क्षेत्र खोज", "hi": "चीन कोर क्षेत्र खोज"},
-      "detail": {"zh": "截至9月5日18时：核心区搜寻与消杀已覆盖。无新现场坐标。", "en": "As of 5 Sep 18:00: core search and disinfection covered. No new live GNSS.", "ne": "5 Sep 18:00: कोर खोज कभर। नयाँ GNSS छैन।", "hi": "5 Sep 18:00: कोर खोज कवर। नया GNSS नहीं।"}
+      "detail": {"zh": "截至9月5日18时：核心区搜寻与消杀已覆盖।无新现场坐标。", "en": "As of 5 Sep 18:00: core search and disinfection covered. No new live GNSS.", "ne": "5 Sep 18:00: कोर खोज कभर। नयाँ GNSS छैन।", "hi": "5 Sep 18:00: कोर खोज कवर। नया GNSS नहीं।"}
     },
     {
       "id": "np-sar",
