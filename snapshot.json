@@ -1,29 +1,79 @@
 {
-  "snap": "2026-10-07T00:07:00Z",
+  "snap": "2026-10-06T11:12:00Z",
   "kpi": {
-    "cn": {"dead": 43, "missing": 519, "rescued": 2},
-    "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
+    "cn": {
+      "dead": 43,
+      "missing": 519,
+      "rescued": 2
+    },
+    "np": {
+      "dead": 1455,
+      "missing": 5285,
+      "rescued": 13795
+    }
   },
   "published": [
     {
-      "id": "poll-1007-0007",
+      "id": "poll-1006-1112",
       "src": "official",
-      "t": "2026-10-07T00:07:00Z",
-      "link": "https://thenepalweekly.com/govt-wraps-up-search-and-rescue-following-rasuwa-floods-to-focus-on-rehab-reconstruction/",
+      "t": "2026-10-06T11:12:00Z",
+      "link": "https://english.onlinekhabar.com/rasuwa-highway-stays-shut.html",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月7日00:07 UTC再核：分项伤亡未更新", "en": "7 Oct 00:07 UTC recheck: split casualties unchanged", "ne": "7 Oct 00:07 UTC: हताहतको अङ्क उही", "hi": "7 Oct 00:07 UTC: हताहत अंक वही"},
-      "body": {"zh": "本轮再核新华社、人民日报与@XHNews：中方仍为截至9月5日18时，43死、519失联、救出2人。应急管理部9月17日合计562人死亡失踪、仍在核查，不替代分项。尼方仍用10月5日国家减灾理事会所引NDRRMA：1455死、5285失踪、13795获救。@XHNews相关帖最新仍为9月10日气象支持。堰塞湖仍为新华社9月5日已排空。Copernicus EMSR927与UNOSAT仍为8月27日影像，无新激活。无新队伍坐标。", "en": "Recheck of Xinhua, People's Daily and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead and missing, still under verification, does not replace the split. NP stays the 5 Oct national council citing NDRRMA: 1455 dead, 5285 missing, 13795 rescued. Latest related @XHNews post is still 10 Sep on climate support. Barrier lake remains Xinhua 5 Sep drained. Copernicus EMSR927 and UNOSAT remain 27 Aug imagery; no new activation. No new team coordinates.", "ne": "Xinhua/People's Daily/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MEM 17 Sep जोड 562, जाच बाँकी। NP 5 Oct NDRRMA: 1455/5285/13795। @XHNews पछिल्लो पोस्ट 10 Sep। ताल Xinhua 5 Sep खाली। Copernicus EMSR927/UNOSAT 27 Aug, नयाँ सक्रियता छैन। GNSS छैन।", "hi": "Xinhua/People's Daily/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MEM 17 Sep जोड़ 562, सत्यापन बाकी। NP 5 Oct NDRRMA: 1455/5285/13795। @XHNews आखिरी पोस्ट 10 Sep। झील Xinhua 5 Sep खाली। Copernicus EMSR927/UNOSAT 27 Aug, नई सक्रियता नहीं। GNSS नहीं।"}
+      "title": {
+        "zh": "10月6日11:12 UTC再核：分项伤亡未更新",
+        "en": "6 Oct 11:12 UTC recheck: split casualties unchanged",
+        "ne": "6 Oct 11:12 UTC: हताहतको अङ्क उही",
+        "hi": "6 Oct 11:12 UTC: हताहत अंक वही"
+      },
+      "body": {
+        "zh": "本轮再核新华社、人民日报与@XHNews：中方仍为截至9月5日18时，43死、519失联、救出2人。应急管理部9月17日合计562人死亡失踪、仍在核查，不替代分项。尼方仍用10月5日国家减灾理事会所引NDRRMA：1455死、5285失踪、13795获救。Onlinekhabar引警方：10月6日Rasuwa主干公路仍完全封闭。@XHNews相关帖最新仍为9月10日气象支持。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。",
+        "en": "Recheck of Xinhua, People's Daily and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead and missing, still under verification, does not replace the split. NP stays the 5 Oct national council citing NDRRMA: 1455 dead, 5285 missing, 13795 rescued. Onlinekhabar citing police: Rasuwa main highway still fully blocked on 6 Oct. Latest related @XHNews post is still 10 Sep on climate support. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.",
+        "ne": "Xinhua/People's Daily/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MEM 17 Sep जोड 562, जाच बाँकी। NP 5 Oct NDRRMA: 1455/5285/13795। Onlinekhabar/प्रहरी: 6 Oct Rasuwa मुख्य सडक पूर्ण बन्द। @XHNews पछिल्लो 10 Sep। ताल Xinhua 5 Sep खाली। GNSS छैन।",
+        "hi": "Xinhua/People's Daily/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MEM 17 Sep जोड़ 562, सत्यापन बाकी। NP 5 Oct NDRRMA: 1455/5285/13795। Onlinekhabar/पुलिस: 6 Oct Rasuwa मुख्य सड़क पूरी बंद। @XHNews आखिरी 10 Sep। झील Xinhua 5 Sep खाली। GNSS नहीं।"
+      }
+    },
+    {
+      "id": "np-road-1006",
+      "src": "official",
+      "t": "2026-10-06T07:41:00Z",
+      "link": "https://english.onlinekhabar.com/rasuwa-highway-stays-shut.html",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Timure",
+      "title": {
+        "zh": "警方10月6日：Rasuwa主干公路仍全封闭",
+        "en": "Police 6 Oct: Rasuwa main highway still fully blocked",
+        "ne": "प्रहरी 6 Oct: Rasuwa मुख्य सडक पूर्ण बन्द",
+        "hi": "पुलिस 6 Oct: Rasuwa मुख्य सड़क पूरी बंद"
+      },
+      "body": {
+        "zh": "Onlinekhabar引警方：Rasuwa主干公路仍完全封闭，洪灾后未恢复。无重开时间。未给出新伤亡。",
+        "en": "Onlinekhabar citing police: Rasuwa main highway remains completely blocked and has not reopened since the flood. No reopen time. No new casualties.",
+        "ne": "Onlinekhabar/प्रहरी: Rasuwa मुख्य सडक पूर्ण बन्द, बाढीपछि खुलेको छैन। नयाँ हताहत छैन।",
+        "hi": "Onlinekhabar/पुलिस: Rasuwa मुख्य सड़क पूरी बंद, बाढ़ के बाद नहीं खुली। नया हताहत नहीं।"
+      }
     },
     {
       "id": "np-council-1005",
       "src": "official",
-      "t": "2026-10-05T08:00:00Z",
-      "link": "https://thenepalweekly.com/govt-wraps-up-search-and-rescue-following-rasuwa-floods-to-focus-on-rehab-reconstruction/",
+      "t": "2026-10-05T12:14:00Z",
+      "link": "https://m.economictimes.com/news/international/world-news/nepal-wraps-up-rasuwa-flood-search-shifts-focus-to-rehabilitation-reconstruction/articleshow/134705852.cms",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月5日：国家减灾理事会结束大规模搜救", "en": "5 Oct: national council ends mass SAR", "ne": "5 Oct: राष्ट्रिय परिषदले ठूलो खोज रोक्यो", "hi": "5 Oct: राष्ट्रीय परिषद ने बड़ा खोज रोका"},
-      "body": {"zh": "The Nepal Weekly与PTI：总理沙阿主持第21次国家减灾理事会，决定除必要行动外结束40天搜救，转向博特科西—特里舒里重建。所引NDRRMA：1455死、5285失踪、13795获救。无新队伍坐标。", "en": "The Nepal Weekly and PTI: PM Shah chaired the 21st national DRR council and decided to end the 40-day search except essential work, shifting to Bhotekoshi-Trishuli reconstruction. Cited NDRRMA: 1455 dead, 5285 missing, 13795 rescued. No new team coordinates.", "ne": "Nepal Weekly/PTI: PM Shah को 21औं परिषदले 40-दिन खोज रोक्यो, आवश्यक बाहेक। NDRRMA 1455/5285/13795। GNSS छैन।", "hi": "Nepal Weekly/PTI: PM Shah की 21वीं परिषद ने 40-दिन खोज रोका, ज़रूरी छोड़कर। NDRRMA 1455/5285/13795। GNSS नहीं।"}
+      "title": {
+        "zh": "10月5日：国家减灾理事会结束大规模搜救",
+        "en": "5 Oct: national council ends mass SAR",
+        "ne": "5 Oct: राष्ट्रिय परिषदले ठूलो खोज रोक्यो",
+        "hi": "5 Oct: राष्ट्रीय परिषद ने बड़ा खोज रोका"
+      },
+      "body": {
+        "zh": "PTI引总理办公室：总理沙阿主持第21次国家减灾理事会，除必要行动外结束40天搜救，转向博特科西—特里舒里重建。所引NDRRMA：1455死、5285失踪、13795获救。无新队伍坐标。",
+        "en": "PTI citing the PMO: PM Shah chaired the 21st national DRR council and ended the 40-day search except essential work, shifting to Bhotekoshi-Trishuli reconstruction. Cited NDRRMA: 1455 dead, 5285 missing, 13795 rescued. No new team coordinates.",
+        "ne": "PTI/PMO: PM Shah को 21औं परिषदले 40-दिन खोज रोक्यो, आवश्यक बाहेक। NDRRMA 1455/5285/13795। GNSS छैन।",
+        "hi": "PTI/PMO: PM Shah की 21वीं परिषद ने 40-दिन खोज रोका, ज़रूरी छोड़कर। NDRRMA 1455/5285/13795। GNSS नहीं।"
+      }
     },
     {
       "id": "cctv-science-1004",
@@ -32,8 +82,18 @@
       "link": "https://www.hk01.com/instantnews/60396596",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "央视10月4日：中尼科考队从成都启程赴尼", "en": "CCTV 4 Oct: China-Nepal science team left Chengdu", "ne": "CCTV 4 Oct: विज्ञान टोली चेङ्गदुबाट नेपालतर्फ", "hi": "CCTV 4 Oct: विज्ञान टीम चेंगदू से नेपाल के लिए"},
-      "body": {"zh": "央视：喜马拉雅8·26应急跨境科考队50余人10月4日从成都启程赴尼，溯源冰岩崩并服务吉隆口岸重建。文中引应急管理部9月17日口径为562人死亡失踪、仍在核查，不替代9月5日分项。无现场坐标。", "en": "CCTV: 50-plus researchers left Chengdu for Nepal on 4 Oct to trace the ice-rock avalanche and support Gyirong Port reconstruction. The text cites MEM 17 Sep as 562 dead and missing, still being verified, and does not replace the 5 Sep split. No field coordinates.", "ne": "CCTV: 50+ विज्ञानी 4 Oct चेङ्गदुबाट नेपालतर्फ। MEM 17 Sep 562 मृत्यु/सम्पर्क विहीन, जाच बाँकी। 5 Sep अङ्क बदल्दैन। GNSS छैन।", "hi": "CCTV: 50+ विज्ञानी 4 Oct चेंगदू से नेपाल के लिए। MEM 17 Sep 562 मृत/लापता, सत्यापन बाकी। 5 Sep अंक नहीं बदलते। GNSS नहीं।"}
+      "title": {
+        "zh": "央视10月4日：中尼科考队从成都启程赴尼",
+        "en": "CCTV 4 Oct: China-Nepal science team left Chengdu",
+        "ne": "CCTV 4 Oct: विज्ञान टोली चेङ्गदुबाट नेपालतर्फ",
+        "hi": "CCTV 4 Oct: विज्ञान टीम चेंगदू से नेपाल के लिए"
+      },
+      "body": {
+        "zh": "央视：喜马拉雅8·26应急跨境科考队50余人10月4日从成都启程赴尼，溯源冰岩崩并服务吉隆口岸重建。文中引应急管理部9月17日口径为562人死亡失踪、仍在核查，不替代9月5日分项。无现场坐标。",
+        "en": "CCTV: 50-plus researchers left Chengdu for Nepal on 4 Oct to trace the ice-rock avalanche and support Gyirong Port reconstruction. The text cites MEM 17 Sep as 562 dead and missing, still being verified, and does not replace the 5 Sep split. No field coordinates.",
+        "ne": "CCTV: 50+ विज्ञानी 4 Oct चेङ्गदुबाट नेपालतर्फ। MEM 17 Sep 562 मृत्यु/सम्पर्क विहीन, जाच बाँकी। 5 Sep अङ्क बदल्दैन। GNSS छैन।",
+        "hi": "CCTV: 50+ विज्ञानी 4 Oct चेंगदू से नेपाल के लिए। MEM 17 Sep 562 मृत/लापता, सत्यापन बाकी। 5 Sep अंक नहीं बदलते। GNSS नहीं।"
+      }
     },
     {
       "id": "g216-jtt-0928",
@@ -44,8 +104,18 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "title": {"zh": "交通厅9月28日：G216吉隆镇—国门仍双向管制", "en": "Transport dept 28 Sep: G216 town-gate still controlled", "ne": "परिवहन 28 Sep: G216 दुवै तर्फ नियन्त्रण", "hi": "परिवहन 28 Sep: G216 दोनों दिशा नियंत्रण"},
-      "body": {"zh": "西藏自治区交通运输厅路网（9月27日18时至9月28日18时）：G216 K3500+200（吉隆镇）—K3525+850（吉隆国门）自8月26日起双向交通管制，解除时间待定。抢险通道不等于社会车辆放行。本轮无更新路网。", "en": "Xizang transport bulletin covering 27-28 Sep: G216 K3500+200 (Gyirong town) to K3525+850 (gate) remains two-way controlled since 26 Aug; lift time unset. The rescue track is not public reopening. No newer road bulletin this cycle.", "ne": "Xizang transport 27-28 Sep: G216 K3500+200-K3525+850 26 Aug देखि दुवै तर्फ नियन्त्रण। उद्धार बाटो साधारण खुल्ने होइन। यो चक्र नयाँ पृष्ठ छैन।", "hi": "Xizang transport 27-28 Sep: G216 K3500+200-K3525+850 26 Aug से दोनों दिशा नियंत्रण। उद्धार पथ साधारण खुलना नहीं। इस चक्र नया पृष्ठ नहीं।"}
+      "title": {
+        "zh": "交通厅9月28日：G216吉隆镇—国门仍双向管制",
+        "en": "Transport dept 28 Sep: G216 town-gate still controlled",
+        "ne": "परिवहन 28 Sep: G216 दुवै तर्फ नियन्त्रण",
+        "hi": "परिवहन 28 Sep: G216 दोनों दिशा नियंत्रण"
+      },
+      "body": {
+        "zh": "西藏自治区交通运输厅路网（9月27日18时至9月28日18时）：G216 K3500+200（吉隆镇）—K3525+850（吉隆国门）自8月26日起双向交通管制，解除时间待定。抢险通道不等于社会车辆放行。本轮无更新路网。",
+        "en": "Xizang transport bulletin covering 27-28 Sep: G216 K3500+200 (Gyirong town) to K3525+850 (gate) remains two-way controlled since 26 Aug; lift time unset. The rescue track is not public reopening. No newer road bulletin this cycle.",
+        "ne": "Xizang transport 27-28 Sep: G216 K3500+200-K3525+850 26 Aug देखि दुवै तर्फ नियन्त्रण। उद्धार बाटो साधारण खुल्ने होइन। यो चक्र नयाँ पृष्ठ छैन।",
+        "hi": "Xizang transport 27-28 Sep: G216 K3500+200-K3525+850 26 Aug से दोनों दिशा नियंत्रण। उद्धार पथ साधारण खुलना नहीं। इस चक्र नया पृष्ठ नहीं।"
+      }
     },
     {
       "id": "cn-kpi-0905",
@@ -56,8 +126,18 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "title": {"zh": "指挥部：截至9月5日18时 43死519失联", "en": "Command: as of 5 Sep 18:00, 43 dead, 519 missing", "ne": "कमान्ड: 5 Sep 18:00, 43 मृत्यु, 519 सम्पर्क विहीन", "hi": "कमांड: 5 Sep 18:00, 43 मृत, 519 लापता"},
-      "body": {"zh": "人民日报引吉隆应急救援指挥部：截至9月5日18时，43人遇难、519人失联、成功救出2人、遗物993件。外籍失联261人、23国。此后新华社与@XHNews未见更新分项伤亡。", "en": "People's Daily citing the Gyirong command: as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued, 993 personal effects. 261 missing foreigners from 23 countries. No later split casualty update from Xinhua or @XHNews.", "ne": "People's Daily/कमान्ड: 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। विदेशी 261। Xinhua पछि नयाँ अङ्क छैन।", "hi": "People's Daily/कमांड: 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। विदेशी 261। Xinhua के बाद नया अंक नहीं।"}
+      "title": {
+        "zh": "指挥部：截至9月5日18时 43死519失联",
+        "en": "Command: as of 5 Sep 18:00, 43 dead, 519 missing",
+        "ne": "कमान्ड: 5 Sep 18:00, 43 मृत्यु, 519 सम्पर्क विहीन",
+        "hi": "कमांड: 5 Sep 18:00, 43 मृत, 519 लापता"
+      },
+      "body": {
+        "zh": "人民日报引吉隆应急救援指挥部：截至9月5日18时，43人遇难、519人失联、成功救出2人、遗物993件。外籍失联261人、23国。此后新华社与@XHNews未见更新分项伤亡。",
+        "en": "People's Daily citing the Gyirong command: as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued, 993 personal effects. 261 missing foreigners from 23 countries. No later split casualty update from Xinhua or @XHNews.",
+        "ne": "People's Daily/कमान्ड: 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। विदेशी 261। Xinhua पछि नयाँ अङ्क छैन।",
+        "hi": "People's Daily/कमांड: 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। विदेशी 261। Xinhua के बाद नया अंक नहीं।"
+      }
     },
     {
       "id": "xinhua-lake-0905",
@@ -68,8 +148,18 @@
       "lat": 28.293,
       "lng": 85.392,
       "geo": "barrier lake",
-      "title": {"zh": "新华社9月5日：口岸上方堰塞湖已排空", "en": "Xinhua 5 Sep: barrier lake above the port drained", "ne": "Xinhua 5 Sep: पोर्ट माथिको बाँध ताल खाली", "hi": "Xinhua 5 Sep: पोर्ट के ऊपर झील खाली"},
-      "body": {"zh": "新华社引应急管理部门：口岸核心区上方堰塞湖湖水排空，河道恢复过流，险情基本解除。本轮无新堰塞湖通报。", "en": "Xinhua cites the emergency department: the lake above the port core has drained, the channel is flowing, and the hazard is largely eliminated. No later barrier-lake bulletin.", "ne": "Xinhua: ताल खाली, नदी साधारण, जोखिम घट्यो। पछि नयाँ ताल बुलेटिन छैन।", "hi": "Xinhua: झील खाली, नदी सामान्य, खतरा टल गया। बाद में नया झील बुलेटिन नहीं।"}
+      "title": {
+        "zh": "新华社9月5日：口岸上方堰塞湖已排空",
+        "en": "Xinhua 5 Sep: barrier lake above the port drained",
+        "ne": "Xinhua 5 Sep: पोर्ट माथिको बाँध ताल खाली",
+        "hi": "Xinhua 5 Sep: पोर्ट के ऊपर झील खाली"
+      },
+      "body": {
+        "zh": "新华社引应急管理部门：口岸核心区上方堰塞湖湖水排空，河道恢复过流，险情基本解除。本轮无新堰塞湖通报。",
+        "en": "Xinhua cites the emergency department: the lake above the port core has drained, the channel is flowing, and the hazard is largely eliminated. No later barrier-lake bulletin.",
+        "ne": "Xinhua: ताल खाली, नदी साधारण, जोखिम घट्यो। पछि नयाँ ताल बुलेटिन छैन।",
+        "hi": "Xinhua: झील खाली, नदी सामान्य, खतरा टल गया। बाद में नया झील बुलेटिन नहीं।"
+      }
     },
     {
       "id": "us-embassy-0908",
@@ -80,8 +170,18 @@
       "lat": 28.248,
       "lng": 85.356,
       "geo": "Timure",
-      "title": {"zh": "美国驻尼使馆9月8日：勿前往Rasuwagadhi-Timure", "en": "US Embassy Nepal 8 Sep: do not travel Rasuwagadhi-Timure", "ne": "US Embassy 8 Sep: Rasuwagadhi-Timure नजाऊ", "hi": "US Embassy 8 Sep: Rasuwagadhi-Timure मत जाओ"},
-      "body": {"zh": "使馆道路告示：北部Rasuwa道路桥梁损毁仍限制通行，勿前往Rasuwagadhi-Timure-Syafrubesi。本轮未见更新告示。", "en": "Embassy road notice: severe road and bridge damage still restricts northern Rasuwa; do not travel to Rasuwagadhi-Timure-Syafrubesi. No newer notice found.", "ne": "Embassy 8 Sep: उत्तर Rasuwa बाटो बन्द; Rasuwagadhi-Timure-Syafrubesi नजाऊ। नयाँ नोटिस छैन।", "hi": "Embassy 8 Sep: उत्तर Rasuwa रास्ता बंद; Rasuwagadhi-Timure-Syafrubesi मत जाओ। नया नोटिस नहीं।"}
+      "title": {
+        "zh": "美国驻尼使馆：勿前往Rasuwagadhi-Timure",
+        "en": "US Embassy Nepal: do not travel Rasuwagadhi-Timure",
+        "ne": "US Embassy: Rasuwagadhi-Timure नजाऊ",
+        "hi": "US Embassy: Rasuwagadhi-Timure मत जाओ"
+      },
+      "body": {
+        "zh": "使馆道路告示：北部Rasuwa道路桥梁损毁仍限制通行，勿前往Rasuwagadhi-Timure-Syafrubesi。本轮未见更新告示。",
+        "en": "Embassy road notice: severe road and bridge damage still restricts northern Rasuwa; do not travel to Rasuwagadhi-Timure-Syafrubesi. No newer notice found.",
+        "ne": "Embassy: उत्तर Rasuwa बाटो बन्द; Rasuwagadhi-Timure-Syafrubesi नजाऊ। नयाँ नोटिस छैन।",
+        "hi": "Embassy: उत्तर Rasuwa रास्ता बंद; Rasuwagadhi-Timure-Syafrubesi मत जाओ। नया नोटिस नहीं।"
+      }
     },
     {
       "id": "mem-562-0917",
@@ -90,20 +190,18 @@
       "link": "https://www.hk01.com/instantnews/60396596",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "应急管理部9月17日：562人死亡失踪仍在核查", "en": "MEM 17 Sep: 562 dead and missing, still verifying", "ne": "MEM 17 Sep: 562 मृत्यु/सम्पर्क विहीन, जाच बाँकी", "hi": "MEM 17 Sep: 562 मृत/लापता, सत्यापन बाकी"},
-      "body": {"zh": "应急管理部：吉隆口岸562人死亡失踪，灾情正在进一步核查。此为合计口径，不替代9月5日18时分项。", "en": "MEM: 562 dead and missing at Gyirong Port, still under further verification. This is a combined figure and does not replace the 5 Sep 18:00 split.", "ne": "MEM: Gyirong Port 562 मृत्यु/सम्पर्क विहीन, जाच बाँकी। यो जोड अङ्क हो, 5 Sep अङ्क बदल्दैन।", "hi": "MEM: Gyirong Port 562 मृत/लापता, सत्यापन बाकी। यह जोड़ अंक है, 5 Sep अंक नहीं बदलता।"}
-    },
-    {
-      "id": "copernicus-0827",
-      "src": "official",
-      "t": "2026-08-27T12:00:00Z",
-      "link": "https://ihp-wins.unesco.org/dataset/?theme=http%3A%2F%2Finspire.ec.europa.eu%2Ftheme%2Fnz",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Timure",
-      "title": {"zh": "Copernicus EMSR927：8月27日Timure/Syapru Besi损毁分级", "en": "Copernicus EMSR927: 27 Aug Timure/Syapru Besi grading", "ne": "Copernicus EMSR927: 27 Aug Timure/Syapru Besi क्षति", "hi": "Copernicus EMSR927: 27 Aug Timure/Syapru Besi क्षति"},
-      "body": {"zh": "DG ECHO于8月26日请求激活。8月27日影像分级：Timure与Syapru Besi大部建筑损毁，Rasuwagadhi水电站大坝与Langtang Khola厂房标为损毁。本轮无新激活。", "en": "DG ECHO requested activation on 26 Aug. Grading from 27 Aug imagery: most buildings at Timure and Syapru Besi destroyed; Rasuwagadhi hydropower dam and Langtang Khola powerhouse graded destroyed. No new activation this cycle.", "ne": "DG ECHO 26 Aug सक्रियता। 27 Aug: Timure/Syapru Besi धेरै भवन ध्वस्त; Rasuwagadhi बाँध र Langtang Khola प्लान्ट ध्वस्त। नयाँ सक्रियता छैन।", "hi": "DG ECHO 26 Aug सक्रियता। 27 Aug: Timure/Syapru Besi अधिकतर भवन नष्ट; Rasuwagadhi बाँध और Langtang Khola प्लांट नष्ट। नई सक्रियता नहीं।"}
+      "title": {
+        "zh": "应急管理部9月17日：562人死亡失踪仍在核查",
+        "en": "MEM 17 Sep: 562 dead and missing, still verifying",
+        "ne": "MEM 17 Sep: 562 मृत्यु/सम्पर्क विहीन, जाच बाँकी",
+        "hi": "MEM 17 Sep: 562 मृत/लापता, सत्यापन बाकी"
+      },
+      "body": {
+        "zh": "应急管理部：吉隆口岸562人死亡失踪，灾情正在进一步核查。此为合计口径，不替代9月5日18时分项。",
+        "en": "MEM: 562 dead and missing at Gyirong Port, still under further verification. This is a combined figure and does not replace the 5 Sep 18:00 split.",
+        "ne": "MEM: Gyirong Port 562 मृत्यु/सम्पर्क विहीन, जाच बाँकी। यो जोड अङ्क हो, 5 Sep अङ्क बदल्दैन।",
+        "hi": "MEM: Gyirong Port 562 मृत/लापता, सत्यापन बाकी। यह जोड़ अंक है, 5 Sep अंक नहीं बदलता।"
+      }
     }
   ],
   "roads": [
@@ -112,24 +210,54 @@
       "status": "closed",
       "lat": 28.2797,
       "lng": 85.3777,
-      "name": {"zh": "吉隆口岸", "en": "Gyirong Port", "ne": "ग्यिरोङ पोर्ट", "hi": "ग्यिरोंग पोर्ट"},
-      "detail": {"zh": "口岸设施已毁，通关未恢复。中方关闭。本轮无重开通报。", "en": "Port facilities destroyed; clearance not restored. Chinese side closed. No reopening notice this cycle.", "ne": "पोर्ट ध्वस्त; क्लियरेन्स खुलेको छैन। चीनीय तर्फ बन्द। यो चक्र खुल्ने नोटिस छैन।", "hi": "पोर्ट ध्वस्त; क्लियरेंस नहीं। चीनी तरफ बंद। इस चक्र खुलने का नोटिस नहीं।"}
+      "name": {
+        "zh": "吉隆口岸",
+        "en": "Gyirong Port",
+        "ne": "ग्यिरोङ पोर्ट",
+        "hi": "ग्यिरोंग पोर्ट"
+      },
+      "detail": {
+        "zh": "口岸设施已毁，通关未恢复。中方关闭。本轮无重开通报。",
+        "en": "Port facilities destroyed; clearance not restored. Chinese side closed. No reopening notice this cycle.",
+        "ne": "पोर्ट ध्वस्त; क्लियरेन्स खुलेको छैन। चीनीय तर्फ बन्द। यो चक्र खुल्ने नोटिस छैन।",
+        "hi": "पोर्ट ध्वस्त; क्लियरेंस नहीं। चीनी तरफ बंद। इस चक्र खुलने का नोटिस नहीं।"
+      }
     },
     {
       "id": "g216",
       "status": "closed",
       "lat": 28.39,
       "lng": 85.325,
-      "name": {"zh": "G216吉隆镇—国门", "en": "G216 Gyirong town-gate", "ne": "G216 ग्यिरोङ टाउन-गेट", "hi": "G216 ग्यिरोंग टाउन-गेट"},
-      "detail": {"zh": "交通厅9月28日路网：K3500+200—K3525+850双向管制，解除时间待定。抢险通道仅救援。", "en": "Transport bulletin 28 Sep: K3500+200-K3525+850 two-way control, lift time unset. Rescue track only.", "ne": "28 Sep सडक जानकारी: K3500+200-K3525+850 दुवै तर्फ नियन्त्रण। उद्धार बाटो मात्र।", "hi": "28 Sep सड़क जानकारी: K3500+200-K3525+850 दोनों दिशा नियंत्रण। उद्धार पथ ही।"}
+      "name": {
+        "zh": "G216吉隆镇—国门",
+        "en": "G216 Gyirong town-gate",
+        "ne": "G216 ग्यिरोङ टाउन-गेट",
+        "hi": "G216 ग्यिरोंग टाउन-गेट"
+      },
+      "detail": {
+        "zh": "交通厅9月28日路网：K3500+200—K3525+850双向管制，解除时间待定。抢险通道仅救援。",
+        "en": "Transport bulletin 28 Sep: K3500+200-K3525+850 two-way control, lift time unset. Rescue track only.",
+        "ne": "28 Sep सडक जानकारी: K3500+200-K3525+850 दुवै तर्फ नियन्त्रण। उद्धार बाटो मात्र।",
+        "hi": "28 Sep सड़क जानकारी: K3500+200-K3525+850 दोनों दिशा नियंत्रण। उद्धार पथ ही।"
+      }
     },
     {
       "id": "rasuwagadhi",
       "status": "closed",
       "lat": 28.248,
       "lng": 85.356,
-      "name": {"zh": "Rasuwagadhi-Timure", "en": "Rasuwagadhi-Timure", "ne": "Rasuwagadhi-Timure", "hi": "Rasuwagadhi-Timure"},
-      "detail": {"zh": "美国驻尼使馆9月8日：正常通行未恢复，勿前往。本轮无新告示。", "en": "US Embassy Nepal 8 Sep: normal access not restored; do not travel. No newer notice.", "ne": "US Embassy 8 Sep: साधारण बाटो छैन; नजाऊ। नयाँ नोटिस छैन।", "hi": "US Embassy 8 Sep: सामान्य रास्ता नहीं; मत जाओ। नया नोटिस नहीं।"}
+      "name": {
+        "zh": "Rasuwagadhi-Timure",
+        "en": "Rasuwagadhi-Timure",
+        "ne": "Rasuwagadhi-Timure",
+        "hi": "Rasuwagadhi-Timure"
+      },
+      "detail": {
+        "zh": "警方10月6日：Rasuwa主干公路仍完全封闭。使馆此前告示仍勿前往。",
+        "en": "Police 6 Oct: Rasuwa main highway still fully blocked. Earlier embassy notice still says do not travel.",
+        "ne": "प्रहरी 6 Oct: Rasuwa मुख्य सडक पूर्ण बन्द। Embassy अझै नजाऊ।",
+        "hi": "पुलिस 6 Oct: Rasuwa मुख्य सड़क पूरी बंद। Embassy अभी भी मत जाओ।"
+      }
     }
   ],
   "forces": [
@@ -138,14 +266,34 @@
       "status": "limited",
       "lat": 28.282,
       "lng": 85.374,
-      "name": {"zh": "中方核心区搜救", "en": "CN core-area search", "ne": "चीन कोर क्षेत्र खोज", "hi": "चीन कोर क्षेत्र खोज"},
-      "detail": {"zh": "截至9月5日18时：核心区搜寻与消杀已覆盖。无新现场坐标。", "en": "As of 5 Sep 18:00: core search and disinfection covered. No new live GNSS.", "ne": "5 Sep 18:00: कोर खोज कभर। नयाँ GNSS छैन।", "hi": "5 Sep 18:00: कोर खोज कवर। नया GNSS नहीं।"}
+      "name": {
+        "zh": "中方核心区搜救",
+        "en": "CN core-area search",
+        "ne": "चीन कोर क्षेत्र खोज",
+        "hi": "चीन कोर क्षेत्र खोज"
+      },
+      "detail": {
+        "zh": "截至9月5日18时：核心区搜寻与消杀已覆盖。无新现场坐标。",
+        "en": "As of 5 Sep 18:00: core search and disinfection covered. No new live GNSS.",
+        "ne": "5 Sep 18:00: कोर खोज कभर। नयाँ GNSS छैन।",
+        "hi": "5 Sep 18:00: कोर खोज कवर। नया GNSS नहीं।"
+      }
     },
     {
       "id": "np-sar",
       "status": "limited",
-      "name": {"zh": "尼方搜救转重建", "en": "NP SAR to reconstruction", "ne": "नेपाल खोजबाट पुनर्निर्माण", "hi": "नेपाल खोज से पुनर्निर्माण"},
-      "detail": {"zh": "10月5日国家减灾理事会：除必要行动外结束大规模搜救。无新队伍坐标，故不标经纬度。", "en": "5 Oct national council: mass SAR ended except essential work. No new team GNSS, so no lat/lng.", "ne": "5 Oct परिषद: ठूलो खोज रोक्यो। टोली GNSS छैन।", "hi": "5 Oct परिषद: बड़ा खोज रोका। टीम GNSS नहीं।"}
+      "name": {
+        "zh": "尼方搜救转重建",
+        "en": "NP SAR to reconstruction",
+        "ne": "नेपाल खोजबाट पुनर्निर्माण",
+        "hi": "नेपाल खोज से पुनर्निर्माण"
+      },
+      "detail": {
+        "zh": "10月5日国家减灾理事会：除必要行动外结束大规模搜救。无新队伍坐标，故不标经纬度。",
+        "en": "5 Oct national council: mass SAR ended except essential work. No new team GNSS, so no lat/lng.",
+        "ne": "5 Oct परिषद: ठूलो खोज रोक्यो। टोली GNSS छैन।",
+        "hi": "5 Oct परिषद: बड़ा खोज रोका। टीम GNSS नहीं।"
+      }
     }
   ],
   "sites": [
@@ -155,8 +303,18 @@
       "status": "done",
       "lat": 28.282,
       "lng": 85.374,
-      "name": {"zh": "热索/口岸核心区", "en": "Resuo / port core", "ne": "Resuo / पोर्ट कोर", "hi": "Resuo / पोर्ट कोर"},
-      "detail": {"zh": "9月5日指挥部：核心区搜寻与预防性消杀已全覆盖。救出2人。", "en": "5 Sep command: core search and preventive disinfection fully covered. 2 rescued.", "ne": "5 Sep: कोर खोज र निसंक्रमण कभर। 2 उद्धार।", "hi": "5 Sep: कोर खोज और कीटाणुशोधन कवर। 2 उद्धार।"}
+      "name": {
+        "zh": "热索/口岸核心区",
+        "en": "Resuo / port core",
+        "ne": "Resuo / पोर्ट कोर",
+        "hi": "Resuo / पोर्ट कोर"
+      },
+      "detail": {
+        "zh": "9月5日指挥部：核心区搜寻与预防性消杀已全覆盖。救出2人。",
+        "en": "5 Sep command: core search and preventive disinfection fully covered. 2 rescued.",
+        "ne": "5 Sep: कोर खोज र निसंक्रमण कभर। 2 उद्धार।",
+        "hi": "5 Sep: कोर खोज और कीटाणुशोधन कवर। 2 उद्धार।"
+      }
     },
     {
       "id": "timure",
@@ -164,14 +322,29 @@
       "status": "closed",
       "lat": 28.248,
       "lng": 85.356,
-      "name": {"zh": "Timure/Rasuwagadhi", "en": "Timure/Rasuwagadhi", "ne": "Timure/Rasuwagadhi", "hi": "Timure/Rasuwagadhi"},
-      "detail": {"zh": "尼方重灾点之一。大规模搜救已于10月5日结束，通行未恢复。", "en": "A main Nepal impact site. Mass SAR ended 5 Oct; access not restored.", "ne": "प्रमुख प्रभावित ठाउँ। ठूलो खोज 5 Oct रोकियो; बाटो छैन।", "hi": "मुख्य प्रभावित स्थल। बड़ा खोज 5 Oct रोका; रास्ता नहीं।"}
+      "name": {
+        "zh": "Timure/Rasuwagadhi",
+        "en": "Timure/Rasuwagadhi",
+        "ne": "Timure/Rasuwagadhi",
+        "hi": "Timure/Rasuwagadhi"
+      },
+      "detail": {
+        "zh": "尼方重灾点之一。大规模搜救已于10月5日结束；警方10月6日称主干公路仍封闭。",
+        "en": "A main Nepal impact site. Mass SAR ended 5 Oct; police on 6 Oct said the main highway remains blocked.",
+        "ne": "प्रमुख प्रभावित ठाउँ। ठूलो खोज 5 Oct रोकियो; प्रहरी 6 Oct सडक बन्द।",
+        "hi": "मुख्य प्रभावित स्थल। बड़ा खोज 5 Oct रोका; पुलिस 6 Oct सड़क बंद।"
+      }
     }
   ],
   "hydro": {
     "lat": 28.293,
     "lng": 85.392,
-    "status": {"zh": "新华社9月5日：堰塞湖已排空，河道过流，险情基本解除。本轮无新通报。", "en": "Xinhua 5 Sep: barrier lake drained, channel flowing, hazard largely eliminated. No newer bulletin.", "ne": "Xinhua 5 Sep: ताल खाली, नदी बगिरहेको, जोखिम घट्यो। नयाँ बुलेटिन छैन।", "hi": "Xinhua 5 Sep: झील खाली, नदी बह रही, खतरा टल गया। नया बुलेटिन नहीं।"}
+    "status": {
+      "zh": "新华社9月5日：堰塞湖已排空，河道过流，险情基本解除。本轮无新通报。",
+      "en": "Xinhua 5 Sep: barrier lake drained, channel flowing, hazard largely eliminated. No newer bulletin.",
+      "ne": "Xinhua 5 Sep: ताल खाली, नदी बगिरहेको, जोखिम घट्यो। नयाँ बुलेटिन छैन।",
+      "hi": "Xinhua 5 Sep: झील खाली, नदी बह रही, खतरा टल गया। नया बुलेटिन नहीं।"
+    }
   },
   "xPosts": [
     {
@@ -180,27 +353,42 @@
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
       "geo": "unknown",
-      "text": {"zh": "@XHNews 9月10日：国家气候中心向尼方提供滚动气候监测预报，支持吉隆—Rasuwa口岸泥石流救援。无新伤亡数字。", "en": "@XHNews 10 Sep: National Climate Center is providing rolling climate products to Nepal for Gyirong-Rasuwa mudslide relief. No new casualty figures.", "ne": "@XHNews 10 Sep: जलवायु केन्द्रले नेपाललाई निगरानी दिइरहेको। नयाँ हताहत अङ्क छैन।", "hi": "@XHNews 10 Sep: जलवायु केंद्र नेपाल को निगरानी दे रहा है। नया हताहत अंक नहीं।"}
+      "text": {
+        "zh": "@XHNews 9月10日：国家气候中心向尼方提供滚动气候监测预报，支持吉隆—Rasuwa口岸泥石流救援。无新伤亡数字。",
+        "en": "@XHNews 10 Sep: National Climate Center is providing rolling climate products to Nepal for Gyirong-Rasuwa mudslide relief. No new casualty figures.",
+        "ne": "@XHNews 10 Sep: जलवायु केन्द्रले नेपाललाई निगरानी दिइरहेको। नयाँ हताहत अङ्क छैन।",
+        "hi": "@XHNews 10 Sep: जलवायु केंद्र नेपाल को निगरानी दे रहा है। नया हताहत अंक नहीं।"
+      }
     },
     {
-      "id": "x-xh-0905",
+      "id": "x-cctv-0910",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "Gyirong town",
+      "text": {
+        "zh": "@CCTV_Plus 9月10日：部分尼泊尔务工人员仍留在受灾后的吉隆镇并继续工作，希望尽快恢复。非伤亡通报。",
+        "en": "@CCTV_Plus 10 Sep: some Nepali workers remain in disaster-hit Gyirong Town and continue work, hoping for recovery. Not a casualty bulletin.",
+        "ne": "@CCTV_Plus 10 Sep: केही नेपाली कामदार ग्यिरोङ टाउनमा छन्। हताहत बुलेटिन होइन।",
+        "hi": "@CCTV_Plus 10 Sep: कुछ नेपाली मजदूर ग्यिरोंग टाउन में हैं। हताहत बुलेटिन नहीं।"
+      }
+    },
+    {
+      "id": "x-xh-0909",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月5日：边检民警肖富贵在口岸附近拍摄灾后无人机画面。非伤亡通报。", "en": "@XHNews 5 Sep: immigration officer Xiao Fugui filmed drone footage near Gyirong Port after the mudslide. Not a casualty bulletin.", "ne": "@XHNews 5 Sep: पोर्ट नजिक ड्रोन फुटेज। हताहत बुलेटिन होइन।", "hi": "@XHNews 5 Sep: पोर्ट के पास ड्रोन फुटेज। हताहत बुलेटिन नहीं।"}
-    },
-    {
-      "id": "x-xh-0902",
-      "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月2日10时：G216抢修后通往吉隆口岸核心区的陆路通道基本打通。不等于口岸重开。", "en": "@XHNews 2 Sep 10:00: road access to the Gyirong Port core basically restored after G216 repairs. Not a port reopening.", "ne": "@XHNews 2 Sep 10:00: G216 पछि कोर बाटो मूलतः खुल्यो। पोर्ट खुलेको होइन।", "hi": "@XHNews 2 Sep 10:00: G216 के बाद कोर रास्ता मूलतः खुला। पोर्ट नहीं खुला।"}
+      "text": {
+        "zh": "@XHNews 9月9日：梳理8月26日冰岩崩引发跨境泥石流及中方搜救进展。帖文未给出新于9月5日的分项伤亡。",
+        "en": "@XHNews 9 Sep: recap of the 26 Aug ice-rock avalanche mudslide and China SAR progress. The post does not give a split newer than 5 Sep.",
+        "ne": "@XHNews 9 Sep: 26 Aug पहिरो र चीन खोज सारांश। 5 Sep भन्दा नयाँ अङ्क छैन।",
+        "hi": "@XHNews 9 Sep: 26 Aug मलबे और चीन खोज सार। 5 Sep से नया अंक नहीं।"
+      }
     }
   ]
 }
