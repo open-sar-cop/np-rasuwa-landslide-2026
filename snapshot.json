@@ -1,19 +1,19 @@
 {
-  "snap": "2026-10-07T09:11:00Z",
+  "snap": "2026-10-07T10:08:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1007-0911",
+      "id": "poll-1007-1008",
       "src": "official",
-      "t": "2026-10-07T09:11:00Z",
+      "t": "2026-10-07T10:08:00Z",
       "link": "https://www.indiatoday.in/world/story/nepal-china-border-reopening-talks-tatopani-ready-rasuwagadhi-restoration-under-way-ptag-3011409-2026-10-07",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月7日09:11 UTC再核：分项伤亡未更新，口岸仍未开", "en": "7 Oct 09:11 UTC recheck: split toll unchanged, gate still shut", "ne": "7 Oct 09:11 UTC: हताहत उही, नाका अझै बन्द", "hi": "7 Oct 09:11 UTC: हताहत वही, द्वार अभी बंद"},
-      "body": {"zh": "本轮再核新华社、指挥部口径与@XHNews/@CCTV_Plus：中方仍为截至9月5日18时，43死、519失联、救出2人。尼方仍为The Nepal Weekly 10月6日复述NDRRMA：1455死、5285失踪、13795获救。India Today引部长：热索恢复仍在推进，未见重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, the command line and @XHNews/@CCTV_Plus: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. NP stays The Nepal Weekly 6 Oct restating NDRRMA: 1455 dead, 5285 missing, 13795 rescued. India Today quoting the minister: Rasuwagadhi restoration still under way, no reopening. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/कमान्ड/@XHNews/@CCTV_Plus: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। NP Nepal Weekly 6 Oct NDRRMA: 1455/5285/13795। India Today: रसुवागाढी पुनर्स्थापना जारी, खुलेन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua/कमांड/@XHNews/@CCTV_Plus: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। NP Nepal Weekly 6 Oct NDRRMA: 1455/5285/13795। India Today: रसुवागढ़ी बहाली जारी, खुला नहीं। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
+      "title": {"zh": "10月7日10:08 UTC再核：分项伤亡未更新，口岸仍未开", "en": "7 Oct 10:08 UTC recheck: split toll unchanged, gate still shut", "ne": "7 Oct 10:08 UTC: हताहत उही, नाका अझै बन्द", "hi": "7 Oct 10:08 UTC: हताहत वही, द्वार अभी बंद"},
+      "body": {"zh": "本轮再核新华社、指挥部口径与@XHNews/@CCTV_Plus（10月1日后无新帖）：中方仍为截至9月5日18时，43死、519失联、救出2人。尼方仍为The Nepal Weekly 10月6日复述NDRRMA：1455死、5285失踪、13795获救。India Today引部长：热索恢复仍在推进，未见重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, the command line and @XHNews/@CCTV_Plus (no posts after 1 Oct): CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. NP stays The Nepal Weekly 6 Oct restating NDRRMA: 1455 dead, 5285 missing, 13795 rescued. India Today quoting the minister: Rasuwagadhi restoration still under way, no reopening. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/कमान्ड/@XHNews/@CCTV_Plus: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। NP Nepal Weekly 6 Oct NDRRMA: 1455/5285/13795। India Today: रसुवागाढी पुनर्स्थापना जारी, खुलेन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua/कमांड/@XHNews/@CCTV_Plus: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। NP Nepal Weekly 6 Oct NDRRMA: 1455/5285/13795। India Today: रसुवागढ़ी बहाली जारी, खुला नहीं। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
     },
     {
       "id": "gate-talks-1007",
@@ -168,17 +168,9 @@
   "hydro": {
     "lat": 28.293,
     "lng": 85.392,
-    "status": {"zh": "新华示9月5日：口岸上方堰塞湖已排空，河道恢复正常过流；本轮无更新水文", "en": "Xinhua 5 Sep: barrier lake above the port drained, channel back to normal flow; no newer hydro this cycle", "ne": "Xinhua 5 Sep: पोर्ट माथिको ताल खाली, नदी सामान्य; यो चक्र नयाँ जलविज्ञान छैन", "hi": "Xinhua 5 Sep: पोर्ट के ऊपर झील खाली, नदी सामान्य; इस चक्र नया जलविज्ञान नहीं"}
+    "status": {"zh": "新华社9月5日：口岸上方堰塞湖已排空，河道恢复正常过流；本轮无更新水文", "en": "Xinhua 5 Sep: barrier lake above the port drained, channel back to normal flow; no newer hydro this cycle", "ne": "Xinhua 5 Sep: पोर्ट माथिको ताल खाली, नदी सामान्य; यो चक्र नयाँ जलविज्ञान छैन", "hi": "Xinhua 5 Sep: पोर्ट के ऊपर झील खाली, नदी सामान्य; इस चक्र नया जलविज्ञान नहीं"}
   },
   "xPosts": [
-    {
-      "id": "x-xh-0910",
-      "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
-      "text": {"zh": "@XHNews 9月10日：国家气候中心向尼泊尔提供滚动气候监测与预报，支援吉隆—拉苏瓦口岸泥石流救援。未报新伤亡。", "en": "@XHNews 10 Sep: National Climate Center is providing Nepal rolling climate monitoring and forecasts for Gyirong-Rasuwa rescue. No new toll.", "ne": "@XHNews 10 Sep: जलवायु केन्द्रले नेपाललाई जलवायु पूर्वानुमान दिइरहेछ। नयाँ हताहत छैन।", "hi": "@XHNews 10 Sep: राष्ट्रीय जलवायु केंद्र नेपाल को रोलिंग पूर्वानुमान दे रहा है। नया हताहत नहीं।"}
-    },
     {
       "id": "x-cctv-0910",
       "user": "@CCTV_Plus",
@@ -188,6 +180,24 @@
       "lng": 85.325,
       "geo": "Gyirong town",
       "text": {"zh": "@CCTV_Plus 9月10日：留在吉隆镇的尼泊尔工人继续工作，希望灾区恢复。未报新伤亡或队伍坐标。", "en": "@CCTV_Plus 10 Sep: Nepali workers remaining in Gyirong town continue work and hope the area recovers. No new toll or team coordinates.", "ne": "@CCTV_Plus 10 Sep: ग्यिरोङ बजारमा नेपाली कामदार जारी। नयाँ हताहत/कोअर्डिनेट छैन।", "hi": "@CCTV_Plus 10 Sep: ग्यिरोङ कस्बे में नेपाली मजदूर काम जारी रखे हैं। नया हताहत/कोऑर्डिनेट नहीं।"}
+    },
+    {
+      "id": "x-xh-0910",
+      "user": "@XHNews",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "geo": "unknown",
+      "text": {"zh": "@XHNews 9月10日：国家气候中心向尼泊尔提供滚动气候监测与预报，支援吉隆—拉苏瓦口岸泥石流救援。未报新伤亡。", "en": "@XHNews 10 Sep: National Climate Center is providing Nepal rolling climate monitoring and forecasts for Gyirong-Rasuwa rescue. No new toll.", "ne": "@XHNews 10 Sep: जलवायु केन्द्रले नेपाललाई जलवायु पूर्वानुमान दिइरहेछ। नयाँ हताहत छैन।", "hi": "@XHNews 10 Sep: राष्ट्रीय जलवायु केंद्र नेपाल को रोलिंग पूर्वानुमान दे रहा है। नया हताहत नहीं।"}
+    },
+    {
+      "id": "x-xh-0909",
+      "user": "@XHNews",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {"zh": "@XHNews 9月9日：述评8月26日吉隆口岸泥石流与中方搜救进展，未在该帖给出新分项伤亡。", "en": "@XHNews 9 Sep: recap of the 26 Aug Gyirong Port mudslide and Chinese rescue progress; the post gives no new split toll.", "ne": "@XHNews 9 Sep: 26 Aug ग्यिरोङ पोर्ट पहिरो र चीनी उद्धार सारांश; नयाँ हताहत छैन।", "hi": "@XHNews 9 Sep: 26 Aug ग्यिरोङ पोर्ट पहिरो और चीनी बचाव सारांश; नया हताहत नहीं।"}
     }
   ]
 }
