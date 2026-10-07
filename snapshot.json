@@ -1,18 +1,18 @@
 {
-  "snap": "2026-10-07T21:08:00Z",
+  "snap": "2026-10-07T09:11:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1007-2108",
+      "id": "poll-1007-0911",
       "src": "official",
-      "t": "2026-10-07T21:08:00Z",
+      "t": "2026-10-07T09:11:00Z",
       "link": "https://www.indiatoday.in/world/story/nepal-china-border-reopening-talks-tatopani-ready-rasuwagadhi-restoration-under-way-ptag-3011409-2026-10-07",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月7日21:08 UTC再核：分项伤亡未更新，口岸仍未开", "en": "7 Oct 21:08 UTC recheck: split toll unchanged, gate still shut", "ne": "7 Oct 21:08 UTC: हताहत उही, नाका अझै बन्द", "hi": "7 Oct 21:08 UTC: हताहत वही, द्वार अभी बंद"},
+      "title": {"zh": "10月7日09:11 UTC再核：分项伤亡未更新，口岸仍未开", "en": "7 Oct 09:11 UTC recheck: split toll unchanged, gate still shut", "ne": "7 Oct 09:11 UTC: हताहत उही, नाका अझै बन्द", "hi": "7 Oct 09:11 UTC: हताहत वही, द्वार अभी बंद"},
       "body": {"zh": "本轮再核新华社、指挥部口径与@XHNews/@CCTV_Plus：中方仍为截至9月5日18时，43死、519失联、救出2人。尼方仍为The Nepal Weekly 10月6日复述NDRRMA：1455死、5285失踪、13795获救。India Today引部长：热索恢复仍在推进，未见重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, the command line and @XHNews/@CCTV_Plus: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. NP stays The Nepal Weekly 6 Oct restating NDRRMA: 1455 dead, 5285 missing, 13795 rescued. India Today quoting the minister: Rasuwagadhi restoration still under way, no reopening. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/कमान्ड/@XHNews/@CCTV_Plus: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। NP Nepal Weekly 6 Oct NDRRMA: 1455/5285/13795। India Today: रसुवागाढी पुनर्स्थापना जारी, खुलेन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua/कमांड/@XHNews/@CCTV_Plus: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। NP Nepal Weekly 6 Oct NDRRMA: 1455/5285/13795। India Today: रसुवागढ़ी बहाली जारी, खुला नहीं। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
     },
     {
@@ -35,7 +35,7 @@
       "img": null,
       "geo": "unknown",
       "title": {"zh": "10月6日：尼方结束大规模搜救并复述NDRRMA数字", "en": "6 Oct: Nepal ends mass SAR and restates NDRRMA figures", "ne": "6 Oct: नेपालले ठूलो खोज रोक्यो, NDRRMA अङ्क दोहोर्यायो", "hi": "6 Oct: नेपाल ने बड़ा खोज रोका, NDRRMA अंक दोहराए"},
-      "body": {"zh": "The Nepal Weekly引NDRRMA：40天搜救结束，转入重建；1455死、5285失踪、13795获救。临时安置1226人。未公布新现场坐标。", "en": "The Nepal Weekly citing NDRRMA: 40-day SAR ended, shift to reconstruction; 1455 dead, 5285 missing, 13795 rescued. 1226 in temporary shelter. No new field coordinates.", "ne": "Nepal Weekly: 40-दिन खोज रोकियो; 1455/5285/13795। अस्थायी आश्रय 1226। GNSS छैन।", "hi": "Nepal Weekly: 40-दिन खोज रुका; 1455/5285/13795। अस्थायी आश्रय 1226। GNSS नहीं।"}
+      "body": {"zh": "The Nepal Weekly引NDRRMA：40天搜救结束，转入重建；1455死、5285失踪、13795获救。未公布新现场坐标。", "en": "The Nepal Weekly citing NDRRMA: 40-day SAR ended, shift to reconstruction; 1455 dead, 5285 missing, 13795 rescued. No new field coordinates.", "ne": "Nepal Weekly: 40-दिन खोज रोकियो; 1455/5285/13795। GNSS छैन।", "hi": "Nepal Weekly: 40-दिन खोज रुका; 1455/5285/13795। GNSS नहीं।"}
     },
     {
       "id": "np-council-1005",
@@ -142,7 +142,7 @@
       "status": "limited",
       "geo": "unknown",
       "name": {"zh": "前方救援力量", "en": "Forward rescue element", "ne": "अघिल्लो उद्धार दल", "hi": "आगे की बचाव दल"},
-      "detail": {"zh": "指挥部截至9月5日18时累计投入2500余人；核心区拉网搜寻已覆盖。无实时队伍坐标。尼方大规模搜救已于10月5日结束。", "en": "Command as of 5 Sep 18:00: over 2500 personnel cumulative; core-area grid search covered. No live team coordinates. Nepal mass SAR ended 5 Oct.", "ne": "5 Sep 18:00: कुल 2500+ कर्मचारी। ताजा GNSS छैन। नेपालको ठूलो खोज 5 Oct रोकियो।", "hi": "5 Sep 18:00: कुल 2500+ कर्मी। लाइव GNSS नहीं। नेपाल की बड़ी खोज 5 Oct रुकी।"}
+      "detail": {"zh": "指挥部截至9月5日18时累计投入2500余人；核心区拉网搜寻已覆盖。无实时队伍坐标。尼方大规模搜救已于10月5日结束。", "en": "Command as of 5 Sep 18:00: over 2500 personnel cumulative; core-area grid search covered. No live team coordinates. Nepal mass SAR ended 5 Oct.", "ne": "5 Sep 18:00: कुल 2500+ कर्मचारी। ताजा GNSS छैन। नेपालको ठूलो खोज 5 Oct रोकियो।", "hi": "5 Sep 18:00: कुल 2500+ कर्मी। लाइव GNSS नहीं। नेपाल का बड़ा खोज 5 Oct रुका।"}
     }
   ],
   "sites": [
@@ -152,45 +152,42 @@
       "status": "done",
       "lat": 28.282,
       "lng": 85.374,
-      "name": {"zh": "热索村搜救点", "en": "Resuo village rescue site", "ne": "रेसुओ गाउँ उद्धार बिन्दु", "hi": "रेसुओ गाँव बचाव स्थल"},
-      "detail": {"zh": "指挥部：成功救出热索村民众2人。核心区搜寻与消杀已覆盖。", "en": "Command: 2 Resuo villagers rescued. Core-area search and sanitization reported covered.", "ne": "कमान्ड: रेसुओका 2 जना उद्धार। कोर खोज कभर भन्यो।", "hi": "कमांड: रेसुओ के 2 लोग बचाए। कोर खोज कवर हुई।"}
+      "name": {"zh": "热索村", "en": "Resuo village", "ne": "रेसुओ गाउँ", "hi": "रेसुओ गाँव"},
+      "detail": {"zh": "口岸核心区搜救已覆盖。指挥部截至9月5日成功救出2人。无新现场坐标。", "en": "Core-area search covered. Command as of 5 Sep: 2 people rescued. No new field coordinates.", "ne": "कोर खोज कभर। 5 Sep: 2 उद्धार। GNSS छैन।", "hi": "कोर खोज कवर। 5 Sep: 2 उद्धार। GNSS नहीं।"}
+    },
+    {
+      "id": "timure",
+      "kind": "access",
+      "status": "limited",
+      "lat": 28.248,
+      "lng": 85.356,
+      "name": {"zh": "提木尔", "en": "Timure", "ne": "तिमुरे", "hi": "तिमुरे"},
+      "detail": {"zh": "美使馆9月3日：提木尔—热索正常通行尚未恢复。本轮无更新路通。", "en": "US Embassy 3 Sep: normal access to Timure-Rasuwagadhi not restored. No newer road note this cycle.", "ne": "दूतावास 3 Sep: तिमुरे-रसुवागाढी सामान्य बाटो छैन।", "hi": "दूतावास 3 Sep: तिमुरे-रसुवागढ़ी सामान्य रास्ता नहीं।"}
     }
   ],
   "hydro": {
     "lat": 28.293,
     "lng": 85.392,
-    "status": {"zh": "新华社9月5日：堰塞湖已排空，河道恢复流势；本轮无新水文", "en": "Xinhua 5 Sep: barrier lake drained, channel flowing; no newer hydro this cycle", "ne": "Xinhua 5 Sep: ताल खाली, नदी बह्यो; यो चक्र नयाँ जलविज्ञान छैन", "hi": "Xinhua 5 Sep: झील खाली, नदी बह रही; इस चक्र नया जलविज्ञान नहीं"}
+    "status": {"zh": "新华示9月5日：口岸上方堰塞湖已排空，河道恢复正常过流；本轮无更新水文", "en": "Xinhua 5 Sep: barrier lake above the port drained, channel back to normal flow; no newer hydro this cycle", "ne": "Xinhua 5 Sep: पोर्ट माथिको ताल खाली, नदी सामान्य; यो चक्र नयाँ जलविज्ञान छैन", "hi": "Xinhua 5 Sep: पोर्ट के ऊपर झील खाली, नदी सामान्य; इस चक्र नया जलविज्ञान नहीं"}
   },
   "xPosts": [
     {
-      "id": "x-xh-0905",
+      "id": "x-xh-0910",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月5日：移民警察肖富贵灾后在吉隆口岸附近拍摄无人机画面。未报新伤亡。", "en": "@XHNews 5 Sep: immigration officer Xiao Fugui filmed drone footage near Gyirong Port after the mudslide. No new toll.", "ne": "@XHNews 5 Sep: ग्यिरोङ पोर्ट नजिक ड्रोन footage। नयाँ हताहत छैन।", "hi": "@XHNews 5 Sep: ग्यिरोङ पोर्ट के पास ड्रोन फुटेज। नया हताहत नहीं।"}
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "geo": "unknown",
+      "text": {"zh": "@XHNews 9月10日：国家气候中心向尼泊尔提供滚动气候监测与预报，支援吉隆—拉苏瓦口岸泥石流救援。未报新伤亡。", "en": "@XHNews 10 Sep: National Climate Center is providing Nepal rolling climate monitoring and forecasts for Gyirong-Rasuwa rescue. No new toll.", "ne": "@XHNews 10 Sep: जलवायु केन्द्रले नेपाललाई जलवायु पूर्वानुमान दिइरहेछ। नयाँ हताहत छैन।", "hi": "@XHNews 10 Sep: राष्ट्रीय जलवायु केंद्र नेपाल को रोलिंग पूर्वानुमान दे रहा है। नया हताहत नहीं।"}
     },
     {
-      "id": "x-xh-0904",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月4日：抢通吉隆口岸核心区道路，两小时不足5米。未报新伤亡。", "en": "@XHNews 4 Sep: reopening the road to the Gyirong Port core advanced less than 5 meters in two hours. No new toll.", "ne": "@XHNews 4 Sep: पोर्ट कोर बाटो दुई घण्टामा 5 मिटर भन्दा कम। नयाँ हताहत छैन।", "hi": "@XHNews 4 Sep: पोर्ट कोर सड़क दो घंटे में 5 मीटर से कम। नया हताहत नहीं।"}
-    },
-    {
-      "id": "x-xh-0902",
-      "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月2日：G216抢修后，吉隆口岸核心区道路9月2日10时基本打通。未报口岸重开。", "en": "@XHNews 2 Sep: after G216 repairs, road access to the Gyirong Port core was basically restored at 10:00 on 2 Sep. No port reopening stated.", "ne": "@XHNews 2 Sep: G216 पछि पोर्ट कोर बाटो 2 Sep 10:00 मूलतः खुल्यो। नाका खुलेको भनिएन।", "hi": "@XHNews 2 Sep: G216 के बाद पोर्ट कोर सड़क 2 Sep 10:00 मूलतः खुली। द्वार खुलने का उल्लेख नहीं।"}
+      "id": "x-cctv-0910",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "Gyirong town",
+      "text": {"zh": "@CCTV_Plus 9月10日：留在吉隆镇的尼泊尔工人继续工作，希望灾区恢复。未报新伤亡或队伍坐标。", "en": "@CCTV_Plus 10 Sep: Nepali workers remaining in Gyirong town continue work and hope the area recovers. No new toll or team coordinates.", "ne": "@CCTV_Plus 10 Sep: ग्यिरोङ बजारमा नेपाली कामदार जारी। नयाँ हताहत/कोअर्डिनेट छैन।", "hi": "@CCTV_Plus 10 Sep: ग्यिरोङ कस्बे में नेपाली मजदूर काम जारी रखे हैं। नया हताहत/कोऑर्डिनेट नहीं।"}
     }
   ]
 }
