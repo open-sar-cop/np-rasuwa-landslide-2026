@@ -1,18 +1,18 @@
 {
-  "snap": "2026-10-07T17:07:00Z",
+  "snap": "2026-10-07T18:07:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1007-1707",
+      "id": "poll-1007-1807",
       "src": "official",
-      "t": "2026-10-07T17:07:00Z",
+      "t": "2026-10-07T18:07:00Z",
       "link": "https://thenepalweekly.com/govt-wraps-up-search-and-rescue-following-rasuwa-floods-to-focus-on-rehab-reconstruction/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月7日17:07 UTC再核：分项伤亡仍未更新", "en": "7 Oct 17:07 UTC recheck: split casualties unchanged", "ne": "7 Oct 17:07 UTC: हताहत अङ्क उही", "hi": "7 Oct 17:07 UTC: हताहत अंक वही"},
+      "title": {"zh": "10月7日18:07 UTC再核：分项伤亡仍未更新", "en": "7 Oct 18:07 UTC recheck: split casualties unchanged", "ne": "7 Oct 18:07 UTC: हताहत अङ्क उही", "hi": "7 Oct 18:07 UTC: हताहत अंक वही"},
       "body": {"zh": "本轮再核新华社、人民网与@XHNews/@CCTV_Plus：中方仍为指挥部截至9月5日18时，43死、519失联、救出2人。应急管理部9月17日合计562人死亡失踪、仍在核查，不替代分项。尼方仍用10月5日国家减灾理事会所引NDRRMA，The Nepal Weekly 10月6日复述：1455死、5285失踪、13795获救；大规模搜救已结束。口岸与G216未见重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, People's Daily, @XHNews and @CCTV_Plus: CN remains the command figure as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MEM 17 Sep combined 562 dead and missing, still under verification, does not replace the split. NP stays the 5 Oct national council citing NDRRMA, restated by The Nepal Weekly on 6 Oct: 1455 dead, 5285 missing, 13795 rescued; mass SAR ended. No reopening of the port or G216. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/People's Daily/@XHNews/@CCTV_Plus: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MEM 17 Sep जोड 562, जाँच बाँकी। NP 5 Oct NDRRMA, Nepal Weekly 6 Oct: 1455/5285/13795; ठूलो खोज रोकियो। पोर्ट/G216 खुलेन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua/People's Daily/@XHNews/@CCTV_Plus: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MEM 17 Sep जोड़ 562, सत्यापन बाकी। NP 5 Oct NDRRMA, Nepal Weekly 6 Oct: 1455/5285/13795; बड़ा खोज रुका। पोर्ट/G216 नहीं खुले। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
     },
     {
@@ -73,7 +73,7 @@
       "id": "xinhua-lake-0905",
       "src": "official",
       "t": "2026-09-05T13:49:30Z",
-      "link": "https://english.news.cn/20260905/9514cc986816469cabbe0a858d04197e/c.html",
+      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -151,24 +151,14 @@
   },
   "xPosts": [
     {
-      "id": "x-cctv-0910",
+      "id": "x-cctv-0907",
       "user": "@CCTV_Plus",
-      "t": "2026-09-10T09:15:50Z",
-      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "Gyirong town",
-      "text": {"zh": "@CCTV_Plus 9月10日：吉隆镇留守的尼泊尔务工人员恢复日常，盼灾区尽快恢复。未报新伤亡。", "en": "@CCTV_Plus 10 Sep: Nepali workers remaining in Gyirong Town are back at work and hope recovery. No new casualty figure.", "ne": "@CCTV_Plus 10 Sep: ग्यिरोङ बजारमा नेपाली कामदार काममा फर्के। नयाँ हताहत छैन।", "hi": "@CCTV_Plus 10 Sep: ग्यिरोङ कस्बे में नेपाली मजदूर काम पर लौटे। नया हताहत नहीं।"}
-    },
-    {
-      "id": "x-xh-0910",
-      "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "t": "2026-09-07T02:35:18Z",
+      "link": "https://x.com/CCTV_Plus/status/2096789374872801595",
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月10日：国家气候中心向尼方提供滚动气候监测预报，支持吉隆—拉苏瓦口岸救援。未报新伤亡。", "en": "@XHNews 10 Sep: National Climate Center is sending rolling climate products to Nepal for Gyirong-Rasuwa relief. No new casualty figure.", "ne": "@XHNews 10 Sep: जलवायु केन्द्रले नेपाललाई पूर्वानुमान दियो। नयाँ हताहत छैन।", "hi": "@XHNews 10 Sep: जलवायु केंद्र नेपाल को पूर्वानुमान भेज रहा है। नया हताहत नहीं।"}
+      "text": {"zh": "@CCTV_Plus 9月7日：指挥部9月6日称，截至9月5日18时，43人遇难、519人失联。", "en": "@CCTV_Plus 7 Sep: authorities said on 6 Sep that as of 5 Sep 18:00, 43 were dead and 519 missing.", "ne": "@CCTV_Plus 7 Sep: 5 Sep 18:00 सम्म 43 मृत्यु, 519 सम्पर्क विहीन।", "hi": "@CCTV_Plus 7 Sep: 5 Sep 18:00 तक 43 मृत, 519 लापता।"}
     },
     {
       "id": "x-xh-0909",
@@ -178,17 +168,15 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月9日：回顾8月26日吉隆口岸链式泥石流及中方搜救进展。未给出新的分项伤亡。", "en": "@XHNews 9 Sep: recap of the 26 Aug Gyirong Port chain mudslide and China SAR progress. No new split toll.", "ne": "@XHNews 9 Sep: 26 Aug ग्यिरोङ पोर्ट घटना र खोजको सार। नयाँ अङ्क छैन।", "hi": "@XHNews 9 Sep: 26 Aug ग्यिरोङ पोर्ट घटना और खोज का सार। नया अंक नहीं।"}
+      "text": {"zh": "@XHNews 9月9日：汇总吉隆泥石流搜救进展，未报新分项伤亡。", "en": "@XHNews 9 Sep: roundup of Gyirong mudslide rescue progress; no new casualty split.", "ne": "@XHNews 9 Sep: ग्यिरोङ उद्धार प्रगति; नयाँ हताहत अङ्क छैन।", "hi": "@XHNews 9 Sep: ग्यिरोङ बचाव प्रगति; नया हताहत अंक नहीं।"}
     },
     {
-      "id": "x-xh-0905",
-      "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "@XHNews 9月5日：出入境警察肖福贵在吉隆口岸泥石流后拍摄无人机画面。未报新伤亡。", "en": "@XHNews 5 Sep: immigration officer Xiao Fugui filmed drone footage near Gyirong Port after the mudslide. No new casualty figure.", "ne": "@XHNews 5 Sep: ग्यिरोङ पोर्ट नजिक ड्रोन दृश्य। नयाँ हताहत छैन।", "hi": "@XHNews 5 Sep: ग्यिरोङ पोर्ट के पास ड्रोन दृश्य। नया हताहत नहीं।"}
+      "id": "x-pd-0908",
+      "user": "@PDChina",
+      "t": "2026-09-08T08:30:00Z",
+      "link": "https://x.com/PDChina/status/2097241028776620072",
+      "geo": "unknown",
+      "text": {"zh": "@PDChina 9月8日：已与261名失联外籍人员的23个国家建立信息通报机制，24小时热线仍开通。", "en": "@PDChina 8 Sep: information-sharing set up with 23 countries of 261 missing foreigners; 24-hour hotline still open.", "ne": "@PDChina 8 Sep: 261 विदेशीका 23 देशसँग सूचना; 24-घण्टा हटलाइन खुला।", "hi": "@PDChina 8 Sep: 261 विदेशियों के 23 देशों से सूचना; 24-घंटे हॉटलाइन खुली।"}
     }
   ]
 }
