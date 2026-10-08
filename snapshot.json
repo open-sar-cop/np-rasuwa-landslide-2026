@@ -1,19 +1,19 @@
 {
-  "snap": "2026-10-08T11:20:25Z",
+  "snap": "2026-10-08T12:15:34Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1008-1120",
+      "id": "poll-1008-1215",
       "src": "official",
-      "t": "2026-10-08T11:20:25Z",
-      "link": "",
+      "t": "2026-10-08T12:15:34Z",
+      "link": "https://www.reuters.com/world/china/nepal-ends-search-rescue-after-flood-focuses-rehabilitation-2026-10-05/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月8日11:20 UTC再核：中尼分项仍无新官方更新", "en": "8 Oct 11:20 UTC recheck: no new official CN or NP split", "ne": "8 Oct 11:20 UTC: चीन/नेपाल नयाँ आधिकारिक अङ्क छैन", "hi": "8 Oct 11:20 UTC: चीन/नेपाल नया आधिकारिक अंक नहीं"},
-      "body": {"zh": "本轮再核新华社、人民日报、@XHNews、@CCTV_Plus、NDRRMA/路透社与美使馆：中方仍为截至9月5日18时，43死、519失联、救出2人。尼方仍为路透社10月5日引国家紧急行动中心与NDRRMA：1455死、5285失踪、13795获救，大规模搜救已结束。10月7日尼基建部长仍称正商谈恢复热索口岸，未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, People's Daily, @XHNews, @CCTV_Plus, Reuters/NDRRMA and the US Embassy: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. NP stays Reuters 5 Oct citing NEOC and NDRRMA: 1455 dead, 5285 missing, 13795 rescued; mass SAR ended. Nepal said 7 Oct talks continue; gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/पिपल्स डेली/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, ठूलो खोज रोकियो। 7 Oct वार्ता; नाका खोलिएको छैन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua/पीपल्स डेली/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, बड़ा खोज रुका। 7 Oct वार्ता; द्वार खुला घोषित नहीं। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
+      "title": {"zh": "10月8日12:15 UTC再核：中尼分项仍无新官方更新", "en": "8 Oct 12:15 UTC recheck: no new official CN or NP split", "ne": "8 Oct 12:15 UTC: चीन/नेपाल नयाँ आधिकारिक अङ्क छैन", "hi": "8 Oct 12:15 UTC: चीन/नेपाल नया आधिकारिक अंक नहीं"},
+      "body": {"zh": "本轮再核新华社、人民日报、@XHNews、@CCTV_Plus、路透社与NDRRMA：中方仍为截至9月5日18时，43死、519失联、救出2人。尼方仍为路透社10月5日引国家紧急行动中心与NDRRMA：1455死、5285失踪、13795获救，大规模搜救已结束。CBC 10月7日复述同一口径。口岸未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, People's Daily, @XHNews, @CCTV_Plus, Reuters and NDRRMA: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. NP stays Reuters 5 Oct citing NEOC and NDRRMA: 1455 dead, 5285 missing, 13795 rescued; mass SAR ended. CBC 7 Oct repeats the same figures. Gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, ठूलो खोज रोकियो। CBC 7 Oct एकै अङ्क। नाका खोलिएको छैन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, बड़ा खोज रुका। CBC 7 Oct वही अंक। द्वार खुला घोषित नहीं। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
     },
     {
       "id": "reuters-sar-end-1005",
@@ -105,7 +105,7 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "name": {"zh": "吉隆口岸/热索国门", "en": "Gyirong Port / Rasuwagadhi gate", "ne": "ग्यिरोङ पोर्ट / रसुवागाढ़ी", "hi": "ग्यिरोङ पोर्ट / रसुवागढ़ी"},
-      "detail": {"zh": "10月8日11:20 UTC再核：交通厅至9月28日国门仍双向管制，解除时间待定。10月7日尼方称正商谈恢复，未见重开通告。美使馆9月3日仍勿前往。", "en": "Recheck 8 Oct 11:20 UTC: transport bulletin through 28 Sep keeps the gate two-way controlled, lift time unset. Nepal said 7 Oct talks continue; no reopening notice. US Embassy 3 Sep still advises do not travel.", "ne": "8 Oct 11:20 UTC: 28 Sep सम्म नाका नियन्त्रण। 7 Oct वार्ता। खुलेको छैन।", "hi": "8 Oct 11:20 UTC: 28 Sep तक द्वार नियंत्रित। 7 Oct वार्ता। खुला नहीं।"}
+      "detail": {"zh": "10月8日12:15 UTC再核：交通厅至9月28日国门仍双向管制，解除时间待定。10月7日尼方称正商谈恢复，未见重开通告。美使馆9月3日仍勿前往。", "en": "Recheck 8 Oct 12:15 UTC: transport bulletin through 28 Sep keeps the gate two-way controlled, lift time unset. Nepal said 7 Oct talks continue; no reopening notice. US Embassy 3 Sep still advises do not travel.", "ne": "8 Oct 12:15 UTC: 28 Sep सम्म नाका नियन्त्रण। 7 Oct वार्ता। खुलेको छैन।", "hi": "8 Oct 12:15 UTC: 28 Sep तक द्वार नियंत्रित। 7 Oct वार्ता। खुला नहीं।"}
     },
     {
       "id": "g216",
@@ -142,12 +142,12 @@
   },
   "xPosts": [
     {
-      "id": "x-pd-0911",
-      "user": "@PDChina",
-      "t": "2026-09-11T00:00:01Z",
-      "link": "https://x.com/PDChina/status/2098199849758011623",
+      "id": "x-xh-0910",
+      "user": "@XHNews",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
       "geo": "unknown",
-      "text": {"zh": "人民日报：国家气候中心向尼泊尔提供滚动气候监测与预报，支持吉隆—拉苏瓦口岸泥石流后救援。", "en": "People's Daily: China's National Climate Center is giving Nepal rolling climate monitoring and forecasts for Gyirong-Rasuwa rescue.", "ne": "PDChina: जलवायु केन्द्रले ग्यिरोङ-रसुवा उद्धारका लागि नेपाललाई जलवायु पूर्वानुमान दिइरहेको छ।", "hi": "PDChina: जलवायु केंद्र ग्यिरोङ-रसुवा बचाव के लिए नेपाल को पूर्वानुमान दे रहा है।"}
+      "text": {"zh": "新华社：国家气候中心向尼泊尔提供滚动气候监测与预报，支持吉隆—拉苏瓦口岸泥石流后救援。", "en": "@XHNews: China's National Climate Center is giving Nepal rolling climate monitoring and forecasts after the Gyirong-Rasuwa mudslide.", "ne": "@XHNews: जलवायु केन्द्रले ग्यिरोङ-रसुवा उद्धारका लागि नेपाललाई जलवायु पूर्वानुमान दिइरहेको छ।", "hi": "@XHNews: जलवायु केंद्र ग्यिरोङ-रसुवा बचाव के लिए नेपाल को पूर्वानुमान दे रहा है।"}
     },
     {
       "id": "x-cctv-0910",
@@ -157,15 +157,7 @@
       "lat": 28.39,
       "lng": 85.325,
       "geo": "Gyirong town",
-      "text": {"zh": "央视：灾后留在吉隆镇的尼泊尔务工人员继续工作，希望灾区尽快恢复。", "en": "CCTV+: Nepali workers who stayed in Gyirong Town after the mudslide continue working and hope the area recovers.", "ne": "CCTV+: पहिरोपछि ग्यिरोङ बजारमा बसेका नेपाली कार्यकर्ता काम गरिरहेका छन्।", "hi": "CCTV+: पहिरो के बाद ग्यिरोङ कस्बे में रुके नेपाली कार्यकर्ता काम जारी रखे हैं।"}
-    },
-    {
-      "id": "x-xh-0910",
-      "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
-      "text": {"zh": "新华社：国家气候中心正向尼泊尔提供滚动气候监测与预报产品，支持吉隆—拉苏瓦口岸泥石流救援。", "en": "Xinhua: the National Climate Center is providing Nepal rolling climate products to support Gyirong-Rasuwa mudslide rescue.", "ne": "Xinhua: जलवायु केन्द्रले ग्यिरोङ-रसुवा उद्धारका लागि नेपाललाई जलवायु उत्पादन दिइरहेको छ।", "hi": "Xinhua: जलवायु केंद्र ग्यिरोङ-रसुवा बचाव के लिए नेपाल को जलवायु उत्पाद दे रहा है।"}
+      "text": {"zh": "央视：灾后留在吉隆镇的尼泊尔工人继续工作，希望灾区尽快恢复。", "en": "@CCTV_Plus: Nepali workers who stayed in disaster-hit Gyirong Town are back at work and hope the area recovers.", "ne": "@CCTV_Plus: ग्यिरोङ बजारमा बसेका नेपाली कामदारले काम जारी राखेका छन्।", "hi": "@CCTV_Plus: ग्यिरोङ कस्बे में रुके नेपाली मजदूर काम जारी रखे हैं।"}
     },
     {
       "id": "x-xh-0909",
@@ -175,8 +167,17 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "title": {"zh": "", "en": "", "ne": "", "hi": ""},
-      "text": {"zh": "新华社：8月26日尼泊尔高山冰川崩塌引发链式泥石流冲击吉隆口岸，造成重大伤亡和失联；中方救援仍在推进。", "en": "Xinhua: a glacier-collapse chain mudslide struck Gyirong Port on 26 Aug, causing heavy casualties and missing persons; Chinese rescue continues.", "ne": "Xinhua: 26 Aug हिमनदी भत्कापछि ग्यिरोङ पोर्टमा पहिरो, धेरै क्षति र सम्पर्क विहीन; उद्धार जारी।", "hi": "Xinhua: 26 Aug ग्लेशियर ध्वंस से ग्यिरोङ पोर्ट पर पहिरो, भारी क्षति और लापते; बचाव जारी।"}
+      "text": {"zh": "新华社：8月26日尼泊尔高位冰岩崩引发链式泥石流冲击吉隆口岸，造成重大伤亡与失联，中方已展开搜救。", "en": "@XHNews: a chain mudslide from a Nepal glacier collapse struck Gyirong Port on 26 Aug, causing heavy casualties and many missing; China launched search and rescue.", "ne": "@XHNews: 26 Aug नेपालको हिमताली भागले ग्यिरोङ पोर्ट हान्यो, धेरै मृत्यु र सम्पर्क विहीन।", "hi": "@XHNews: 26 Aug नेपाल ग्लेशियर टूट से ग्यिरोङ पोर्ट पर मलबा, भारी मृत्यु और लापता।"}
+    },
+    {
+      "id": "x-cctv-0909",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-09T03:43:07Z",
+      "link": "https://x.com/CCTV_Plus/status/2097531220129353832",
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "Gyirong town",
+      "text": {"zh": "央视：志愿者在吉隆县向受灾群众和滞留尼泊尔公民提供免费餐食。", "en": "@CCTV_Plus: volunteers in Gyirong County are handing out free meals to affected residents and stranded Nepali citizens.", "ne": "@CCTV_Plus: ग्यिरोङमा स्वयंसेवकले प्रभावित र अल्झिएका नेपालीलाई निःशुल्क खाना दिइरहेका छन्।", "hi": "@CCTV_Plus: ग्यिरोङ में स्वयंसेवक प्रभावित और फंसे नेपालियों को मुफ्त भोजन दे रहे हैं।"}
     }
   ]
 }
