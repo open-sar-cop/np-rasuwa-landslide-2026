@@ -1,19 +1,19 @@
 {
-  "snap": "2026-10-08T06:12:26Z",
+  "snap": "2026-10-08T20:09:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1008-0612",
+      "id": "poll-1008-2009",
       "src": "official",
-      "t": "2026-10-08T06:12:26Z",
+      "t": "2026-10-08T20:09:00Z",
       "link": "",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月8日06:12 UTC再核：中尼分项仍无新官方更新", "en": "8 Oct 06:12 UTC recheck: no new official CN or NP split", "ne": "8 Oct 06:12 UTC: चीन/नेपाल नयाँ आधिकारिक अङ्क छैन", "hi": "8 Oct 06:12 UTC: चीन/नेपाल नया आधिकारिक अंक नहीं"},
-      "body": {"zh": "本轮再核新华社、gov.cn、交通厅路网、@XHNews、@CCTV_Plus、NDRRMA与美使馆：中方仍为截至9月5日18时，43死、519失联、救出2人。尼方仍为路透社10月5日引国家紧急行动中心与NDRRMA：1455死、5285失踪、13795获救，大规模搜救已结束。口岸未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, gov.cn, the transport bulletin, @XHNews, @CCTV_Plus, NDRRMA and the US Embassy: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. NP stays Reuters 5 Oct citing NEOC and NDRRMA: 1455 dead, 5285 missing, 13795 rescued; mass SAR ended. Gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/gov.cn/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, ठूलो खोज रोकियो। नाका खोलिएको छैन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua/gov.cn/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, बड़ा खोज रुका। द्वार खुला घोषित नहीं। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
+      "title": {"zh": "10月8日20:09 UTC再核：中尼分项仍无新官方更新", "en": "8 Oct 20:09 UTC recheck: no new official CN or NP split", "ne": "8 Oct 20:09 UTC: चीन/नेपाल नयाँ आधिकारिक अङ्क छैन", "hi": "8 Oct 20:09 UTC: चीन/नेपाल नया आधिकारिक अंक नहीं"},
+      "body": {"zh": "本轮再核新华社、gov.cn、交通厅路网、@XHNews、@CCTV_Plus、NDRRMA与美使馆：中方仍为截至9月5日18时，43死、519失联、救出2人。尼方仍为路透社10月5日引国家紧急行动中心与NDRRMA：1455死、5285失踪、13795获救，大规模搜救已结束。10月7日尼方称正商谈恢复热索口岸，未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, gov.cn, the transport bulletin, @XHNews, @CCTV_Plus, NDRRMA and the US Embassy: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. NP stays Reuters 5 Oct citing NEOC and NDRRMA: 1455 dead, 5285 missing, 13795 rescued; mass SAR ended. Nepal said 7 Oct talks continue; gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/gov.cn/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, ठूलो खोज रोकियो। नाका खोलिएको छैन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua/gov.cn/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, बड़ा खोज रुका। द्वार खुला घोषित नहीं। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
     },
     {
       "id": "reuters-sar-end-1005",
@@ -41,19 +41,19 @@
       "id": "cn-kpi-0905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://news.ifeng.com/c/8wCiMe25Aep",
+      "link": "https://www.tibet3.com/news/zangqu/xz/2026-09/07/content_500530040.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {"zh": "指挥部：截至9月5日18时 43死519失联", "en": "Command: as of 5 Sep 18:00, 43 dead, 519 missing", "ne": "कमान्ड: 5 Sep 18:00, 43 मृत्यु, 519 सम्पर्क विहीन", "hi": "कमांड: 5 Sep 18:00, 43 मृत, 519 लापता"},
-      "body": {"zh": "凤凰网/央视9月6日引吉隆应急救援指挥部：截至9月5日18时，43人遇难、519人失联、成功救出2人。外籍失联261人。此后新华社与@XHNews未见更新分项。", "en": "Ifeng/CCTV on 6 Sep citing the Gyirong command: as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. 261 missing foreigners. No later split from Xinhua or @XHNews.", "ne": "कमान्ड: 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। विदेशी 261। पछि नयाँ अङ्क छैन।", "hi": "कमांड: 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। विदेशी 261। बाद नया अंक नहीं।"}
+      "body": {"zh": "中国藏族网通9月6日引吉隆应急救援指挥部：截至9月5日18时，43人遇难、519人失联、成功救出2人。外籍失联261人。此后新华社与@XHNews未见更新分项。", "en": "Tibet3 on 6 Sep citing the Gyirong command: as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. 261 missing foreigners. No later split from Xinhua or @XHNews.", "ne": "कमान्ड: 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। विदेशी 261। पछि नयाँ अङ्क छैन।", "hi": "कमांड: 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। विदेशी 261। बाद नया अंक नहीं।"}
     },
     {
       "id": "xinhua-lake-0905",
       "src": "official",
-      "t": "2026-09-05T01:19:00Z",
-      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
+      "t": "2026-09-05T13:36:00Z",
+      "link": "https://english.news.cn/20260905/9514cc986816469cabbe0a858d04197e/c.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
@@ -105,7 +105,7 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "name": {"zh": "吉隆口岸/热索国门", "en": "Gyirong Port / Rasuwagadhi gate", "ne": "ग्यिरोङ पोर्ट / रसुवागाढ़ी", "hi": "ग्यिरोङ पोर्ट / रसुवागढ़ी"},
-      "detail": {"zh": "10月8日06:12 UTC再核：交通厅至9月28日国门仍双向管制，解除时间待定。10月7日尼方称正商谈恢复，未见重开通告。美使馆仍勿前往。", "en": "Recheck 8 Oct 06:12 UTC: transport bulletin through 28 Sep keeps the gate two-way controlled, lift time unset. Nepal said 7 Oct talks continue; no reopening notice. US Embassy still advises do not travel.", "ne": "8 Oct 06:12 UTC: 28 Sep सम्म नाका नियन्त्रण। 7 Oct वार्ता। खुलेको छैन।", "hi": "8 Oct 06:12 UTC: 28 Sep तक द्वार नियंत्रित। 7 Oct वार्ता। खुला नहीं।"}
+      "detail": {"zh": "10月8日20:09 UTC再核：交通厅至9月28日国门仍双向管制，解除时间待定。10月7日尼方称正商谈恢复，未见重开通告。美使馆仍勿前往。", "en": "Recheck 8 Oct 20:09 UTC: transport bulletin through 28 Sep keeps the gate two-way controlled, lift time unset. Nepal said 7 Oct talks continue; no reopening notice. US Embassy still advises do not travel.", "ne": "8 Oct 20:09 UTC: 28 Sep सम्म नाका नियन्त्रण। 7 Oct वार्ता। खुलेको छैन।", "hi": "8 Oct 20:09 UTC: 28 Sep तक द्वार नियंत्रित। 7 Oct वार्ता। खुला नहीं।"}
     },
     {
       "id": "g216",
@@ -159,7 +159,7 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "text": {"zh": "新华社：8月26日尼泊尔高位冰川崩塌引发链式泥石流冲击吉隆口岸，造成重大伤亡失联；中方已全力搜救。", "en": "Xinhua: a chain mudslide from a high-altitude glacier collapse in Nepal struck Gyirong Port on 26 Aug, causing heavy casualties and many missing; China launched all-out SAR.", "ne": "Xinhua: 26 Aug ग्यिरोङ पोर्टमा हिमनदी खसेर पहिरो लाग्यो; ठूलो क्षति र सम्पर्क विहीन।", "hi": "Xinhua: 26 Aug ग्यिरोङ पोर्ट पर ग्लेशियर खसकर पहिरो; भारी हानि और लापता।"}
+      "text": {"zh": "新华社：8月26日尼泊尔高位冰川崩塌引发链式泥石流冲击吉隆口岸，造成重大伤亡失联；中方已全力搜救。", "en": "Xinhua: a chain mudslide from a high-altitude glacier collapse in Nepal struck Gyirong Port on 26 Aug, causing heavy casualties and many missing; China launched all-out search.", "ne": "Xinhua: 26 Aug नेपालको हिमनदी भत्किएपछि चेन पहिरो ग्यिरोङ पोर्टमा हिर्यो; घैरे क्षति र बेपत्ता।", "hi": "Xinhua: 26 Aug नेपाल के ग्लेशियर टूटने से चेन पहिरो ग्यिरोङ पोर्ट पर गिरा; भारी क्षति और लापता।"}
     },
     {
       "id": "x-xh-0908",
@@ -169,57 +169,7 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "text": {"zh": "新华社：8月26日尼泊尔高位冰川崩塌引发链式泥石流冲击吉隆口岸，造成重大伤亡失联；中方即时全力搜救。", "en": "Xinhua: the 26 Aug chain mudslide from a Nepal glacier collapse hit Gyirong Port, with heavy casualties and many missing; Chinese rescuers launched all-out SAR.", "ne": "Xinhua: 26 Aug ग्यिरोङमा पहिरो; ठूलो क्षति; चीनीय उद्धार सुरु।", "hi": "Xinhua: 26 Aug ग्यिरोङ पर पहिरो; भारी हानि; चीनी बचाव शुरू।"}
-    },
-    {
-      "id": "x-xh-0905",
-      "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "新华社：边检民警肖福贵在8月26日泥石流冲击吉隆口岸后不久拍摄无人机画面。", "en": "Xinhua: immigration officer Xiao Fugui filmed drone footage near Gyirong Port shortly after the 26 Aug chain mudslide.", "ne": "Xinhua: 26 Aug पछि ग्यिरोङ पोर्ट नजिक ड्रोन तस्बिर।", "hi": "Xinhua: 26 Aug के बाद ग्यिरोङ पोर्ट के पास ड्रोन तस्वीर।"}
-    },
-    {
-      "id": "x-xh-0904",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "新华社：无路、急流、不稳边坡与巨石使吉隆口岸核心区道路难以重开。", "en": "Xinhua: no road, fast water, unstable slopes and boulders made reopening the route to Gyirong Port core area difficult.", "ne": "Xinhua: बाटो छैन, छिटो पानी, अस्थिर भिरो; ग्यिरोङ कोर बाटो खोल्न गाह्रो।", "hi": "Xinhua: सड़क नहीं, तेज पानी, अस्थिर ढलान; ग्यिरोङ कोर रास्ता खोलना कठिन।"}
-    },
-    {
-      "id": "x-xh-0902",
-      "user": "@XHNews",
-      "t": "2026-09-02T06:35:21Z",
-      "link": "https://x.com/XHNews/status/2095037845782315284",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "新华示：9月2日10时吉隆口岸核心区G216陆路通道基本抢通。", "en": "Xinhua: road access to the Gyirong Port core area on G216 was basically restored at 10:00 on 2 Sep.", "ne": "Xinhua: 2 Sep 10:00 ग्यिरोङ कोर G216 बाटो मूलतः खुल्यो।", "hi": "Xinhua: 2 Sep 10:00 ग्यिरोङ कोर G216 सड़क मूल रूप से खुला।"}
-    },
-    {
-      "id": "x-xh-0903",
-      "user": "@XHNews",
-      "t": "2026-09-03T12:07:02Z",
-      "link": "https://x.com/XHNews/status/2095483707511734465",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "新华社：泥石流冲刷后，吉隆口岸山侧“中国我爱你”大字仍依稀可见；救援人员仍在抢时间。", "en": "Xinhua: after the mudslide, the mountainside characters beside Gyirong Port remain faintly visible; rescuers continue to race against time.", "ne": "Xinhua: पहिरोपछि ग्यिरोङ पहाडीका अक्षर देखिन्छन्; उद्धारकर्ता समयसँग दौडिरहेका छन्।", "hi": "Xinhua: पहिरो के बाद ग्यिरोङ के पहाड़ अक्षर दिखते हैं; बचावकर्ता समय से दौड़ रहे हैं।"}
-    },
-    {
-      "id": "x-xh-0830",
-      "user": "@XHNews",
-      "t": "2026-08-30T14:25:09Z",
-      "link": "https://x.com/XHNews/status/2094068911415443557",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "新华社：激光人工智能监测设备协助救援队伍实时识别吉隆县滑坡与落石风险，以重开关键通道。", "en": "Xinhua: a laser AI monitor is helping rescuers detect landslide and rockfall risk in real time while reopening a key route in Gyirong County.", "ne": "Xinhua: लेजर AI मोनिटरले ग्यिरोङमा पहिरो/खस्ने जोखिम देखाउँछ।", "hi": "Xinhua: लेजर AI मॉनिटर ग्यिरोङ में भूस्खलन/चट्टान जोखिम दिखा रहा है।"}
+      "text": {"zh": "新华社：8月26日尼泊尔高位冰川崩塌引发链式泥石流冲击吉隆口岸，造成重大伤亡失联；中方已立即全力搜救。本轮@XHNews无更新帖。", "en": "Xinhua: chain mudslide from a Nepal glacier collapse struck Gyirong Port on 26 Aug; China launched all-out SAR. No newer @XHNews post this cycle.", "ne": "Xinhua: 26 Aug ग्यिरोङ पोर्टमा चेन पहिरो। यो चक्र @XHNews नयाँ पोस्ट छैन।", "hi": "Xinhua: 26 Aug ग्यिरोङ पोर्ट पर चेन पहिरो। इस चक्र @XHNews नया पोस्ट नहीं।"}
     }
   ]
 }
