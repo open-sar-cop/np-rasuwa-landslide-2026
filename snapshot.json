@@ -1,19 +1,19 @@
 {
-  "snap": "2026-10-09T06:11:00Z",
+  "snap": "2026-10-09T20:09:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1455, "missing": 5285, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1009-0611",
+      "id": "poll-1009-2009",
       "src": "official",
-      "t": "2026-10-09T06:11:00Z",
+      "t": "2026-10-09T20:09:00Z",
       "link": "https://www.reuters.com/world/china/nepal-ends-search-rescue-after-flood-focuses-rehabilitation-2026-10-05/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月9日06:11 UTC再核：中尼分项仍无新官方更新", "en": "9 Oct 06:11 UTC recheck: no new official CN or NP split", "ne": "9 Oct 06:11 UTC: चीन/नेपाल नयाँ आधिकारिक अङ्क छैन", "hi": "9 Oct 06:11 UTC: चीन/नेपाल नया आधिकारिक अंक नहीं"},
-      "body": {"zh": "本轮再核新华社、央广网、水利部、西藏交通厅、@XHNews、@CCTV_Plus、路透社与NDRRMA：中方仍为截至9月5日18时，43死、519失联、救出2人。尼方仍为路透社10月5日引NEOC与NDRRMA：1455死、5285失踪、13795获救，大规模搜救已结束。epardafas 10月9日称截至当日06:00死亡1457、失联4720，未点名NDRRMA，不入KPI。口岸未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, CNR, MWR, Xizang transport, @XHNews, @CCTV_Plus, Reuters and NDRRMA: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. NP stays Reuters 5 Oct citing NEOC and NDRRMA: 1455 dead, 5285 missing, 13795 rescued; mass SAR ended. Epardafas 9 Oct says 1457 dead and 4720 unaccounted as of 06:00 but does not name NDRRMA, so it is not in KPI. Gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, ठूलो खोज रोकियो। epardafas 9 Oct 1457/4720 NDRRMA नाम छैन, KPI मा छैन। नाका खोलिएको छैन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, बड़ा खोज रुका। epardafas 9 Oct 1457/4720 NDRRMA नाम नहीं, KPI में नहीं। द्वार खुला घोषित नहीं। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
+      "title": {"zh": "10月9日20:09 UTC再核：中尼分项仍无新官方更新", "en": "9 Oct 20:09 UTC recheck: no new official CN or NP split", "ne": "9 Oct 20:09 UTC: चीन/नेपाल नयाँ आधिकारिक अङ्क छैन", "hi": "9 Oct 20:09 UTC: चीन/नेपाल नया आधिकारिक अंक नहीं"},
+      "body": {"zh": "本轮再核新华社、央广网、水利部、西藏交通厅、@XHNews与NDRRMA/路透社：中方仍为截至9月5日18时，43死、519失联、救出2人。尼方KPI仍为路透社10月5日引NEOC与NDRRMA：1455死、5285失踪、13795获救，大规模搜救已结束。epardafas 10月9日称截至当日06:00死亡1457、失联4720，未点名NDRRMA，不入KPI。口岸未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, CNR, MWR, Xizang transport, @XHNews and NDRRMA/Reuters: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. NP KPI stays Reuters 5 Oct citing NEOC and NDRRMA: 1455 dead, 5285 missing, 13795 rescued; mass SAR ended. Epardafas 9 Oct says 1457 dead and 4720 unaccounted as of 06:00 but does not name NDRRMA, so it is not in KPI. Gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, ठूलो खोज रोकियो। epardafas 9 Oct 1457/4720 NDRRMA नाम छैन, KPI मा छैन। नाका खोलिएको छैन। ताल Xinhua 5 Sep खाली। GNSS छैन।", "hi": "Xinhua: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। NP Reuters 5 Oct: 1455/5285/13795, बड़ा खोज रुका। epardafas 9 Oct 1457/4720 NDRRMA नाम नहीं, KPI में नहीं। द्वार खुला घोषित नहीं। झील Xinhua 5 Sep खाली। GNSS नहीं।"}
     },
     {
       "id": "epardafas-1009",
@@ -23,7 +23,7 @@
       "img": null,
       "geo": "unknown",
       "title": {"zh": "epardafas 10月9日：称波特科西死亡升1457，未点名NDRRMA", "en": "Epardafas 9 Oct: Bhotekoshi deaths put at 1457, NDRRMA not named", "ne": "epardafas 9 Oct: भोटेकोशी मृत्यु 1457, NDRRMA नाम छैन", "hi": "epardafas 9 Oct: भोटेकोशी मृत्यु 1457, NDRRMA नाम नहीं"},
-      "body": {"zh": "epardafas称截至周五06:00（约10月9日00:15 UTC）死亡升1457：找回遗体1455具，加德满都治疗2人；仍有4720人下落不明。正文未引NDRRMA或警方公报，不作KPI。无现场坐标。", "en": "Epardafas says as of Friday 06:00 (about 9 Oct 00:15 UTC) deaths are 1457: 1455 bodies recovered plus 2 who died in treatment in Kathmandu; 4720 still unaccounted. The text does not cite NDRRMA or a police bulletin, so it is not used as KPI. No field coordinates.", "ne": "epardafas: शुक्रबार 06:00 (करिब 9 Oct 00:15 UTC) 1457 मृत्यु, 4720 बेपत्ता। NDRRMA उद्धृत छैन, KPI होइन। GNSS छैन।", "hi": "epardafas: शुक्रवार 06:00 (लगभग 9 Oct 00:15 UTC) 1457 मृत, 4720 लापता। NDRRMA उद्धृत नहीं, KPI नहीं। GNSS नहीं।"}
+      "body": {"zh": "epardafas称截至周五06:00（约10月9日00:15 UTC）死亡升1457：找回遗体1455具，加德满都治疗2人；仍有4720人下落不明，警方投入7975人。正文未引NDRRMA或警方公报，不作KPI。无现场坐标。", "en": "Epardafas says as of Friday 06:00 (about 9 Oct 00:15 UTC) deaths are 1457: 1455 bodies recovered plus 2 who died in treatment in Kathmandu; 4720 still unaccounted; 7975 police mobilized. The text does not cite NDRRMA or a police bulletin, so it is not used as KPI. No field coordinates.", "ne": "epardafas: शुक्रबार 06:00 (करिब 9 Oct 00:15 UTC) 1457 मृत्यु, 4720 बेपत्ता। NDRRMA उद्धृत छैन, KPI होइन। GNSS छैन।", "hi": "epardafas: शुक्रवार 06:00 (लगभग 9 Oct 00:15 UTC) 1457 मृत, 4720 लापता। NDRRMA उद्धृत नहीं, KPI नहीं। GNSS नहीं।"}
     },
     {
       "id": "reuters-sar-end-1005",
@@ -69,7 +69,7 @@
       "lng": 85.392,
       "geo": "barrier lake",
       "title": {"zh": "新华社9月5日：口岸上方堰塞湖已排空", "en": "Xinhua 5 Sep: barrier lake above the port drained", "ne": "Xinhua 5 Sep: पोर्ट माथिको बाँध ताल खाली", "hi": "Xinhua 5 Sep: पोर्ट के ऊपर झील खाली"},
-      "body": {"zh": "新华社引应急管理部门：口岸核心区上方堰塞湖湖水排空，河道恢复过流，险情基本解除。水利部9月7日仍称河道过流正常。本轮无更新水文通报。", "en": "Xinhua citing emergency management: the barrier lake above the core area was drained, the channel resumed flow, and the hazard was basically lifted. MWR on 7 Sep still said flow was normal. No newer hydro bulletin this cycle.", "ne": "Xinhua: पोर्ट माथिको ताल खाली, नदी बह्यो। MWR 7 Sep: बहाव सामान्य। यो चक्र नयाँ जलविज्ञान छैन।", "hi": "Xinhua: पोर्ट के ऊपर झील खाली, नदी बही। MWR 7 Sep: बहाव सामान्य। इस चक्र नया जलविज्ञान नहीं।"}
+      "body": {"zh": "新华社引应急管理部门：口岸核心区上方堰塞湖湖水排空，河道恢复过流，险情基本解除。本轮无更新水文通报。", "en": "Xinhua citing emergency management: the barrier lake above the core area was drained, the channel resumed flow, and the hazard was basically lifted. No newer hydro bulletin this cycle.", "ne": "Xinhua: पोर्ट माथिको ताल खाली, नदी बह्यो। यो चक्र नयाँ जलविज्ञान छैन।", "hi": "Xinhua: पोर्ट के ऊपर झील खाली, नदी बही। इस चक्र नया जलविज्ञान नहीं।"}
     },
     {
       "id": "g216-jtt-0928",
@@ -115,7 +115,7 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "name": {"zh": "吉隆口岸/热索国门", "en": "Gyirong Port / Rasuwagadhi gate", "ne": "ग्यिरोङ पोर्ट / रसुवागढ़ी", "hi": "ग्यिरोङ पोर्ट / रसुवागढ़ी"},
-      "detail": {"zh": "10月9日06:11 UTC再核：交通厅至9月28日国门仍双向管制，解除时间待定。10月6日尼方称正商谈恢复，未见重开通告。美使馆9月3日仍勿前往。", "en": "Recheck 9 Oct 06:11 UTC: transport bulletin through 28 Sep keeps the gate two-way controlled, lift time unset. Nepal said 6 Oct talks continue; no reopening notice. US Embassy 3 Sep still advises do not travel.", "ne": "9 Oct 06:11 UTC: 28 Sep सम्म नाका नियन्त्रण। 6 Oct वार्ता। खुलेको छैन।", "hi": "9 Oct 06:11 UTC: 28 Sep तक द्वार नियंत्रित। 6 Oct वार्ता। खुला नहीं।"}
+      "detail": {"zh": "10月9日20:09 UTC再核：交通厅至9月28日国门仍双向管制，解除时间待定。10月6日尼方称正商谈恢复，未见重开通告。美使馆9月3日仍勿前往。", "en": "Recheck 9 Oct 20:09 UTC: transport bulletin through 28 Sep keeps the gate two-way controlled, lift time unset. Nepal said 6 Oct talks continue; no reopening notice. US Embassy 3 Sep still advises do not travel.", "ne": "9 Oct 20:09 UTC: 28 Sep सम्म नाका नियन्त्रण। 6 Oct वार्ता। खुलेको छैन।", "hi": "9 Oct 20:09 UTC: 28 Sep तक द्वार नियंत्रित। 6 Oct वार्ता। खुला नहीं।"}
     },
     {
       "id": "g216",
@@ -148,7 +148,7 @@
   "hydro": {
     "lat": 28.293,
     "lng": 85.392,
-    "status": {"zh": "新华社9月5日：口岸上方堰塞湖已排空，河道恢复过流；水利部9月7日过流正常；本轮无新水文通报", "en": "Xinhua 5 Sep: barrier lake above the port drained and channel flowing; MWR 7 Sep said flow normal; no newer hydro bulletin this cycle", "ne": "Xinhua 5 Sep: पोर्ट माथिको ताल खाली, नदी बह्यो; MWR 7 Sep सामान्य; यो चक्र नयाँ छैन", "hi": "Xinhua 5 Sep: पोर्ट के ऊपर झील खाली, नदी बही; MWR 7 Sep सामान्य; इस चक्र नया नहीं"}
+    "status": {"zh": "新华社9月5日：口岸上方堰塞湖已排空，河道恢复过流，险情基本解除。本轮无更新水文。", "en": "Xinhua 5 Sep: barrier lake above the port drained, channel flowing, hazard basically lifted. No newer hydro bulletin this cycle.", "ne": "Xinhua 5 Sep: पोर्ट माथिको ताल खाली, नदी बह्यो। यो चक्र नयाँ जलविज्ञान छैन।", "hi": "Xinhua 5 Sep: पोर्ट के ऊपर झील खाली, नदी बही। इस चक्र नया जलविज्ञान नहीं।"}
   },
   "xPosts": [
     {
@@ -156,18 +156,10 @@
       "user": "@XHNews",
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
-      "geo": "unknown",
-      "text": {"zh": "新华社：国家气候中心向尼泊尔提供滚动气候监测与预报，支持吉隆—拉苏瓦口岸泥石流后救援。", "en": "@XHNews: China's National Climate Center is giving Nepal rolling climate monitoring and forecasts after the Gyirong-Rasuwa mudslide.", "ne": "@XHNews: जलवायु केन्द्रले ग्यिरोङ-रसुवा उद्धारका लागि नेपाललाई जलवायु पूर्वानुमान दिइरहेको छ।", "hi": "@XHNews: जलवायु केंद्र ग्यिरोङ-रसुवा बचाव के लिए नेपाल को पूर्वानुमान दे रहा है।"}
-    },
-    {
-      "id": "x-cctv-0910",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-10T09:15:50Z",
-      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
-      "lat": 28.39,
-      "lng": 85.325,
-      "geo": "Gyirong town",
-      "text": {"zh": "央视：泥石流后选择留在吉隆镇的尼泊尔工人恢复生计，希望灾区尽快恢复。非伤亡通报。", "en": "@CCTV_Plus: Nepali workers who stayed in Gyirong town are back at work and hope the area recovers. Not a casualty update.", "ne": "@CCTV_Plus: ग्यिरोङ बजारमा बसेका नेपाली कामदार काममा फर्के। मृत्यु अङ्क होइन।", "hi": "@CCTV_Plus: ग्यिरोङ कस्बे में रुके नेपाली मजदूर काम पर लौटे। मृत्यु अंक नहीं।"}
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "text": {"zh": "@XHNews：国家气候中心正向尼泊尔提供滚动气候监测与预报，支持吉隆—拉苏瓦口岸泥石流救援。此后未见更新伤亡帖。", "en": "@XHNews: China's National Climate Center is sending rolling climate products to Nepal to support rescue after the Gyirong-Rasuwa mudslide. No later casualty post found.", "ne": "@XHNews: जलवायु उत्पाद नेपाललाई ग्यिरोङ-रसुवा उद्धारका लागि। पछि नयाँ मृत्यु पोस्ट छैन।", "hi": "@XHNews: जलवायु उत्पाद नेपाल को ग्यिरोङ-रसुवा उद्धार के लिए। बाद नया मृत्यु पोस्ट नहीं।"}
     },
     {
       "id": "x-xh-0909",
@@ -177,7 +169,16 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
-      "text": {"zh": "新华社9月9日：8月26日尼方高位冰崩引发链式泥石流冲击吉隆口岸，造成重大伤亡失联；未给新分项数字。", "en": "@XHNews 9 Sep: the 26 Aug chain mudslide from a Nepal glacier collapse hit Gyirong Port, with heavy casualties and many missing; no new split figures.", "ne": "@XHNews 9 Sep: 26 Aug ग्यिरोङ पोर्ट मा पहिरो; नयाँ अङ्क छैन।", "hi": "@XHNews 9 Sep: 26 Aug ग्यिरोङ पोर्ट पर मलबा; नया अंक नहीं।"}
+      "title": null,
+      "text": {"zh": "@XHNews 9月9日：尼泊尔高海拔冰川崩触触发链式泥石流，8月26日冲击吉隆口岸，造成重大伤亡并仍有多人失联。未列新分项数字。", "en": "@XHNews 9 Sep: a chain mudslide from a Nepal glacier collapse hit Gyirong Port on 26 Aug, causing heavy casualties and leaving many missing. No new split figures in the post.", "ne": "@XHNews 9 Sep: नेपालको हिमानी भत्कियोले ग्यिरोङ पोर्ट लाग्यो, धेरै मृत्यु र बेपत्ता। नयाँ अङ्क छैन।", "hi": "@XHNews 9 Sep: नेपाल ग्लेशियर टूटने से ग्यिरोङ पोर्ट पर मृत्यु और लापता। नया अंक नहीं।"}
+    },
+    {
+      "id": "x-nb-1008",
+      "user": "@NepalBolcha",
+      "t": "2026-10-08T10:04:03Z",
+      "link": "https://x.com/NepalBolcha/status/2108136333395050830",
+      "geo": "unknown",
+      "text": {"zh": "@NepalBolcha 10月8日转述评估：1455死、5285失踪、2300户失所家庭。非NDRRMA公报，不入KPI。无坐标。", "en": "@NepalBolcha 8 Oct relays an assessment: 1455 dead, 5285 missing, 2300 displaced families. Not an NDRRMA bulletin; not used as KPI. No coordinates.", "ne": "@NepalBolcha 8 Oct: 1455 मृत्यु, 5285 बेपत्ता, 2300 विस्थापित परिवार। NDRRMA होइन। GNSS छैन।", "hi": "@NepalBolcha 8 Oct: 1455 मृत, 5285 लापता, 2300 विस्थापित परिवार। NDRRMA नहीं। GNSS नहीं।"}
     }
   ]
 }
