@@ -1,10 +1,20 @@
 {
-  "snap": "2026-10-10T22:08:34Z",
+  "snap": "2026-10-10T23:10:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
+    {
+      "id": "poll-1010-2310",
+      "src": "official",
+      "t": "2026-10-10T23:10:00Z",
+      "link": "https://english.makalukhabar.com/bhotekoshi-flood-death-toll-rises-to-1457-4720-still-missing/",
+      "img": null,
+      "geo": "unknown",
+      "title": {"zh": "10月10日23:10 UTC再核：中方无更新，尼方警察总部1457死4720失踪", "en": "10 Oct 23:10 UTC recheck: CN no update, NP Police HQ 1457 dead 4720 missing", "ne": "10 Oct 23:10 UTC: चीन नयाँ छैन, नेपाल प्रहरी 1457 मृत्यु 4720 बेपत्ता", "hi": "10 Oct 23:10 UTC: चीन नया नहीं, नेपाल पुलिस 1457 मृत 4720 लापता"},
+      "body": {"zh": "本轮再核新华社、指挥部及@XHNews：中方仍截至9月5日18时 43死519失联救出2人。MakaluKhabar等引尼泊尔警察总部截至今晨6时：死亡1457、失踪4720。获救仍按此前13795。拉苏瓦主要公路仍完全阻断，口岸未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, command and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MakaluKhabar etc. citing Nepal Police HQ as of this morning 06:00: 1457 dead, 4720 missing. Rescued stays prior 13795. Rasuwa major highways still fully blocked, gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MakaluKhabar: प्रहरी मुख्यालय 06:00, 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। रसुवा मुख्य सडक पूर्ण बन्द, नाका खुलिएको छैन। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MakaluKhabar: पुलिस मुख्यालय 06:00, 1457 मृत, 4720 लापता। उद्धार 13795। रसुवा मुख्य सड़क पूर्ण बंद, द्वार खुला नहीं। झील खाली। GNSS नहीं।"}
+    },
     {
       "id": "poll-1010-2208",
       "src": "official",
@@ -12,18 +22,8 @@
       "link": "https://english.makalukhabar.com/bhotekoshi-flood-death-toll-rises-to-1457-4720-still-missing/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10\u670810\u65e522:08 UTC\u518d\u6838\uff1a\u4e2d\u65b9\u65e0\u66f4\u65b0\uff0c\u5c3c\u65b9\u8b66\u5bdf\u603b\u90e81457\u6b7b4720\u5931\u8e2a", "en": "10 Oct 22:08 UTC recheck: CN no update, NP Police HQ 1457 dead 4720 missing", "ne": "10 Oct 22:08 UTC: \u091a\u0940\u0928 \u0928\u092f\u093e\u0901 \u091b\u0948\u0928, \u0928\u0947\u092a\u093e\u0932 \u092a\u094d\u0930\u0939\u0930\u0940 1457 \u092e\u0943\u0924\u094d\u092f\u0941 4720 \u092c\u0947\u092a\u0924\u094d\u0924\u093e", "hi": "10 Oct 22:08 UTC: \u091a\u0940\u0928 \u0928\u092f\u093e \u0928\u0939\u0940\u0902, \u0928\u0947\u092a\u093e\u0932 \u092a\u0941\u0932\u093f\u0938 1457 \u092e\u0943\u0924 4720 \u0932\u093e\u092a\u0924\u093e"},
-      "body": {"zh": "\u672c\u8f6e\u518d\u6838\u65b0\u534e\u793e\u3001\u6307\u6325\u90e8\u53ca@XHNews\uff1a\u4e2d\u65b9\u4ecd\u622a\u81f39\u67085\u65e518\u65f6 43\u6b7b519\u5931\u8054\u6551\u51fa2\u4eba\u3002MakaluKhabar\u7b49\u5f15\u5c3c\u6cca\u5c14\u8b66\u5bdf\u603b\u90e8\u622a\u81f3\u4eca\u66686\u65f6\uff1a\u6b7b\u4ea11457\u3001\u5931\u8e2a4720\u3002\u83b7\u6551\u4ecd\u6309\u6b64\u524d13795\u3002\u62c9\u82cf\u74e6\u4e3b\u8981\u516c\u8def\u4ecd\u5b8c\u5168\u963b\u65ad\uff0c\u53e3\u5cb8\u672a\u5ba3\u5e03\u91cd\u5f00\u3002\u5830\u585e\u6e56\u4ecd\u4e3a\u65b0\u534e\u793e9\u67085\u65e5\u5df2\u6392\u7a7a\u3002\u65e0\u65b0\u961f\u4f0d\u5750\u6807\u3002", "en": "Recheck of Xinhua, command and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MakaluKhabar etc. citing Nepal Police HQ as of this morning 06:00: 1457 dead, 4720 missing. Rescued stays prior 13795. Rasuwa major highways still fully blocked, gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: \u091a\u0940\u0928 5 Sep 18:00 43 \u092e\u0943\u0924\u094d\u092f\u0941, 519 \u0938\u092e\u094d\u092a\u0930\u094d\u0915 \u0935\u093f\u0939\u0940\u0928, 2 \u0909\u0926\u094d\u0927\u093e\u0930\u0964 MakaluKhabar: \u092a\u094d\u0930\u0939\u0930\u0940 \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f 06:00, 1457 \u092e\u0943\u0924\u094d\u092f\u0941, 4720 \u092c\u0947\u092a\u0924\u094d\u0924\u093e\u0964 \u0909\u0926\u094d\u0927\u093e\u0930 13795\u0964 \u0930\u0938\u0941\u0935\u093e \u092e\u0941\u0916\u094d\u092f \u0938\u0921\u0915 \u092a\u0942\u0930\u094d\u0923 \u092c\u0928\u094d\u0926, \u0928\u093e\u0915\u093e \u0916\u0941\u0932\u093f\u090f\u0915\u094b \u091b\u0948\u0928\u0964 \u0924\u093e\u0932 \u0916\u093e\u0932\u0940\u0964 GNSS \u091b\u0948\u0928\u0964", "hi": "Xinhua/@XHNews: \u091a\u0940\u0928 5 Sep 18:00 43 \u092e\u0943\u0924, 519 \u0932\u093e\u092a\u0924\u093e, 2 \u0909\u0926\u094d\u0927\u093e\u0930\u0964 MakaluKhabar: \u092a\u0941\u0932\u093f\u0938 \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f 06:00, 1457 \u092e\u0943\u0924, 4720 \u0932\u093e\u092a\u0924\u093e\u0964 \u0909\u0926\u094d\u0927\u093e\u0930 13795\u0964 \u0930\u0938\u0941\u0935\u093e \u092e\u0941\u0916\u094d\u092f \u0938\u0921\u093c\u0915 \u092a\u0942\u0930\u094d\u0923 \u092c\u0902\u0926, \u0926\u094d\u0935\u093e\u0930 \u0916\u0941\u0932\u093e \u0928\u0939\u0940\u0902\u0964 \u091d\u0940\u0932 \u0916\u093e\u0932\u0940\u0964 GNSS \u0928\u0939\u0940\u0902\u0964"}
-    },
-    {
-      "id": "poll-1010-1511",
-      "src": "official",
-      "t": "2026-10-10T15:11:00Z",
-      "link": "https://english.makalukhabar.com/bhotekoshi-flood-death-toll-rises-to-1457-4720-still-missing/",
-      "img": null,
-      "geo": "unknown",
-      "title": {"zh": "10\u670810\u65e515:11 UTC\u518d\u6838\uff1a\u4e2d\u65b9\u65e0\u66f4\u65b0\uff0c\u5c3c\u65b9\u8b66\u5bdf\u603b\u90e81457\u6b7b4720\u5931\u8e2a", "en": "10 Oct 15:11 UTC recheck: CN no update, NP Police HQ 1457 dead 4720 missing", "ne": "10 Oct 15:11 UTC: \u091a\u0940\u0928 \u0928\u092f\u093e\u0901 \u091b\u0948\u0928, \u0928\u0947\u092a\u093e\u0932 \u092a\u094d\u0930\u0939\u0930\u0940 1457 \u092e\u0943\u0924\u094d\u092f\u0941 4720 \u092c\u0947\u092a\u0924\u094d\u0924\u093e", "hi": "10 Oct 15:11 UTC: \u091a\u0940\u0928 \u0928\u092f\u093e \u0928\u0939\u0940\u0902, \u0928\u0947\u092a\u093e\u0932 \u092a\u0941\u0932\u093f\u0938 1457 \u092e\u0943\u0924 4720 \u0932\u093e\u092a\u0924\u093e"},
-      "body": {"zh": "\u672c\u8f6e\u518d\u6838\u65b0\u534e\u793e\u3001\u6307\u6325\u90e8\u53ca@XHNews\uff1a\u4e2d\u65b9\u4ecd\u622a\u81f39\u67085\u65e518\u65f6 43\u6b7b519\u5931\u8054\u6551\u51fa2\u4eba\u3002MakaluKhabar\u7b49\u5f15\u5c3c\u6cca\u5c14\u8b66\u5bdf\u603b\u90e8\u622a\u81f3\u4eca\u66686\u65f6\uff1a\u6b7b\u4ea11457\u3001\u5931\u8e2a4720\u3002\u83b7\u6551\u4ecd\u6309\u6b64\u524d13795\u3002\u62c9\u82cf\u74e6\u4e3b\u8981\u516c\u8def\u4ecd\u5b8c\u5168\u963b\u65ad\uff0c\u53e3\u5cb8\u672a\u5ba3\u5e03\u91cd\u5f00\u3002\u5830\u585e\u6e56\u4ecd\u4e3a\u65b0\u534e\u793e9\u67085\u65e5\u5df2\u6392\u7a7a\u3002\u65e0\u65b0\u961f\u4f0d\u5750\u6807\u3002", "en": "Recheck of Xinhua, command and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MakaluKhabar etc. citing Nepal Police HQ as of this morning 06:00: 1457 dead, 4720 missing. Rescued stays prior 13795. Rasuwa major highways still fully blocked, gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: \u091a\u0940\u0928 5 Sep 18:00 43 \u092e\u0943\u0924\u094d\u092f\u0941, 519 \u0938\u092e\u094d\u092a\u0930\u094d\u0915 \u0935\u093f\u0939\u0940\u0928, 2 \u0909\u0926\u094d\u0927\u093e\u0930\u0964 MakaluKhabar: \u092a\u094d\u0930\u0939\u0930\u0940 \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f 06:00, 1457 \u092e\u0943\u0924\u094d\u092f\u0941, 4720 \u092c\u0947\u092a\u0924\u094d\u0924\u093e\u0964 \u0909\u0926\u094d\u0927\u093e\u0930 13795\u0964 \u0930\u0938\u0941\u0935\u093e \u092e\u0941\u0916\u094d\u092f \u0938\u0921\u0915 \u092a\u0942\u0930\u094d\u0923 \u092c\u0928\u094d\u0926, \u0928\u093e\u0915\u093e \u0916\u0941\u0932\u093f\u090f\u0915\u094b \u091b\u0948\u0928\u0964 \u0924\u093e\u0932 \u0916\u093e\u0932\u0940\u0964 GNSS \u091b\u0948\u0928\u0964", "hi": "Xinhua/@XHNews: \u091a\u0940\u0928 5 Sep 18:00 43 \u092e\u0943\u0924, 519 \u0932\u093e\u092a\u0924\u093e, 2 \u0909\u0926\u094d\u0927\u093e\u0930\u0964 MakaluKhabar: \u092a\u0941\u0932\u093f\u0938 \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f 06:00, 1457 \u092e\u0943\u0924, 4720 \u0932\u093e\u092a\u0924\u093e\u0964 \u0909\u0926\u094d\u0927\u093e\u0930 13795\u0964 \u0930\u0938\u0941\u0935\u093e \u092e\u0941\u0916\u094d\u092f \u0938\u0921\u093c\u0915 \u092a\u0942\u0930\u094d\u0923 \u092c\u0902\u0926, \u0926\u094d\u0935\u093e\u0930 \u0916\u0941\u0932\u093e \u0928\u0939\u0940\u0902\u0964 \u091d\u0940\u0932 \u0916\u093e\u0932\u0940\u0964 GNSS \u0928\u0939\u0940\u0902\u0964"}
+      "title": {"zh": "10月10日22:08 UTC再核：中方无更新，尼方警察总部1457死4720失踪", "en": "10 Oct 22:08 UTC recheck: CN no update, NP Police HQ 1457 dead 4720 missing", "ne": "10 Oct 22:08 UTC: चीन नयाँ छैन, नेपाल प्रहरी 1457 मृत्यु 4720 बेपत्ता", "hi": "10 Oct 22:08 UTC: चीन नया नहीं, नेपाल पुलिस 1457 मृत 4720 लापता"},
+      "body": {"zh": "本轮再核新华社、指挥部及@XHNews：中方仍截至9月5日18时 43死519失联救出2人。MakaluKhabar等引尼泊尔警察总部截至今晨6时：死亡1457、失踪4720。获救仍按此前13795。拉苏瓦主要公路仍完全阻断，口岸未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, command and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MakaluKhabar etc. citing Nepal Police HQ as of this morning 06:00: 1457 dead, 4720 missing. Rescued stays prior 13795. Rasuwa major highways still fully blocked, gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MakaluKhabar: प्रहरी मुख्यालय 06:00, 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। रसुवा मुख्य सडक पूर्ण बन्द, नाका खुलिएको छैन। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MakaluKhabar: पुलिस मुख्यालय 06:00, 1457 मृत, 4720 लापता। उद्धार 13795। रसुवा मुख्य सड़क पूर्ण बंद, द्वार खुला नहीं। झील खाली। GNSS नहीं।"}
     }
   ],
   "roads": [
@@ -32,8 +32,8 @@
       "status": "closed",
       "lat": 28.2797,
       "lng": 85.3777,
-      "name": {"zh": "\u5409\u9686\u53e3\u5cb8", "en": "Gyirong Port", "ne": "\u091c\u0940\u0930\u094b\u0902 \u092a\u094b\u0930\u094d\u091f", "hi": "\u091c\u0940\u0930\u094b\u0902 \u092a\u094b\u0930\u094d\u091f"},
-      "detail": {"zh": "\u53e3\u5cb8\u88ab\u6bc1\uff0c\u5c1a\u672a\u5ba3\u5e03\u91cd\u5f00\uff1bG216\u5409\u9686\u9547\u81f3\u56fd\u95e8\u6bb5\u53cc\u5411\u7ba1\u5236\u3002\u62c9\u82cf\u74e6\u4e3b\u8981\u516c\u8def\u4ecd\u5b8c\u5168\u963b\u65ad\u3002\u7f8e\u4f7f\u9986\u8b66\u544a\u52ff\u524d\u5f80\u62c9\u82cf\u74e6\u52a0\u8fea-\u63d0\u7a46\u5c14\u533a\u57df\u3002", "en": "Port destroyed, not announced reopened; G216 town-to-gate section remains two-way controlled. Rasuwa major highways still fully blocked. US Embassy warns against Rasuwagadhi-Timure area.", "ne": "\u092a\u094b\u0930\u094d\u091f \u0928\u0937\u094d\u091f, \u0916\u094b\u0932\u093f\u090f\u0915\u094b \u0918\u094b\u0937\u0923\u093e \u091b\u0948\u0928; G216 \u0928\u093f\u092f\u0928\u094d\u0924\u094d\u0930\u0923\u0964 \u0930\u0938\u0941\u0935\u093e \u092e\u0941\u0916\u094d\u092f \u0938\u0921\u0915 \u092a\u0942\u0930\u094d\u0923 \u092c\u0928\u094d\u0926\u0964 US Embassy \u0932\u0947 \u0930\u0938\u0941\u0935\u093e\u0917\u0922\u093c\u0940-\u0924\u093f\u092e\u0941\u0930\u0947 \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092e\u093e \u0928\u091c\u093e\u0928 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 \u0926\u093f\u090f\u0915\u094b \u091b\u0964", "hi": "\u092a\u094b\u0930\u094d\u091f \u0928\u0937\u094d\u091f, \u0916\u0941\u0932\u0928\u0947 \u0915\u0940 \u0918\u094b\u0937\u0923\u093e \u0928\u0939\u0940\u0902; G216 \u0928\u093f\u092f\u0902\u0924\u094d\u0930\u0923\u0964 \u0930\u0938\u0941\u0935\u093e \u092e\u0941\u0916\u094d\u092f \u0938\u0921\u093c\u0915 \u092a\u0942\u0930\u094d\u0923 \u092c\u0902\u0926\u0964 US Embassy \u0930\u0938\u0941\u0935\u093e\u0917\u0922\u093c\u0940-\u0924\u093f\u092e\u0941\u0930\u0947 \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u0928 \u091c\u093e\u0928\u0947 \u0915\u0940 \u091a\u0947\u0924\u093e\u0935\u0928\u0940\u0964"}
+      "name": {"zh": "吉隆口岸", "en": "Gyirong Port", "ne": "जीरों पोर्ट", "hi": "जीरों पोर्ट"},
+      "detail": {"zh": "口岸被毁，尚未宣布重开；G216吉隆镇至国门段双向管制。拉苏瓦主要公路仍完全阻断。美使馆警告勿前往拉苏瓦加迪-提穆尔区域。", "en": "Port destroyed, not announced reopened; G216 town-to-gate section remains two-way controlled. Rasuwa major highways still fully blocked. US Embassy warns against Rasuwagadhi-Timure area.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 नियन्त्रण। रसुवा मुख्य सडक पूर्ण बन्द। US Embassy ले रसुवागढ़ी-तिमुरे क्षेत्रमा नजान चेतावनी दिएको छ।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 नियंत्रण। रसुवा मुख्य सड़क पूर्ण बंद। US Embassy रसुवागढ़ी-तिमुरे क्षेत्र में न जाने की चेतावनी।"}
     }
   ],
   "forces": [
@@ -42,8 +42,8 @@
       "status": "limited",
       "lat": 28.318,
       "lng": 85.36,
-      "name": {"zh": "\u524d\u65b9\u6551\u63f4\u529b\u91cf", "en": "Forward rescue forces", "ne": "\u0905\u0917\u093e\u0921\u093f \u0909\u0926\u094d\u0927\u093e\u0930 \u092c\u0932", "hi": "\u0906\u0917\u0947 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u092c\u0932"},
-      "detail": {"zh": "\u641c\u6551\u4ecd\u6301\u7eed\u4f46\u89c4\u6a21\u6709\u9650\uff1b\u65e0\u65b0\u516c\u5f00\u5750\u6807\u3002", "en": "SAR continues but limited scale; no new public coordinates.", "ne": "\u0916\u094b\u091c \u091c\u093e\u0930\u0940, \u0938\u0940\u092e\u093f\u0924; \u0928\u092f\u093e\u0901 \u0928\u093f\u0930\u094d\u0926\u0947\u0936\u093e\u0919\u094d\u0915 \u091b\u0948\u0928\u0964", "hi": "\u0916\u094b\u091c \u091c\u093e\u0930\u0940, \u0938\u0940\u092e\u093f\u0924; \u0928\u092f\u093e \u0928\u093f\u0930\u094d\u0926\u0947\u0936\u093e\u0902\u0915 \u0928\u0939\u0940\u0902\u0964"}
+      "name": {"zh": "前方救援力量", "en": "Forward rescue forces", "ne": "अगाडि उद्धार बल", "hi": "आगे रेस्क्यू बल"},
+      "detail": {"zh": "搜救仍持续但规模有限；无新公开坐标。", "en": "SAR continues but limited scale; no new public coordinates.", "ne": "खोज जारी, सीमित; नयाँ निर्देशाङ्क छैन।", "hi": "खोज जारी, सीमित; नया निर्देशांक नहीं।"}
     }
   ],
   "sites": [
@@ -53,14 +53,14 @@
       "status": "done",
       "lat": 28.282,
       "lng": 85.374,
-      "name": {"zh": "\u70ed\u7d22\u6751", "en": "Resuo", "ne": "\u0930\u0947\u0938\u0941\u0913", "hi": "\u0930\u0947\u0938\u0941\u0913"},
-      "detail": {"zh": "\u65e9\u671f\u5df2\u6551\u51fa\u6751\u6c11\uff1b\u73b0\u72b6\u641c\u6551\u5b8c\u6210\u3002", "en": "Villagers rescued early; current status search completed.", "ne": "\u0917\u093e\u0909\u0901\u0932\u0947 \u092a\u094d\u0930\u093e\u0930\u092e\u094d\u092d\u093f\u0915 \u092e\u093e \u0909\u0926\u094d\u0927\u093e\u0930; \u0905\u0939\u093f\u0932\u0947 \u0916\u094b\u091c \u0938\u0915\u093f\u092f\u094b\u0964", "hi": "\u0917\u093e\u0901\u0935 \u092e\u0947\u0902 \u092a\u094d\u0930\u093e\u0930\u0902\u092d\u093f\u0915 \u0909\u0926\u094d\u0927\u093e\u0930; \u0905\u092c \u0916\u094b\u091c \u092a\u0942\u0930\u0940\u0964"}
+      "name": {"zh": "热索村", "en": "Resuo", "ne": "रेसुओ", "hi": "रेसुओ"},
+      "detail": {"zh": "早期已救出村民；现状搜救完成。", "en": "Villagers rescued early; current status search completed.", "ne": "गाउँले प्रारम्भिक मा उद्धार; अहिले खोज सकियो।", "hi": "गाँव में प्रारंभिक उद्धार; अब खोज पूरी।"}
     }
   ],
   "hydro": {
     "lat": 28.293,
     "lng": 85.392,
-    "status": {"zh": "\u5df2\u6392\u7a7a\uff0c\u9669\u60c5\u57fa\u672c\u89e3\u9664\uff08\u65b0\u534e\u793e9\u67085\u65e5\uff09", "en": "Drained, hazard largely eliminated (Xinhua 5 Sep)", "ne": "\u0916\u093e\u0932\u0940, \u0916\u0924\u0930\u093e \u092e\u0942\u0932\u092d\u0942\u0924 \u0939\u091f\u093e\u0907\u092f\u094b (Xinhua 5 Sep)", "hi": "\u0916\u093e\u0932\u0940, \u0916\u0924\u0930\u093e \u092e\u0942\u0932\u092d\u0942\u0924 \u0939\u091f\u093e (Xinhua 5 Sep)"}
+    "status": {"zh": "已排空，险情基本解除（新华社9月5日）", "en": "Drained, hazard largely eliminated (Xinhua 5 Sep)", "ne": "खाली, खतरा मूलभूत हटाइयो (Xinhua 5 Sep)", "hi": "खाली, खतरा मूलभूत हटा (Xinhua 5 Sep)"}
   },
   "xPosts": [
     {
@@ -69,7 +69,7 @@
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
       "geo": "unknown",
-      "text": {"zh": "\u4e2d\u56fd\u56fd\u5bb6\u6c14\u5019\u4e2d\u5fc3\u5411\u5c3c\u6cca\u5c14\u63d0\u4f9b\u6eda\u52a8\u6c14\u5019\u76d1\u6d4b\u4e0e\u9884\u62a5\u4ea7\u54c1\uff0c\u652f\u6301\u5409\u9686-\u62c9\u82cf\u74e6\u8fb9\u5883\u6ce5\u77f3\u6d41\u540e\u7684\u6551\u63f4\u3002", "en": "China's National Climate Center has been providing Nepal with rolling climate monitoring and forecast products to support rescue after the Gyirong-Rasuwa mudslide.", "ne": "\u091a\u0940\u0928\u0915\u094b \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u091c\u0932\u0935\u093e\u092f\u0941 \u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0932\u0947 \u0928\u0947\u092a\u093e\u0932\u0932\u093e\u0908 \u091c\u0932\u0935\u093e\u092f\u0941 \u0928\u093f\u0917\u0930\u093e\u0928\u0940 \u0930 \u092a\u0942\u0930\u094d\u0935\u093e\u0928\u0941\u092e\u093e\u0928 \u0909\u0924\u094d\u092a\u093e\u0926\u0928 \u0926\u093f\u0907\u0930\u0939\u0947\u0915\u094b \u091b\u0964", "hi": "\u091a\u0940\u0928 \u0915\u093e \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091c\u0932\u0935\u093e\u092f\u0941 \u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947\u092a\u093e\u0932 \u0915\u094b \u091c\u0932\u0935\u093e\u092f\u0941 \u0928\u093f\u0917\u0930\u093e\u0928\u0940 \u0914\u0930 \u092a\u0942\u0930\u094d\u0935\u093e\u0928\u0941\u092e\u093e\u0928 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948\u0964"}
+      "text": {"zh": "中国国家气候中心向尼泊尔提供滚动气候监测与预报产品，支持吉隆-拉苏瓦边境泥石流后的救援。", "en": "China's National Climate Center has been providing Nepal with rolling climate monitoring and forecast products to support rescue after the Gyirong-Rasuwa mudslide.", "ne": "चीनको राष्ट्रिय जलवायु केन्द्रले नेपाललाई जलवायु निगरानी र पूर्वानुमान उत्पादन दिइरहेको छ।", "hi": "चीन का राष्ट्रीय जलवायु केंद्र नेपाल को जलवायु निगरानी और पूर्वानुमान प्रदान कर रहा है।"}
     }
   ]
 }
