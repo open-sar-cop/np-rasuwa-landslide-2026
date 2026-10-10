@@ -1,29 +1,29 @@
 {
-  "snap": "2026-10-10T02:08:27Z",
+  "snap": "2026-10-10T03:07:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1010-0208",
+      "id": "poll-1010-0307",
       "src": "official",
-      "t": "2026-10-10T02:08:27Z",
-      "link": "https://english.pardafas.com/bhotekoshi-flood-death-toll-reaches-1457-as-search-for-missing-continues/",
+      "t": "2026-10-10T03:07:00Z",
+      "link": "https://english.pardafas.com/bhotekoshi-flood-death-toll-reaches-1457-in-rasuwa-and-downstream-districts/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月10日02:08 UTC再核：中方无更新，尼方epardafas报1457死4720失踪", "en": "10 Oct 02:08 UTC recheck: CN no update, NP epardafas 1457 dead 4720 missing", "ne": "10 Oct 02:08 UTC: चीन नयाँ छैन, नेपाल epardafas 1457 मृत्यु 4720 बेपत्ता", "hi": "10 Oct 02:08 UTC: चीन नया नहीं, नेपाल epardafas 1457 मृत 4720 लापता"},
-      "body": {"zh": "本轮再核新华社、@XHNews、指挥部：中方仍截至9月5日18时 43死519失联救出2人。epardafas 10月9日引述截至周五6时：尼方1457死、4720失踪。获救仍按路透社10月5日13795。口岸未宣布重开，G216管制中。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, @XHNews, command: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. Epardafas 9 Oct citing as of Friday 06:00: NP 1457 dead, 4720 missing. Rescued stays Reuters 5 Oct 13795. Gate not announced open, G216 controlled. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। Epardafas 9 Oct: 1457 मृत्यु, 4720 बेपत्ता। उद्धार Reuters 13795। नाका खुलिएको छैन, G216 नियन्त्रण। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। Epardafas 9 Oct: 1457 मृत, 4720 लापता। उद्धार Reuters 13795। द्वार खुला नहीं, G216 नियंत्रण। झील खाली। GNSS नहीं।"}
+      "title": {"zh": "10月10日03:07 UTC再核：中方无更新，尼方epardafas报1457死4720失踪", "en": "10 Oct 03:07 UTC recheck: CN no update, NP epardafas 1457 dead 4720 missing", "ne": "10 Oct 03:07 UTC: चीन नयाँ छैन, नेपाल epardafas 1457 मृत्यु 4720 बेपत्ता", "hi": "10 Oct 03:07 UTC: चीन नया नहीं, नेपाल epardafas 1457 मृत 4720 लापता"},
+      "body": {"zh": "本轮再核新华社、@XHNews、指挥部：中方仍截至9月5日18时 43死519失联救出2人。epardafas 10月5日引述截至周一6时：尼方1457死、4720失踪。获救仍按路透社10月5日13795。口岸未宣布重开，G216管制中。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, @XHNews, command: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. Epardafas 5 Oct citing as of Friday 06:00: NP 1457 dead, 4720 missing. Rescued stays Reuters 5 Oct 13795. Gate not announced open, G216 controlled. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। Epardafas: 1457 मृत्यु, 4720 बेपत्ता। उद्धार Reuters 13795। नाका खुलिएको छैन, G216 नियन्त्रण। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। Epardafas: 1457 मृत, 4720 लापता। उद्धार Reuters 13795। द्वार खुला नहीं, G216 नियंत्रण। झील खाली। GNSS नहीं।"}
     },
     {
-      "id": "epardafas-1009",
+      "id": "epardafas-1005",
       "src": "official",
-      "t": "2026-10-09T00:00:00Z",
-      "link": "https://english.pardafas.com/bhotekoshi-flood-death-toll-reaches-1457-as-search-for-missing-continues/",
+      "t": "2026-10-05T00:00:00Z",
+      "link": "https://english.pardafas.com/bhotekoshi-flood-death-toll-reaches-1457-in-rasuwa-and-downstream-districts/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "epardafas 10月9日：尼方死亡升至1457，失踪4720", "en": "epardafas 9 Oct: NP deaths rise to 1457, missing 4720", "ne": "epardafas 9 Oct: नेपाल मृत्यु 1457, बेपत्ता 4720", "hi": "epardafas 9 Oct: नेपाल मृत 1457, लापता 4720"},
-      "body": {"zh": "epardafas 10月9日报道：截至周五6时，尼方死亡1457（1455具遗体+加德满都治疗2人），失踪4720。已埋葬1334具，DNA样本3419份。获救数字未更新。", "en": "epardafas 9 Oct: as of Friday 06:00, NP 1457 dead (1455 bodies + 2 in Kathmandu), 4720 missing. 1334 bodies buried, 3419 DNA samples. Rescued figure not updated.", "ne": "epardafas 9 Oct: शुक्रवार 06:00, 1457 मृत्यु, 4720 बेपत्ता। 1334 दफन, 3419 DNA। उद्धार अपडेट छैन।", "hi": "epardafas 9 Oct: शुक्रवार 06:00, 1457 मृत, 4720 लापता। 1334 दफन, 3419 DNA। उद्धार अपडेट नहीं।"}
+      "title": {"zh": "epardafas 10月5日：尼方死亡升至1457，失踪4720", "en": "epardafas 5 Oct: NP deaths rise to 1457, missing 4720", "ne": "epardafas 5 Oct: नेपाल मृत्यु 1457, बेपत्ता 4720", "hi": "epardafas 5 Oct: नेपाल मृत 1457, लापता 4720"},
+      "body": {"zh": "epardafas 10月5日报道：截至周一6时，尼方死亡1457（1455具遗体+加德满都治疗2人），失踪4720。已埋葬1334具，DNA样本3413份。获救数字未更新。", "en": "epardafas 5 Oct: as of Friday 06:00, NP 1457 dead (1455 bodies + 2 in Kathmandu), 4720 missing. 1334 bodies buried, 3413 DNA samples. Rescued figure not updated.", "ne": "epardafas 5 Oct: शुक्रवार 06:00, 1457 मृत्यु, 4720 बेपत्ता। 1334 दफन, 3413 DNA। उद्धार अपडेट छैन।", "hi": "epardafas 5 Oct: शुक्रवार 06:00, 1457 मृत, 4720 लापता। 1334 दफन, 3413 DNA। उद्धार अपडेट नहीं।"}
     },
     {
       "id": "reuters-sar-end-1005",
@@ -100,12 +100,12 @@
     {
       "id": "x1",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
       "lat": 28.28,
       "lng": 85.38,
       "geo": "Gyirong Port",
-      "text": {"zh": "新华社：吉隆口岸泥石流后无人机航拍影像。", "en": "XHNews: drone footage near Gyirong Port after mudslide.", "ne": "XHNews: जीरों पोर्ट पछि ड्रोन फुटेज।", "hi": "XHNews: जीरों पोर्ट के बाद ड्रोन फुटेज।"}
+      "text": {"zh": "新华社：国家气候中心向尼泊尔提供滚动气候监测和预报产品，支持吉隆-热索瓦边境泥石流救援。", "en": "XHNews: National Climate Center providing rolling climate monitoring and forecasts to Nepal for Gyirong-Rasuwa mudslide rescue.", "ne": "XHNews: जलवायु केन्द्रले नेपाललाई जीरों-रासुवा मडस्लाइड उद्धारका लागि जलवायु निगरानी र पूर्वानुमान प्रदान गर्दैछ।", "hi": "XHNews: राष्ट्रीय जलवायु केंद्र नेपाल को जीरों-रासुवा मडस्लाइड उद्धार के लिए रोलिंग जलवायु निगरानी और पूर्वानुमान दे रहा है।"}
     }
   ]
 }
