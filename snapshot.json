@@ -1,19 +1,19 @@
 {
-  "snap": "2026-10-10T06:12:31Z",
+  "snap": "2026-10-10T07:15:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1010-0612",
+      "id": "poll-1010-0715",
       "src": "official",
-      "t": "2026-10-10T06:12:31Z",
+      "t": "2026-10-10T07:15:00Z",
       "link": "https://english.pardafas.com/bhotekoshi-flood-death-toll-reaches-1457/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月10日06:12 UTC再核：中方无更新，尼方警察总部1457死4720失踪", "en": "10 Oct 06:12 UTC recheck: CN no update, NP Police HQ 1457 dead 4720 missing", "ne": "10 Oct 06:12 UTC: चीन नयाँ छैन, नेपाल प्रहरी 1457 मृत्यु 4720 बेपत्ता", "hi": "10 Oct 06:12 UTC: चीन नया नहीं, नेपाल पुलिस 1457 मृत 4720 लापता"},
-      "body": {"zh": "本轮再核新华社、指挥部及@XHNews：中方仍截至9月5日18时 43死519失联救出2人。epardafas引尼泊尔警察总部截至今晨6时：死亡1457（含加德满都治疗2人）、失踪4720。获救仍按此前路透社13795。口岸未宣布重开，G216管制。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, command and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. Epardafas citing Nepal Police HQ as of this morning 06:00: 1457 dead (incl. 2 in Kathmandu treatment), 4720 missing. Rescued stays prior Reuters 13795. Gate not announced open, G216 controlled. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। epardafas: प्रहरी मुख्यालय 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। नाका खुलिएको छैन, G216 नियन्त्रण। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। epardafas: पुलिस मुख्यालय 1457 मृत, 4720 लापता। उद्धार 13795। द्वार खुला नहीं, G216 नियंत्रण। झील खाली। GNSS नहीं।"}
+      "title": {"zh": "10月10日07:15 UTC再核：中方无更新，尼方警察总部1457死4720失踪", "en": "10 Oct 07:15 UTC recheck: CN no update, NP Police HQ 1457 dead 4720 missing", "ne": "10 Oct 07:15 UTC: चीन नयाँ छैन, नेपाल प्रहरी 1457 मृत्यु 4720 बेपत्ता", "hi": "10 Oct 07:15 UTC: चीन नया नहीं, नेपाल पुलिस 1457 मृत 4720 लापता"},
+      "body": {"zh": "本轮再核新华社、指挥部及@XHNews：中方仍截至9月5日18时 43死519失联救出2人。epardafas/Makalu引尼泊尔警察总部截至今晨6时：死亡1457（含加德满都治疗2人）、失踪4720。获救仍按此前13795。口岸未宣布重开，G216管制。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, command and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. epardafas/Makalu citing Nepal Police HQ as of this morning 06:00: 1457 dead (incl. 2 in Kathmandu), 4720 missing. Rescued stays prior 13795. Gate not announced open, G216 controlled. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। epardafas: प्रहरी मुख्यालय 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। नाका खुलिएको छैन, G216 नियन्त्रण। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। epardafas: पुलिस मुख्यालय 1457 मृत, 4720 लापता। उद्धार 13795। द्वार खुला नहीं, G216 नियंत्रण। झील खाली। GNSS नहीं।"}
     },
     {
       "id": "epardafas-1010",
@@ -23,7 +23,7 @@
       "img": null,
       "geo": "unknown",
       "title": {"zh": "epardafas 10月10日：尼方死亡1457，失踪4720", "en": "epardafas 10 Oct: NP deaths 1457, missing 4720", "ne": "epardafas 10 Oct: नेपाल मृत्यु 1457, बेपत्ता 4720", "hi": "epardafas 10 Oct: नेपाल मृत 1457, लापता 4720"},
-      "body": {"zh": "epardafas 10月10日引警察总部：截至今晨6时，死亡1457（1455具遗体+加德满都治疗2人），失踪4720。已管理1335具遗体，1438具未识别。", "en": "epardafas 10 Oct citing Police HQ: as of this morning 06:00, 1457 dead (1455 bodies + 2 in Kathmandu), 4720 missing. 1335 bodies managed, 1438 unidentified.", "ne": "epardafas 10 Oct: प्रहरी 06:00, 1457 मृत्यु, 4720 बेपत्ता। 1335 व्यवस्थापन, 1438 पहिचान नभएको।", "hi": "epardafas 10 Oct: पुलिस 06:00, 1457 मृत, 4720 लापता। 1335 प्रबंधन, 1438 अज्ञात।"}
+      "body": {"zh": "epardafas 10月10日引警察总部：截至Asoj 24早6时，死亡1457（1455具遗体+加德满都治疗2人），失踪4720。已管理1335具遗体，1438具未识别。", "en": "epardafas 10 Oct citing Police HQ: as of Asoj 24 06:00, 1457 dead (1455 bodies + 2 in Kathmandu), 4720 missing. 1335 bodies managed, 1438 unidentified.", "ne": "epardafas 10 Oct: प्रहरी 06:00, 1457 मृत्यु, 4720 बेपत्ता। 1335 व्यवस्थापन, 1438 पहिचान नभएको।", "hi": "epardafas 10 Oct: पुलिस 06:00, 1457 मृत, 4720 लापता। 1335 प्रबंधन, 1438 अज्ञात।"}
     },
     {
       "id": "reuters-sar-end-1005",
@@ -58,6 +58,16 @@
       "geo": "barrier lake",
       "title": {"zh": "新华社：口岸上方堰塞湖已排空", "en": "Xinhua: barrier lake above the port drained", "ne": "Xinhua: पोर्ट माथिको बाँध ताल खाली", "hi": "Xinhua: पोर्ट के ऊपर झील खाली"},
       "body": {"zh": "新华社9月5日：口岸核心区上方堰塞湖湖水排空，河道恢复过流，险情基本解除。本轮无更新。", "en": "Xinhua 5 Sep: the barrier lake above the core area was drained and the channel resumed flow; hazard largely eliminated. No newer bulletin.", "ne": "Xinhua 5 Sep: पोर्ट माथिको ताल खाली, नदी बह्यो, खतरा मूलभूत हटाइयो। नयाँ छैन।", "hi": "Xinhua 5 Sep: पोर्ट के ऊपर झील खाली, नदी बही, खतरा मूलभूत हटा। नया नहीं।"}
+    },
+    {
+      "id": "us-embassy-advisory",
+      "src": "official",
+      "t": "2026-08-31T00:00:00Z",
+      "link": "https://np.usembassy.gov/travel-advisory-nepal-august-2026/",
+      "img": null,
+      "geo": "unknown",
+      "title": {"zh": "美国驻尼使馆：不要前往拉苏瓦加迪-提穆尔-夏布鲁贝西区域", "en": "US Embassy: Do not travel to Rasuwagadhi-Timure-Syafrubesi area", "ne": "US Embassy: रसुवागढी-तिमुरे-स्याफ्रुबेसी क्षेत्रमा नजाउनुहोस्", "hi": "US Embassy: रसुवागढी-तिमुरे-स्याफ्रुबेसी क्षेत्र में न जाएं"},
+      "body": {"zh": "美国驻尼使馆8月31日更新：因8月26日洪水后危险条件，不要前往拉苏瓦加迪-提穆尔-夏布鲁贝西区域（含中尼边境口岸）。", "en": "US Embassy Nepal updated 31 Aug: Do not travel to the Rasuwagadhi-Timure-Syafrubesi area of Rasuwa district, including the Nepal-China border crossing, due to dangerous conditions after the 26 Aug flood.", "ne": "US Embassy 31 Aug: 26 Aug बाढी पछि खतरनाक अवस्थाका कारण रसुवागढी-तिमुरे-स्याफ्रुबेसी क्षेत्र (सीमा नाका सहित) नजाउनुहोस्।", "hi": "US Embassy 31 Aug: 26 Aug बाढ़ के बाद खतरनाक स्थिति के कारण रसुवागढी-तिमुरे-स्याफ्रुबेसी क्षेत्र (सीमा नाका सहित) में न जाएं।"}
     }
   ],
   "roads": [
@@ -67,7 +77,7 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "name": {"zh": "吉隆口岸", "en": "Gyirong Port", "ne": "जीरों पोर्ट", "hi": "जीरों पोर्ट"},
-      "detail": {"zh": "口岸被毁，尚未宣布重开；G216吉隆镇至国门段双向管制。", "en": "Port destroyed, not announced reopened; G216 town-to-gate section remains two-way controlled.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 नियन्त्रण।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 नियंत्रण।"}
+      "detail": {"zh": "口岸被毁，尚未宣布重开；G216吉隆镇至国门段双向管制。美使馆警告勿前往拉苏瓦加迪-提穆尔区域。", "en": "Port destroyed, not announced reopened; G216 town-to-gate section remains two-way controlled. US Embassy warns against Rasuwagadhi-Timure area.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 नियन्त्रण। US Embassy ले रसुवागढी-तिमुरे क्षेत्रमा नजान चेतावनी दिएको छ।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 नियंत्रण। US Embassy रसुवागढी-तिमुरे क्षेत्र में न जाने की चेतावनी।"}
     }
   ],
   "forces": [
@@ -100,12 +110,22 @@
     {
       "id": "x1",
       "user": "@XHNews",
-      "t": "2026-09-10T05:47:43Z",
-      "link": "https://x.com/XHNews/status/2097924965219905940",
+      "t": "2026-09-05T08:55:03Z",
+      "link": "https://x.com/XHNews/status/2096160167708778634",
       "lat": 28.28,
       "lng": 85.38,
       "geo": "Gyirong Port",
-      "text": {"zh": "新华社：国家气候中心向尼泊尔提供滚动气候监测和预报产品，支持吉隆-热索瓦边境泥石流救援。", "en": "XHNews: National Climate Center providing rolling climate monitoring and forecasts to Nepal for Gyirong-Rasuwa mudslide rescue.", "ne": "XHNews: जलवायु केन्द्रले नेपाललाई जीरों-रासुवा मडस्लाइड उद्धारका लागि जलवायु निगरानी र पूर्वानुमान प्रदान गर्दैछ।", "hi": "XHNews: राष्ट्रीय जलवायु केंद्र नेपाल को जीरों-रासुवा मडस्लाइड उद्धार के लिए रोलिंग जलवायु निगरानी और पूर्वानुमान दे रहा है।"}
+      "text": {"zh": "新华社：吉隆口岸附近无人机画面，冰岩崩引发快速链式泥石流后不久。", "en": "XHNews: Drone footage near Gyirong Port shortly after the fast-moving chain mudslide from high-altitude glacier collapse.", "ne": "XHNews: जीरों पोर्ट नजिक ड्रोन फुटेज, उच्च हिमनदी पछि द्रुत मडस्लाइड।", "hi": "XHNews: जीरों पोर्ट के पास ड्रोन फुटेज, उच्च ग्लेशियर पतन के बाद तेज मडस्लाइड।"}
+    },
+    {
+      "id": "x2",
+      "user": "@XHNews",
+      "t": "2026-09-02T06:35:21Z",
+      "link": "https://x.com/XHNews/status/2095037845782315284",
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "Gyirong Port",
+      "text": {"zh": "新华社：G216国道至吉隆口岸核心区道路基本恢复（9月2日10时）。", "en": "XHNews: Road access to the core area of Gyirong Port via G216 basically restored at 10 a.m. 2 Sep.", "ne": "XHNews: G216 मार्फत जीरों पोर्ट कोर क्षेत्र सडक 2 Sep 10 बजे मूलभूत पुनर्स्थापित।", "hi": "XHNews: G216 से जीरों पोर्ट कोर क्षेत्र सड़क 2 Sep 10 बजे मूलभूत पुनर्स्थापित।"}
     }
   ]
 }
