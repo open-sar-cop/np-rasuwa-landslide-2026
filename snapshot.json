@@ -1,10 +1,20 @@
 {
-  "snap": "2026-10-10T12:15:00Z",
+  "snap": "2026-10-10T13:20:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
+    {
+      "id": "poll-1010-1320",
+      "src": "official",
+      "t": "2026-10-10T13:20:00Z",
+      "link": "https://english.makalukhabar.com/bhotekoshi-flood-death-toll-rises-to-1457-4720-still-missing/",
+      "img": null,
+      "geo": "unknown",
+      "title": {"zh": "10月10日13:20 UTC再核：中方无更新，尼方警察总部截至今晨6时1457死4720失踪", "en": "10 Oct 13:20 UTC recheck: CN no update, NP Police HQ as of this morning 06:00 1457 dead 4720 missing", "ne": "10 Oct 13:20 UTC: चीन नयाँ छैन, नेपाल प्रहरी बिहान 6 बजे 1457 मृत्यु 4720 बेपत्ता", "hi": "10 Oct 13:20 UTC: चीन नया नहीं, नेपाल पुलिस सुबह 6 बजे 1457 मृत 4720 लापता"},
+      "body": {"zh": "本轮再核新华社、指挥部及@XHNews：中方仍截至9月5日18时 43死519失联救出2人。MakaluKhabar等引尼泊尔警察总部截至今晨6时：死亡1457（含加德满都治疗2人）、失踪4720。获救仍按此前13795。拉苏瓦主要公路仍完全阻断，口岸未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, command and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MakaluKhabar etc. citing Nepal Police HQ as of this morning 06:00: 1457 dead (incl. 2 in Kathmandu), 4720 missing. Rescued stays prior 13795. Rasuwa major highways still fully blocked, gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MakaluKhabar: प्रहरी मुख्यालय 06:00, 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। रसुवा मुख्य सडक पूर्ण बन्द, नाका खुलिएको छैन। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MakaluKhabar: पुलिस मुख्यालय 06:00, 1457 मृत, 4720 लापता। उद्धार 13795। रसुवा मुख्य सड़क पूर्ण बंद, द्वार खुला नहीं। झील खाली। GNSS नहीं।"}
+    },
     {
       "id": "poll-1010-1215",
       "src": "official",
@@ -86,8 +96,8 @@
       "link": "https://np.usembassy.gov/travel-advisory-nepal-august-2026/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "美国驻尼使馆：不要前往拉苏瓦加迪-提穆尔-夏布鲁贝西区域", "en": "US Embassy: Do not travel to Rasuwagadhi-Timure-Syafrubesi area", "ne": "US Embassy: रसुवागढी-तिमुरे-स्याफ्रुबेसी क्षेत्रमा नजाउनुहोस्", "hi": "US Embassy: रसुवागढी-तिमुरे-स्याफ्रुबेसी क्षेत्र में न जाएं"},
-      "body": {"zh": "美国驻尼使馆8月31日更新：因8月26日洪水后危险条件，不要前往拉苏瓦加迪-提穆尔-夏布鲁贝西区域（含中尼边境口岸）。", "en": "US Embassy Nepal updated 31 Aug: Do not travel to the Rasuwagadhi-Timure-Syafrubesi area of Rasuwa district, including the Nepal-China border crossing, due to dangerous conditions after the 26 Aug flood.", "ne": "US Embassy 31 Aug: 26 Aug बाढी पछि खतरनाक अवस्थाका कारण रसुवागढी-तिमुरे-स्याफ्रुबेसी क्षेत्र (सीमा नाका सहित) नजाउनुहोस्।", "hi": "US Embassy 31 Aug: 26 Aug बाढ़ के बाद खतरनाक स्थिति के कारण रसुवागढी-तिमुरे-स्याफ्रुबेसी क्षेत्र (सीमा नाका सहित) में न जाएं।"}
+      "title": {"zh": "美国驻尼使馆：不要前往拉苏瓦加迪-提穆尔-夏布鲁贝西区域", "en": "US Embassy: Do not travel to Rasuwagadhi-Timure-Syafrubesi area", "ne": "US Embassy: रसुवागढ़ी-तिमुरे-स्याफ्रुबेसी क्षेत्रमा नजाउनुहोस्", "hi": "US Embassy: रसुवागढ़ी-तिमुरे-स्याफ्रुबेसी क्षेत्र में न जाएं"},
+      "body": {"zh": "美国驻尼使馆8月31日更新：因8月26日洪水后危险条件，不要前往拉苏瓦加迪-提穆尔-夏布鲁贝西区域（含中尼边境口岸）。", "en": "US Embassy Nepal updated 31 Aug: Do not travel to the Rasuwagadhi-Timure-Syafrubesi area of Rasuwa district, including the Nepal-China border crossing, due to dangerous conditions after the 26 Aug flood.", "ne": "US Embassy 31 Aug: 26 Aug बाढ़ी पछि खतरनाक अवस्थाका कारण रसुवागढ़ी-तिमुरे-स्याफ्रुबेसी क्षेत्र (सीमा नाका सहित) नजाउनुहोस्।", "hi": "US Embassy 31 Aug: 26 Aug बाढ़ के बाद खतरनाक स्थिति के कारण रसुवागढ़ी-तिमुरे-स्याफ्रुबेसी क्षेत्र (सीमा नाका सहित) में न जाएं।"}
     }
   ],
   "roads": [
@@ -97,7 +107,7 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "name": {"zh": "吉隆口岸", "en": "Gyirong Port", "ne": "जीरों पोर्ट", "hi": "जीरों पोर्ट"},
-      "detail": {"zh": "口岸被毁，尚未宣布重开；G216吉隆镇至国门段双向管制。美使馆警告勿前往拉苏瓦加迪-提穆尔区域。", "en": "Port destroyed, not announced reopened; G216 town-to-gate section remains two-way controlled. US Embassy warns against Rasuwagadhi-Timure area.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 नियन्त्रण। US Embassy ले रसुवागढी-तिमुरे क्षेत्रमा नजान चेतावनी दिएको छ।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 नियंत्रण। US Embassy रसुवागढी-तिमुरे क्षेत्र में न जाने की चेतावनी।"}
+      "detail": {"zh": "口岸被毁，尚未宣布重开；G216吉隆镇至国门段双向管制。拉苏瓦主要公路仍完全阻断。美使馆警告勿前往拉苏瓦加迪-提穆尔区域。", "en": "Port destroyed, not announced reopened; G216 town-to-gate section remains two-way controlled. Rasuwa major highways still fully blocked. US Embassy warns against Rasuwagadhi-Timure area.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 नियन्त्रण। रसुवा मुख्य सडक पूर्ण बन्द। US Embassy ले रसुवागढ़ी-तिमुरे क्षेत्रमा नजान चेतावनी दिएको छ।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 नियंत्रण। रसुवा मुख्य सड़क पूर्ण बंद। US Embassy रसुवागढ़ी-तिमुरे क्षेत्र में न जाने की चेतावनी।"}
     }
   ],
   "forces": [
