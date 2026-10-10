@@ -1,10 +1,20 @@
 {
-  "snap": "2026-10-10T07:15:00Z",
+  "snap": "2026-10-10T08:07:53Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
+    {
+      "id": "poll-1010-0807",
+      "src": "official",
+      "t": "2026-10-10T08:07:53Z",
+      "link": "https://english.pardafas.com/bhotekoshi-flood-death-toll-reaches-1457/",
+      "img": null,
+      "geo": "unknown",
+      "title": {"zh": "10月10日08:07 UTC再核：中方无更新，尼方警察总部1457死4720失踪", "en": "10 Oct 08:07 UTC recheck: CN no update, NP Police HQ 1457 dead 4720 missing", "ne": "10 Oct 08:07 UTC: चीन नयाँ छैन, नेपाल प्रहरी 1457 मृत्यु 4720 बेपत्ता", "hi": "10 Oct 08:07 UTC: चीन नया नहीं, नेपाल पुलिस 1457 मृत 4720 लापता"},
+      "body": {"zh": "本轮再核新华社、指挥部及@XHNews：中方仍截至9月5日18时 43死519失联救出2人。epardafas/Makalu引尼泊尔警察总部截至今晨6时：死亡1457（含加德满都治疗2人）、失踪4720。获救仍按此前13795。口岸未宣布重开，G216管制。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, command and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. epardafas/Makalu citing Nepal Police HQ as of this morning 06:00: 1457 dead (incl. 2 in Kathmandu), 4720 missing. Rescued stays prior 13795. Gate not announced open, G216 controlled. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। epardafas: प्रहरी मुख्यालय 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। नाका खुलिएको छैन, G216 नियन्त्रण। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। epardafas: पुलिस मुख्यालय 1457 मृत, 4720 लापता। उद्धार 13795। द्वार खुला नहीं, G216 नियंत्रण। झील खाली। GNSS नहीं।"}
+    },
     {
       "id": "poll-1010-0715",
       "src": "official",
