@@ -1,18 +1,18 @@
 {
-  "snap": "2026-10-11T01:10:12Z",
+  "snap": "2026-10-11T02:08:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1011-0110",
+      "id": "poll-1011-0208",
       "src": "official",
-      "t": "2026-10-11T01:10:12Z",
+      "t": "2026-10-11T02:08:00Z",
       "link": "https://english.makalukhabar.com/bhotekoshi-flood-death-toll-rises-to-1457-4720-still-missing/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月11日01:10 UTC再核：中方无新更新，尼方警察10日6时1457死4720失踪", "en": "11 Oct 01:10 UTC recheck: CN no new update, NP Police 10 Oct 06:00 1457 dead 4720 missing", "ne": "11 Oct 01:10 UTC: चीन नयाँ छैन, नेपाल प्रहरी 10 Oct 06:00 1457 मृत्यु 4720 बेपत्ता", "hi": "11 Oct 01:10 UTC: चीन नया नहीं, नेपाल पुलिस 10 Oct 06:00 1457 मृत 4720 लापता"},
+      "title": {"zh": "10月11日02:08 UTC再核：中方无新更新，尼方警察10日6时1457死4720失踪", "en": "11 Oct 02:08 UTC recheck: CN no new update, NP Police 10 Oct 06:00 1457 dead 4720 missing", "ne": "11 Oct 02:08 UTC: चीन नयाँ छैन, नेपाल प्रहरी 10 Oct 06:00 1457 मृत्यु 4720 बेपत्ता", "hi": "11 Oct 02:08 UTC: चीन नया नहीं, नेपाल पुलिस 10 Oct 06:00 1457 मृत 4720 लापता"},
       "body": {"zh": "再核新华社、指挥部、@XHNews：中方截至9月5日18时仍43死519失联、救出2人。尼泊尔警察总部截至10日6时：死亡1457、失踪4720。获救按此前13795。口岸未宣布重开，拉苏瓦主要公路仍阻断。堰塞湖新华社9月5日已排空。无新GNSS。", "en": "Recheck Xinhua, command, @XHNews: CN as of 5 Sep 18:00 still 43 dead, 519 missing, 2 rescued. Nepal Police HQ as of 10 Oct 06:00: 1457 dead, 4720 missing. Rescued prior 13795. Gate not announced open, Rasuwa major roads still blocked. Barrier lake Xinhua 5 Sep drained. No new GNSS.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। प्रहरी 10 Oct 06:00: 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। नाका खुलिएको छैन, सडक बन्द। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। पुलिस 10 Oct 06:00: 1457 मृत, 4720 लापता। उद्धार 13795। द्वार खुला नहीं, सड़क बंद। झील खाली। GNSS नहीं।"}
     },
     {
