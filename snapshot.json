@@ -1,29 +1,51 @@
 {
-  "snap": "2026-10-10T23:10:00Z",
+  "snap": "2026-10-11T00:12:11Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1010-2310",
+      "id": "poll-1011-0012",
       "src": "official",
-      "t": "2026-10-10T23:10:00Z",
+      "t": "2026-10-11T00:12:11Z",
       "link": "https://english.makalukhabar.com/bhotekoshi-flood-death-toll-rises-to-1457-4720-still-missing/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月10日23:10 UTC再核：中方无更新，尼方警察总部1457死4720失踪", "en": "10 Oct 23:10 UTC recheck: CN no update, NP Police HQ 1457 dead 4720 missing", "ne": "10 Oct 23:10 UTC: चीन नयाँ छैन, नेपाल प्रहरी 1457 मृत्यु 4720 बेपत्ता", "hi": "10 Oct 23:10 UTC: चीन नया नहीं, नेपाल पुलिस 1457 मृत 4720 लापता"},
-      "body": {"zh": "本轮再核新华社、指挥部及@XHNews：中方仍截至9月5日18时 43死519失联救出2人。MakaluKhabar等引尼泊尔警察总部截至今晨6时：死亡1457、失踪4720。获救仍按此前13795。拉苏瓦主要公路仍完全阻断，口岸未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, command and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MakaluKhabar etc. citing Nepal Police HQ as of this morning 06:00: 1457 dead, 4720 missing. Rescued stays prior 13795. Rasuwa major highways still fully blocked, gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MakaluKhabar: प्रहरी मुख्यालय 06:00, 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। रसुवा मुख्य सडक पूर्ण बन्द, नाका खुलिएको छैन। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MakaluKhabar: पुलिस मुख्यालय 06:00, 1457 मृत, 4720 लापता। उद्धार 13795। रसुवा मुख्य सड़क पूर्ण बंद, द्वार खुला नहीं। झील खाली। GNSS नहीं।"}
+      "title": {"zh": "10月11日00:12 UTC再核：中方无更新，尼方警察总部10日6时1457死4720失踪", "en": "11 Oct 00:12 UTC recheck: CN no update, NP Police HQ 10 Oct 06:00 1457 dead 4720 missing", "ne": "11 Oct 00:12 UTC: चीन नयाँ छैन, नेपाल प्रहरी 10 Oct 06:00 1457 मृत्यु 4720 बेपत्ता", "hi": "11 Oct 00:12 UTC: चीन नया नहीं, नेपाल पुलिस 10 Oct 06:00 1457 मृत 4720 लापता"},
+      "body": {"zh": "再核新华社、指挥部、@XHNews：中方截至9月5日18时仍43死519失联、救出2人。尼泊尔警察总部截至10日6时：死亡1457、失踪4720。获救按此前13795。口岸未宣布重开，拉苏瓦主要公路仍阻断。堰塞湖新华社9月5日已排空。无新GNSS。", "en": "Recheck Xinhua, command, @XHNews: CN as of 5 Sep 18:00 still 43 dead, 519 missing, 2 rescued. Nepal Police HQ as of 10 Oct 06:00: 1457 dead, 4720 missing. Rescued prior 13795. Gate not announced open, Rasuwa major roads still blocked. Barrier lake Xinhua 5 Sep drained. No new GNSS.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। प्रहरी 10 Oct 06:00: 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। नाका खुलिएको छैन, सडक बन्द। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। पुलिस 10 Oct 06:00: 1457 मृत, 4720 लापता। उद्धार 13795। द्वार खुला नहीं, सड़क बंद। झील खाली। GNSS नहीं।"}
     },
     {
-      "id": "poll-1010-2208",
+      "id": "np-police-1010",
       "src": "official",
-      "t": "2026-10-10T22:08:34Z",
+      "t": "2026-10-10T00:00:00Z",
       "link": "https://english.makalukhabar.com/bhotekoshi-flood-death-toll-rises-to-1457-4720-still-missing/",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月10日22:08 UTC再核：中方无更新，尼方警察总部1457死4720失踪", "en": "10 Oct 22:08 UTC recheck: CN no update, NP Police HQ 1457 dead 4720 missing", "ne": "10 Oct 22:08 UTC: चीन नयाँ छैन, नेपाल प्रहरी 1457 मृत्यु 4720 बेपत्ता", "hi": "10 Oct 22:08 UTC: चीन नया नहीं, नेपाल पुलिस 1457 मृत 4720 लापता"},
-      "body": {"zh": "本轮再核新华社、指挥部及@XHNews：中方仍截至9月5日18时 43死519失联救出2人。MakaluKhabar等引尼泊尔警察总部截至今晨6时：死亡1457、失踪4720。获救仍按此前13795。拉苏瓦主要公路仍完全阻断，口岸未宣布重开。堰塞湖仍为新华社9月5日已排空。无新队伍坐标。", "en": "Recheck of Xinhua, command and @XHNews: CN remains as of 5 Sep 18:00, 43 dead, 519 missing, 2 rescued. MakaluKhabar etc. citing Nepal Police HQ as of this morning 06:00: 1457 dead, 4720 missing. Rescued stays prior 13795. Rasuwa major highways still fully blocked, gate not announced open. Barrier lake remains Xinhua 5 Sep drained. No new team coordinates.", "ne": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। MakaluKhabar: प्रहरी मुख्यालय 06:00, 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। रसुवा मुख्य सडक पूर्ण बन्द, नाका खुलिएको छैन। ताल खाली। GNSS छैन।", "hi": "Xinhua/@XHNews: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। MakaluKhabar: पुलिस मुख्यालय 06:00, 1457 मृत, 4720 लापता। उद्धार 13795। रसुवा मुख्य सड़क पूर्ण बंद, द्वार खुला नहीं। झील खाली। GNSS नहीं।"}
+      "title": {"zh": "尼泊尔警察总部：截至10月10日6时死亡1457失踪4720", "en": "Nepal Police HQ: as of 10 Oct 06:00 dead 1457 missing 4720", "ne": "नेपाल प्रहरी मुख्यालय: 10 Oct 06:00 1457 मृत्यु 4720 बेपत्ता", "hi": "नेपाल पुलिस मुख्यालय: 10 Oct 06:00 1457 मृत 4720 लापता"},
+      "body": {"zh": "警察总部通报两名重伤者在加德满都治疗中死亡。八区死亡分布：拉苏瓦236等。已管理1335具遗体，1438具未识别。安置中心1231人。", "en": "Police HQ reported two critically injured died under treatment in Kathmandu. District deaths: Rasuwa 236 etc. 1335 remains managed, 1438 unidentified. 1231 in holding centres.", "ne": "प्रहरी: काठमाडौंमा उपचारमा दुई मृत्यु। रसुवा 236 आदि। 1335 व्यवस्थापन, 1438 पहिचान नभएको। होल्डिङ 1231।", "hi": "पुलिस: काठमांडू में उपचार में दो मृत्यु। रसुवा 236 आदि। 1335 प्रबंधित, 1438 अज्ञात। होल्डिंग 1231।"}
+    },
+    {
+      "id": "cn-xh-0905",
+      "src": "official",
+      "t": "2026-09-05T10:00:00Z",
+      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
+      "img": null,
+      "lat": 28.293,
+      "lng": 85.392,
+      "geo": "barrier lake",
+      "title": {"zh": "新华社：截至9月5日18时中方43死519失联，堰塞湖已排空", "en": "Xinhua: as of 5 Sep 18:00 CN 43 dead 519 missing, barrier lake drained", "ne": "Xinhua: 5 Sep 18:00 चीन 43 मृत्यु 519 सम्पर्क विहीन, ताल खाली", "hi": "Xinhua: 5 Sep 18:00 चीन 43 मृत 519 लापता, झील खाली"},
+      "body": {"zh": "指挥部：成功救出2人。G216通道9月2日抢通。堰塞湖自然泄流后险情基本解除，河道过流正常。", "en": "Command: 2 rescued. G216 access restored 2 Sep. Barrier lake naturally discharged, hazard largely eliminated, river flow normal.", "ne": "कमान: 2 उद्धार। G216 2 Sep खुला। ताल प्राकृतिक निकास, खतरा हट्यो।", "hi": "कमांड: 2 उद्धार। G216 2 Sep खुला। झील प्राकृतिक निर्वहन, खतरा हटा।"}
+    },
+    {
+      "id": "usemb-road",
+      "src": "official",
+      "t": "2026-09-03T00:00:00Z",
+      "link": "https://np.usembassy.gov/natural-disaster-alert-continued-flood-and-landslide-risk-and-road-disruptions/",
+      "img": null,
+      "geo": "unknown",
+      "title": {"zh": "美使馆：勿前往拉苏瓦加迪-提穆尔-夏布鲁贝西区域", "en": "US Embassy: do not travel to Rasuwagadhi-Timure-Syafrubesi area", "ne": "US Embassy: रसुवागढ़ी-तिमुरे-स्याफ्रुबेसी नजानुहोस्", "hi": "US Embassy: रसुवागढ़ी-तिमुरे-स्याफ्रुबेसी न जाएं"},
+      "body": {"zh": "警告洪水与滑坡风险持续，主要公路受损，口岸区域危险。", "en": "Warning of continued flood and landslide risk, major roads damaged, port area dangerous.", "ne": "बाढी र पहिरो जोखिम जारी, मुख्य सडक क्षति, पोर्ट खतरनाक।", "hi": "बाढ़ और भूस्खलन जोखिम जारी, मुख्य सड़क क्षतिग्रस्त, पोर्ट खतरनाक।"}
     }
   ],
   "roads": [
@@ -33,7 +55,7 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "name": {"zh": "吉隆口岸", "en": "Gyirong Port", "ne": "जीरों पोर्ट", "hi": "जीरों पोर्ट"},
-      "detail": {"zh": "口岸被毁，尚未宣布重开；G216吉隆镇至国门段双向管制。拉苏瓦主要公路仍完全阻断。美使馆警告勿前往拉苏瓦加迪-提穆尔区域。", "en": "Port destroyed, not announced reopened; G216 town-to-gate section remains two-way controlled. Rasuwa major highways still fully blocked. US Embassy warns against Rasuwagadhi-Timure area.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 नियन्त्रण। रसुवा मुख्य सडक पूर्ण बन्द। US Embassy ले रसुवागढ़ी-तिमुरे क्षेत्रमा नजान चेतावनी दिएको छ।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 नियंत्रण। रसुवा मुख्य सड़क पूर्ण बंद। US Embassy रसुवागढ़ी-तिमुरे क्षेत्र में न जाने की चेतावनी।"}
+      "detail": {"zh": "口岸被毁，尚未宣布重开；G216吉隆镇至国门段已抢通但管制。拉苏瓦主要公路仍完全阻断。美使馆警告勿前往。", "en": "Port destroyed, not announced reopened; G216 town-to-gate restored but controlled. Rasuwa major highways still fully blocked. US Embassy warns against travel.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 खुला तर नियन्त्रण। रसुवा मुख्य सडक पूर्ण बन्द। US Embassy चेतावनी।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 खुला लेकिन नियंत्रण। रसुवा मुख्य सड़क पूर्ण बंद। US Embassy चेतावनी।"}
     }
   ],
   "forces": [
@@ -43,7 +65,7 @@
       "lat": 28.318,
       "lng": 85.36,
       "name": {"zh": "前方救援力量", "en": "Forward rescue forces", "ne": "अगाडि उद्धार बल", "hi": "आगे रेस्क्यू बल"},
-      "detail": {"zh": "搜救仍持续但规模有限；无新公开坐标。", "en": "SAR continues but limited scale; no new public coordinates.", "ne": "खोज जारी, सीमित; नयाँ निर्देशाङ्क छैन।", "hi": "खोज जारी, सीमित; नया निर्देशांक नहीं।"}
+      "detail": {"zh": "搜救持续但规模有限；无新公开GNSS坐标。", "en": "SAR continues but limited scale; no new public GNSS coordinates.", "ne": "खोज जारी, सीमित; नयाँ GNSS छैन।", "hi": "खोज जारी, सीमित; नया GNSS नहीं।"}
     }
   ],
   "sites": [
@@ -64,12 +86,20 @@
   },
   "xPosts": [
     {
-      "id": "xh-1010-climate",
+      "id": "xh-0910-climate",
       "user": "@XHNews",
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
       "geo": "unknown",
       "text": {"zh": "中国国家气候中心向尼泊尔提供滚动气候监测与预报产品，支持吉隆-拉苏瓦边境泥石流后的救援。", "en": "China's National Climate Center has been providing Nepal with rolling climate monitoring and forecast products to support rescue after the Gyirong-Rasuwa mudslide.", "ne": "चीनको राष्ट्रिय जलवायु केन्द्रले नेपाललाई जलवायु निगरानी र पूर्वानुमान उत्पादन दिइरहेको छ।", "hi": "चीन का राष्ट्रीय जलवायु केंद्र नेपाल को जलवायु निगरानी और पूर्वानुमान प्रदान कर रहा है।"}
+    },
+    {
+      "id": "cctv-0910-workers",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "geo": "unknown",
+      "text": {"zh": "灾后选择留在吉隆镇的尼泊尔工人继续工作，希望受灾地区尽快恢复。", "en": "Nepali workers who chose to remain in Gyirong Town after the mudslide are continuing their work and hope the area recovers soon.", "ne": "जीरों टाउनमा रहेका नेपाली कामदारहरूले काम जारी राखेका छन् र क्षेत्र चाँडै पुनर्स्थापित हुने आशा गर्छन्।", "hi": "जीरों टाउन में रहने वाले नेपाली कर्मचारी काम जारी रखे हुए हैं और क्षेत्र जल्द ठीक होने की उम्मीद करते हैं।"}
     }
   ]
 }
