@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-12T13:18:59Z",
+  "snap": "2026-10-13T05:14:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -7,12 +7,34 @@
       "rescued": 2
     },
     "np": {
-      "dead": 1455,
-      "missing": 5285,
+      "dead": 1457,
+      "missing": 4720,
       "rescued": 13795
     }
   },
   "published": [
+    {
+      "id": "np-police-20261010",
+      "src": "official",
+      "t": "2026-10-10T00:30:00Z",
+      "link": "https://english.makalukhabar.com/bhotekoshi-flood-death-toll-rises-to-1457-4720-still-missing/",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Rasuwa",
+      "title": {
+        "zh": "尼泊尔警方：截至10月10日6时，1457人遇难、4720人失踪",
+        "en": "Nepal Police: as of 06:00 Oct 10, 1457 dead, 4720 missing",
+        "ne": "नेपाल प्रहरी: अक्टोबर १० ०६:०० सम्म १४५७ मृत्यु, ४७२० हराइरहेका",
+        "hi": "नेपाल पुलिस: 10 अक्टूबर 06:00 तक 1457 मृत, 4720 लापता"
+      },
+      "body": {
+        "zh": "尼泊尔警察总部通报，截至10月10日上午6时，Bhotekoshi洪水已致1457人遇难、4720人失踪。大规模搜救已基本结束，转向身份确认与重建。",
+        "en": "Nepal Police HQ reported as of 06:00 on Oct 10: 1457 deaths, 4720 missing from the Bhotekoshi floods. Major search largely concluded; focus on identification and reconstruction.",
+        "ne": "नेपाल प्रहरी मुख्यालयले अक्टोबर १० ०६:०० सम्म भोटेकोशी बाढीबाट १४५७ मृत्यु, ४७२० हराइरहेका रिपोर्ट गरेको छ। ठूलो खोज लगभग समाप्त।",
+        "hi": "नेपाल पुलिस मुख्यालय ने 10 अक्टूबर 06:00 तक भोटेकोशी बाढ़ से 1457 मौतें, 4720 लापता होने की सूचना दी। बड़ी खोज लगभग समाप्त।"
+      }
+    },
     {
       "id": "cn-kpi-20260905",
       "src": "official",
@@ -33,28 +55,6 @@
         "en": "Gyirong County emergency rescue command reported as of 18:00 on Sep 5: 43 dead, 519 missing, 2 rescued, 993 personal items recovered. No further official casualty updates since.",
         "ne": "गिरोंग काउन्टी आपतकालीन उद्धार कमान्डले सेप्टेम्बर ५ १८:०० सम्म ४३ मृत्यु, ५१९ हराइरहेका, २ उद्धार, ९९३ व्यक्तिगत वस्तुहरू फेला परेको रिपोर्ट गरेको छ। त्यसपछि आधिकारिक अपडेट छैन।",
         "hi": "गिरोंग काउंटी आपातकालीन बचाव कमान ने 5 सितंबर 18:00 तक 43 मृत, 519 लापता, 2 बचाए गए, 993 व्यक्तिगत वस्तुएं बरामद होने की सूचना दी। उसके बाद कोई आधिकारिक अपडेट नहीं।"
-      }
-    },
-    {
-      "id": "np-kpi-20261005",
-      "src": "official",
-      "t": "2026-10-05T12:00:00Z",
-      "link": "https://www.etvbharat.com/en/international/nepal-wraps-up-rasuwa-flood-search-shifts-focus-to-rehabilitation-and-reconstruction-enn26100505761",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Rasuwa",
-      "title": {
-        "zh": "尼泊尔NDRRMA：1455人遇难、5285人失踪，搜救基本结束",
-        "en": "Nepal NDRRMA: 1455 dead, 5285 missing; search largely concluded",
-        "ne": "नेपाल NDRRMA: १४५५ मृत्यु, ५२८५ हराइरहेका; खोज समाप्ति",
-        "hi": "नेपाल NDRRMA: 1455 मृत, 5285 लापता; खोज लगभग समाप्त"
-      },
-      "body": {
-        "zh": "截至10月5日，NDRRMA确认遇难1455人、失踪5285人、获救约13795人。政府决定结束为期40天的大规模搜救，转向康复与重建。",
-        "en": "As of Oct 5, NDRRMA confirmed 1455 deaths, 5285 missing, ~13795 rescued. Government ended the 40-day major search and shifted to rehabilitation and reconstruction.",
-        "ne": "अक्टोबर ५ सम्म NDRRMA ले १४५५ मृत्यु, ५२८५ हराइरहेका, करिब १३७९५ उद्धार पुष्टि गरेको छ। सरकारले ४० दिने ठूलो खोज समाप्त गरी पुनर्स्थापनामा सारेको छ।",
-        "hi": "5 अक्टूबर तक NDRRMA ने 1455 मौतें, 5285 लापता, लगभग 13795 बचाए गए की पुष्टि की। सरकार ने 40 दिन की बड़ी खोज समाप्त कर पुनर्वास पर ध्यान केंद्रित किया।"
       }
     },
     {
@@ -115,10 +115,10 @@
         "hi": "गिरोंग पोर्ट"
       },
       "detail": {
-        "zh": "口岸设施被毁，关闭中。G216救援通道已抢通供救援使用，不开放民用通行。",
-        "en": "Port facilities destroyed and closed. G216 rescue route restored for emergency use only; not open to civilian traffic.",
-        "ne": "पोर्ट सुविधाहरू नष्ट भई बन्द। G216 उद्धार मार्ग आपतकालीन प्रयोगका लागि मात्र खुला।",
-        "hi": "पोर्ट सुविधाएं नष्ट और बंद। G216 बचाव मार्ग केवल आपातकालीन उपयोग के लिए खुला।"
+        "zh": "口岸设施被毁，关闭中。G216救援通道已抢通供救援使用，不开放民用通行。美国使馆建议避免前往该区域。",
+        "en": "Port facilities destroyed and closed. G216 rescue route restored for emergency use only; not open to civilian traffic. US Embassy advises against travel to the area.",
+        "ne": "पोर्ट सुविधाहरू नष्ट भई बन्द। G216 उद्धार मार्ग आपतकालीन प्रयोगका लागि मात्र खुला। अमेरिकी दूतावासले क्षेत्रमा यात्रा नगर्न सल्लाह दिन्छ।",
+        "hi": "पोर्ट सुविधाएं नष्ट और बंद। G216 बचाव मार्ग केवल आपातकालीन उपयोग के लिए खुला। अमेरिकी दूतावास क्षेत्र में यात्रा न करने की सलाह देता है।"
       }
     }
   ],
@@ -135,8 +135,8 @@
         "hi": "आगे बचाव बल"
       },
       "detail": {
-        "zh": "中方搜救已进入后期清理与监测阶段；尼方大规模搜救已于10月初结束，转为重建。",
-        "en": "Chinese side in late-stage cleanup and monitoring; Nepal major search ended early October, shifted to reconstruction.",
+        "zh": "中方搜救已进入后期清理与监测阶段；尼方大规模搜救已于10月初结束，转为重建与身份确认。",
+        "en": "Chinese side in late-stage cleanup and monitoring; Nepal major search ended early October, shifted to reconstruction and identification.",
         "ne": "चिनियाँ पक्ष अन्तिम चरणको सफाइ र अनुगमनमा; नेपालको ठूलो खोज अक्टोबर सुरुमा समाप्त।",
         "hi": "चीनी पक्ष देर चरण की सफाई और निगरानी में; नेपाल की बड़ी खोज अक्टूबर की शुरुआत में समाप्त।"
       }
@@ -187,6 +187,21 @@
         "en": "Chinese immigration police officer Xiao Fugui filmed this drone footage near Gyirong Port shortly after the mudslide.",
         "ne": "चिनियाँ आप्रवासन प्रहरी अधिकारीले गिरोंग पोर्ट नजिक ड्रोन फुटेज खिचे।",
         "hi": "चीनी आप्रवासन पुलिस अधिकारी ने गिरोंग पोर्ट के पास ड्रोन फुटेज फिल्माया।"
+      }
+    },
+    {
+      "id": "x2",
+      "user": "@XHNews",
+      "t": "2026-09-04T09:00:43Z",
+      "link": "https://x.com/XHNews/status/2095799206615347459",
+      "lat": 28.28,
+      "lng": 85.38,
+      "geo": "Gyirong Port",
+      "text": {
+        "zh": "两小时不足5米。重新开通通往吉隆口岸核心区道路的困难。",
+        "en": "Less than 5 meters in two hours. Challenges in reopening the route to the core area of Gyirong Port.",
+        "ne": "दुई घण्टामा ५ मिटरभन्दा कम। गिरोंग पोर्ट कोर क्षेत्रमा बाटो खोल्ने कठिनाई।",
+        "hi": "दो घंटे में 5 मीटर से कम। गिरोंग पोर्ट के मुख्य क्षेत्र तक मार्ग खोलने की चुनौतियां।"
       }
     }
   ]
