@@ -1,18 +1,18 @@
 {
-  "snap": "2026-10-12T01:11:10Z",
+  "snap": "2026-10-12T02:07:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1012-0111",
+      "id": "poll-1012-0207",
       "src": "official",
-      "t": "2026-10-12T01:11:10Z",
+      "t": "2026-10-12T02:07:00Z",
       "link": "",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月12日01:11 UTC刷新：中方无新更新，尼方警察总部截至10日6时1457死4720失踪", "en": "12 Oct 01:11 UTC refresh: CN no new update, NP Police HQ as of 10 Oct 06:00 1457 dead 4720 missing", "ne": "12 Oct 01:11 UTC: चीन नयाँ छैन, नेपाल प्रहरी 10 Oct 06:00 1457 मृत्यु 4720 बेपत्ता", "hi": "12 Oct 01:11 UTC: चीन नया नहीं, नेपाल पुलिस 10 Oct 06:00 1457 मृत 4720 लापता"},
+      "title": {"zh": "10月12日02:07 UTC刷新：中方无新更新，尼方警察总部截至10日6时1457死4720失踪", "en": "12 Oct 02:07 UTC refresh: CN no new update, NP Police HQ as of 10 Oct 06:00 1457 dead 4720 missing", "ne": "12 Oct 02:07 UTC: चीन नयाँ छैन, नेपाल प्रहरी 10 Oct 06:00 1457 मृत्यु 4720 बेपत्ता", "hi": "12 Oct 02:07 UTC: चीन नया नहीं, नेपाल पुलिस 10 Oct 06:00 1457 मृत 4720 लापता"},
       "body": {"zh": "再核新华社、指挥部：中方截至9月5日18时仍43死519失联、救出2人。尼泊尔警察总部截至10日6时：死亡1457、失踪4720。获救按此前13795。口岸未宣布重开，拉苏瓦主要公路仍阻断（贝特罗瓦美桥已恢复部分连通）。堰塞湖新华社9月5日已排空。无新GNSS。", "en": "Recheck Xinhua, command: CN as of 5 Sep 18:00 still 43 dead, 519 missing, 2 rescued. Nepal Police HQ as of 10 Oct 06:00: 1457 dead, 4720 missing. Rescued prior 13795. Gate not announced open, Rasuwa major roads still blocked (Bailey bridge at Betrawati restores partial link). Barrier lake Xinhua 5 Sep drained. No new GNSS.", "ne": "Xinhua: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। प्रहरी 10 Oct 06:00: 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। नाका खुलिएको छैन, सडक बन्द (बेट्रावाती बेली पुल आंशिक जोड्यो)। ताल खाली। GNSS छैन।", "hi": "Xinhua: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। पुलिस 10 Oct 06:00: 1457 मृत, 4720 लापता। उद्धार 13795। द्वार खुला नहीं, सड़क बंद (बेट्रावाती बेली पुल आंशिक जोड़)। झील खाली। GNSS नहीं।"}
     },
     {
@@ -45,7 +45,7 @@
       "lng": 85.392,
       "geo": "barrier lake",
       "title": {"zh": "新华社：截至9月5日18时中方43死519失联，堰塞湖已排空", "en": "Xinhua: as of 5 Sep 18:00 CN 43 dead 519 missing, barrier lake drained", "ne": "Xinhua: 5 Sep 18:00 चीन 43 मृत्यु 519 सम्पर्क विहीन, ताल खाली", "hi": "Xinhua: 5 Sep 18:00 चीन 43 मृत 519 लापता, झील खाली"},
-      "body": {"zh": "指挥部：成功救出2人。G216通道鼎月2日抢通。堰塞湖自然泄流后险情基本解除，河道过流正常。", "en": "Command: 2 rescued. G216 access restored 2 Sep. Barrier lake naturally discharged, hazard largely eliminated, river flow normal.", "ne": "कमान: 2 उद्धार। G216 2 Sep खुला। ताल प्राकृतिक निकास, खतरा हट्यो।", "hi": "कमांड: 2 उद्धार। G216 2 Sep खुला। झील प्राकृतिक निर्वहन, खतरा हटा।"}
+      "body": {"zh": "指挥部：成功救出2人。G216通道9月2日抢通。堰塞湖自然泄流后险情基本解除，河道过流正常。", "en": "Command: 2 rescued. G216 access restored 2 Sep. Barrier lake naturally discharged, hazard largely eliminated, river flow normal.", "ne": "कमान: 2 उद्धार। G216 2 Sep खुला। ताल प्राकृतिक निकास, खतरा हट्यो।", "hi": "कमांड: 2 उद्धार। G216 2 Sep खुला। झील प्राकृतिक निर्वहन, खतरा हटा।"}
     },
     {
       "id": "usemb-road",
@@ -104,14 +104,12 @@
       "text": {"zh": "中国国家气候中心向尼泊尔提供滚动气候监测与预报产品，支持吉隆-拉苏瓦边境泥石流后的救援。", "en": "China's National Climate Center has been providing Nepal with rolling climate monitoring and forecast products to support rescue after the Gyirong-Rasuwa mudslide.", "ne": "चीनको राष्ट्रिय जलवायु केन्द्रले नेपाललाई जलवायु निगरानी र पूर्वानुमान उत्पादन दिइरहेको छ।", "hi": "चीन का राष्ट्रीय जलवायु केंद्र नेपाल को जलवायु निगरानी और पूर्वानुमान प्रदान कर रहा है।"}
     },
     {
-      "id": "cctv-0907-43",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-07T02:35:18Z",
-      "link": "https://x.com/CCTV_Plus/status/2096789374872801595",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {"zh": "截至9月5日18时，吉隆口岸泥石流已确认43人遇难、519人失联。", "en": "As of 18:00 on September 5, 43 people confirmed dead and 519 missing from the mudslide at Gyirong Port.", "ne": "सेप्टेम्बर 5 को 18:00 सम्म, जीरों पोर्ट मा 43 मृत्यु, 519 बेपत्ता।", "hi": "5 सितंबर 18:00 तक, जीरों पोर्ट में 43 मृत, 519 लापता।"}
+      "id": "cgtn-0911-canteen",
+      "user": "@CGTNOfficial",
+      "t": "2026-09-11T13:30:00Z",
+      "link": "https://x.com/CGTNOfficial/status/2098403689748709554",
+      "geo": "unknown",
+      "text": {"zh": "吉隆镇餐馆老板蔡九将餐馆变为免费食堂，为滞留尼泊尔人、志愿者和救援人员提供热餐。", "en": "Gyirong Town restaurant owner Cai Jiu turned his eatery into a free canteen serving hot meals to stranded Nepalis, volunteers and rescuers.", "ne": "जीरों टाउन रेस्टुरेन्ट मालिकले निःशुल्क क्यान्टिन बनाए।", "hi": "जीरों टाउन रेस्टोरेंट मालिक ने मुफ्त कैंटीन बनाई।"}
     }
   ]
 }
