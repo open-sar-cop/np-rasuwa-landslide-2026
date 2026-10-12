@@ -1,19 +1,19 @@
 {
-  "snap": "2026-10-12T10:10:00Z",
+  "snap": "2026-10-12T12:15:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1012-1010",
+      "id": "poll-1012-1215",
       "src": "official",
-      "t": "2026-10-12T10:10:00Z",
+      "t": "2026-10-12T12:15:00Z",
       "link": "",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月12日10:10 UTC刷新：中方无新官方更新，尼方截至10日1457死4720失踪；贝特拉瓦贝利桥开通", "en": "12 Oct 10:10 UTC refresh: CN no new official update, NP as of 10 Oct 1457 dead 4720 missing; Betrawati Bailey bridge open", "ne": "12 Oct 10:10 UTC: चीन नयाँ छैन, नेपाल 10 Oct 1457 मृत्यु 4720 बेपत्ता; बेत्रावती बेली पुल खुला", "hi": "12 Oct 10:10 UTC: चीन नया नहीं, नेपाल 10 Oct 1457 मृत 4720 लापता; बेत्रावती बेली पुल खुला"},
-      "body": {"zh": "再核新华社与指挥部：中方截至9月5日18时仍43死519失联、救出2人。尼泊尔警察总部截至10月10日6时：死亡1457、失踪4720。口岸未重开。尼泊尔贝特拉瓦贝利桥于11日开通，恢复努瓦科特-拉苏瓦路段，但至拉苏瓦加迪仍未全通。堰塞湖已排空。无新GNSS。", "en": "Recheck Xinhua and command: CN as of 5 Sep 18:00 still 43 dead, 519 missing, 2 rescued. NP Police HQ as of 10 Oct 06:00: 1457 dead, 4720 missing. Gate not reopened. Nepal Betrawati Bailey bridge opened 11 Oct restoring Nuwakot-Rasuwa link, but full to Rasuwagadhi not yet. Barrier lake drained. No new GNSS.", "ne": "Xinhua: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। नेपाल प्रहरी 10 Oct 06:00: 1457 मृत्यु, 4720 बेपत्ता। नाका खुलिएको छैन। बेत्रावती बेली पुल 11 Oct खुला, नुवाकोट-रसुवा खुल्यो। ताल खाली। GNSS छैन।", "hi": "Xinhua: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। नेपाल पुलिस 10 Oct 06:00: 1457 मृत, 4720 लापता। द्वार खुला नहीं। बेत्रावती बेली पुल 11 Oct खुला, नुवाकोट-रसुवा खुला। झील खाली। GNSS नहीं।"}
+      "title": {"zh": "10月12日12:15 UTC刷新：中方无新官方更新（截至9月5日43死519失联），尼方警察截至10月10日6时1457死4720失踪", "en": "12 Oct 12:15 UTC refresh: CN no new official update (as of 5 Sep 43 dead 519 missing), NP Police as of 10 Oct 06:00 1457 dead 4720 missing", "ne": "12 Oct 12:15 UTC: चीन नयाँ छैन (5 Sep 43 मृत्यु 519 सम्पर्क विहीन), नेपाल प्रहरी 10 Oct 06:00 1457 मृत्यु 4720 बेपत्ता", "hi": "12 Oct 12:15 UTC: चीन नया नहीं (5 Sep 43 मृत 519 लापता), नेपाल पुलिस 10 Oct 06:00 1457 मृत 4720 लापता"},
+      "body": {"zh": "再核新华社与指挥部：中方截至9月5日18时仍43遇难519失联、救出2人。尼泊尔警察总部截至10月10日6时：死亡1457、失踪4720。口岸未重开。贝特拉瓦贝利桥11日开通恢复部分路段，但至拉苏瓦加迪仍未全通。堰塞湖已排空。无新GNSS。", "en": "Recheck Xinhua and command: CN as of 5 Sep 18:00 still 43 dead, 519 missing, 2 rescued. NP Police HQ as of 10 Oct 06:00: 1457 dead, 4720 missing. Gate not reopened. Betrawati Bailey bridge opened 11 Oct restoring some link, but full to Rasuwagadhi not yet. Barrier lake drained. No new GNSS.", "ne": "Xinhua: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। नेपाल प्रहरी 10 Oct 06:00: 1457 मृत्यु, 4720 बेपत्ता। नाका खुलिएको छैन। बेत्रावती बेली पुल 11 Oct खुला। ताल खाली। GNSS छैन।", "hi": "Xinhua: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। नेपाल पुलिस 10 Oct 06:00: 1457 मृत, 4720 लापता। द्वार खुला नहीं। बेत्रावती बेली पुल 11 Oct खुला। झील खाली। GNSS नहीं।"}
     },
     {
       "id": "np-bailey-1011",
