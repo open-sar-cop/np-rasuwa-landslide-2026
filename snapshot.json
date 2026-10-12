@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-12T22:10:00Z",
+  "snap": "2026-10-12T23:11:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -13,6 +13,28 @@
     }
   },
   "published": [
+    {
+      "id": "np-legal-20261012",
+      "src": "official",
+      "t": "2026-10-12T12:00:00Z",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-victims-legally-dead.html",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Rasuwa",
+      "title": {
+        "zh": "尼泊尔政府出台程序宣布Bhotekoshi洪水失踪人员法律死亡",
+        "en": "Nepal govt introduces procedure to declare Bhotekoshi flood missing legally dead",
+        "ne": "नेपाल सरकारले भोटेकोशी बाढीका हराइरहेकाहरूलाई कानुनी रूपमा मृत घोषणा गर्ने प्रक्रिया ल्याएको छ",
+        "hi": "नेपाल सरकार ने भोटेकोशी बाढ़ में लापता लोगों को कानूनी रूप से मृत घोषित करने की प्रक्रिया शुरू की"
+      },
+      "body": {
+        "zh": "NDRRMA执行委员会批准程序，家属可申请死亡证明。尼泊尔公民和地方公告，外籍通过外交渠道核实。大规模搜救已结束。",
+        "en": "NDRRMA Executive Committee approved procedure for families to apply for death certificates. Nepali citizens via local notice; foreigners through diplomatic channels. Major search has ended.",
+        "ne": "NDRRMA कार्यकारी समितिले मृत्यु प्रमाणपत्रका लागि आवेदन प्रक्रिया स्वीकृत गरेको छ। ठूलो खोज समाप्त भएको छ।",
+        "hi": "NDRRMA कार्यकारी समिति ने मृत्यु प्रमाण पत्र के लिए आवेदन प्रक्रिया स्वीकृत की। बड़ी खोज समाप्त हो चुकी है।"
+      }
+    },
     {
       "id": "np-police-20261010",
       "src": "official",
@@ -177,31 +199,31 @@
     {
       "id": "x1",
       "user": "@XHNews",
-      "t": "2026-09-05T08:55:03Z",
-      "link": "https://x.com/XHNews/status/2096160167708778634",
+      "t": "2026-09-10T05:47:43Z",
+      "link": "https://x.com/XHNews/status/2097924965219905940",
       "lat": 28.28,
       "lng": 85.38,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "中国边防警察肖福贵在泥石流后不久拍摄的吉隆口岸无人机画面。",
-        "en": "Chinese immigration police officer Xiao Fugui filmed this drone footage near Gyirong Port shortly after the mudslide.",
-        "ne": "चिनीयाँ आप्रवासन प्रहरी अधिकारीले गिरोंग पोर्ट नजिक ड्रोन फुटेज खिचे।",
-        "hi": "चीनी आप्रवासन पुलिस अधिकारी ने गिरोंग पोर्ट के पास ड्रोन फुटेज फिल्माया।"
+        "zh": "中国国家气候中心向尼泊尔提供滚动气候监测和预报产品，支持吉隆-拉苏瓦边境泥石流后的救援工作。",
+        "en": "China's National Climate Center providing Nepal with rolling climate monitoring and forecast products to support rescue after the Gyirong-Rasuwa mudslide.",
+        "ne": "चीनको राष्ट्रिय जलवायु केन्द्रले गिरोंग-रसुवा पहिरो पछि उद्धारका लागि जलवायु पूर्वानुमान प्रदान गर्दैछ।",
+        "hi": "चीन का राष्ट्रीय जलवायु केंद्र गिरोंग-रसुवा मडस्लाइड के बाद बचाव के लिए जलवायु निगरानी और पूर्वानुमान प्रदान कर रहा है।"
       }
     },
     {
       "id": "x2",
-      "user": "@XHNews",
-      "t": "2026-09-04T09:00:43Z",
-      "link": "https://x.com/XHNews/status/2095799206615347459",
-      "lat": 28.28,
-      "lng": 85.38,
-      "geo": "Gyirong Port",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "lat": 28.39,
+      "lng": 85.325,
+      "geo": "Gyirong town",
       "text": {
-        "zh": "两小时不足5米。重新开通通往吉隆口岸核心区道路的困难。",
-        "en": "Less than 5 meters in two hours. Challenges in reopening the route to the core area of Gyirong Port.",
-        "ne": "दुई घण्टामा ५ मिटरभन्दा कम। गिरोंग पोर्ट कोर क्षेत्रमा बाटो खोल्ने कठिनाई।",
-        "hi": "दो घंटे में 5 मीटर से कम। गिरोंग पोर्ट के मुख्य क्षेत्र तक मार्ग खोलने की चुनौतियां।"
+        "zh": "灾后选择留在吉隆镇的尼泊尔工人继续工作，希望受灾地区尽快恢复。",
+        "en": "Nepali workers who chose to remain in disaster-hit Gyirong Town are getting on with their work and hope the area will soon recover.",
+        "ne": "विपद् प्रभावित गिरोंग टाउनमा बस्ने नेपाली कामदारहरूले काम जारी राखेका छन् र छिटो पुनर्प्राप्ति आशा गर्छन्।",
+        "hi": "आपदा प्रभावित गिरोंग टाउन में रहने वाले नेपाली कामगार काम जारी रखे हुए हैं और जल्द ठीक होने की उम्मीद करते हैं।"
       }
     }
   ]
