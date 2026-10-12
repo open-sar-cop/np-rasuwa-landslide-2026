@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-13T05:14:00Z",
+  "snap": "2026-10-12T22:10:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -83,7 +83,7 @@
       "id": "g216-restored-20260902",
       "src": "official",
       "t": "2026-09-02T02:00:00Z",
-      "link": "https://www.xhnews.com",
+      "link": "https://english.news.cn/",
       "img": null,
       "lat": 28.318,
       "lng": 85.36,
@@ -137,7 +137,7 @@
       "detail": {
         "zh": "中方搜救已进入后期清理与监测阶段；尼方大规模搜救已于10月初结束，转为重建与身份确认。",
         "en": "Chinese side in late-stage cleanup and monitoring; Nepal major search ended early October, shifted to reconstruction and identification.",
-        "ne": "चिनियाँ पक्ष अन्तिम चरणको सफाइ र अनुगमनमा; नेपालको ठूलो खोज अक्टोबर सुरुमा समाप्त।",
+        "ne": "चिनीयाँ पक्ष अन्तिम चरणको सफाइ र अनुगमनमा; नेपालको ठूलो खोज अक्टोबर सुरुमा समाप्त।",
         "hi": "चीनी पक्ष देर चरण की सफाई और निगरानी में; नेपाल की बड़ी खोज अक्टूबर की शुरुआत में समाप्त।"
       }
     }
@@ -185,7 +185,7 @@
       "text": {
         "zh": "中国边防警察肖福贵在泥石流后不久拍摄的吉隆口岸无人机画面。",
         "en": "Chinese immigration police officer Xiao Fugui filmed this drone footage near Gyirong Port shortly after the mudslide.",
-        "ne": "चिनियाँ आप्रवासन प्रहरी अधिकारीले गिरोंग पोर्ट नजिक ड्रोन फुटेज खिचे।",
+        "ne": "चिनीयाँ आप्रवासन प्रहरी अधिकारीले गिरोंग पोर्ट नजिक ड्रोन फुटेज खिचे।",
         "hi": "चीनी आप्रवासन पुलिस अधिकारी ने गिरोंग पोर्ट के पास ड्रोन फुटेज फिल्माया।"
       }
     },
