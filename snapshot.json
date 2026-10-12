@@ -1,18 +1,18 @@
 {
-  "snap": "2026-10-12T05:10:18Z",
+  "snap": "2026-10-12T06:15:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1012-0510",
+      "id": "poll-1012-0615",
       "src": "official",
-      "t": "2026-10-12T05:10:18Z",
+      "t": "2026-10-12T06:15:00Z",
       "link": "",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月12日05:10 UTC刷新：中方无新官方更新，尼方截至10日约1457死4720失踪", "en": "12 Oct 05:10 UTC refresh: CN no new official update, NP as of ~10 Oct 1457 dead 4720 missing", "ne": "12 Oct 05:10 UTC: चीन नयाँ छैन, नेपाल ~10 Oct 1457 मृत्यु 4720 बेपत्ता", "hi": "12 Oct 05:10 UTC: चीन नया नहीं, नेपाल ~10 Oct 1457 मृत 4720 लापता"},
+      "title": {"zh": "10月12日06:15 UTC刷新：中方无新官方更新，尼方截至10日约1457死4720失踪", "en": "12 Oct 06:15 UTC refresh: CN no new official update, NP as of ~10 Oct 1457 dead 4720 missing", "ne": "12 Oct 06:15 UTC: चीन नयाँ छैन, नेपाल ~10 Oct 1457 मृत्यु 4720 बेपत्ता", "hi": "12 Oct 06:15 UTC: चीन नया नहीं, नेपाल ~10 Oct 1457 मृत 4720 लापता"},
       "body": {"zh": "再核新华社与指挥部：中方截至9月5日18时仍43死519失联、救出2人。尼方警察/媒体截至约10日：死亡1457、失踪4720。口岸未重开，拉苏瓦主要公路仍受阻。堰塞湖已排空。无新GNSS。", "en": "Recheck Xinhua and command: CN as of 5 Sep 18:00 still 43 dead, 519 missing, 2 rescued. NP Police/media as of ~10 Oct: 1457 dead, 4720 missing. Gate not reopened, Rasuwa major roads still blocked. Barrier lake drained. No new GNSS.", "ne": "Xinhua: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। नेपाल ~10 Oct: 1457 मृत्यु, 4720 बेपत्ता। नाका खुलिएको छैन। ताल खाली। GNSS छैन।", "hi": "Xinhua: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। नेपाल ~10 Oct: 1457 मृत, 4720 लापता। द्वार खुला नहीं। झील खाली। GNSS नहीं।"}
     },
     {
