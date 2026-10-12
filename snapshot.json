@@ -1,19 +1,29 @@
 {
-  "snap": "2026-10-12T08:11:01Z",
+  "snap": "2026-10-12T09:15:00Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1012-0811",
+      "id": "poll-1012-0915",
       "src": "official",
-      "t": "2026-10-12T08:11:01Z",
+      "t": "2026-10-12T09:15:00Z",
       "link": "",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月12日08:11 UTC刷新：中方无新官方更新，尼方截至10日1457死4720失踪", "en": "12 Oct 08:11 UTC refresh: CN no new official update, NP as of 10 Oct 1457 dead 4720 missing", "ne": "12 Oct 08:11 UTC: चीन नयाँ छैन, नेपाल 10 Oct 1457 मृत्यु 4720 बेपत्ता", "hi": "12 Oct 08:11 UTC: चीन नया नहीं, नेपाल 10 Oct 1457 मृत 4720 लापता"},
-      "body": {"zh": "再核新华社与指挥部：中方截至9月5日18时仍43死519失联、救出2人。尼方警察总部截至10月10日6时：死亡1457、失踪4720。口岸未重开，拉苏瓦主要公路仍受阻。堰塞湖已排空。无新GNSS。", "en": "Recheck Xinhua and command: CN as of 5 Sep 18:00 still 43 dead, 519 missing, 2 rescued. NP Police HQ as of 10 Oct 06:00: 1457 dead, 4720 missing. Gate not reopened, Rasuwa major roads still blocked. Barrier lake drained. No new GNSS.", "ne": "Xinhua: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। नेपाल प्रहरी 10 Oct 06:00: 1457 मृत्यु, 4720 बेपत्ता। नाका खुलिएको छैन। ताल खाली। GNSS छैन।", "hi": "Xinhua: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। नेपाल पुलिस 10 Oct 06:00: 1457 मृत, 4720 लापता। द्वार खुला नहीं। झील खाली। GNSS नहीं।"}
+      "title": {"zh": "10月12日09:15 UTC刷新：中方无新官方更新，尼方截至10日1457死4720失踪；贝特拉瓦贝利桥开通", "en": "12 Oct 09:15 UTC refresh: CN no new official update, NP as of 10 Oct 1457 dead 4720 missing; Betrawati Bailey bridge open", "ne": "12 Oct 09:15 UTC: चीन नयाँ छैन, नेपाल 10 Oct 1457 मृत्यु 4720 बेपत्ता; बेत्रावती बेली पुल खुला", "hi": "12 Oct 09:15 UTC: चीन नया नहीं, नेपाल 10 Oct 1457 मृत 4720 लापता; बेत्रावती बेली पुल खुला"},
+      "body": {"zh": "再核新华社与指挥部：中方截至9月5日18时仍43死519失联、救出2人。尼泊尔警察总部截至10月10日6时：死亡1457、失踪4720。口岸未重开。尼泊尔贝特拉瓦贝利桥于11日开通，恢复努瓦科特-拉苏瓦路段，但至拉苏瓦加迪仍未全通。堰塞湖已排空。无新GNSS。", "en": "Recheck Xinhua and command: CN as of 5 Sep 18:00 still 43 dead, 519 missing, 2 rescued. NP Police HQ as of 10 Oct 06:00: 1457 dead, 4720 missing. Gate not reopened. Nepal Betrawati Bailey bridge opened 11 Oct restoring Nuwakot-Rasuwa link, but full to Rasuwagadhi not yet. Barrier lake drained. No new GNSS.", "ne": "Xinhua: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। नेपाल प्रहरी 10 Oct 06:00: 1457 मृत्यु, 4720 बेपत्ता। नाका खुलिएको छैन। बेत्रावती बेली पुल 11 Oct खुला, नुवाकोट-रसुवा खुल्यो। ताल खाली। GNSS छैन।", "hi": "Xinhua: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। नेपाल पुलिस 10 Oct 06:00: 1457 मृत, 4720 लापता। द्वार खुला नहीं। बेत्रावती बेली पुल 11 Oct खुला, नुवाकोट-रसुवा खुला। झील खाली। GNSS नहीं।"}
+    },
+    {
+      "id": "np-bailey-1011",
+      "src": "official",
+      "t": "2026-10-11T12:00:00Z",
+      "link": "https://english.onlinekhabar.com/rasuwa-bailey-bridge-betrawati.html",
+      "img": null,
+      "geo": "unknown",
+      "title": {"zh": "尼泊尔贝特拉瓦贝利桥于10月11日开通，恢复努瓦科特-拉苏瓦路段", "en": "Nepal Betrawati Bailey bridge opened 11 Oct, restoring Nuwakot-Rasuwa road link", "ne": "बेत्रावती बेली पुल 11 Oct खुला, नुवाकोट-रसुवा सडक खुल्यो", "hi": "बेत्रावती बेली पुल 11 Oct खुला, नुवाकोट-रसुवा सड़क खुला"},
+      "body": {"zh": "尼泊尔军队安装的贝利桥恢复两区路段，但至拉苏瓦加迪口岸全线仍未完全恢复。", "en": "Nepali Army-installed Bailey bridge restores district link, but full route to Rasuwagadhi not yet complete.", "ne": "नेपाली सेनाले बेली पुल जड़्यो, रसुवागढी पूर्ण खुलिएको छैन।", "hi": "नेपाली सेना ने बेली पुल लगाया, रसुवागढी पूर्ण खुला नहीं।"}
     },
     {
       "id": "np-police-1010",
@@ -36,16 +46,6 @@
       "geo": "barrier lake",
       "title": {"zh": "新华社：截至9月5日18时中方43死519失联，堰塞湖已排空", "en": "Xinhua: as of 5 Sep 18:00 CN 43 dead 519 missing, barrier lake drained", "ne": "Xinhua: 5 Sep 18:00 चीन 43 मृत्यु 519 सम्पर्क विहीन, ताल खाली", "hi": "Xinhua: 5 Sep 18:00 चीन 43 मृत 519 लापता, झील खाली"},
       "body": {"zh": "指挥部：成功救出2人。G216通道9月2日抢通。堰塞湖自然泄流后险情基本解除。", "en": "Command: 2 rescued. G216 access restored 2 Sep. Barrier lake naturally discharged, hazard largely eliminated.", "ne": "कमान: 2 उद्धार। G216 2 Sep खुला। ताल प्राकृतिक निकास।", "hi": "कमांड: 2 उद्धार। G216 2 Sep खुला। झील प्राकृतिक निर्वहन।"}
-    },
-    {
-      "id": "ndrrma-sitrep16",
-      "src": "official",
-      "t": "2026-09-17T13:00:00Z",
-      "link": "https://ndrrma.gov.np/mediafiles/rasuwa/Rasuwa_Flood_Situation_Report_ENG_16_17092026_AsGEcO1.pdf",
-      "img": null,
-      "geo": "unknown",
-      "title": {"zh": "NDRRMA情况报告#16：截至9月17日死亡1410失踪6145获救13756", "en": "NDRRMA SitRep #16: as of 17 Sep dead 1410 missing 6145 rescued 13756", "ne": "NDRRMA SitRep #16: 17 Sep 1410 मृत्यु 6145 बेपत्ता 13756 उद्धार", "hi": "NDRRMA SitRep #16: 17 Sep 1410 मृत 6145 लापता 13756 उद्धार"},
-      "body": {"zh": "空中救援4191人，直升机架次1731。水电项目搜救持续。安置中心1743人。", "en": "Air rescued 4191, 1731 heli sorties. Hydropower SAR ongoing. 1743 in holding centres.", "ne": "हवाइ उद्धार 4191, हेलि 1731। जलविद्युत खोज जारी। होल्डिङ 1743।", "hi": "वायु उद्धार 4191, हेली 1731। जलविद्युत खोज जारी। होल्डिंग 1743।"}
     },
     {
       "id": "usemb-road",
@@ -77,7 +77,7 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "name": {"zh": "吉隆口岸", "en": "Gyirong Port", "ne": "जीरों पोर्ट", "hi": "जीरों पोर्ट"},
-      "detail": {"zh": "口岸被毁，尚未宣布重开；G216至国门段已抢通但管制。拉苏瓦主要公路仍阻断。美使馆警告勿前往。", "en": "Port destroyed, not announced reopened; G216 to gate restored but controlled. Rasuwa major highways still blocked. US Embassy warns against travel.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 खुला तर नियन्त्रण। रसुवा मुख्य सडक बन्द। US Embassy चेतावनी।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 खुला लेकिन नियंत्रण। रसुवा मुख्य सड़क बंद। US Embassy चेतावनी।"}
+      "detail": {"zh": "口岸被毁，尚未宣布重开；G216至国门段已抢通但管制。尼方贝特拉瓦贝利桥11日开通，但至口岸仍未全通。美使馆警告勿前往。", "en": "Port destroyed, not announced reopened; G216 to gate restored but controlled. Nepal Betrawati Bailey opened 11 Oct but full to border not yet. US Embassy warns against travel.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 खुला तर नियन्त्रण। बेत्रावती बेली 11 Oct खुला। US Embassy चेतावनी।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 खुला लेकिन नियंत्रण। बेत्रावती बेली 11 Oct खुला। US Embassy चेतावनी।"}
     }
   ],
   "forces": [
@@ -121,7 +121,7 @@
       "t": "2026-09-09T09:10:51Z",
       "link": "https://x.com/XHNews/status/2097613696990413066",
       "geo": "unknown",
-      "text": {"zh": "快速链式泥石流由尼泊尔高海拔冰川崩塌引发，8月26日冲击吉隆口岸，造成重大伤亡与失联。中国救援全面展开。", "en": "A fast-moving chain mudslide triggered by high-altitude glacier collapse in Nepal struck Gyirong Port on Aug 26, causing heavy casualties and missing. Chinese rescuers launched all-out SAR.", "ne": "नेपाल उच्च उचाइको हिमनदी पतनबाट द्रुत श्रृंखला माटो बहावले 26 अगस्टमा जीरों पोर्टलाई प्रहार गर्यो।", "hi": "नेपाल उच्च ऊंचाई ग्लेशियर पतन से तेज श्रृंखला मडस्लाइड ने 26 अगस्त को जीरों पोर्ट पर प्रहार किया।"}
+      "text": {"zh": "快速链式泥石流由尼泊尔高海拔冰川崩塌引发，8月26日冲击吉隆口岸，造成重大伤亡与失联。中国救援全面展开。", "en": "A fast-moving chain mudslide triggered by high-altitude glacier collapse in Nepal struck Gyirong Port on Aug 26, causing heavy casualties and missing. Chinese rescuers launched all-out SAR.", "ne": "नेपाल उच्च उचाइको हिमनदी पतनबाट द्रुत श्रृङ्खला माटो बहावले 26 अगस्टमा जीरों पोर्टलाई प्रहार गर्यो।", "hi": "नेपाल उच्च ऊंचाई ग्लेशियर पतन से तेज श्रृंखला मडस्लाइड ने 26 अगस्त को जीरों पोर्ट पर प्रहार किया।"}
     }
   ]
 }
