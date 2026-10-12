@@ -1,29 +1,19 @@
 {
-  "snap": "2026-10-12T04:07:00Z",
+  "snap": "2026-10-12T05:10:18Z",
   "kpi": {
     "cn": {"dead": 43, "missing": 519, "rescued": 2},
     "np": {"dead": 1457, "missing": 4720, "rescued": 13795}
   },
   "published": [
     {
-      "id": "poll-1012-0407",
+      "id": "poll-1012-0510",
       "src": "official",
-      "t": "2026-10-12T04:07:00Z",
+      "t": "2026-10-12T05:10:18Z",
       "link": "",
       "img": null,
       "geo": "unknown",
-      "title": {"zh": "10月12日04:07 UTC刷新：中方无新更新，尼方警察总部截至10日6时1457死4720失踪", "en": "12 Oct 04:07 UTC refresh: CN no new update, NP Police HQ as of 10 Oct 06:00 1457 dead 4720 missing", "ne": "12 Oct 04:07 UTC: चीन नयाँ छैन, नेपाल प्रहरी 10 Oct 06:00 1457 मृत्यु 4720 बेपत्ता", "hi": "12 Oct 04:07 UTC: चीन नया नहीं, नेपाल पुलिस 10 Oct 06:00 1457 मृत 4720 लापता"},
-      "body": {"zh": "再核新华社、指挥部：中方截至9月5日18时仍43死519失联、救出2人。尼泊尔警察总部截至10日6时：死亡1457、失踪4720。获救按此前13795。口岸未宣布重开，拉苏瓦主要公路仍阻断（贝特罗瓦美桥已恢复部分连通）。堰塞湖新华社9月5日已排空。无新GNSS。", "en": "Recheck Xinhua, command: CN as of 5 Sep 18:00 still 43 dead, 519 missing, 2 rescued. Nepal Police HQ as of 10 Oct 06:00: 1457 dead, 4720 missing. Rescued prior 13795. Gate not announced open, Rasuwa major roads still blocked (Bailey bridge at Betrawati restores partial link). Barrier lake Xinhua 5 Sep drained. No new GNSS.", "ne": "Xinhua: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। प्रहरी 10 Oct 06:00: 1457 मृत्यु, 4720 बेपत्ता। उद्धार 13795। नाका खुलिएको छैन, सडक बन्द (बेट्रावाती बेली पुल आंशिक जोड्यो)। ताल खाली। GNSS छैन।", "hi": "Xinhua: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। पुलिस 10 Oct 06:00: 1457 मृत, 4720 लापता। उद्धार 13795। द्वार खुला नहीं, सड़क बंद (बेट्रावाती बेली पुल आंशिक जोड़)। झील खाली। GNSS नहीं।"}
-    },
-    {
-      "id": "np-bailey-1011",
-      "src": "official",
-      "t": "2026-10-11T00:00:00Z",
-      "link": "https://english.onlinekhabar.com/rasuwa-bailey-bridge-betrawati.html",
-      "img": null,
-      "geo": "unknown",
-      "title": {"zh": "尼泊尔军队在贝特罗瓦美桥恢复拉苏瓦与努瓦科特道路连通", "en": "Nepali Army Bailey bridge at Betrawati restores Rasuwa-Nuwakot road link", "ne": "नेपाली सेनाले बेट्रावातीमा बेली पुल लगाएर रसुवा-नुवाकोट सडक जोड्यो", "hi": "नेपाली सेना ने बेट्रावाती में बेली पुल से रसुवा-नुवाकोट सड़क जोड़ा"},
-      "body": {"zh": "10月11日贝特罗瓦美桥开通，恢复努瓦科特与拉苏瓦部分道路连通，便于救灾物资运输。边境口岸区域仍未完全打通。", "en": "Bailey bridge opened 11 Oct at Betrawati, restoring partial road connectivity between Nuwakot and Rasuwa for relief transport. Border port area remains not fully accessible.", "ne": "बेट्रावातीमा बेली पुल खुल्यो, नुवाकोट-रसुवा आंशिक सडक जोड्यो। सीमा पोर्ट पूर्ण पहुँच छैन।", "hi": "बेट्रावाती में बेली पुल खुला, नुवाकोट-रसुवा आंशिक सड़क जुड़ा। सीमा पोर्ट पूर्ण पहुंच नहीं।"}
+      "title": {"zh": "10月12日05:10 UTC刷新：中方无新官方更新，尼方截至10日约1457死4720失踪", "en": "12 Oct 05:10 UTC refresh: CN no new official update, NP as of ~10 Oct 1457 dead 4720 missing", "ne": "12 Oct 05:10 UTC: चीन नयाँ छैन, नेपाल ~10 Oct 1457 मृत्यु 4720 बेपत्ता", "hi": "12 Oct 05:10 UTC: चीन नया नहीं, नेपाल ~10 Oct 1457 मृत 4720 लापता"},
+      "body": {"zh": "再核新华社与指挥部：中方截至9月5日18时仍43死519失联、救出2人。尼方警察/媒体截至约10日：死亡1457、失踪4720。口岸未重开，拉苏瓦主要公路仍受阻。堰塞湖已排空。无新GNSS。", "en": "Recheck Xinhua and command: CN as of 5 Sep 18:00 still 43 dead, 519 missing, 2 rescued. NP Police/media as of ~10 Oct: 1457 dead, 4720 missing. Gate not reopened, Rasuwa major roads still blocked. Barrier lake drained. No new GNSS.", "ne": "Xinhua: चीन 5 Sep 18:00 43 मृत्यु, 519 सम्पर्क विहीन, 2 उद्धार। नेपाल ~10 Oct: 1457 मृत्यु, 4720 बेपत्ता। नाका खुलिएको छैन। ताल खाली। GNSS छैन।", "hi": "Xinhua: चीन 5 Sep 18:00 43 मृत, 519 लापता, 2 उद्धार। नेपाल ~10 Oct: 1457 मृत, 4720 लापता। द्वार खुला नहीं। झील खाली। GNSS नहीं।"}
     },
     {
       "id": "np-police-1010",
@@ -33,7 +23,7 @@
       "img": null,
       "geo": "unknown",
       "title": {"zh": "尼泊尔警察总部：截至10月10日6时死亡1457失踪4720", "en": "Nepal Police HQ: as of 10 Oct 06:00 dead 1457 missing 4720", "ne": "नेपाल प्रहरी मुख्यालय: 10 Oct 06:00 1457 मृत्यु 4720 बेपत्ता", "hi": "नेपाल पुलिस मुख्यालय: 10 Oct 06:00 1457 मृत 4720 लापता"},
-      "body": {"zh": "警察总部通报两名重伤者在加德满都治疗中死亡。八区死亡分布：拉苏瓦236等。已管理1335具遗体，1438具未识别。安置中心1231人。", "en": "Police HQ reported two critically injured died under treatment in Kathmandu. District deaths: Rasuwa 236 etc. 1335 remains managed, 1438 unidentified. 1231 in holding centres.", "ne": "प्रहरी: काठमाण्डौमा उपचारमा दुई मृत्यु। रसुवा 236 आदि। 1335 व्यवस्थापन, 1438 पहिचान नभएको। होल्डिङ 1231।", "hi": "पुलिस: काठमांडू में उपचार में दो मृत्यु। रसुवा 236 आदि। 1335 प्रबंधित, 1438 अज्ञात। होल्डिंग 1231।"}
+      "body": {"zh": "警察总部通报死亡1457、失踪4720。已管理大量遗体，部分未识别。安置中心仍有人员。", "en": "Police HQ reported 1457 dead, 4720 missing. Many remains managed, some unidentified. People still in holding centres.", "ne": "प्रहरी: 1457 मृत्यु, 4720 बेपत्ता। धेरै व्यवस्थापन, केही पहिचान नभएको।", "hi": "पुलिस: 1457 मृत, 4720 लापता। कई प्रबंधित, कुछ अज्ञात।"}
     },
     {
       "id": "cn-xh-0905",
@@ -45,7 +35,17 @@
       "lng": 85.392,
       "geo": "barrier lake",
       "title": {"zh": "新华社：截至9月5日18时中方43死519失联，堰塞湖已排空", "en": "Xinhua: as of 5 Sep 18:00 CN 43 dead 519 missing, barrier lake drained", "ne": "Xinhua: 5 Sep 18:00 चीन 43 मृत्यु 519 सम्पर्क विहीन, ताल खाली", "hi": "Xinhua: 5 Sep 18:00 चीन 43 मृत 519 लापता, झील खाली"},
-      "body": {"zh": "指挥部：成功救出2人。G216通道9月2日抢通。堰塞湖自然泄流后险情基本解除，河道过流正常。", "en": "Command: 2 rescued. G216 access restored 2 Sep. Barrier lake naturally discharged, hazard largely eliminated, river flow normal.", "ne": "कमान: 2 उद्धार। G216 2 Sep खुला। ताल प्राकृतिक निकास, खतरा हट्यो।", "hi": "कमांड: 2 उद्धार। G216 2 Sep खुला। झील प्राकृतिक निर्वहन, खतरा हटा।"}
+      "body": {"zh": "指挥部：成功救出2人。G216通道9月2日抢通。堰塞湖自然泄流后险情基本解除。", "en": "Command: 2 rescued. G216 access restored 2 Sep. Barrier lake naturally discharged, hazard largely eliminated.", "ne": "कमान: 2 उद्धार। G216 2 Sep खुला। ताल प्राकृतिक निकास।", "hi": "कमांड: 2 उद्धार। G216 2 Sep खुला। झील प्राकृतिक निर्वहन।"}
+    },
+    {
+      "id": "ndrrma-sitrep16",
+      "src": "official",
+      "t": "2026-09-17T13:00:00Z",
+      "link": "https://ndrrma.gov.np/mediafiles/rasuwa/Rasuwa_Flood_Situation_Report_ENG_16_17092026_AsGEcO1.pdf",
+      "img": null,
+      "geo": "unknown",
+      "title": {"zh": "NDRRMA情况报告#16：截至9月17日死亡1410失踪6145获救13756", "en": "NDRRMA SitRep #16: as of 17 Sep dead 1410 missing 6145 rescued 13756", "ne": "NDRRMA SitRep #16: 17 Sep 1410 मृत्यु 6145 बेपत्ता 13756 उद्धार", "hi": "NDRRMA SitRep #16: 17 Sep 1410 मृत 6145 लापता 13756 उद्धार"},
+      "body": {"zh": "空中救援4191人，直升机架次1731。水电项目搜救持续。安置中心1743人。", "en": "Air rescued 4191, 1731 heli sorties. Hydropower SAR ongoing. 1743 in holding centres.", "ne": "हवाइ उद्धार 4191, हेलि 1731। जलविद्युत खोज जारी। होल्डिङ 1743।", "hi": "वायु उद्धार 4191, हेली 1731। जलविद्युत खोज जारी। होल्डिंग 1743।"}
     },
     {
       "id": "usemb-road",
@@ -56,6 +56,18 @@
       "geo": "unknown",
       "title": {"zh": "美使馆：勿前往拉苏瓦加迪-提穆尔-夏布鲁贝西区域", "en": "US Embassy: do not travel to Rasuwagadhi-Timure-Syafrubesi area", "ne": "US Embassy: रसुवागढ़ी-तिमुरे-स्याफ्रुबेसी नजानुहोस्", "hi": "US Embassy: रसुवागढ़ी-तिमुरे-स्याफ्रुबेसी न जाएं"},
       "body": {"zh": "警告洪水与滑坡风险持续，主要公路受损，口岸区域危险。", "en": "Warning of continued flood and landslide risk, major roads damaged, port area dangerous.", "ne": "बाढी र पहिरो जोखिम जारी, मुख्य सडक क्षति, पोर्ट खतरनाक।", "hi": "बाढ़ और भूस्खलन जोखिम जारी, मुख्य सड़क क्षतिग्रस्त, पोर्ट खतरनाक।"}
+    },
+    {
+      "id": "cn-road-0902",
+      "src": "official",
+      "t": "2026-09-02T02:00:00Z",
+      "link": "https://english.people.com.cn/n3/2026/0902/c90000-20495203.html",
+      "img": null,
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
+      "title": {"zh": "新华社：9月2日10时G216至吉隆口岸核心区道路基本抢通", "en": "Xinhua: G216 access to Gyirong Port core basically restored at 10:00 2 Sep", "ne": "Xinhua: 2 Sep 10:00 G216 जीरों पोर्ट कोर पहुँच मूलतः खुला", "hi": "Xinhua: 2 Sep 10:00 G216 जीरों पोर्ट कोर पहुंच मूलतः बहाल"},
+      "body": {"zh": "救援队伍、物资和部分装备已陆路进入核心区域。口岸本身仍严重损毁。", "en": "Rescue teams, supplies and some equipment entered core area by road. Port itself remains severely damaged.", "ne": "उद्धार टोली, सामान कोर क्षेत्रमा प्रवेश। पोर्ट गम्भीर क्षति।", "hi": "रेस्क्यू टीमें, सामग्री कोर क्षेत्र में प्रवेश। पोर्ट गंभीर क्षतिग्रस्त।"}
     }
   ],
   "roads": [
@@ -65,7 +77,7 @@
       "lat": 28.2797,
       "lng": 85.3777,
       "name": {"zh": "吉隆口岸", "en": "Gyirong Port", "ne": "जीरों पोर्ट", "hi": "जीरों पोर्ट"},
-      "detail": {"zh": "口岸被毁，尚未宣布重开；G216吉隆镇至国门段已抢通但管制。拉苏瓦主要公路仍阻断，贝特罗瓦美桥恢复部分连通。美使馆警告勿前往。", "en": "Port destroyed, not announced reopened; G216 town-to-gate restored but controlled. Rasuwa major highways still blocked, Bailey bridge restores partial link. US Embassy warns against travel.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 खुला तर नियन्त्रण। रसुवा मुख्य सडक बन्द, बेली पुल आंशिक। US Embassy चेतावनी।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 खुला लेकिन नियंत्रण। रसुवा मुख्य सड़क बंद, बेली पुल आंशिक। US Embassy चेतावनी।"}
+      "detail": {"zh": "口岸被毁，尚未宣布重开；G216至国门段已抢通但管制。拉苏瓦主要公路仍阻断。美使馆警告勿前往。", "en": "Port destroyed, not announced reopened; G216 to gate restored but controlled. Rasuwa major highways still blocked. US Embassy warns against travel.", "ne": "पोर्ट नष्ट, खोलिएको घोषणा छैन; G216 खुला तर नियन्त्रण। रसुवा मुख्य सडक बन्द। US Embassy चेतावनी।", "hi": "पोर्ट नष्ट, खुलने की घोषणा नहीं; G216 खुला लेकिन नियंत्रण। रसुवा मुख्य सड़क बंद। US Embassy चेतावनी।"}
     }
   ],
   "forces": [
@@ -86,7 +98,7 @@
       "lat": 28.282,
       "lng": 85.374,
       "name": {"zh": "热索村", "en": "Resuo", "ne": "रेसुओ", "hi": "रेसुओ"},
-      "detail": {"zh": "早期已救出村民；现状搜救完成。", "en": "Villagers rescued early; current status search completed.", "ne": "गाउँले प्रारम्भिक मा उद्धार; अहिले खोज सकियो।", "hi": "गाँव में प्रारंभिक उद्धार; अब खोज पूरी।"}
+      "detail": {"zh": "早期已救出村民2人；现状搜救完成。", "en": "2 villagers rescued early; current status search completed.", "ne": "२ गाउँले प्रारम्भिक मा उद्धार; अहिले खोज सकियो।", "hi": "2 ग्रामीण प्रारंभिक उद्धार; अब खोज पूरी।"}
     }
   ],
   "hydro": {
@@ -104,12 +116,12 @@
       "text": {"zh": "中国国家气候中心向尼泊尔提供滚动气候监测与预报产品，支持吉隆-拉苏瓦边境泥石流后的救援。", "en": "China's National Climate Center has been providing Nepal with rolling climate monitoring and forecast products to support rescue after the Gyirong-Rasuwa mudslide.", "ne": "चीनको राष्ट्रिय जलवायु केन्द्रले नेपाललाई जलवायु निगरानी र पूर्वानुमान उत्पादन दिइरहेको छ।", "hi": "चीन का राष्ट्रीय जलवायु केंद्र नेपाल को जलवायु निगरानी और पूर्वानुमान प्रदान कर रहा है।"}
     },
     {
-      "id": "cgtn-0911-canteen",
-      "user": "@CGTNOfficial",
-      "t": "2026-09-11T13:30:00Z",
-      "link": "https://x.com/CGTNOfficial/status/2098403689748709554",
+      "id": "xh-0909-summary",
+      "user": "@XHNews",
+      "t": "2026-09-09T09:10:51Z",
+      "link": "https://x.com/XHNews/status/2097613696990413066",
       "geo": "unknown",
-      "text": {"zh": "吉隆镇餐馆老板蔡九将餐馆变为免费食堂，为滞留尼泊尔人、志愿者和救援人员提供热餐。", "en": "Gyirong Town restaurant owner Cai Jiu turned his eatery into a free canteen serving hot meals to stranded Nepalis, volunteers and rescuers.", "ne": "जीरों टाउन रेस्टुरेन्ट मालिकले निःशुल्क क्यान्टिन बनाए।", "hi": "जीरों टाउन रेस्टोरेंट मालिक ने मुफ्त कैंटीन बनाई।"}
+      "text": {"zh": "快速链式泥石流由尼泊尔高海拔冰川崩塌引发，8月26日冲击吉隆口岸，造成重大伤亡与失联。中国救援全面展开。", "en": "A fast-moving chain mudslide triggered by high-altitude glacier collapse in Nepal struck Gyirong Port on Aug 26, causing heavy casualties and missing. Chinese rescuers launched all-out SAR.", "ne": "नेपाल उच्च उचाइको हिमनदी पतनबाट द्रुत श्रृंखला माटो बहावले 26 अगस्टमा जीरों पोर्टलाई प्रहार गर्यो।", "hi": "नेपाल उच्च ऊंचाई ग्लेशियर पतन से तेज श्रृंखला मडस्लाइड ने 26 अगस्त को जीरों पोर्ट पर प्रहार किया।"}
     }
   ]
 }
