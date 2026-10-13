@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-13T15:12:00Z",
+  "snap": "2026-10-14T11:10:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -13,6 +13,28 @@
     }
   },
   "published": [
+    {
+      "id": "dna-matches-20261013",
+      "src": "official",
+      "t": "2026-10-13T05:35:00Z",
+      "link": "https://english.onlinekhabar.com/dna-test-match-rasuwa-flood-victims.html",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Rasuwa",
+      "title": {
+        "zh": "DNA检测初步匹配约250名拉苏瓦洪水遇难者",
+        "en": "DNA tests show preliminary matches for around 250 Rasuwa flood victims",
+        "ne": "DNA परीक्षणले करिब २५० रसुवा बाढी पीडितको प्रारम्भिक मेल देखाएको छ",
+        "hi": "DNA परीक्षण लगभग 250 रसुवा बाढ़ पीड़ितों के लिए प्रारंभिक मिलान दिखाते हैं"
+      },
+      "body": {
+        "zh": "10月13日，法医报告软件筛选显示约250人初步DNA匹配；已回收约1457具遗体，仅112具确认身份。",
+        "en": "On Oct 13, forensic report: software screening shows ~250 preliminary DNA matches; ~1457 bodies recovered, only 112 identified.",
+        "ne": "अक्टोबर १३ मा फरेन्सिक रिपोर्ट: लगभग २५० प्रारम्भिक DNA मेल; करिब १४५७ शव बरामद, केवल ११२ पहिचान।",
+        "hi": "13 अक्टूबर को फोरेंसिक रिपोर्ट: लगभग 250 प्रारंभिक DNA मिलान; लगभग 1457 शव बरामद, केवल 112 की पहचान।"
+      }
+    },
     {
       "id": "icimod-report-20261013",
       "src": "official",
