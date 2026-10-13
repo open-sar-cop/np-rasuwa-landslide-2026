@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-13T12:16:00Z",
+  "snap": "2026-10-13T13:17:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -7,12 +7,34 @@
       "rescued": 2
     },
     "np": {
-      "dead": 1455,
-      "missing": 5285,
+      "dead": 1453,
+      "missing": 5179,
       "rescued": 13795
     }
   },
   "published": [
+    {
+      "id": "np-reliefweb-20261012",
+      "src": "official",
+      "t": "2026-10-12T00:00:00Z",
+      "link": "https://reliefweb.int/report/nepal/nepal-flood-2026-dref-operation-update-02-mdrnp022",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Rasuwa",
+      "title": {
+        "zh": "ReliefWeb/IFRC：截至10月1日，1453人死亡、5179人失踪、13795人获救",
+        "en": "ReliefWeb/IFRC: as of 1 Oct, 1453 dead, 5179 missing, 13795 rescued",
+        "ne": "ReliefWeb/IFRC: १ अक्टोबर सम्म १४५३ मृत्यु, ५१७९ हराइरहेका, १३७९५ उद्धार",
+        "hi": "ReliefWeb/IFRC: 1 अक्टूबर तक 1453 मृत, 5179 लापता, 13795 बचाए गए"
+      },
+      "body": {
+        "zh": "IFRC DREF更新引用政府数据，大规模搜救已转向早期恢复与重建，数字需进一步核实。",
+        "en": "IFRC DREF update cites government stats; major search shifted to early recovery and reconstruction; figures need further verification.",
+        "ne": "IFRC DREF अपडेटले सरकारी तथ्यांक उद्धृत गर्दछ; ठूलो खोज प्रारम्भिक पुनर्स्थापनामा सारियो।",
+        "hi": "IFRC DREF अपडेट सरकारी आंकड़ों का हवाला देता है; बड़ी खोज प्रारंभिक रिकवरी में स्थानांतरित।"
+      }
+    },
     {
       "id": "np-bailey-20261011",
       "src": "official",
@@ -33,28 +55,6 @@
         "en": "On Oct 11, Nepali Army's 73m Bailey bridge at Betrawati opened, restoring district link; access to port still limited.",
         "ne": "अक्टोबर ११ मा नेपाली सेनाको ७३ मिटर बेली पुल बेत्रावतीमा खुला।",
         "hi": "11 अक्टूबर को नेपाली सेना का 73 मीटर बेली पुल बेत्रावती में खुला।"
-      }
-    },
-    {
-      "id": "np-ndrrma-20261005",
-      "src": "official",
-      "t": "2026-10-05T12:00:00Z",
-      "link": "https://www.dtnext.in/news/world/nepal-wraps-up-rasuwa-flood-search-shifts-focus-to-rehabilitation-reconstruction",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Rasuwa",
-      "title": {
-        "zh": "NDRRMA：截至约10月5日，1455人遇难、5285人失踪、13795人获救",
-        "en": "NDRRMA: as of ~Oct 5, 1455 dead, 5285 missing, 13795 rescued",
-        "ne": "NDRRMA: लगभग अक्टोबर ५ सम्म १४५५ मृत्यु, ५२८५ हराइरहेका, १३७९५ उद्धार",
-        "hi": "NDRRMA: लगभग 5 अक्टूबर तक 1455 मृत, 5285 लापता, 13795 बचाए गए"
-      },
-      "body": {
-        "zh": "尼泊尔NDRRMA确认，大规模搜救于10月5日左右结束，转向重建。数字此后无更新。",
-        "en": "Nepal NDRRMA confirmed major search ended around Oct 5, shifted to reconstruction. No further official updates.",
-        "ne": "नेपाल NDRRMA ले ठूलो खोज अक्टोबर ५ वरिपरि समाप्त भएको पुष्टि गरेको छ।",
-        "hi": "नेपाल NDRRMA ने पुष्टि की कि बड़ी खोज लगभग 5 अक्टूबर को समाप्त हुई।"
       }
     },
     {
@@ -143,6 +143,28 @@
         "en": "On Oct 3-4, China-Nepal joint geo-disaster scientific expedition departed Chengdu for Kathmandu for ~20-day survey to support port reconstruction.",
         "ne": "अक्टोबर ३-४ मा चीन-नेपाल संयुक्त वैज्ञानिक टोली काठमाडौंतिर निस्कियो।",
         "hi": "3-4 अक्टूबर को चीन-नेपाल संयुक्त वैज्ञानिक दल काठमांडू के लिए रवाना हुआ।"
+      }
+    },
+    {
+      "id": "us-embassy-level4",
+      "src": "official",
+      "t": "2026-09-04T00:00:00Z",
+      "link": "https://np.usembassy.gov/",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Rasuwa",
+      "title": {
+        "zh": "美国驻尼泊尔使馆：拉苏瓦口岸地区Level 4禁止旅行",
+        "en": "US Embassy Nepal: Level 4 Do Not Travel to Rasuwa port area",
+        "ne": "अमेरिकी दूतावास: रसुवा पोर्ट क्षेत्रमा Level 4 यात्रा नगर्नुहोस्",
+        "hi": "अमेरिकी दूतावास: रसुवा पोर्ट क्षेत्र में Level 4 यात्रा न करें"
+      },
+      "body": {
+        "zh": "因洪水破坏、道路通信中断及次生风险，禁止前往拉苏瓦加迪-蒂穆尔-夏布鲁贝西地区。",
+        "en": "Due to flood damage, disrupted transport/comms and secondary risks, do not travel to Rasuwagadhi-Timure-Syafrubesi area.",
+        "ne": "बाढी क्षति, यातायात/सञ्चार अवरुद्ध र जोखिमका कारण यात्रा नगर्नुहोस्।",
+        "hi": "बाढ़ क्षति, परिवहन/संचार बाधित और जोखिमों के कारण यात्रा न करें।"
       }
     }
   ],
@@ -235,17 +257,17 @@
     },
     {
       "id": "x2",
-      "user": "@CCTV_Plus",
-      "t": "2026-09-10T09:15:50Z",
-      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
-      "lat": 28.390,
-      "lng": 85.325,
-      "geo": "Gyirong town",
+      "user": "@XHNews",
+      "t": "2026-09-07T22:45:19Z",
+      "link": "https://x.com/XHNews/status/2097093887852691511",
+      "lat": 28.2797,
+      "lng": 85.3777,
+      "geo": "Gyirong Port",
       "text": {
-        "zh": "灾后选择留在吉隆镇的尼泊尔工人继续工作，希望灾区尽快恢复。",
-        "en": "Nepali workers remaining in disaster-hit Gyirong Town continue work, hoping for recovery.",
-        "ne": "गिरोंग टाउनमा रहेका नेपाली कामदारहरू काम जारी राख्दै, रिकभरीको आशा।",
-        "hi": "गिरोंग टाउन में रहने वाले नेपाली श्रमिक काम जारी रखते हैं, रिकवरी की उम्मीद।"
+        "zh": "国际媒体记者团访问受泥石流影响的吉隆口岸。",
+        "en": "Group of international media journalists visited the mudslide-hit Gyirong Port.",
+        "ne": "अन्तर्राष्ट्रिय मिडिया पत्रकारहरूले गिरोंग पोर्ट भ्रमण गरे।",
+        "hi": "अंतरराष्ट्रीय मीडिया पत्रकारों के समूह ने मडस्लाइड प्रभावित गिरोंग पोर्ट का दौरा किया।"
       }
     }
   ]
