@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-13T15:10:00Z",
+  "snap": "2026-10-13T03:10:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -7,39 +7,39 @@
       "rescued": 2
     },
     "np": {
-      "dead": 1455,
-      "missing": 5285,
+      "dead": 1457,
+      "missing": 4720,
       "rescued": 13795
     }
   },
   "published": [
     {
-      "id": "np-ndrrma-20261005",
+      "id": "np-police-20261010",
       "src": "official",
-      "t": "2026-10-05T12:00:00Z",
-      "link": "https://thenepalweekly.com/govt-wraps-up-search-and-rescue-following-rasuwa-floods-to-focus-on-rehab-reconstruction/",
+      "t": "2026-10-10T00:00:00Z",
+      "link": "https://english.makalukhabar.com/bhotekoshi-flood-death-toll-rises-to-1457-4720-still-missing/",
       "img": null,
       "lat": 28.248,
       "lng": 85.356,
       "geo": "Rasuwa",
       "title": {
-        "zh": "NDRRMA：截至10月5日，1455人遇难、5285人失踪、13795人获救",
-        "en": "NDRRMA: as of Oct 5, 1455 dead, 5285 missing, 13795 rescued",
-        "ne": "NDRRMA: अक्टोबर ५ सम्म १४५५ मृत्यु, ५२८५ हराइरहेका, १३७९५ उद्धार",
-        "hi": "NDRRMA: 5 अक्टूबर तक 1455 मृत, 5285 लापता, 13795 बचाए गए"
+        "zh": "尼泊尔警方：截至10月10日6时，1457人遇难、4720人失踪",
+        "en": "Nepal Police: as of 06:00 Oct 10, 1457 dead, 4720 missing",
+        "ne": "नेपाल प्रहरी: अक्टोबर १० ०६:०० सम्म १४५७ मृत्यु, ४७२० हराइरहेका",
+        "hi": "नेपाल पुलिस: 10 अक्टूबर 06:00 तक 1457 मृत, 4720 लापता"
       },
       "body": {
-        "zh": "尼泊尔政府于10月5日结束大规模搜救，转向重建。NDRRMA确认1455人遇难、5285人失踪、13795人获救。无更新官方数字。",
-        "en": "Nepal government concluded major search on Oct 5, shifting to reconstruction. NDRRMA confirmed 1455 deaths, 5285 missing, 13795 rescued. No newer official figures.",
-        "ne": "नेपाल सरकारले अक्टोबर ५ मा ठूलो खोज समाप्त गरेको छ। NDRRMA ले १४५५ मृत्यु, ५२८५ हराइरहेका, १३७९५ उद्धार पुष्टि गरेको छ।",
-        "hi": "नेपाल सरकार ने 5 अक्टूबर को बड़ी खोज समाप्त की। NDRRMA ने 1455 मौतें, 5285 लापता, 13795 बचाए जाने की पुष्टि की।"
+        "zh": "尼泊尔警察总部通报，截至10月10日上午6时，Bhotekoshi洪水已致1457人遇难、4720人失踪。大规模搜救已结束，无更新官方数字。",
+        "en": "Nepal Police HQ: as of 06:00 Oct 10, 1457 dead, 4720 missing from Bhotekoshi floods. Major search ended. No newer official figures.",
+        "ne": "नेपाल प्रहरी: अक्टोबर १० ०६:०० सम्म १४५७ मृत्यु, ४७२० हराइरहेका। ठूलो खोज समाप्त।",
+        "hi": "नेपाल पुलिस: 10 अक्टूबर 06:00 तक 1457 मृत, 4720 लापता। बड़ी खोज समाप्त।"
       }
     },
     {
       "id": "cn-kpi-20260905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://www.cctvplus.com/",
+      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
@@ -83,13 +83,13 @@
       "id": "g216-restored-20260902",
       "src": "official",
       "t": "2026-09-02T02:00:00Z",
-      "link": "https://english.news.cn/",
+      "link": "https://www.channelnewsasia.com/east-asia/nepal-tibet-disaster-china-gyirong-road-access-6356916",
       "img": null,
       "lat": 28.318,
       "lng": 85.36,
       "geo": "G216",
       "title": {
-        "zh": "G216救援通道9月2日10时基本抢通",
+        "zh": "G216救援通道于9月2日10时基本抢通",
         "en": "G216 rescue route basically restored at 10:00 Sep 2",
         "ne": "G216 उद्धार मार्ग सेप्टेम्बर २ १०:०० मा मूलतः खुला",
         "hi": "G216 बचाव मार्ग 2 सितंबर 10:00 बजे मूल रूप से बहाल"
