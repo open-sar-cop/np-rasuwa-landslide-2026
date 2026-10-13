@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-13T20:15:00Z",
+  "snap": "2026-10-13T21:10:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -13,6 +13,28 @@
     }
   },
   "published": [
+    {
+      "id": "np-bailey-20261011",
+      "src": "official",
+      "t": "2026-10-11T05:00:00Z",
+      "link": "https://www.b360nepal.com/detail/30397/bailey-bridge-at-betrawati-restores-road-link-to-rasuwa",
+      "img": null,
+      "lat": 27.98,
+      "lng": 85.18,
+      "geo": "Betrawati",
+      "title": {
+        "zh": "贝特拉瓦蒂贝利桥通车，恢复努瓦科特-拉苏瓦道路连接",
+        "en": "Betrawati Bailey bridge opens, restoring Nuwakot-Rasuwa road link",
+        "ne": "बेत्रावती बेली पुल सञ्चालनमा, नुवाकोट-रसुवा सडक जोडियो",
+        "hi": "बेत्रावती बेली पुल खुला, नुवाकोट-रसुवा सड़क संपर्क बहाल"
+      },
+      "body": {
+        "zh": "10月11日，尼泊尔军队在贝特拉瓦蒂架设的73米贝利桥通车，恢复两地道路，但至口岸路段仍受限。",
+        "en": "On Oct 11, Nepali Army's 73m Bailey bridge at Betrawati opened, restoring district link; access to port still limited.",
+        "ne": "अक्टोबर ११ मा नेपाली सेनाको ७३ मिटर बेली पुल बेत्रावतीमा खुला।",
+        "hi": "11 अक्टूबर को नेपाली सेना का 73 मीटर बेली पुल बेत्रावती में खुला।"
+      }
+    },
     {
       "id": "np-ndrrma-20261005",
       "src": "official",
@@ -137,10 +159,10 @@
         "hi": "गिरोंग पोर्ट"
       },
       "detail": {
-        "zh": "口岸被毁关闭。G216救援通道已抢通供救援，不开放民用。",
-        "en": "Port destroyed and closed. G216 rescue route open for emergency use only.",
-        "ne": "पोर्ट नष्ट भई बन्द। G216 उद्धार मार्ग आपतकालीनका लागि मात्र।",
-        "hi": "पोर्ट नष्ट और बंद। G216 बचाव मार्ग केवल आपातकालीन।"
+        "zh": "口岸被毁关闭。G216救援通道已抢通供救援，不开放民用。贝特拉瓦蒂桥已恢复下游连接。",
+        "en": "Port destroyed and closed. G216 rescue route open for emergency only. Betrawati bridge restored downstream access.",
+        "ne": "पोर्ट नष्ट भई बन्द। G216 उद्धार मार्ग आपतकालीनका लागि। बेत्रावती पुलले तलको पहुँच पुनर्स्थापित।",
+        "hi": "पोर्ट नष्ट और बंद। G216 बचाव मार्ग केवल आपातकालीन। बेत्रावती पुल ने डाउनस्ट्रीम पहुंच बहाल की।"
       }
     }
   ],
@@ -157,10 +179,10 @@
         "hi": "आगे बचाव बल"
       },
       "detail": {
-        "zh": "中方进入后期监测清理；尼方大规模搜救已结束，转向重建。",
-        "en": "Chinese side in late monitoring/cleanup; Nepal major search ended, shifted to reconstruction.",
-        "ne": "चिनीयाँ पक्ष अनुगमन/सफाइमा; नेपालको खोज समाप्त, पुनर्निर्माणमा।",
-        "hi": "चीनी पक्ष निगरानी/सफाई में; नेपाल की खोज समाप्त, पुनर्निर्माण की ओर।"
+        "zh": "中方进入后期监测清理；尼方大规模搜救已结束，转向重建。吉隆镇安置群众开始返乡。",
+        "en": "Chinese side in late monitoring/cleanup; Nepal major search ended, shifted to reconstruction. Sheltered in Gyirong town starting to return.",
+        "ne": "चिनीयाँ पक्ष अनुगमन/सफाइमा; नेपालको खोज समाप्त। गिरोंग टाउनका स्थानान्तरित मानिसहरू फर्कँदै।",
+        "hi": "चीनी पक्ष निगरानी/सफाई में; नेपाल की खोज समाप्त। गिरोंग टाउन में आश्रय वाले लोग लौट रहे हैं।"
       }
     }
   ],
@@ -198,6 +220,21 @@
   "xPosts": [
     {
       "id": "x1",
+      "user": "@qiuxi001",
+      "t": "2026-10-10T02:51:41Z",
+      "link": "https://x.com/qiuxi001/status/2108752301079011713",
+      "lat": 28.390,
+      "lng": 85.325,
+      "geo": "Gyirong town",
+      "text": {
+        "zh": "西藏日喀则市吉隆镇安置点的转移群众开始陆续有序返乡。",
+        "en": "Displaced people from shelters in Gyirong town, Xigaze, starting to return home orderly.",
+        "ne": "गिरोंग टाउनका स्थानान्तरित मानिसहरू व्यवस्थित रूपमा घर फर्कँदै।",
+        "hi": "गिरोंग टाउन के आश्रय स्थलों से विस्थापित लोग व्यवस्थित रूप से घर लौट रहे हैं।"
+      }
+    },
+    {
+      "id": "x2",
       "user": "@XHNews",
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
@@ -209,21 +246,6 @@
         "en": "China's National Climate Center providing Nepal with rolling climate monitoring and forecasts to support post-mudslide rescue at Gyirong-Rasuwa.",
         "ne": "चीनको राष्ट्रिय जलवायु केन्द्रले गिरोंग-रसुवा पहिरो पछि उद्धारका लागि जलवायु पूर्वानुमान प्रदान गर्दैछ।",
         "hi": "चीन का राष्ट्रीय जलवायु केंद्र गिरोंग-रसुवा मडस्लाइड के बाद बचाव के लिए जलवायु निगरानी और पूर्वानुमान प्रदान कर रहा है।"
-      }
-    },
-    {
-      "id": "x2",
-      "user": "@XHNews",
-      "t": "2026-09-09T09:10:51Z",
-      "link": "https://x.com/XHNews/status/2097613696990413066",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "text": {
-        "zh": "高位冰川崩塌引发的链式泥石流8月26日冲击吉隆口岸，造成重大伤亡。中方救援全面展开。",
-        "en": "Chain mudslide from high-altitude glacier collapse struck Gyirong Port on Aug 26, causing heavy casualties. Chinese rescue fully underway.",
-        "ne": "अगस्ट २६ मा उच्च हिमनदी पग्लेर गिरोंग पोर्टमा पहिरो, ठूलो क्षति।",
-        "hi": "26 अगस्त को ऊंचे ग्लेशियर ढहने से गिरोंग पोर्ट पर मडस्लाइड, भारी नुकसान।"
       }
     }
   ]
