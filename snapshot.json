@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-12T23:11:00Z",
+  "snap": "2026-10-13T00:10:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -13,28 +13,6 @@
     }
   },
   "published": [
-    {
-      "id": "np-legal-20261012",
-      "src": "official",
-      "t": "2026-10-12T12:00:00Z",
-      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-victims-legally-dead.html",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Rasuwa",
-      "title": {
-        "zh": "尼泊尔政府出台程序宣布Bhotekoshi洪水失踪人员法律死亡",
-        "en": "Nepal govt introduces procedure to declare Bhotekoshi flood missing legally dead",
-        "ne": "नेपाल सरकारले भोटेकोशी बाढीका हराइरहेकाहरूलाई कानुनी रूपमा मृत घोषणा गर्ने प्रक्रिया ल्याएको छ",
-        "hi": "नेपाल सरकार ने भोटेकोशी बाढ़ में लापता लोगों को कानूनी रूप से मृत घोषित करने की प्रक्रिया शुरू की"
-      },
-      "body": {
-        "zh": "NDRRMA执行委员会批准程序，家属可申请死亡证明。尼泊尔公民和地方公告，外籍通过外交渠道核实。大规模搜救已结束。",
-        "en": "NDRRMA Executive Committee approved procedure for families to apply for death certificates. Nepali citizens via local notice; foreigners through diplomatic channels. Major search has ended.",
-        "ne": "NDRRMA कार्यकारी समितिले मृत्यु प्रमाणपत्रका लागि आवेदन प्रक्रिया स्वीकृत गरेको छ। ठूलो खोज समाप्त भएको छ।",
-        "hi": "NDRRMA कार्यकारी समिति ने मृत्यु प्रमाण पत्र के लिए आवेदन प्रक्रिया स्वीकृत की। बड़ी खोज समाप्त हो चुकी है।"
-      }
-    },
     {
       "id": "np-police-20261010",
       "src": "official",
@@ -51,10 +29,10 @@
         "hi": "नेपाल पुलिस: 10 अक्टूबर 06:00 तक 1457 मृत, 4720 लापता"
       },
       "body": {
-        "zh": "尼泊尔警察总部通报，截至10月10日上午6时，Bhotekoshi洪水已致1457人遇难、4720人失踪。大规模搜救已基本结束，转向身份确认与重建。",
-        "en": "Nepal Police HQ reported as of 06:00 on Oct 10: 1457 deaths, 4720 missing from the Bhotekoshi floods. Major search largely concluded; focus on identification and reconstruction.",
-        "ne": "नेपाल प्रहरी मुख्यालयले अक्टोबर १० ०६:०० सम्म भोटेकोशी बाढीबाट १४५७ मृत्यु, ४७२० हराइरहेका रिपोर्ट गरेको छ। ठूलो खोज लगभग समाप्त।",
-        "hi": "नेपाल पुलिस मुख्यालय ने 10 अक्टूबर 06:00 तक भोटेकोशी बाढ़ से 1457 मौतें, 4720 लापता होने की सूचना दी। बड़ी खोज लगभग समाप्त।"
+        "zh": "尼泊尔警察总部通报，截至10月10日上午6时，Bhotekoshi洪水已致1457人遇难、4720人失踪。大规模搜救已基本结束，转向身份确认与重建。无更新官方数字。",
+        "en": "Nepal Police HQ reported as of 06:00 on Oct 10: 1457 deaths, 4720 missing from the Bhotekoshi floods. Major search largely concluded; focus on identification and reconstruction. No newer official figures.",
+        "ne": "नेपाल प्रहरी मुख्यालयले अक्टोबर १० ०६:०० सम्म भोटेकोशी बाढीबाट १४५७ मृत्यु, ४७२० हराइरहेका रिपोर्ट गरेको छ। ठूलो खोज लगभग समाप्त। नयाँ आधिकारिक अंक छैन।",
+        "hi": "नेपाल पुलिस मुख्यालय ने 10 अक्टूबर 06:00 तक भोटेकोशी बाढ़ से 1457 मौतें, 4720 लापता होने की सूचना दी। बड़ी खोज लगभग समाप्त। कोई नई आधिकारिक अंक नहीं।"
       }
     },
     {
@@ -95,10 +73,10 @@
         "hi": "जल संसाधन मंत्रालय: गिरोंग अवरोध झील नदी सामान्य रूप से बह रही, बर्फ झीलें स्थिर"
       },
       "body": {
-        "zh": "最新无人机航摄显示，原普热普强藏布堰塞湖上下游河道过流正常，前期排查的14个冰湖整体稳定。堰塞湖下游小规模滑坡对河道影响较小。",
-        "en": "Latest drone imagery shows the former barrier lake channel flowing normally upstream and downstream; 14 previously checked ice lakes remain stable overall. Small landslides downstream have limited impact on the river.",
-        "ne": "नवीनतम ड्रोन तस्बिरले पूर्व बाधा तालको माथि र तल नदी सामान्य बग्ने देखाएको छ; १४ हिमनदी तालहरू स्थिर छन्।",
-        "hi": "नवीनतम ड्रोन इमेजरी दिखाती है कि पूर्व अवरोध झील का चैनल ऊपर और नीचे सामान्य रूप से बह रहा है; 14 बर्फ झीलें स्थिर हैं।"
+        "zh": "最新无人机航摄显示，原普热普强藏布堰塞湖上下游河道过流正常，前期排查的14个冰湖整体稳定。堰塞湖下游小规模滑坡对河道影响较小。无更新报告。",
+        "en": "Latest drone imagery shows the former barrier lake channel flowing normally upstream and downstream; 14 previously checked ice lakes remain stable overall. Small landslides downstream have limited impact on the river. No newer reports.",
+        "ne": "नवीनतम ड्रोन तस्बिरले पूर्व बाधा तालको माथि र तल नदी सामान्य बग्ने देखाएको छ; १४ हिमनदी तालहरू स्थिर छन। नयाँ रिपोर्ट छैन।",
+        "hi": "नवीनतम ड्रोन इमेजरी दिखाती है कि पूर्व अवरोध झील का चैनल ऊपर और नीचे सामान्य रूप से बह रहा है; 14 बर्फ झीलें स्थिर हैं। कोई नई रिपोर्ट नहीं।"
       }
     },
     {
@@ -111,7 +89,7 @@
       "lng": 85.36,
       "geo": "G216",
       "title": {
-        "zh": "G216陆路救援通道9月2日10时基本抢通",
+        "zh": "G216陆路救援通道截至9月2日10时基本抢通",
         "en": "G216 land rescue route basically restored at 10:00 on Sep 2",
         "ne": "G216 भूमि उद्धार मार्ग सेप्टेम्बर २ १०:०० मा मूलतः पुनःस्थापित",
         "hi": "G216 भूमि बचाव मार्ग 2 सितंबर 10:00 बजे मूल रूप से बहाल"
@@ -189,10 +167,10 @@
     "lat": 28.293,
     "lng": 85.392,
     "status": {
-      "zh": "堰塞湖已排空，河道过流正常，冰湖整体稳定（截至9月7日）",
-      "en": "Barrier lake emptied, river flowing normally, ice lakes overall stable (as of Sep 7)",
-      "ne": "बाधा ताल खाली, नदी सामान्य बग्दै, हिमनदी ताल स्थिर (सेप्टेम्बर ७ सम्म)",
-      "hi": "अवरोध झील खाली, नदी सामान्य रूप से बह रही, बर्फ झीलें स्थिर (7 सितंबर तक)"
+      "zh": "堰塞湖已排空，河道过流正常，冰湖整体稳定（截至9月7日，无更新）",
+      "en": "Barrier lake emptied, river flowing normally, ice lakes overall stable (as of Sep 7, no update)",
+      "ne": "बाधा ताल खाली, नदी सामान्य बग्दै, हिमनदी ताल स्थिर (सेप्टेम्बर ७ सम्म, अपडेट छैन)",
+      "hi": "अवरोध झील खाली, नदी सामान्य रूप से बह रही, बर्फ झीलें स्थिर (7 सितंबर तक, अपडेट नहीं)"
     }
   },
   "xPosts": [
