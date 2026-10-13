@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-13T03:10:00Z",
+  "snap": "2026-10-13T04:07:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -33,6 +33,28 @@
         "en": "Nepal Police HQ: as of 06:00 Oct 10, 1457 dead, 4720 missing from Bhotekoshi floods. Major search ended. No newer official figures.",
         "ne": "नेपाल प्रहरी: अक्टोबर १० ०६:०० सम्म १४५७ मृत्यु, ४७२० हराइरहेका। ठूलो खोज समाप्त।",
         "hi": "नेपाल पुलिस: 10 अक्टूबर 06:00 तक 1457 मृत, 4720 लापता। बड़ी खोज समाप्त।"
+      }
+    },
+    {
+      "id": "np-legal-dead-20261012",
+      "src": "official",
+      "t": "2026-10-12T00:00:00Z",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-victims-legally-dead.html",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Rasuwa",
+      "title": {
+        "zh": "尼泊尔政府出台程序，可依法宣告Bhotekoshi洪水失踪人员死亡",
+        "en": "Nepal govt introduces procedure to legally declare Bhotekoshi flood missing as dead",
+        "ne": "नेपाल सरकारले भोटेकोशी बाढीका हराएकाहरूलाई कानुनी रूपमा मृत घोषणा गर्ने प्रक्रिया ल्यायो",
+        "hi": "नेपाल सरकार ने भोटेकोशी बाढ़ लापता लोगों को कानूनी रूप से मृत घोषित करने की प्रक्रिया शुरू की"
+      },
+      "body": {
+        "zh": "NDRRMA执行委员会批准程序，失踪人员家属可申请死亡证明，分别针对尼泊尔公民和外籍人士。",
+        "en": "NDRRMA Executive Committee approved procedure for families to apply for death certificates for missing, with separate processes for Nepali and foreign nationals.",
+        "ne": "NDRRMA कार्यकारी समितिले हराएकाहरूका लागि मृत्यु प्रमाणपत्र आवेदन प्रक्रिया स्वीकृत गरेको छ।",
+        "hi": "NDRRMA कार्यकारी समिति ने लापता लोगों के लिए मृत्यु प्रमाण पत्र आवेदन प्रक्रिया को मंजूरी दी।"
       }
     },
     {
