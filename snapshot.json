@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-13T13:17:00Z",
+  "snap": "2026-10-13T14:15:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -13,6 +13,28 @@
     }
   },
   "published": [
+    {
+      "id": "icimod-report-20261013",
+      "src": "official",
+      "t": "2026-10-13T12:36:00Z",
+      "link": "https://x.com/icimod/status/2109986592240615625",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Rasuwa",
+      "title": {
+        "zh": "ICIMOD发布报告：坡面灾前变形达40厘米，引用NDRRMA 1451死5745失踪",
+        "en": "ICIMOD releases report: slope deformed up to 40cm pre-collapse; cites NDRRMA 1451 dead, 5745 missing",
+        "ne": "ICIMOD रिपोर्ट: ढलान ४० सेमी सम्म विकृति; NDRRMA १४५१ मृत्यु ५७४५ हराइरहेका उद्धृत",
+        "hi": "ICIMOD रिपोर्ट: ढलान 40 सेमी तक विकृति; NDRRMA 1451 मृत, 5745 लापता का हवाला"
+      },
+      "body": {
+        "zh": "10月13日国际减灾日，ICIMOD发布初步综合报告，确认灾前InSAR监测到显著变形。中国官方仍为43死519失踪。",
+        "en": "On IDDRR Oct 13, ICIMOD released preliminary synthesis confirming pre-event InSAR deformation. Chinese official remains 43 dead, 519 missing.",
+        "ne": "अक्टोबर १३ मा ICIMOD ले प्रारम्भिक संश्लेषण जारी गर्‍यो। चिनियाँ आधिकारिक ४३ मृत्यु ५१९ हराइरहेका।",
+        "hi": "13 अक्टूबर को ICIMOD ने प्रारंभिक संश्लेषण जारी किया। चीनी आधिकारिक 43 मृत, 519 लापता।"
+      }
+    },
     {
       "id": "np-reliefweb-20261012",
       "src": "official",
@@ -29,8 +51,8 @@
         "hi": "ReliefWeb/IFRC: 1 अक्टूबर तक 1453 मृत, 5179 लापता, 13795 बचाए गए"
       },
       "body": {
-        "zh": "IFRC DREF更新引用政府数据，大规模搜救已转向早期恢复与重建，数字需进一步核实。",
-        "en": "IFRC DREF update cites government stats; major search shifted to early recovery and reconstruction; figures need further verification.",
+        "zh": "IFRC DREF更新引用政府数据，大规模搜救已转向早期恢复与重建。",
+        "en": "IFRC DREF update cites government stats; major search shifted to early recovery and reconstruction.",
         "ne": "IFRC DREF अपडेटले सरकारी तथ्यांक उद्धृत गर्दछ; ठूलो खोज प्रारम्भिक पुनर्स्थापनामा सारियो।",
         "hi": "IFRC DREF अपडेट सरकारी आंकड़ों का हवाला देता है; बड़ी खोज प्रारंभिक रिकवरी में स्थानांतरित।"
       }
@@ -122,50 +144,6 @@
         "ne": "गिरोंग टाउनबाट पोर्टसम्म G216 मार्ग सेप्टेम्बर २ १०:०० मा खुला। पोर्ट बन्द छ।",
         "hi": "गिरोंग टाउन से पोर्ट तक G216 मार्ग 2 सितंबर 10:00 बजे खुला। पोर्ट बंद है।"
       }
-    },
-    {
-      "id": "joint-expedition-20261004",
-      "src": "official",
-      "t": "2026-10-04T00:00:00Z",
-      "link": "https://www.zaobao.com.sg/news/china/story20261005-9788275",
-      "img": null,
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
-      "title": {
-        "zh": "中尼跨境科考队启程，助力吉隆口岸恢复重建",
-        "en": "China-Nepal cross-border scientific team departs to aid Gyirong Port recovery",
-        "ne": "चीन-नेपाल सीमापार वैज्ञानिक टोली गिरोंग पोर्ट पुनर्निर्माणका लागि निस्कियो",
-        "hi": "चीन-नेपाल सीमा पार वैज्ञानिक टीम गिरोंग पोर्ट पुनर्निर्माण में मदद के लिए रवाना"
-      },
-      "body": {
-        "zh": "10月3-4日，中尼联合地质灾害应急跨境科考队从成都出发赴加德满都，开展约20天考察，服务口岸重建。",
-        "en": "On Oct 3-4, China-Nepal joint geo-disaster scientific expedition departed Chengdu for Kathmandu for ~20-day survey to support port reconstruction.",
-        "ne": "अक्टोबर ३-४ मा चीन-नेपाल संयुक्त वैज्ञानिक टोली काठमाडौंतिर निस्कियो।",
-        "hi": "3-4 अक्टूबर को चीन-नेपाल संयुक्त वैज्ञानिक दल काठमांडू के लिए रवाना हुआ।"
-      }
-    },
-    {
-      "id": "us-embassy-level4",
-      "src": "official",
-      "t": "2026-09-04T00:00:00Z",
-      "link": "https://np.usembassy.gov/",
-      "img": null,
-      "lat": 28.248,
-      "lng": 85.356,
-      "geo": "Rasuwa",
-      "title": {
-        "zh": "美国驻尼泊尔使馆：拉苏瓦口岸地区Level 4禁止旅行",
-        "en": "US Embassy Nepal: Level 4 Do Not Travel to Rasuwa port area",
-        "ne": "अमेरिकी दूतावास: रसुवा पोर्ट क्षेत्रमा Level 4 यात्रा नगर्नुहोस्",
-        "hi": "अमेरिकी दूतावास: रसुवा पोर्ट क्षेत्र में Level 4 यात्रा न करें"
-      },
-      "body": {
-        "zh": "因洪水破坏、道路通信中断及次生风险，禁止前往拉苏瓦加迪-蒂穆尔-夏布鲁贝西地区。",
-        "en": "Due to flood damage, disrupted transport/comms and secondary risks, do not travel to Rasuwagadhi-Timure-Syafrubesi area.",
-        "ne": "बाढी क्षति, यातायात/सञ्चार अवरुद्ध र जोखिमका कारण यात्रा नगर्नुहोस्।",
-        "hi": "बाढ़ क्षति, परिवहन/संचार बाधित और जोखिमों के कारण यात्रा न करें।"
-      }
     }
   ],
   "roads": [
@@ -181,10 +159,10 @@
         "hi": "गिरोंग पोर्ट"
       },
       "detail": {
-        "zh": "口岸被毁关闭。G216救援通道已抢通供救援，不开放民用。贝特拉瓦蒂桥已恢复下游连接。",
-        "en": "Port destroyed and closed. G216 rescue route open for emergency only. Betrawati bridge restored downstream access.",
-        "ne": "पोर्ट नष्ट भई बन्द। G216 उद्धार मार्ग आपतकालीनका लागि। बेत्रावती पुलले तलको पहुँच पुनर्स्थापित।",
-        "hi": "पोर्ट नष्ट और बंद। G216 बचाव मार्ग केवल आपातकालीन। बेत्रावती पुल ने डाउनस्ट्रीम पहुंच बहाल की।"
+        "zh": "口岸被毁关闭。G216救援通道已抢通供救援，不开放民用。下游贝利桥已恢复部分连接。",
+        "en": "Port destroyed and closed. G216 rescue route open for emergency only. Downstream Bailey bridge restored partial link.",
+        "ne": "पोर्ट नष्ट भई बन्द। G216 उद्धार मार्ग आपतकालीनका लागि। तल बेली पुलले आंशिक जोड पुनर्स्थापित।",
+        "hi": "पोर्ट नष्ट और बंद। G216 बचाव मार्ग केवल आपातकालीन। डाउनस्ट्रीम बेली पुल ने आंशिक संपर्क बहाल किया।"
       }
     }
   ],
@@ -201,10 +179,10 @@
         "hi": "आगे बचाव बल"
       },
       "detail": {
-        "zh": "中方进入后期监测清理；尼方大规模搜救已结束，转向重建。吉隆镇安置群众开始返乡。",
-        "en": "Chinese side in late monitoring/cleanup; Nepal major search ended, shifted to reconstruction. Sheltered in Gyirong town starting to return.",
-        "ne": "चिनीयाँ पक्ष अनुगमन/सफाइमा; नेपालको खोज समाप्त। गिरोंग टाउनका स्थानान्तरित मानिसहरू फर्कँदै।",
-        "hi": "चीनी पक्ष निगरानी/सफाई में; नेपाल की खोज समाप्त। गिरोंग टाउन में आश्रय वाले लोग लौट रहे हैं।"
+        "zh": "中方进入后期监测清理；尼方大规模搜救已结束，转向重建。",
+        "en": "Chinese side in late monitoring/cleanup; Nepal major search ended, shifted to reconstruction.",
+        "ne": "चिनीयाँ पक्ष अनुगमन/सफाइमा; नेपालको खोज समाप्त, पुनर्निर्माणमा सारियो।",
+        "hi": "चीनी पक्ष निगरानी/सफाई में; नेपाल की खोज समाप्त, पुनर्निर्माण में स्थानांतरित।"
       }
     }
   ],
@@ -257,17 +235,17 @@
     },
     {
       "id": "x2",
-      "user": "@XHNews",
-      "t": "2026-09-07T22:45:19Z",
-      "link": "https://x.com/XHNews/status/2097093887852691511",
-      "lat": 28.2797,
-      "lng": 85.3777,
-      "geo": "Gyirong Port",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "lat": 28.390,
+      "lng": 85.325,
+      "geo": "Gyirong town",
       "text": {
-        "zh": "国际媒体记者团访问受泥石流影响的吉隆口岸。",
-        "en": "Group of international media journalists visited the mudslide-hit Gyirong Port.",
-        "ne": "अन्तर्राष्ट्रिय मिडिया पत्रकारहरूले गिरोंग पोर्ट भ्रमण गरे।",
-        "hi": "अंतरराष्ट्रीय मीडिया पत्रकारों के समूह ने मडस्लाइड प्रभावित गिरोंग पोर्ट का दौरा किया।"
+        "zh": "灾后选择留在吉隆镇的尼泊尔工人继续工作，希望受灾地区尽快恢复。",
+        "en": "Nepali workers who chose to remain in disaster-hit Gyirong Town are continuing work and hope the area recovers soon.",
+        "ne": "गिरोंग टाउनमा रहन रोजेका नेपाली कामदारहरू काम जारी राख्दैछन्, क्षेत्र चाँडै निको होस् भन्ने आशा।",
+        "hi": "गिरोंग टाउन में रहने वाले नेपाली कामगार काम जारी रख रहे हैं और उम्मीद करते हैं कि क्षेत्र जल्द ठीक हो।"
       }
     }
   ]
