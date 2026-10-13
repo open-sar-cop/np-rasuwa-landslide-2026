@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-13T21:10:00Z",
+  "snap": "2026-10-13T22:12:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -220,21 +220,6 @@
   "xPosts": [
     {
       "id": "x1",
-      "user": "@qiuxi001",
-      "t": "2026-10-10T02:51:41Z",
-      "link": "https://x.com/qiuxi001/status/2108752301079011713",
-      "lat": 28.390,
-      "lng": 85.325,
-      "geo": "Gyirong town",
-      "text": {
-        "zh": "西藏日喀则市吉隆镇安置点的转移群众开始陆续有序返乡。",
-        "en": "Displaced people from shelters in Gyirong town, Xigaze, starting to return home orderly.",
-        "ne": "गिरोंग टाउनका स्थानान्तरित मानिसहरू व्यवस्थित रूपमा घर फर्कँदै।",
-        "hi": "गिरोंग टाउन के आश्रय स्थलों से विस्थापित लोग व्यवस्थित रूप से घर लौट रहे हैं।"
-      }
-    },
-    {
-      "id": "x2",
       "user": "@XHNews",
       "t": "2026-09-10T05:47:43Z",
       "link": "https://x.com/XHNews/status/2097924965219905940",
@@ -246,6 +231,21 @@
         "en": "China's National Climate Center providing Nepal with rolling climate monitoring and forecasts to support post-mudslide rescue at Gyirong-Rasuwa.",
         "ne": "चीनको राष्ट्रिय जलवायु केन्द्रले गिरोंग-रसुवा पहिरो पछि उद्धारका लागि जलवायु पूर्वानुमान प्रदान गर्दैछ।",
         "hi": "चीन का राष्ट्रीय जलवायु केंद्र गिरोंग-रसुवा मडस्लाइड के बाद बचाव के लिए जलवायु निगरानी और पूर्वानुमान प्रदान कर रहा है।"
+      }
+    },
+    {
+      "id": "x2",
+      "user": "@CCTV_Plus",
+      "t": "2026-09-10T09:15:50Z",
+      "link": "https://x.com/CCTV_Plus/status/2097977337128313052",
+      "lat": 28.390,
+      "lng": 85.325,
+      "geo": "Gyirong town",
+      "text": {
+        "zh": "灾后选择留在吉隆镇的尼泊尔工人继续工作，希望灾区尽快恢复。",
+        "en": "Nepali workers remaining in disaster-hit Gyirong Town continue work, hoping for recovery.",
+        "ne": "गिरोंग टाउनमा रहेका नेपाली कामदारहरू काम जारी राख्दै, रिकभरीको आशा।",
+        "hi": "गिरोंग टाउन में रहने वाले नेपाली श्रमिक काम जारी रखते हैं, रिकवरी की उम्मीद।"
       }
     }
   ]
