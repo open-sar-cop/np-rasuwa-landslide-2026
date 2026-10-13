@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-13T00:10:00Z",
+  "snap": "2026-10-13T15:10:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -7,76 +7,76 @@
       "rescued": 2
     },
     "np": {
-      "dead": 1457,
-      "missing": 4720,
+      "dead": 1455,
+      "missing": 5285,
       "rescued": 13795
     }
   },
   "published": [
     {
-      "id": "np-police-20261010",
+      "id": "np-ndrrma-20261005",
       "src": "official",
-      "t": "2026-10-10T00:30:00Z",
-      "link": "https://english.makalukhabar.com/bhotekoshi-flood-death-toll-rises-to-1457-4720-still-missing/",
+      "t": "2026-10-05T12:00:00Z",
+      "link": "https://thenepalweekly.com/govt-wraps-up-search-and-rescue-following-rasuwa-floods-to-focus-on-rehab-reconstruction/",
       "img": null,
       "lat": 28.248,
       "lng": 85.356,
       "geo": "Rasuwa",
       "title": {
-        "zh": "尼泊尔警方：截至10月10日6时，1457人遇难、4720人失踪",
-        "en": "Nepal Police: as of 06:00 Oct 10, 1457 dead, 4720 missing",
-        "ne": "नेपाल प्रहरी: अक्टोबर १० ०६:०० सम्म १४५७ मृत्यु, ४७२० हराइरहेका",
-        "hi": "नेपाल पुलिस: 10 अक्टूबर 06:00 तक 1457 मृत, 4720 लापता"
+        "zh": "NDRRMA：截至10月5日，1455人遇难、5285人失踪、13795人获救",
+        "en": "NDRRMA: as of Oct 5, 1455 dead, 5285 missing, 13795 rescued",
+        "ne": "NDRRMA: अक्टोबर ५ सम्म १४५५ मृत्यु, ५२८५ हराइरहेका, १३७९५ उद्धार",
+        "hi": "NDRRMA: 5 अक्टूबर तक 1455 मृत, 5285 लापता, 13795 बचाए गए"
       },
       "body": {
-        "zh": "尼泊尔警察总部通报，截至10月10日上午6时，Bhotekoshi洪水已致1457人遇难、4720人失踪。大规模搜救已基本结束，转向身份确认与重建。无更新官方数字。",
-        "en": "Nepal Police HQ reported as of 06:00 on Oct 10: 1457 deaths, 4720 missing from the Bhotekoshi floods. Major search largely concluded; focus on identification and reconstruction. No newer official figures.",
-        "ne": "नेपाल प्रहरी मुख्यालयले अक्टोबर १० ०६:०० सम्म भोटेकोशी बाढीबाट १४५७ मृत्यु, ४७२० हराइरहेका रिपोर्ट गरेको छ। ठूलो खोज लगभग समाप्त। नयाँ आधिकारिक अंक छैन।",
-        "hi": "नेपाल पुलिस मुख्यालय ने 10 अक्टूबर 06:00 तक भोटेकोशी बाढ़ से 1457 मौतें, 4720 लापता होने की सूचना दी। बड़ी खोज लगभग समाप्त। कोई नई आधिकारिक अंक नहीं।"
+        "zh": "尼泊尔政府于10月5日结束大规模搜救，转向重建。NDRRMA确认1455人遇难、5285人失踪、13795人获救。无更新官方数字。",
+        "en": "Nepal government concluded major search on Oct 5, shifting to reconstruction. NDRRMA confirmed 1455 deaths, 5285 missing, 13795 rescued. No newer official figures.",
+        "ne": "नेपाल सरकारले अक्टोबर ५ मा ठूलो खोज समाप्त गरेको छ। NDRRMA ले १४५५ मृत्यु, ५२८५ हराइरहेका, १३७९५ उद्धार पुष्टि गरेको छ।",
+        "hi": "नेपाल सरकार ने 5 अक्टूबर को बड़ी खोज समाप्त की। NDRRMA ने 1455 मौतें, 5285 लापता, 13795 बचाए जाने की पुष्टि की।"
       }
     },
     {
       "id": "cn-kpi-20260905",
       "src": "official",
       "t": "2026-09-05T10:00:00Z",
-      "link": "https://news.ifeng.com/c/8wCiMe25Aep",
+      "link": "https://www.cctvplus.com/",
       "img": null,
       "lat": 28.2797,
       "lng": 85.3777,
       "geo": "Gyirong Port",
       "title": {
-        "zh": "截至9月5日18时：43人遇难、519人失联",
-        "en": "As of 18:00 Sep 5: 43 dead, 519 missing",
-        "ne": "सेप्टेम्बर ५ १८:०० सम्म: ४३ मृत्यु, ५१९ हराइरहेका",
-        "hi": "5 सितंबर 18:00 तक: 43 मृत, 519 लापता"
+        "zh": "截至9月5日18时：43人遇难、519人失联、2人获救",
+        "en": "As of 18:00 Sep 5: 43 dead, 519 missing, 2 rescued",
+        "ne": "सेप्टेम्बर ५ १८:०० सम्म: ४३ मृत्यु, ५१९ हराइरहेका, २ उद्धार",
+        "hi": "5 सितंबर 18:00 तक: 43 मृत, 519 लापता, 2 बचाए गए"
       },
       "body": {
-        "zh": "西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部通报，截至9月5日18时，灾害致43人遇难，519人失联，成功救出2人，发现遗物993件。此后官方未再更新伤亡数字。",
-        "en": "Gyirong County emergency rescue command reported as of 18:00 on Sep 5: 43 dead, 519 missing, 2 rescued, 993 personal items recovered. No further official casualty updates since.",
-        "ne": "गिरोंग काउन्टी आपतकालीन उद्धार कमान्डले सेप्टेम्बर ५ १८:०० सम्म ४३ मृत्यु, ५१९ हराइरहेका, २ उद्धार, ९९३ व्यक्तिगत वस्तुहरू फेला परेको रिपोर्ट गरेको छ। त्यसपछि आधिकारिक अपडेट छैन।",
-        "hi": "गिरोंग काउंटी आपातकालीन बचाव कमान ने 5 सितंबर 18:00 तक 43 मृत, 519 लापता, 2 बचाए गए, 993 व्यक्तिगत वस्तुएं बरामद होने की सूचना दी। उसके बाद कोई आधिकारिक अपडेट नहीं।"
+        "zh": "西藏吉隆应急救援指挥部通报，截至9月5日18时，43人遇难、519人失联，成功救出2人。此后无更新伤亡数字。",
+        "en": "Gyirong emergency rescue command reported as of 18:00 Sep 5: 43 dead, 519 missing, 2 rescued. No further official casualty updates.",
+        "ne": "गिरोंग आपतकालीन उद्धारले सेप्टेम्बर ५ १८:०० सम्म ४३ मृत्यु, ५१९ हराइरहेका, २ उद्धार रिपोर्ट गरेको छ।",
+        "hi": "गिरोंग आपातकालीन बचाव ने 5 सितंबर 18:00 तक 43 मृत, 519 लापता, 2 बचाए जाने की सूचना दी।"
       }
     },
     {
-      "id": "barrier-lake-20260907",
+      "id": "barrier-lake-20260905",
       "src": "official",
-      "t": "2026-09-07T07:27:00Z",
-      "link": "http://www.mwr.gov.cn/xw/mtzs/zydst/202609/t20260907_2141695.html",
+      "t": "2026-09-05T09:00:00Z",
+      "link": "https://en.people.cn/n3/2026/0906/c90000-20496533.html",
       "img": null,
       "lat": 28.293,
       "lng": 85.392,
       "geo": "barrier lake",
       "title": {
-        "zh": "水利部：吉隆堰塞湖河道过流正常，冰湖整体稳定",
-        "en": "Ministry of Water Resources: Gyirong barrier lake river flowing normally, ice lakes stable",
-        "ne": "जल संसाधन मन्त्रालय: गिरोंग बाधा ताल नदी सामान्य बग्दै, हिमनदी ताल स्थिर",
-        "hi": "जल संसाधन मंत्रालय: गिरोंग अवरोध झील नदी सामान्य रूप से बह रही, बर्फ झीलें स्थिर"
+        "zh": "堰塞湖已排空，河道恢复过流，险情基本解除",
+        "en": "Barrier lake emptied, river channel restored, hazard largely eliminated",
+        "ne": "बाधा ताल खाली, नदी च्यानल पुनःस्थापित, खतरा मूलतः हटाइयो",
+        "hi": "अवरोध झील खाली, नदी चैनल बहाल, खतरा मूल रूप से समाप्त"
       },
       "body": {
-        "zh": "最新无人机航摄显示，原普热普强藏布堰塞湖上下游河道过流正常，前期排查的14个冰湖整体稳定。堰塞湖下游小规模滑坡对河道影响较小。无更新报告。",
-        "en": "Latest drone imagery shows the former barrier lake channel flowing normally upstream and downstream; 14 previously checked ice lakes remain stable overall. Small landslides downstream have limited impact on the river. No newer reports.",
-        "ne": "नवीनतम ड्रोन तस्बिरले पूर्व बाधा तालको माथि र तल नदी सामान्य बग्ने देखाएको छ; १४ हिमनदी तालहरू स्थिर छन। नयाँ रिपोर्ट छैन।",
-        "hi": "नवीनतम ड्रोन इमेजरी दिखाती है कि पूर्व अवरोध झील का चैनल ऊपर और नीचे सामान्य रूप से बह रहा है; 14 बर्फ झीलें स्थिर हैं। कोई नई रिपोर्ट नहीं।"
+        "zh": "截至9月5日，吉隆口岸上方堰塞湖湖水排空，河道过流正常，险情基本解除。无更新报告。",
+        "en": "As of Sep 5, barrier lake above Gyirong Port emptied, river flowing normally, hazard largely eliminated. No newer reports.",
+        "ne": "सेप्टेम्बर ५ सम्म गिरोंग पोर्ट माथिको बाधा ताल खाली, नदी सामान्य बग्दै। नयाँ रिपोर्ट छैन।",
+        "hi": "5 सितंबर तक गिरोंग पोर्ट के ऊपर अवरोध झील खाली, नदी सामान्य रूप से बह रही। कोई नई रिपोर्ट नहीं।"
       }
     },
     {
@@ -89,16 +89,16 @@
       "lng": 85.36,
       "geo": "G216",
       "title": {
-        "zh": "G216陆路救援通道截至9月2日10时基本抢通",
-        "en": "G216 land rescue route basically restored at 10:00 on Sep 2",
-        "ne": "G216 भूमि उद्धार मार्ग सेप्टेम्बर २ १०:०० मा मूलतः पुनःस्थापित",
-        "hi": "G216 भूमि बचाव मार्ग 2 सितंबर 10:00 बजे मूल रूप से बहाल"
+        "zh": "G216救援通道9月2日10时基本抢通",
+        "en": "G216 rescue route basically restored at 10:00 Sep 2",
+        "ne": "G216 उद्धार मार्ग सेप्टेम्बर २ १०:०० मा मूलतः खुला",
+        "hi": "G216 बचाव मार्ग 2 सितंबर 10:00 बजे मूल रूप से बहाल"
       },
       "body": {
-        "zh": "从吉隆镇通往吉隆口岸的G216救援通道于9月2日上午10时实现畅通，大型机械可进入核心区开展深层次搜救。口岸本身仍关闭，不开放公众通行。",
-        "en": "The G216 rescue route from Gyirong town to the port was restored for access at 10:00 on Sep 2, allowing heavy machinery into the core area. The port itself remains closed to public traffic.",
-        "ne": "गिरोंग टाउनबाट पोर्टसम्मको G216 उद्धार मार्ग सेप्टेम्बर २ १०:०० मा खुला भयो। पोर्ट स्वयं सार्वजनिक यातायातका लागि बन्द छ।",
-        "hi": "गिरोंग टाउन से पोर्ट तक G216 बचाव मार्ग 2 सितंबर 10:00 बजे खुला हो गया। पोर्ट स्वयं जनता के लिए बंद है।"
+        "zh": "从吉隆镇至口岸的G216通道于9月2日上午10时抢通，供救援机械使用。口岸仍关闭。",
+        "en": "G216 route from Gyirong town to port restored at 10:00 Sep 2 for rescue machinery. Port remains closed.",
+        "ne": "गिरोंग टाउनबाट पोर्टसम्म G216 मार्ग सेप्टेम्बर २ १०:०० मा खुला। पोर्ट बन्द छ।",
+        "hi": "गिरोंग टाउन से पोर्ट तक G216 मार्ग 2 सितंबर 10:00 बजे खुला। पोर्ट बंद है।"
       }
     }
   ],
@@ -115,10 +115,10 @@
         "hi": "गिरोंग पोर्ट"
       },
       "detail": {
-        "zh": "口岸设施被毁，关闭中。G216救援通道已抢通供救援使用，不开放民用通行。美国使馆建议避免前往该区域。",
-        "en": "Port facilities destroyed and closed. G216 rescue route restored for emergency use only; not open to civilian traffic. US Embassy advises against travel to the area.",
-        "ne": "पोर्ट सुविधाहरू नष्ट भई बन्द। G216 उद्धार मार्ग आपतकालीन प्रयोगका लागि मात्र खुला। अमेरिकी दूतावासले क्षेत्रमा यात्रा नगर्न सल्लाह दिन्छ।",
-        "hi": "पोर्ट सुविधाएं नष्ट और बंद। G216 बचाव मार्ग केवल आपातकालीन उपयोग के लिए खुला। अमेरिकी दूतावास क्षेत्र में यात्रा न करने की सलाह देता है।"
+        "zh": "口岸被毁关闭。G216救援通道已抢通供救援，不开放民用。美使馆建议避免前往。",
+        "en": "Port destroyed and closed. G216 rescue route open for emergency use only. US Embassy advises against travel.",
+        "ne": "पोर्ट नष्ट भई बन्द। G216 उद्धार मार्ग आपतकालीनका लागि मात्र। अमेरिकी दूतावासले यात्रा नगर्न सल्लाह दिन्छ।",
+        "hi": "पोर्ट नष्ट और बंद। G216 बचाव मार्ग केवल आपातकालीन। अमेरिकी दूतावास यात्रा न करने की सलाह देता है।"
       }
     }
   ],
@@ -135,10 +135,10 @@
         "hi": "आगे बचाव बल"
       },
       "detail": {
-        "zh": "中方搜救已进入后期清理与监测阶段；尼方大规模搜救已于10月初结束，转为重建与身份确认。",
-        "en": "Chinese side in late-stage cleanup and monitoring; Nepal major search ended early October, shifted to reconstruction and identification.",
-        "ne": "चिनीयाँ पक्ष अन्तिम चरणको सफाइ र अनुगमनमा; नेपालको ठूलो खोज अक्टोबर सुरुमा समाप्त।",
-        "hi": "चीनी पक्ष देर चरण की सफाई और निगरानी में; नेपाल की बड़ी खोज अक्टूबर की शुरुआत में समाप्त।"
+        "zh": "中方进入后期监测清理；尼方大规模搜救已结束，转向重建。",
+        "en": "Chinese side in late monitoring/cleanup; Nepal major search ended, shifted to reconstruction.",
+        "ne": "चिनीयाँ पक्ष अनुगमन/सफाइमा; नेपालको खोज समाप्त, पुनर्निर्माणमा।",
+        "hi": "चीनी पक्ष निगरानी/सफाई में; नेपाल की खोज समाप्त, पुनर्निर्माण की ओर।"
       }
     }
   ],
@@ -156,10 +156,10 @@
         "hi": "रेसुओ गांव"
       },
       "detail": {
-        "zh": "早期救出2名村民；核心区搜寻已基本覆盖。",
+        "zh": "早期救出2名村民；核心区搜寻基本覆盖。",
         "en": "2 villagers rescued early; core area search largely covered.",
         "ne": "सुरुमा २ गाउँले उद्धार; मुख्य क्षेत्र खोज लगभग पूरा।",
-        "hi": "शुरुआत में 2 ग्रामीण बचाए गए; मुख्य क्षेत्र की खोज लगभग पूरी।"
+        "hi": "शुरुआत में 2 ग्रामीण बचाए; मुख्य क्षेत्र खोज लगभग पूरी।"
       }
     }
   ],
@@ -167,10 +167,10 @@
     "lat": 28.293,
     "lng": 85.392,
     "status": {
-      "zh": "堰塞湖已排空，河道过流正常，冰湖整体稳定（截至9月7日，无更新）",
-      "en": "Barrier lake emptied, river flowing normally, ice lakes overall stable (as of Sep 7, no update)",
-      "ne": "बाधा ताल खाली, नदी सामान्य बग्दै, हिमनदी ताल स्थिर (सेप्टेम्बर ७ सम्म, अपडेट छैन)",
-      "hi": "अवरोध झील खाली, नदी सामान्य रूप से बह रही, बर्फ झीलें स्थिर (7 सितंबर तक, अपडेट नहीं)"
+      "zh": "堰塞湖已排空，河道过流正常（截至9月5日，无更新）",
+      "en": "Barrier lake emptied, river flowing normally (as of Sep 5, no update)",
+      "ne": "बाधा ताल खाली, नदी सामान्य बग्दै (सेप्टेम्बर ५ सम्म, अपडेट छैन)",
+      "hi": "अवरोध झील खाली, नदी सामान्य रूप से बह रही (5 सितंबर तक, अपडेट नहीं)"
     }
   },
   "xPosts": [
@@ -183,8 +183,8 @@
       "lng": 85.38,
       "geo": "Gyirong Port",
       "text": {
-        "zh": "中国国家气候中心向尼泊尔提供滚动气候监测和预报产品，支持吉隆-拉苏瓦边境泥石流后的救援工作。",
-        "en": "China's National Climate Center providing Nepal with rolling climate monitoring and forecast products to support rescue after the Gyirong-Rasuwa mudslide.",
+        "zh": "中国国家气候中心向尼泊尔提供滚动气候监测和预报，支持吉隆-拉苏瓦边境泥石流后救援。",
+        "en": "China's National Climate Center providing Nepal with rolling climate monitoring and forecasts to support post-mudslide rescue at Gyirong-Rasuwa.",
         "ne": "चीनको राष्ट्रिय जलवायु केन्द्रले गिरोंग-रसुवा पहिरो पछि उद्धारका लागि जलवायु पूर्वानुमान प्रदान गर्दैछ।",
         "hi": "चीन का राष्ट्रीय जलवायु केंद्र गिरोंग-रसुवा मडस्लाइड के बाद बचाव के लिए जलवायु निगरानी और पूर्वानुमान प्रदान कर रहा है।"
       }
@@ -198,10 +198,10 @@
       "lng": 85.325,
       "geo": "Gyirong town",
       "text": {
-        "zh": "灾后选择留在吉隆镇的尼泊尔工人继续工作，希望受灾地区尽快恢复。",
-        "en": "Nepali workers who chose to remain in disaster-hit Gyirong Town are getting on with their work and hope the area will soon recover.",
-        "ne": "विपद् प्रभावित गिरोंग टाउनमा बस्ने नेपाली कामदारहरूले काम जारी राखेका छन् र छिटो पुनर्प्राप्ति आशा गर्छन्।",
-        "hi": "आपदा प्रभावित गिरोंग टाउन में रहने वाले नेपाली कामगार काम जारी रखे हुए हैं और जल्द ठीक होने की उम्मीद करते हैं।"
+        "zh": "灾后留在吉隆镇的尼泊尔工人继续工作，希望受灾地区尽快恢复。",
+        "en": "Nepali workers remaining in disaster-hit Gyirong Town continue work, hoping the area recovers soon.",
+        "ne": "विपद् प्रभावित गिरोंग टाउनमा बस्ने नेपाली कामदारहरूले काम जारी राखेका छन्।",
+        "hi": "आपदा प्रभावित गिरोंग टाउन में रहने वाले नेपाली कामगार काम जारी रखे हुए हैं।"
       }
     }
   ]
