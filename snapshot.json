@@ -1,5 +1,5 @@
 {
-  "snap": "2026-10-13T14:15:00Z",
+  "snap": "2026-10-13T15:12:00Z",
   "kpi": {
     "cn": {
       "dead": 43,
@@ -33,6 +33,28 @@
         "en": "On IDDRR Oct 13, ICIMOD released preliminary synthesis confirming pre-event InSAR deformation. Chinese official remains 43 dead, 519 missing.",
         "ne": "अक्टोबर १३ मा ICIMOD ले प्रारम्भिक संश्लेषण जारी गर्‍यो। चिनियाँ आधिकारिक ४३ मृत्यु ५१९ हराइरहेका।",
         "hi": "13 अक्टूबर को ICIMOD ने प्रारंभिक संश्लेषण जारी किया। चीनी आधिकारिक 43 मृत, 519 लापता।"
+      }
+    },
+    {
+      "id": "ndrrma-cert-20261013",
+      "src": "official",
+      "t": "2026-10-13T15:00:00Z",
+      "link": "https://english.pardafas.com/ndrrma-chief-upreti-says-death-certification-for-missing-rasuwa-flood-victims-nears-completion/",
+      "img": null,
+      "lat": 28.248,
+      "lng": 85.356,
+      "geo": "Rasuwa",
+      "title": {
+        "zh": "NDRRMA：失踪人员死亡证明签发接近完成",
+        "en": "NDRRMA: death certification for missing Rasuwa flood victims nears completion",
+        "ne": "NDRRMA: हराइरहेका रसुवा बाढी पीडितको मृत्यु प्रमाणपत्र जारी लगभग पूरा",
+        "hi": "NDRRMA: लापता रसुवा बाढ़ पीड़ितों के लिए मृत्यु प्रमाणन लगभग पूर्ण"
+      },
+      "body": {
+        "zh": "10月13日，NDRRMA负责人表示，失踪人员依法宣布死亡并签发证书工作进入最后阶段，DNA结果将协助。",
+        "en": "On Oct 13, NDRRMA chief said process of declaring missing dead and issuing certificates is in final stages; DNA results will assist.",
+        "ne": "अक्टोबर १३ मा NDRRMA प्रमुखले हराइरहेकाको मृत्यु घोषणा र प्रमाणपत्र अन्तिम चरणमा भएको बताए।",
+        "hi": "13 अक्टूबर को NDRRMA प्रमुख ने कहा कि लापता लोगों को मृत घोषित करने और प्रमाण पत्र जारी करने की प्रक्रिया अंतिम चरण में है।"
       }
     },
     {
